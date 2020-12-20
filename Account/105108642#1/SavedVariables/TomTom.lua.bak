@@ -1,6 +1,7 @@
 
 TomTomDB = {
 	["profileKeys"] = {
+		["Kotlin - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {
@@ -30,9 +31,12 @@ TomTomDB = {
 TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
+		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 	},
 	["profiles"] = {
+		["Kotlin - La Croisade écarlate"] = {
+		},
 		["Atec - La Croisade écarlate"] = {
 		},
 	},

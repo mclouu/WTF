@@ -1,0 +1,16 @@
+VER 3 0100000000000004 "cuire" "132722"
+/way Tornheim 47.9, 52.2
+/way Tornheim 79.7, 82.3
+/way Tornheim 46.8, 50.8
+/way Tornheim 47.3, 55.2
+END
+VER 3 0100000000000003 "MO" "236216"
+#showtooltip Éclat solaire(Solaire)
+/cast [@mouseover,exists,harm]Éclat solaire(Solaire);Éclat solaire(Solaire)
+END
+VER 3 0100000000000005 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000006 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Kot[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

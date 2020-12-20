@@ -1,46 +1,32 @@
 
 BasicMinimapSV = {
 	["profileKeys"] = {
+		["Kotlin - La Croisade écarlate"] = "Clou",
 		["Atec - La Croisade écarlate"] = "Clou",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["calendarBtn"] = "None",
 			["hideAddons"] = false,
+			["coordPrecision"] = "%.1f, %.1f",
+			["calendarBtn"] = "None",
+			["mapBtn"] = "RightButton",
 			["position"] = {
 				nil, -- [1]
 				nil, -- [2]
 				54.99997711181641, -- [3]
 				109.0000076293945, -- [4]
 			},
-			["coordPrecision"] = "%.1f, %.1f",
-			["mapBtn"] = "RightButton",
 		},
 		["Clou"] = {
+			["calendarBtn"] = "None",
 			["hideAddons"] = false,
 			["colorBorder"] = {
 				nil, -- [1]
 				0.9999977946281433, -- [2]
 				0.5960771441459656, -- [3]
 			},
-			["mapBtn"] = "RightButton",
-			["classcolor"] = true,
-			["coordPrecision"] = "%.1f, %.1f",
-			["size"] = 155,
-			["calendarBtn"] = "None",
-			["radius"] = 7,
 			["zoneTextConfig"] = {
-				["colorContested"] = {
-					0, -- [1]
-					0.9999977946281433, -- [2]
-					0.5960771441459656, -- [3]
-				},
-				["colorFriendly"] = {
-					0, -- [1]
-					0.9999977946281433, -- [2]
-					0.5960771441459656, -- [3]
-				},
-				["colorSanctuary"] = {
+				["colorArena"] = {
 					0, -- [1]
 					0.9999977946281433, -- [2]
 					0.5960771441459656, -- [3]
@@ -50,13 +36,23 @@ BasicMinimapSV = {
 					0.9999977946281433, -- [2]
 					0.5960771441459656, -- [3]
 				},
-				["classcolor"] = true,
-				["colorArena"] = {
+				["colorSanctuary"] = {
 					0, -- [1]
 					0.9999977946281433, -- [2]
 					0.5960771441459656, -- [3]
 				},
+				["classcolor"] = true,
 				["colorNormal"] = {
+					0, -- [1]
+					0.9999977946281433, -- [2]
+					0.5960771441459656, -- [3]
+				},
+				["colorContested"] = {
+					0, -- [1]
+					0.9999977946281433, -- [2]
+					0.5960771441459656, -- [3]
+				},
+				["colorFriendly"] = {
 					0, -- [1]
 					0.9999977946281433, -- [2]
 					0.5960771441459656, -- [3]
@@ -68,6 +64,11 @@ BasicMinimapSV = {
 				-2.999920845031738, -- [3]
 				-17.99994468688965, -- [4]
 			},
+			["mapBtn"] = "RightButton",
+			["classcolor"] = true,
+			["coordPrecision"] = "%.1f, %.1f",
+			["radius"] = 7,
+			["size"] = 155,
 		},
 	},
 }

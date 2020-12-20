@@ -1,6 +1,9 @@
 
 BWQDB = {
 	["char"] = {
+		["Kotlin - La Croisade écarlate"] = {
+			["activeProfile"] = 0,
+		},
 		["Atec - La Croisade écarlate"] = {
 			["activeProfile"] = 0,
 		},
@@ -28,6 +31,7 @@ BWQDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Kotlin - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
 	},
 }

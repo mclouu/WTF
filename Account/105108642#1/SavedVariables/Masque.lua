@@ -5,6 +5,7 @@ MasqueDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Kotlin - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {
@@ -1233,7 +1234,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_bR0A5LiHuD7"] = {
+				["WeakAuras_3yaJC3LAlfu"] = {
 					["Upgraded"] = true,
 					["Colors"] = {
 						["Normal"] = {
@@ -1309,7 +1310,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_3yaJC3LAlfu"] = {
+				["WeakAuras_2zeG7oC(pvn"] = {
 					["Upgraded"] = true,
 					["Colors"] = {
 						["Normal"] = {
@@ -1322,7 +1323,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_2zeG7oC(pvn"] = {
+				["WeakAuras_Gpe4sTaKFMI"] = {
 					["Upgraded"] = true,
 					["Colors"] = {
 						["Normal"] = {
@@ -1712,7 +1713,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_Gpe4sTaKFMI"] = {
+				["WeakAuras_bR0A5LiHuD7"] = {
 					["Upgraded"] = true,
 					["Colors"] = {
 						["Normal"] = {

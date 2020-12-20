@@ -1,7 +1,9 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "eu-Atec-la-croisade-écarlate"
+RaiderIO_LastCharacter = "eu-Kotlin-la-croisade-écarlate"
 RaiderIO_MissingCharacters = {
+	["eu-Saelvegr-kirin-tor"] = true,
+	["eu-Dendy-les-sentinelles"] = true,
 }
 RaiderIO_CachedRuns = nil

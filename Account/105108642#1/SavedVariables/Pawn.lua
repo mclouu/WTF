@@ -226,6 +226,9 @@ PawnCommon = {
 		["\"MrRobot\":DRUID1"] = {
 			["IconTexturePath"] = 136096,
 			["PerCharacterOptions"] = {
+				["Kotlin-La Croisade écarlate"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "fe7b09",
 			["LocalizedName"] = "Druide: Équilibre",

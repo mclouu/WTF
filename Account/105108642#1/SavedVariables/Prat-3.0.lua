@@ -30,7 +30,7 @@ Prat3DB = {
 		},
 		["Prat_KeyBindings"] = {
 		},
-		["Prat_Timestamps"] = {
+		["Prat_ChatLog"] = {
 		},
 		["Prat_Scroll"] = {
 		},
@@ -38,7 +38,7 @@ Prat3DB = {
 		},
 		["Prat_Bubbles"] = {
 		},
-		["Prat_ChatLog"] = {
+		["Prat_PopupMessage"] = {
 		},
 		["Prat_Sounds"] = {
 		},
@@ -64,7 +64,7 @@ Prat3DB = {
 		},
 		["Prat_CopyChat"] = {
 		},
-		["Prat_PopupMessage"] = {
+		["Prat_Timestamps"] = {
 		},
 		["Prat_Search"] = {
 		},
@@ -76,6 +76,7 @@ Prat3DB = {
 		},
 	},
 	["profileKeys"] = {
+		["Kotlin - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {

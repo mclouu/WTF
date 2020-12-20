@@ -8,6 +8,12 @@ BrokerPlayedTimeDB = {
 				["timeUpdated"] = 1608487453,
 				["level"] = 48,
 			},
+			["Kotlin"] = {
+				["timePlayed"] = 3097009,
+				["class"] = "DRUID",
+				["timeUpdated"] = 1608490105,
+				["level"] = 60,
+			},
 		},
 	},
 	["factionIcons"] = false,

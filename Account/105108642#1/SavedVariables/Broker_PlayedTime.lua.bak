@@ -3,10 +3,16 @@ BrokerPlayedTimeDB = {
 	["La Croisade écarlate"] = {
 		["Horde"] = {
 			["Atec"] = {
-				["timePlayed"] = 1997393,
+				["timePlayed"] = 1997462,
 				["class"] = "MONK",
 				["level"] = 48,
-				["timeUpdated"] = 1608487385,
+				["timeUpdated"] = 1608487453,
+			},
+			["Kotlin"] = {
+				["timePlayed"] = 3096957,
+				["class"] = "DRUID",
+				["level"] = 60,
+				["timeUpdated"] = 1608490065,
 			},
 		},
 	},

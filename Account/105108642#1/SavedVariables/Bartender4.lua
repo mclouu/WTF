@@ -13,6 +13,16 @@ Bartender4DB = {
 					},
 					["version"] = 3,
 				},
+				["Kotlin - La Croisade écarlate"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+				},
 				["Atec - La Croisade écarlate"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -126,6 +136,73 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
+				["Kotlin - La Croisade écarlate"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 178.4999542236328,
+								["x"] = -231.4999542236328,
+								["point"] = "BOTTOM",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
 				["Atec - La Croisade écarlate"] = {
 					["actionbars"] = {
 						{
@@ -206,6 +283,14 @@ Bartender4DB = {
 					},
 					["version"] = 3,
 				},
+				["Kotlin - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -96.50003051757812,
+						["x"] = -63.49996948242188,
+						["point"] = "CENTER",
+					},
+				},
 				["Atec - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
@@ -229,6 +314,16 @@ Bartender4DB = {
 					},
 					["padding"] = -2,
 				},
+				["Kotlin - La Croisade écarlate"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41.75,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
 				["Atec - La Croisade écarlate"] = {
 					["padding"] = -2,
 					["version"] = 3,
@@ -245,6 +340,14 @@ Bartender4DB = {
 			["profiles"] = {
 				["Clou"] = {
 					["enabled"] = false,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Kotlin - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -272,6 +375,15 @@ Bartender4DB = {
 					},
 					["version"] = 3,
 				},
+				["Kotlin - La Croisade écarlate"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Atec - La Croisade écarlate"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -286,12 +398,22 @@ Bartender4DB = {
 		["StanceBar"] = {
 			["profiles"] = {
 				["Clou"] = {
+					["enabled"] = false,
 					["position"] = {
 						["y"] = -15,
 						["x"] = -82.49998474121094,
 						["point"] = "CENTER",
 					},
 					["version"] = 3,
+				},
+				["Kotlin - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
 				},
 				["Atec - La Croisade écarlate"] = {
 					["version"] = 3,
@@ -311,6 +433,14 @@ Bartender4DB = {
 						["y"] = 69.00001525878906,
 						["x"] = -2.999990940093994,
 						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Kotlin - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -120,
+						["point"] = "BOTTOM",
 					},
 				},
 				["Atec - La Croisade écarlate"] = {
@@ -333,6 +463,14 @@ Bartender4DB = {
 					},
 					["version"] = 3,
 				},
+				["Kotlin - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.5,
+						["x"] = 104.5000915527344,
+						["point"] = "CENTER",
+					},
+				},
 				["Atec - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
@@ -345,10 +483,16 @@ Bartender4DB = {
 		},
 	},
 	["profileKeys"] = {
+		["Kotlin - La Croisade écarlate"] = "Clou",
 		["Atec - La Croisade écarlate"] = "Clou",
 	},
 	["profiles"] = {
 		["Clou"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Kotlin - La Croisade écarlate"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",

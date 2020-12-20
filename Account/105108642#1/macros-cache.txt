@@ -1,15 +1,15 @@
 VER 3 000000000000004A "/target asticot" "132351"
 /target asticot
 END
+VER 3 0000000000000045 "aa" "136171"
+/focus [nodead]
+/targetlasttarget [nodead]
+END
 VER 3 000000000000004D "aa" "538569"
 /way 32 73
 /way 47 52
 /way 24 40
 /way 15 63
-END
-VER 3 0000000000000045 "aa" "136171"
-/focus [nodead]
-/targetlasttarget [nodead]
 END
 VER 3 000000000000004B "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
