@@ -1,0 +1,18 @@
+
+BrokerPlayedTimeDB = {
+	["La Croisade écarlate"] = {
+		["Horde"] = {
+			["Atec"] = {
+				["timePlayed"] = 1997393,
+				["class"] = "MONK",
+				["level"] = 48,
+				["timeUpdated"] = 1608487385,
+			},
+		},
+	},
+	["levels"] = false,
+	["performedLevelSquish"] = true,
+	["onlyCurrentRealm"] = false,
+	["classIcons"] = false,
+	["factionIcons"] = false,
+}

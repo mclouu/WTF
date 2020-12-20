@@ -1,0 +1,85 @@
+VER 3 000000000000004A "/target asticot" "132351"
+/target asticot
+END
+VER 3 000000000000004D "aa" "538569"
+/way 32 73
+/way 47 52
+/way 24 40
+/way 15 63
+END
+VER 3 0000000000000045 "aa" "136171"
+/focus [nodead]
+/targetlasttarget [nodead]
+END
+VER 3 000000000000004B "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Aiguillonneur neural
+END
+VER 3 0000000000000039 "clearFocus" "INV_MISC_QUESTIONMARK"
+/ cast [talent: 3/2] repentance; [talent: 3/3] Lumière aveuglante
+END
+VER 3 0000000000000041 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] Détoxification;  [@mouseover,exists,mod:ctrl] Détoxification; [@mouseover,exists,mod:shift] Détoxification
+END
+VER 3 0000000000000048 "error lua on" "INV_MISC_QUESTIONMARK"
+/console scriptErrors 1
+END
+VER 3 000000000000003F "for the horde" "255132"
+/forthehorde
+END
+VER 3 000000000000003E "mouseOver" "INV_MISC_QUESTIONMARK"
+#showtooltip SORT
+/cast [@mouseover,exists,harm]SORT;SORT
+END
+VER 3 0000000000000026 "parler PNJ" "SPELL_NATURE_EARTHELEMENTAL_TOTEM"
+/dire || [%t] dit : Salutation 
+END
+VER 3 0000000000000047 "pet" "612363"
+/petattack 
+END
+VER 3 0000000000000043 "quest" "1505934"
+/script print (IsQuestFlaggedCompleted (47316))
+END
+VER 3 0000000000000044 "rare MOP" "1392544"
+/run print("Théière pandarène ancienne : "..IsQuestFlaggedCompleted(31400))
+END
+VER 3 000000000000003B "respé" "INV_MISC_QUESTIONMARK"
+/run SetSpecialization(1)
+END
+VER 3 0000000000000040 "rugir" "136147"
+/roar
+END
+VER 3 000000000000004C "sdsd" "132128"
+/ run local y = {683,684,685,686,622,628,705,706,707,708,944,946,947,948,949,985,958,957,959} print "The Scryers:" pour i, q dans ipairs (y) do q = "10" .. q print (i, "\ 124cffffff00 \ 124Hquest:" .. q .. 124h [".. q .."] \ 124h \ 124r ", IsQuestFlaggedC
+END
+VER 3 000000000000003D "serment Horde" "898247"
+Lok'tar ogar ! La victoire ou la mort. Ces mots me lient à la Horde, car ils sont pour tout gurrier de la Horde la vérité la plus profonde et la plus sacré qui soit.
+Dès cet instant et jusqu'à la fin de mes jours, je vis et je meurs.. pour la Horde !
+END
+VER 3 000000000000003A "spé active" "INV_MISC_QUESTIONMARK"
+/run for i=1,GetNumSpecializations()do print(format("[%s] %s %s",i,({GetSpecializationInfo(i)})[2],GetSpecialization()==i and"\124cff37d35b(SPÉCIALISATION ACTIVE)\124r"or"" ))end
+END
+VER 3 0000000000000042 "ss" "136103"
+/script SelectGossipAvailableQuest (2) 
+/ script CompleteQuest () 
+/ script GetQuestReward ()
+END
+VER 3 0000000000000046 "switch focus tar" "136122"
+/cleartarget [target=target,dead]
+/clearfocus [target=focus,dead]
+/target focus
+/cleartarget [target=focus,noexists]
+/targetlasttarget
+/focus target
+/targetlasttarget
+END
+VER 3 000000000000003C "target" "132090"
+/target Drelix étincelor
+END
+VER 3 000000000000002F "Warcraft logs" "1379233"
+/combatlog
+END
+VER 3 0000000000000049 "zz" "134222"
+/target Surveillant Nuaar
+END

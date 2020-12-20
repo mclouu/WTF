@@ -1,0 +1,20 @@
+
+ChatSoundCustomizerDB = {
+	["namespaces"] = {
+		["ZoneChannel"] = {
+		},
+		["IgnoreList"] = {
+		},
+		["LDB"] = {
+		},
+		["Newcomer"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Atec - La Croisade écarlate"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

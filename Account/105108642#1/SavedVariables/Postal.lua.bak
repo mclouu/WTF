@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Atec|La Croisade écarlate|Horde|48|MONK", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
+	},
+	["profiles"] = {
+		["Atec - La Croisade écarlate"] = {
+		},
+	},
+}
