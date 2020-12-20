@@ -14,13 +14,13 @@ Prat3CharDB = {
 			},
 			["ChatFrame6EditBox"] = {
 			},
-			["ChatFrame9EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
+			["ChatFrame1EditBox"] = {
 			},
 			["ChatFrame3EditBox"] = {
 			},
-			["ChatFrame1EditBox"] = {
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
 			},
 		},
 	},
@@ -142,6 +142,10 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:26:47]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:5:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: ah mais t'es co",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 21960.71,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -149,14 +153,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485207,
-					["timestamp"] = 21960.71,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [1]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:27:01]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:6:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: oui",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 21974.884,
 					["extraData"] = {
 						53, -- [1]
 						false, -- [2]
@@ -164,14 +168,14 @@ Prat3HighCPUPerCharDB = {
 						5, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485221,
-					["timestamp"] = 21974.884,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [2]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:27:07]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:7:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: jvais me co aussi",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 21980.95,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -179,14 +183,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485227,
-					["timestamp"] = 21980.95,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [3]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:28:15]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:8:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: on va donjon ensemble jpense du coup",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 22049.097,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -194,14 +198,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485295,
-					["timestamp"] = 22049.097,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [4]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:28:27]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:9:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: après manger",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 22061.202,
 					["extraData"] = {
 						53, -- [1]
 						false, -- [2]
@@ -209,14 +213,14 @@ Prat3HighCPUPerCharDB = {
 						5, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485307,
-					["timestamp"] = 22061.202,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [5]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:28:32]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:10:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: oui",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 22066.04,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -224,14 +228,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485312,
-					["timestamp"] = 22066.04,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [6]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:28:33]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:11:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: tkt",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 22067.262,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -239,14 +243,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485313,
-					["timestamp"] = 22067.262,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [7]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:28:37]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:12:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: je me co dans longtemps",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 22070.993,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -254,14 +258,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485317,
-					["timestamp"] = 22070.993,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [8]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:28:40]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:13:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: mais jme co ce soir",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 22073.781,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -269,14 +273,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485320,
-					["timestamp"] = 22073.781,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [9]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:28:53]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:14:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: dj avec qui ?",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 22087.338,
 					["extraData"] = {
 						53, -- [1]
 						false, -- [2]
@@ -284,14 +288,14 @@ Prat3HighCPUPerCharDB = {
 						5, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485333,
-					["timestamp"] = 22087.338,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [10]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:29:04]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:15:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: le hunt",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 22098.495,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -299,14 +303,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485344,
-					["timestamp"] = 22098.495,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [11]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:29:23]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:16:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: mon Hunt BM hier il a cassé des gros cul en bg",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 22117.004,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -314,14 +318,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485363,
-					["timestamp"] = 22117.004,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [12]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:29:41]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:17:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: jetais first dps et javais 17-3 en K/D",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 22134.779,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -329,14 +333,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485381,
-					["timestamp"] = 22134.779,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [13]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:29:56]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:18:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: un hunter préci qui avait 23-3 en K/D il m'a rush 1v1",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 22149.599,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -344,14 +348,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485396,
-					["timestamp"] = 22149.599,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [14]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:30:06]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:19:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: il a tenu 5sec",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 22159.891,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -359,14 +363,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485406,
-					["timestamp"] = 22159.891,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [15]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:30:08]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:20:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: 1111111111111111111111111111",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 22161.523,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -374,14 +378,14 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485408,
-					["timestamp"] = 22161.523,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [16]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:30:20]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:16:21:BN_WHISPER:|Kq1|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-Battleneticon:14:0:0:0|t|cffa0a0a0|Kq1|k|r|h|cffd8d8d8]|r: il a été vite decu",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 22173.679,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -389,11 +393,7 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.9647059440612793,
 					["serverTime"] = 1608485420,
-					["timestamp"] = 22173.679,
-					["g"] = 1,
-					["r"] = 0,
 				}, -- [17]
 			},
 			["headIndex"] = 17,
@@ -466,7 +466,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 107,
+			["headIndex"] = 6,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -479,853 +479,59 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[18:57:07]|h|r |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.118 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
+					["message"] = "|cff979797|Hpratcopy|h[19:03:30]|h|r |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.118 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
 					["r"] = 1,
-					["timestamp"] = 23756.95,
+					["timestamp"] = 24138.537,
 					["g"] = 0.7,
 					["b"] = 0.2,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[18:57:08]|h|r TargetCharms: 1.6.4 (7/18/2018) - Loaded",
-					["timestamp"] = 23756.95,
+					["message"] = "|cff979797|Hpratcopy|h[19:03:33]|h|r TargetCharms: 1.6.4 (7/18/2018) - Loaded",
+					["timestamp"] = 24138.537,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[18:57:11]|h|r |cffffe566{VuhDo}|r Profile successfully loaded: Clou5",
+					["message"] = "|cff979797|Hpratcopy|h[19:03:36]|h|r |cffffe566{VuhDo}|r Profile successfully loaded: Clou5",
 					["r"] = 1,
-					["serverTime"] = 1608487031,
-					["timestamp"] = 23756.95,
+					["serverTime"] = 1608487416,
+					["timestamp"] = 24138.537,
 					["g"] = 0.7,
 					["b"] = 0.2,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[18:57:12]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487032,
-					["timestamp"] = 23756.95,
-					["g"] = 0.4,
-					["b"] = 0.4,
+					["message"] = "|cff979797|Hpratcopy|h[19:03:41]|h|r |cFF33FF99Capping|r is missing locale for frFR and needs your help! Please visit the project page on GitHub for more info.",
+					["timestamp"] = 24174.501,
+					["serverTime"] = 1608487421,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[18:57:17]|h|r |cFF33FF99Capping|r is missing locale for frFR and needs your help! Please visit the project page on GitHub for more info.",
-					["timestamp"] = 23790.485,
-					["serverTime"] = 1608487037,
+					["message"] = "|cff979797|Hpratcopy|h[19:04:06]|h|r |Hchannel:channel:1|h[1] |h Change de canal : |Hchannel:CHANNEL:1|h[1. Général - Orgrimmar]|h",
+					["serverTime"] = 1608487446,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 24199.645,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[18:57:53]|h|r \n|cffffe566 - [ Commandes VuhDo] -|r|n|cffffe566opt|r[ions] - Opions de VuhDo|n|cffffe566res|r[et] - Réinitialiser la position des panneaux|n|cffffe566lock|r - Vérouiller/Dévérouiller les panneaux|n|cffffe566mm, map, minimap|r - Afficher/Cacher l'icône sur la minimap|n|cffffe566show, hide, toggle|r - Afficher/Cacher les panneaux|n|cffffe566load|r - [Profile],[Key Layout]|n[broad]|cffffe566cast, mt|r[s] - Diffuser les tanks principaux|n|cffffe566role|r - Réinitialiser le rôle des joueurs|n|cffffe566ab|r[out] - About this add-on|n|cffffe566help,?|r - Cette liste de commandes\n",
+					["message"] = "|cff979797|Hpratcopy|h[19:04:06]|h|r |Hchannel:channel:3|h[3] |h Change de canal : |Hchannel:CHANNEL:3|h[3. DéfenseLocale - Orgrimmar]|h",
+					["serverTime"] = 1608487446,
 					["r"] = 1,
-					["serverTime"] = 1608487073,
-					["timestamp"] = 23826.51,
-					["g"] = 0.7,
-					["b"] = 0.2,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 24199.645,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
 				}, -- [6]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:57:58]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487078,
-					["timestamp"] = 23831.911,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [7]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:02]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487082,
-					["timestamp"] = 23836.329,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [8]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:07]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487087,
-					["timestamp"] = 23840.66,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [9]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:11]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487091,
-					["timestamp"] = 23844.741,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [10]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:11]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487091,
-					["timestamp"] = 23845.317,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [11]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:12]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487092,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [12]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:12]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487092,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [13]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:12]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487092,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [14]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:12]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487092,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [15]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487093,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [16]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487093,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [17]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487093,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [18]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487093,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [19]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487093,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [20]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487093,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [21]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487093,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [22]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487093,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [23]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487093,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [24]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487093,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [25]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487093,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [26]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487093,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [27]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487093,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [28]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487093,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [29]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:14]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487094,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [30]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:14]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487094,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [31]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:14]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487094,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [32]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:14]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487094,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [33]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:14]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487094,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [34]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:14]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487094,
-					["timestamp"] = 23846.315,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [35]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:14]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487094,
-					["timestamp"] = 23848.132,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [36]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:21]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487101,
-					["timestamp"] = 23854.791,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [37]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:21]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487101,
-					["timestamp"] = 23854.791,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [38]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:21]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487101,
-					["timestamp"] = 23854.791,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [39]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:21]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487101,
-					["timestamp"] = 23854.791,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [40]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:21]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487101,
-					["timestamp"] = 23855.272,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [41]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:23]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487103,
-					["timestamp"] = 23857.302,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [42]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:24]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487104,
-					["timestamp"] = 23858.031,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [43]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [44]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [45]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [46]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [47]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [48]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [49]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [50]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [51]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [52]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [53]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [54]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [55]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [56]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [57]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [58]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [59]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [60]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [61]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [62]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [63]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [64]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [65]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [66]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23858.698,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [67]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:25]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487105,
-					["timestamp"] = 23859.207,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [68]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:27]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487107,
-					["timestamp"] = 23860.818,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [69]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:33]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487113,
-					["timestamp"] = 23866.636,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [70]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:44]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487124,
-					["timestamp"] = 23877.469,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [71]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:49]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487129,
-					["timestamp"] = 23882.514,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [72]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:50]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487130,
-					["timestamp"] = 23883.631,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [73]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:58:59]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487139,
-					["timestamp"] = 23893.306,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [74]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:59:04]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487144,
-					["timestamp"] = 23897.511,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [75]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:59:07]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487147,
-					["timestamp"] = 23900.712,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [76]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:59:08]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487148,
-					["timestamp"] = 23901.964,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [77]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:59:09]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487149,
-					["timestamp"] = 23903.056,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [78]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:59:10]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487150,
-					["timestamp"] = 23903.991,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [79]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:59:11]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487151,
-					["timestamp"] = 23905.451,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [80]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:59:22]|h|r \n|cffffe566 - [ Commandes VuhDo] -|r|n|cffffe566opt|r[ions] - Opions de VuhDo|n|cffffe566res|r[et] - Réinitialiser la position des panneaux|n|cffffe566lock|r - Vérouiller/Dévérouiller les panneaux|n|cffffe566mm, map, minimap|r - Afficher/Cacher l'icône sur la minimap|n|cffffe566show, hide, toggle|r - Afficher/Cacher les panneaux|n|cffffe566load|r - [Profile],[Key Layout]|n[broad]|cffffe566cast, mt|r[s] - Diffuser les tanks principaux|n|cffffe566role|r - Réinitialiser le rôle des joueurs|n|cffffe566ab|r[out] - About this add-on|n|cffffe566help,?|r - Cette liste de commandes\n",
-					["r"] = 1,
-					["serverTime"] = 1608487162,
-					["timestamp"] = 23916.011,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [81]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:59:27]|h|r |cffffe566{VuhDo}|r L'icône sur la minimap est maintenant |cffffe566visible|r.",
-					["r"] = 1,
-					["serverTime"] = 1608487167,
-					["timestamp"] = 23920.907,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [82]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:59:36]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487176,
-					["timestamp"] = 23929.916,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [83]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:59:39]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487179,
-					["timestamp"] = 23933.236,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [84]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:59:40]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487180,
-					["timestamp"] = 23933.903,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [85]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:59:43]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487183,
-					["timestamp"] = 23936.83,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [86]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:59:45]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487185,
-					["timestamp"] = 23939.227,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [87]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:00:05]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487205,
-					["timestamp"] = 23959.106,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [88]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:00:06]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487206,
-					["timestamp"] = 23959.694,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [89]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:00:09]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487209,
-					["timestamp"] = 23963.373,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [90]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:00:13]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487213,
-					["timestamp"] = 23966.975,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [91]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:00:14]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487214,
-					["timestamp"] = 23967.684,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [92]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:00:15]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487215,
-					["timestamp"] = 23968.793,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [93]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:00:16]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487216,
-					["timestamp"] = 23970.364,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [94]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:00:17]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487217,
-					["timestamp"] = 23971.012,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [95]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:00:30]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487230,
-					["timestamp"] = 23983.457,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [96]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:00:36]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487236,
-					["timestamp"] = 23989.7,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [97]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:00:40]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487240,
-					["timestamp"] = 23994.467,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [98]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:00:54]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487254,
-					["timestamp"] = 24007.815,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [99]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:00:55]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487255,
-					["timestamp"] = 24009.341,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [100]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:00:55]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487255,
-					["timestamp"] = 24009.341,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [101]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:01:03]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487263,
-					["timestamp"] = 24017.202,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [102]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:01:05]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487265,
-					["timestamp"] = 24018.696,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [103]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:01:06]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487266,
-					["timestamp"] = 24019.533,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [104]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:01:06]|h|r |cffffe566{VuhDo}|r \"Health Bar\" tries to hook to bouquet \"Health (generic, class col)\" which doesn't exist!",
-					["r"] = 1,
-					["serverTime"] = 1608487266,
-					["timestamp"] = 24019.533,
-					["g"] = 0.4,
-					["b"] = 0.4,
-				}, -- [105]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:02:31]|h|r |cffffe566{VuhDo}|r Successfully saved profile: \"Clou5\".",
-					["r"] = 1,
-					["serverTime"] = 1608487351,
-					["timestamp"] = 24105.268,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [106]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:02:33]|h|r |cffffe566{VuhDo}|r Successfully saved profile: \"Clou5\".",
-					["r"] = 1,
-					["serverTime"] = 1608487353,
-					["timestamp"] = 24107.38,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [107]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],

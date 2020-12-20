@@ -1,5 +1,18 @@
 
 PrettyRepsDB = {
+	["Options"] = {
+		["Enabled"] = true,
+		["ParagonIconsRewardOnly"] = true,
+		["GroupTotals"] = true,
+		["HideUnobtainableGroup"] = false,
+		["HideInactiveGroup"] = false,
+		["ShowParagonIcons"] = true,
+		["UseUnobtainableGroup"] = true,
+		["ShowNameOnHover"] = false,
+		["HideOppositeFaction"] = true,
+		["ShowParagonBars"] = true,
+		["ShowGuild"] = true,
+	},
 	["Structure"] = {
 		{
 			["hasBonusRepGain"] = false,
@@ -3099,19 +3112,6 @@ PrettyRepsDB = {
 			["playerName"] = "Kotlin",
 			["topValue"] = 3000,
 		}, -- [8]
-	},
-	["Options"] = {
-		["Enabled"] = true,
-		["ParagonIconsRewardOnly"] = true,
-		["GroupTotals"] = true,
-		["HideUnobtainableGroup"] = false,
-		["HideInactiveGroup"] = false,
-		["ShowParagonIcons"] = true,
-		["UseUnobtainableGroup"] = true,
-		["ShowNameOnHover"] = false,
-		["HideOppositeFaction"] = true,
-		["ShowParagonBars"] = true,
-		["ShowGuild"] = true,
 	},
 	["Headers"] = {
 		["Unobtainable"] = false,

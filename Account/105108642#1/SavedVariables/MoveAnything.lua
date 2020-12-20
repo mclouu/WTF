@@ -94,21 +94,21 @@ MADB = {
 						68.6978759765625, -- [5]
 					},
 				},
-				["MiniMapMailFrame"] = {
+				["MiniMapWorldMapButton"] = {
 					["orgPos"] = {
-						"CENTER", -- [1]
-						"Minimap", -- [2]
-						"CENTER", -- [3]
-						84.49999237060547, -- [4]
-						37.45156860351563, -- [5]
+						"TOPRIGHT", -- [1]
+						"MinimapBackdrop", -- [2]
+						"TOPRIGHT", -- [3]
+						-2, -- [4]
+						23, -- [5]
 					},
-					["name"] = "MiniMapMailFrame",
+					["name"] = "MiniMapWorldMapButton",
 					["pos"] = {
-						"CENTER", -- [1]
-						"Minimap", -- [2]
-						"CENTER", -- [3]
-						-86.5, -- [4]
-						64.32382202148438, -- [5]
+						"TOPRIGHT", -- [1]
+						"MinimapBackdrop", -- [2]
+						"TOPRIGHT", -- [3]
+						-2, -- [4]
+						23, -- [5]
 					},
 				},
 				["TimeManagerClockButton"] = {
@@ -145,40 +145,6 @@ MADB = {
 						0, -- [5]
 					},
 				},
-				["QueueStatusMinimapButton"] = {
-					["orgPos"] = {
-						"CENTER", -- [1]
-						"Minimap", -- [2]
-						"CENTER", -- [3]
-						-84.49999237060547, -- [4]
-						-54.75053787231445, -- [5]
-					},
-					["name"] = "QueueStatusMinimapButton",
-					["pos"] = {
-						"CENTER", -- [1]
-						"Minimap", -- [2]
-						"CENTER", -- [3]
-						-76.99993896484375, -- [4]
-						-49.44723510742188, -- [5]
-					},
-				},
-				["GarrisonLandingPageMinimapButton"] = {
-					["orgPos"] = {
-						"CENTER", -- [1]
-						"Minimap", -- [2]
-						"CENTER", -- [3]
-						-84.49999237060547, -- [4]
-						-19.0146598815918, -- [5]
-					},
-					["name"] = "GarrisonLandingPageMinimapButton",
-					["pos"] = {
-						"CENTER", -- [1]
-						"Minimap", -- [2]
-						"CENTER", -- [3]
-						-11, -- [4]
-						-84.68209838867188, -- [5]
-					},
-				},
 				["ObjectiveTrackerFrameMover"] = {
 					["orgPos"] = {
 						"TOPRIGHT", -- [1]
@@ -211,6 +177,40 @@ MADB = {
 						"TOPLEFT", -- [3]
 						9.0001220703125, -- [4]
 						-45, -- [5]
+					},
+				},
+				["QueueStatusMinimapButton"] = {
+					["orgPos"] = {
+						"CENTER", -- [1]
+						"Minimap", -- [2]
+						"CENTER", -- [3]
+						-84.49999237060547, -- [4]
+						-54.75053787231445, -- [5]
+					},
+					["name"] = "QueueStatusMinimapButton",
+					["pos"] = {
+						"CENTER", -- [1]
+						"Minimap", -- [2]
+						"CENTER", -- [3]
+						-76.99993896484375, -- [4]
+						-49.44723510742188, -- [5]
+					},
+				},
+				["GarrisonLandingPageMinimapButton"] = {
+					["orgPos"] = {
+						"CENTER", -- [1]
+						"Minimap", -- [2]
+						"CENTER", -- [3]
+						-84.49999237060547, -- [4]
+						-19.0146598815918, -- [5]
+					},
+					["name"] = "GarrisonLandingPageMinimapButton",
+					["pos"] = {
+						"CENTER", -- [1]
+						"Minimap", -- [2]
+						"CENTER", -- [3]
+						-11, -- [4]
+						-84.68209838867188, -- [5]
 					},
 				},
 				["MinimapBorder"] = {
@@ -256,28 +256,28 @@ MADB = {
 						62.23626708984375, -- [5]
 					},
 				},
-				["MiniMapWorldMapButton"] = {
+				["MiniMapMailFrame"] = {
 					["orgPos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapBackdrop", -- [2]
-						"TOPRIGHT", -- [3]
-						-2, -- [4]
-						23, -- [5]
+						"CENTER", -- [1]
+						"Minimap", -- [2]
+						"CENTER", -- [3]
+						84.49999237060547, -- [4]
+						37.45156860351563, -- [5]
 					},
-					["name"] = "MiniMapWorldMapButton",
+					["name"] = "MiniMapMailFrame",
 					["pos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapBackdrop", -- [2]
-						"TOPRIGHT", -- [3]
-						-2, -- [4]
-						23, -- [5]
+						"CENTER", -- [1]
+						"Minimap", -- [2]
+						"CENTER", -- [3]
+						-86.5, -- [4]
+						64.32382202148438, -- [5]
 					},
 				},
 			},
 		},
 	},
-	["frameListRows"] = 18,
-	["noBags"] = false,
-	["playSound"] = false,
 	["closeGUIOnEscape"] = false,
+	["playSound"] = false,
+	["noBags"] = false,
+	["frameListRows"] = 18,
 }

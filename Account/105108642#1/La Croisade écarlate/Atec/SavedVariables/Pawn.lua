@@ -5,9 +5,9 @@ PawnOptions = {
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 133618,
-			["Level"] = 50,
-			["Link"] = "|cffa335ee|Hitem:133618::::::::48:268::16:3:3412:1472:3336::::|h[Heaume en peau de kraken]|h|r",
+			["ID"] = 137063,
+			["Level"] = 59,
+			["Link"] = "|cffff8000|Hitem:137063::::::::48:270:::2:3459:3630::::|h[Observation fondamentale]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 139990,
@@ -84,6 +84,11 @@ PawnOptions = {
 			["Level"] = 70,
 			["Link"] = "|cffe6cc80|Hitem:128938::136973:141258:141268::::48:268::9:2:732:1522:2:8:350:24:1:2:1826:1471:3:3396:1472:1675:3:3396:1472:3337|h[Fu Zan, compagnon de l'explorateur]|h|r",
 		}, -- [16]
+		{
+			["ID"] = 133948,
+			["Level"] = 70,
+			["Link"] = "|cffe6cc80|Hitem:133948::::::::48:269::::1:8:538:::|h[Poings des cieux]|h|r",
+		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,
 }

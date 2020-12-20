@@ -1,9 +1,5 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
-		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -11,6 +7,10 @@ Postal3DB = {
 				"Kotlin|La Croisade écarlate|Horde|60|DRUID", -- [2]
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 	},
 	["profiles"] = {
 		["Kotlin - La Croisade écarlate"] = {

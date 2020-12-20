@@ -343,12 +343,12 @@ Oilvl_Settings = {
 		}, -- [2]
 	},
 	["raidmenuid"] = 1,
-	["oilvlaltclickroll"] = true,
+	["oilvlme"] = true,
 	["oilvlcache"] = {
 		{
 			["orealm"] = "LaCroisadeécarlate",
 			["oname"] = "Kotlin",
-			["otime"] = 1608490012,
+			["otime"] = 1608490090,
 			["oclass"] = "|cFFFF7D0ADruidesse",
 			["oilvl"] = 173,
 			["ogear"] = {
@@ -518,6 +518,9 @@ Oilvl_Settings = {
 		{
 			["orealm"] = "LaCroisadeécarlate",
 			["oname"] = "Atec",
+			["otime"] = 1608487426,
+			["oclass"] = "|cFF00FF96Moniale",
+			["oilvl"] = 52.8,
 			["ogear"] = {
 				{
 					50, -- [1]
@@ -681,13 +684,23 @@ Oilvl_Settings = {
 					128937, -- [8]
 				}, -- [17]
 			},
-			["oclass"] = "|cFF00FF96Moniale",
-			["oilvl"] = 52.8,
-			["otime"] = 1608487426,
 		}, -- [2]
 	},
-	["oilvlcolormatchitemrarity"] = true,
+	["oilvlframeP"] = "TOPLEFT",
 	["oilvlsummaryshow"] = false,
+	["oilvlrpdetails"] = true,
+	["oilvlprintloaded"] = false,
+	["oilvlautoscan"] = true,
+	["oilvlms"] = true,
+	["oilvlalpha"] = 1,
+	["oilvlcachesw"] = true,
+	["oilvlminimapicon"] = true,
+	["oilvlscale"] = 0.8,
+	["oilvlcharilvl"] = false,
+	["oilvlbagilvl"] = true,
+	["oilvlge"] = true,
+	["oilvlframeX"] = 22,
+	["oilvlun"] = false,
 	["frame"] = {
 		[0] = nil --[[ skipped userdata ]],
 		["cancel"] = nil --[[ skipped inline function ]],
@@ -702,19 +715,6 @@ Oilvl_Settings = {
 		["okay"] = nil --[[ skipped inline function ]],
 		["default"] = nil --[[ skipped inline function ]],
 	},
-	["oilvlms"] = true,
-	["oilvlautoscan"] = true,
-	["oilvlprintloaded"] = false,
-	["oilvlalpha"] = 1,
-	["oilvlcachesw"] = true,
-	["oilvlge"] = true,
-	["oilvlscale"] = 0.8,
-	["oilvlcharilvl"] = false,
-	["oilvlbagilvl"] = true,
-	["oilvlminimapicon"] = true,
-	["oilvlframeX"] = 22,
-	["oilvlun"] = false,
-	["oilvlrpdetails"] = true,
-	["oilvlframeP"] = "TOPLEFT",
-	["oilvlme"] = true,
+	["oilvlcolormatchitemrarity"] = true,
+	["oilvlaltclickroll"] = true,
 }

@@ -14,8 +14,8 @@ MADB = {
 						"CENTER", -- [1]
 						"Minimap", -- [2]
 						"CENTER", -- [3]
-						-73.59083557128906, -- [4]
-						61.75004577636719, -- [5]
+						-83.88265991210938, -- [4]
+						70.38593292236328, -- [5]
 					},
 					["name"] = "MiniMapInstanceDifficulty",
 					["pos"] = {
@@ -82,8 +82,8 @@ MADB = {
 						"CENTER", -- [1]
 						"Minimap", -- [2]
 						"CENTER", -- [3]
-						69.10411071777344, -- [4]
-						66.73306274414062, -- [5]
+						78.7684555053711, -- [4]
+						76.06583404541016, -- [5]
 					},
 					["name"] = "GameTimeFrame",
 					["pos"] = {
@@ -92,6 +92,23 @@ MADB = {
 						"CENTER", -- [3]
 						71.138671875, -- [4]
 						68.6978759765625, -- [5]
+					},
+				},
+				["MiniMapMailFrame"] = {
+					["orgPos"] = {
+						"CENTER", -- [1]
+						"Minimap", -- [2]
+						"CENTER", -- [3]
+						84.49999237060547, -- [4]
+						37.45156860351563, -- [5]
+					},
+					["name"] = "MiniMapMailFrame",
+					["pos"] = {
+						"CENTER", -- [1]
+						"Minimap", -- [2]
+						"CENTER", -- [3]
+						-86.5, -- [4]
+						64.32382202148438, -- [5]
 					},
 				},
 				["TimeManagerClockButton"] = {
@@ -111,23 +128,6 @@ MADB = {
 						586.0000610351562, -- [5]
 					},
 				},
-				["MiniMapWorldMapButton"] = {
-					["orgPos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapBackdrop", -- [2]
-						"TOPRIGHT", -- [3]
-						-2, -- [4]
-						23, -- [5]
-					},
-					["name"] = "MiniMapWorldMapButton",
-					["pos"] = {
-						"TOPRIGHT", -- [1]
-						"MinimapBackdrop", -- [2]
-						"TOPRIGHT", -- [3]
-						-2, -- [4]
-						23, -- [5]
-					},
-				},
 				["QueueStatusFrame"] = {
 					["orgPos"] = {
 						"TOPRIGHT", -- [1]
@@ -143,6 +143,40 @@ MADB = {
 						"TOPLEFT", -- [3]
 						0, -- [4]
 						0, -- [5]
+					},
+				},
+				["QueueStatusMinimapButton"] = {
+					["orgPos"] = {
+						"CENTER", -- [1]
+						"Minimap", -- [2]
+						"CENTER", -- [3]
+						-84.49999237060547, -- [4]
+						-54.75053787231445, -- [5]
+					},
+					["name"] = "QueueStatusMinimapButton",
+					["pos"] = {
+						"CENTER", -- [1]
+						"Minimap", -- [2]
+						"CENTER", -- [3]
+						-76.99993896484375, -- [4]
+						-49.44723510742188, -- [5]
+					},
+				},
+				["GarrisonLandingPageMinimapButton"] = {
+					["orgPos"] = {
+						"CENTER", -- [1]
+						"Minimap", -- [2]
+						"CENTER", -- [3]
+						-84.49999237060547, -- [4]
+						-19.0146598815918, -- [5]
+					},
+					["name"] = "GarrisonLandingPageMinimapButton",
+					["pos"] = {
+						"CENTER", -- [1]
+						"Minimap", -- [2]
+						"CENTER", -- [3]
+						-11, -- [4]
+						-84.68209838867188, -- [5]
 					},
 				},
 				["ObjectiveTrackerFrameMover"] = {
@@ -179,40 +213,6 @@ MADB = {
 						-45, -- [5]
 					},
 				},
-				["QueueStatusMinimapButton"] = {
-					["orgPos"] = {
-						"CENTER", -- [1]
-						"Minimap", -- [2]
-						"CENTER", -- [3]
-						-75, -- [4]
-						-48.03300857543945, -- [5]
-					},
-					["name"] = "QueueStatusMinimapButton",
-					["pos"] = {
-						"CENTER", -- [1]
-						"Minimap", -- [2]
-						"CENTER", -- [3]
-						-76.99993896484375, -- [4]
-						-49.44723510742188, -- [5]
-					},
-				},
-				["GarrisonLandingPageMinimapButton"] = {
-					["orgPos"] = {
-						"CENTER", -- [1]
-						"Minimap", -- [2]
-						"CENTER", -- [3]
-						-75, -- [4]
-						-16.68168830871582, -- [5]
-					},
-					["name"] = "GarrisonLandingPageMinimapButton",
-					["pos"] = {
-						"CENTER", -- [1]
-						"Minimap", -- [2]
-						"CENTER", -- [3]
-						-11, -- [4]
-						-84.68209838867188, -- [5]
-					},
-				},
 				["MinimapBorder"] = {
 					["orgPos"] = {
 						{
@@ -244,8 +244,8 @@ MADB = {
 						"CENTER", -- [1]
 						"Minimap", -- [2]
 						"CENTER", -- [3]
-						-74.65731811523438, -- [4]
-						60.45630264282227, -- [5]
+						-84.49999237060547, -- [4]
+						68.9112548828125, -- [5]
 					},
 					["name"] = "GuildInstanceDifficulty",
 					["pos"] = {
@@ -256,28 +256,28 @@ MADB = {
 						62.23626708984375, -- [5]
 					},
 				},
-				["MiniMapMailFrame"] = {
+				["MiniMapWorldMapButton"] = {
 					["orgPos"] = {
-						"CENTER", -- [1]
-						"Minimap", -- [2]
-						"CENTER", -- [3]
-						75, -- [4]
-						32.85651397705078, -- [5]
+						"TOPRIGHT", -- [1]
+						"MinimapBackdrop", -- [2]
+						"TOPRIGHT", -- [3]
+						-2, -- [4]
+						23, -- [5]
 					},
-					["name"] = "MiniMapMailFrame",
+					["name"] = "MiniMapWorldMapButton",
 					["pos"] = {
-						"CENTER", -- [1]
-						"Minimap", -- [2]
-						"CENTER", -- [3]
-						-86.5, -- [4]
-						64.32382202148438, -- [5]
+						"TOPRIGHT", -- [1]
+						"MinimapBackdrop", -- [2]
+						"TOPRIGHT", -- [3]
+						-2, -- [4]
+						23, -- [5]
 					},
 				},
 			},
 		},
 	},
-	["closeGUIOnEscape"] = false,
-	["playSound"] = false,
-	["noBags"] = false,
 	["frameListRows"] = 18,
+	["noBags"] = false,
+	["playSound"] = false,
+	["closeGUIOnEscape"] = false,
 }

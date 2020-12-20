@@ -7,9 +7,6 @@ OneRing_Config = {
 	["ProfileStorage"] = {
 		["default"] = {
 			["RingAtMouse"] = true,
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
-			},
 			["RingScale"] = 0.7000000476837158,
 			["Bindings"] = {
 				["SpecMenu"] = "CTRL-NUMPAD2",
@@ -17,6 +14,9 @@ OneRing_Config = {
 				["Sp"] = "CTRL-NUMPAD4",
 				["Pet"] = "CTRL-NUMPAD3",
 				["Monture"] = "CTRL-NUMPAD1",
+			},
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
 			},
 		},
 	},
@@ -77,8 +77,8 @@ OneRing_Config = {
 			},
 			["Jouet"] = {
 				["save"] = true,
-				["limit"] = "Atec-LaCroisadeécarlate",
 				["name"] = "Jouet",
+				["limit"] = "Atec-LaCroisadeécarlate",
 			},
 			["Sp"] = {
 				{
@@ -97,13 +97,13 @@ OneRing_Config = {
 					["sliceToken"] = "ABuekH4Z7arI",
 				}, -- [3]
 				["save"] = true,
-				["limit"] = "Atec-LaCroisadeécarlate",
 				["name"] = "Spé",
+				["limit"] = "Atec-LaCroisadeécarlate",
 			},
 			["Pet"] = {
 				["save"] = true,
-				["limit"] = "Atec-LaCroisadeécarlate",
 				["name"] = "Pet",
+				["limit"] = "Atec-LaCroisadeécarlate",
 			},
 			["Monture"] = {
 				{
@@ -232,8 +232,8 @@ OneRing_Config = {
 					["sliceToken"] = "ABuekH4Z7awz",
 				}, -- [25]
 				["save"] = true,
-				["limit"] = "Atec-LaCroisadeécarlate",
 				["name"] = "Monture",
+				["limit"] = "Atec-LaCroisadeécarlate",
 			},
 		},
 	},

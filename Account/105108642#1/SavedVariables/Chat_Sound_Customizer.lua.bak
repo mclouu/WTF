@@ -3,11 +3,11 @@ ChatSoundCustomizerDB = {
 	["namespaces"] = {
 		["ZoneChannel"] = {
 		},
+		["LDB"] = {
+		},
 		["Newcomer"] = {
 		},
 		["IgnoreList"] = {
-		},
-		["LDB"] = {
 		},
 	},
 	["profileKeys"] = {

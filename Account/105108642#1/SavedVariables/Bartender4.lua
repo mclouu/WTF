@@ -3,16 +3,6 @@ Bartender4DB = {
 	["namespaces"] = {
 		["StatusTrackingBar"] = {
 			["profiles"] = {
-				["Clou"] = {
-					["enabled"] = true,
-					["position"] = {
-						["y"] = 3.800075764404028,
-						["x"] = 297.2999565965256,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.949999988079071,
-					},
-					["version"] = 3,
-				},
 				["Kotlin - La Croisade écarlate"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -22,6 +12,16 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 						["scale"] = 1.264999985694885,
 					},
+				},
+				["Clou"] = {
+					["enabled"] = true,
+					["position"] = {
+						["y"] = 3.800075764404028,
+						["x"] = 297.2999565965256,
+						["point"] = "TOPLEFT",
+						["scale"] = 0.949999988079071,
+					},
+					["version"] = 3,
 				},
 				["Atec - La Croisade écarlate"] = {
 					["enabled"] = true,
@@ -37,6 +37,73 @@ Bartender4DB = {
 		},
 		["ActionBars"] = {
 			["profiles"] = {
+				["Kotlin - La Croisade écarlate"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 178.4999542236328,
+								["x"] = -231.4999542236328,
+								["point"] = "BOTTOM",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
 				["Clou"] = {
 					["actionbars"] = {
 						{
@@ -136,73 +203,6 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Kotlin - La Croisade écarlate"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 178.4999542236328,
-								["x"] = -231.4999542236328,
-								["point"] = "BOTTOM",
-							},
-						}, -- [2]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						nil, -- [9]
-						{
-						}, -- [10]
-					},
-				},
 				["Atec - La Croisade écarlate"] = {
 					["actionbars"] = {
 						{
@@ -224,8 +224,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -234,8 +234,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -275,14 +275,6 @@ Bartender4DB = {
 		},
 		["ExtraActionBar"] = {
 			["profiles"] = {
-				["Clou"] = {
-					["position"] = {
-						["y"] = 123,
-						["x"] = -340.999755859375,
-						["point"] = "BOTTOMRIGHT",
-					},
-					["version"] = 3,
-				},
 				["Kotlin - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
@@ -290,6 +282,14 @@ Bartender4DB = {
 						["x"] = -63.49996948242188,
 						["point"] = "CENTER",
 					},
+				},
+				["Clou"] = {
+					["position"] = {
+						["y"] = 123,
+						["x"] = -340.999755859375,
+						["point"] = "BOTTOMRIGHT",
+					},
+					["version"] = 3,
 				},
 				["Atec - La Croisade écarlate"] = {
 					["version"] = 3,
@@ -303,6 +303,16 @@ Bartender4DB = {
 		},
 		["MicroMenu"] = {
 			["profiles"] = {
+				["Kotlin - La Croisade écarlate"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41.75,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
 				["Clou"] = {
 					["version"] = 3,
 					["rows"] = 11,
@@ -313,16 +323,6 @@ Bartender4DB = {
 						["scale"] = 0.699999988079071,
 					},
 					["padding"] = -2,
-				},
-				["Kotlin - La Croisade écarlate"] = {
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 41.75,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
 				},
 				["Atec - La Croisade écarlate"] = {
 					["padding"] = -2,
@@ -338,8 +338,7 @@ Bartender4DB = {
 		},
 		["BagBar"] = {
 			["profiles"] = {
-				["Clou"] = {
-					["enabled"] = false,
+				["Kotlin - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -347,7 +346,8 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Kotlin - La Croisade écarlate"] = {
+				["Clou"] = {
+					["enabled"] = false,
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -367,14 +367,6 @@ Bartender4DB = {
 		},
 		["BlizzardArt"] = {
 			["profiles"] = {
-				["Clou"] = {
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
-				},
 				["Kotlin - La Croisade écarlate"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -383,6 +375,14 @@ Bartender4DB = {
 						["x"] = -512,
 						["point"] = "BOTTOM",
 					},
+				},
+				["Clou"] = {
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
 				},
 				["Atec - La Croisade écarlate"] = {
 					["enabled"] = true,
@@ -397,15 +397,6 @@ Bartender4DB = {
 		},
 		["StanceBar"] = {
 			["profiles"] = {
-				["Clou"] = {
-					["enabled"] = false,
-					["position"] = {
-						["y"] = -15,
-						["x"] = -82.49998474121094,
-						["point"] = "CENTER",
-					},
-					["version"] = 3,
-				},
 				["Kotlin - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
@@ -414,6 +405,15 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 						["scale"] = 1,
 					},
+				},
+				["Clou"] = {
+					["enabled"] = false,
+					["position"] = {
+						["y"] = -15,
+						["x"] = -82.49998474121094,
+						["point"] = "CENTER",
+					},
+					["version"] = 3,
 				},
 				["Atec - La Croisade écarlate"] = {
 					["version"] = 3,
@@ -427,20 +427,20 @@ Bartender4DB = {
 		},
 		["PetBar"] = {
 			["profiles"] = {
-				["Clou"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 69.00001525878906,
-						["x"] = -2.999990940093994,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
 				["Kotlin - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 143,
 						["x"] = -120,
 						["point"] = "BOTTOM",
+					},
+				},
+				["Clou"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 69.00001525878906,
+						["x"] = -2.999990940093994,
+						["point"] = "BOTTOMLEFT",
 					},
 				},
 				["Atec - La Croisade écarlate"] = {
@@ -455,14 +455,6 @@ Bartender4DB = {
 		},
 		["Vehicle"] = {
 			["profiles"] = {
-				["Clou"] = {
-					["position"] = {
-						["y"] = 109.0000152587891,
-						["x"] = -169.9998779296875,
-						["point"] = "BOTTOMRIGHT",
-					},
-					["version"] = 3,
-				},
 				["Kotlin - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
@@ -470,6 +462,14 @@ Bartender4DB = {
 						["x"] = 104.5000915527344,
 						["point"] = "CENTER",
 					},
+				},
+				["Clou"] = {
+					["position"] = {
+						["y"] = 109.0000152587891,
+						["x"] = -169.9998779296875,
+						["point"] = "BOTTOMRIGHT",
+					},
+					["version"] = 3,
 				},
 				["Atec - La Croisade écarlate"] = {
 					["version"] = 3,
@@ -487,12 +487,12 @@ Bartender4DB = {
 		["Atec - La Croisade écarlate"] = "Clou",
 	},
 	["profiles"] = {
-		["Clou"] = {
+		["Kotlin - La Croisade écarlate"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Kotlin - La Croisade écarlate"] = {
+		["Clou"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
