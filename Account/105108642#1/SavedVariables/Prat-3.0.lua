@@ -1,7 +1,23 @@
 
 Prat3DB = {
 	["namespaces"] = {
-		["Prat_TellTarget"] = {
+		["Prat_ChannelColorMemory"] = {
+		},
+		["Prat_Fading"] = {
+		},
+		["Prat_Total RP 3"] = {
+		},
+		["Prat_Sounds"] = {
+		},
+		["Prat_Mentions"] = {
+		},
+		["Prat_CopyChat"] = {
+		},
+		["Prat_Timestamps"] = {
+		},
+		["Prat_ServerNames"] = {
+		},
+		["Prat_UrlCopy"] = {
 		},
 		["Prat_AltNames"] = {
 		},
@@ -12,41 +28,27 @@ Prat3DB = {
 		["Prat_Frames"] = {
 			["profiles"] = {
 				["Default"] = {
-					["minchatwidthdefault"] = 296,
+					["initialized"] = true,
 					["maxchatheightdefault"] = 399.9999694824219,
 					["maxchatwidthdefault"] = 608,
-					["initialized"] = true,
+					["minchatwidthdefault"] = 296,
 					["minchatheightdefault"] = 120.0000076293945,
 				},
 			},
 		},
-		["Prat_ChannelColorMemory"] = {
-		},
 		["Prat_Editbox"] = {
 		},
-		["Prat_Fading"] = {
+		["Prat_History"] = {
 		},
-		["Prat_UrlCopy"] = {
+		["Prat_Font"] = {
 		},
 		["Prat_Bubbles"] = {
 		},
-		["Prat_PopupMessage"] = {
+		["Prat_TellTarget"] = {
 		},
-		["Prat_Sounds"] = {
-		},
-		["Prat_ChannelNames"] = {
+		["Prat_Paragraph"] = {
 		},
 		["Prat_KeyBindings"] = {
-		},
-		["Prat_Timestamps"] = {
-		},
-		["Prat_Scroll"] = {
-		},
-		["Prat_ChannelSticky"] = {
-		},
-		["Prat_Achievements"] = {
-		},
-		["Prat_Font"] = {
 		},
 		["Prat_Alias"] = {
 		},
@@ -54,15 +56,15 @@ Prat3DB = {
 		},
 		["Prat_Highlight"] = {
 		},
-		["Prat_Paragraph"] = {
+		["Prat_PopupMessage"] = {
 		},
-		["Prat_Mentions"] = {
+		["Prat_Scroll"] = {
 		},
 		["Prat_Invites"] = {
 		},
-		["Prat_History"] = {
+		["Prat_ChannelNames"] = {
 		},
-		["Prat_CopyChat"] = {
+		["Prat_ChannelSticky"] = {
 		},
 		["Prat_ChatLog"] = {
 		},
@@ -70,7 +72,7 @@ Prat3DB = {
 		},
 		["Prat_Buttons"] = {
 		},
-		["Prat_ServerNames"] = {
+		["Prat_Achievements"] = {
 		},
 		["Prat_HoverTips"] = {
 		},
@@ -78,11 +80,14 @@ Prat3DB = {
 	["profileKeys"] = {
 		["Kotlin - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
+		["Nylaria - La Croisade écarlate"] = "Default",
+		["Kotlin - Ysondre"] = "Default",
+		["Coven - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["modules"] = {
-				["ChatLog"] = 2,
+				["Alias"] = 2,
 				["Mentions"] = 2,
 				["PopupMessage"] = 2,
 				["AltNames"] = 2,
@@ -90,7 +95,7 @@ Prat3DB = {
 				["Paragraph"] = 2,
 				["KeyBindings"] = 2,
 				["OriginalButtons"] = 2,
-				["Alias"] = 2,
+				["ChatLog"] = 2,
 			},
 		},
 	},

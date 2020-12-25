@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "smart" "3578227"
+#showtooltip 
+/cast [@cursor] Breuvage poussière-d’os(Nécro-seigneurs)
+END

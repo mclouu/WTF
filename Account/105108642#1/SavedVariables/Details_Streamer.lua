@@ -2,6 +2,7 @@
 Details_StreamerDB = {
 	["characters"] = {
 		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Kotlin - Ysondre"] = "Kotlin - La Croisade écarlate",
 	},
 	["profiles"] = {
 		["Kotlin - La Croisade écarlate"] = {
@@ -11,7 +12,7 @@ Details_StreamerDB = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["is_first_run"] = true,
+			["is_first_run"] = false,
 			["arrow_color"] = {
 				1, -- [1]
 				1, -- [2]

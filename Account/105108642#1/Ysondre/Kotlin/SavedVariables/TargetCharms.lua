@@ -1,0 +1,37 @@
+
+TargetCharms_Options = {
+	["ReadyCharm"] = {
+		["enabled"] = true,
+		["alphaVal"] = 0.5,
+		["barscale"] = 0.9999999403953552,
+		["draggable"] = true,
+		["text"] = "Ready?",
+		["partyOnly"] = true,
+		["width"] = 60,
+	},
+	["Version"] = "1.6.2",
+	["TargetCharms"] = {
+		["enabled"] = false,
+		["barscale"] = 0.9999999403953552,
+		["buttonTemplate"] = ">1v2v3>6^5^4>7v8v0",
+		["showontarget"] = true,
+		["partyOnly"] = false,
+		["toggleicon"] = false,
+		["alphaVal"] = 0.5,
+		["draggable"] = false,
+		["Yspacing"] = -0.5882816314697266,
+		["Xspacing"] = 0,
+	},
+	["FlareCharms"] = {
+		["enabled"] = true,
+		["barscale"] = 0.7029367089271545,
+		["buttonTemplate"] = ">D>R>W>SvB<G<PvO>Y>X",
+		["showicons"] = false,
+		["partyOnly"] = true,
+		["Yspacing"] = 0,
+		["draggable"] = true,
+		["alphaVal"] = 0.5,
+		["Xspacing"] = 0,
+	},
+	["Name"] = "Atec",
+}

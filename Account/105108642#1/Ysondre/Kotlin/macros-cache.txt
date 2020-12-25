@@ -1,0 +1,47 @@
+VER 3 0100000000000006 "disci" "135744"
+/run SetSpecialization(1)
+END
+VER 3 0100000000000009 "Me" "642580"
+#showtooltip
+/cast [@player] Plume angélique
+/stopspelltarget
+END
+VER 3 010000000000000C "MO" "135978"
+#showtooltip Toucher vampirique
+/cast [@mouseover,exists,harm]Toucher vampirique;Toucher vampirique
+END
+VER 3 010000000000000A "MO" "236216"
+#showtooltip Mot de l’ombre : Douleur
+/cast [@mouseover,exists,harm]Mot de l’ombre : Douleur;Mot de l’ombre : Douleur
+END
+VER 3 010000000000000B "MO" "136207"
+#showtooltip Mot de l’ombre : Douleur
+/cast [@mouseover,exists,harm]Mot de l’ombre : Douleur;Mot de l’ombre : Douleur
+END
+VER 3 0100000000000005 "ombre" "135741"
+/run SetSpecialization(3)
+END
+VER 3 010000000000000E "Ramenko" "135894"
+/cast [target=Ramenkö] Purifier
+END
+VER 3 0100000000000007 "Sacré" "135749"
+/run SetSpecialization(2)
+END
+VER 3 0100000000000010 "Snake" "136070"
+/target Totem de vague gangrenée
+/cast Purge du mal   
+END
+VER 3 010000000000000D "ss" "135758"
+#showtooltip Mot de l’ombre : Douleur
+/cast [@mouseover,exists,harm]Châtiment;Châtiment
+END
+VER 3 0100000000000008 "testDisci" "132163"
+/i Yo ! je test la spé Disci pour la première fois, vu son originalité je préfère prévenir :D
+END
+VER 3 010000000000000F "totem" "136061"
+/target Totem de vague gangrenée
+/cast Purge du mal          
+END
+VER 3 0100000000000004 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Kot[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

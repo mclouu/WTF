@@ -110,3 +110,5 @@ DBM-Party-Shadowlands: enabled
 DBM-DMF: enabled
 DBM-Shadowlands: enabled
 DBM-WorldEvents: enabled
+OPie_Classic: disabled
+BasicMinimap_Options: enabled

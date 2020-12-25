@@ -1,4 +1,4 @@
 
 VUHDO_OPTIONS_SETTINGS = {
-	["scale"] = 1.049999952316284,
+	["scale"] = 0.9500000476837158,
 }

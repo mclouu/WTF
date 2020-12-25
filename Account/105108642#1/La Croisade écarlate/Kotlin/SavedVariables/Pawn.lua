@@ -16,8 +16,8 @@ PawnOptions = {
 		}, -- [2]
 		{
 			["ID"] = 178779,
-			["Level"] = 158,
-			["Link"] = "|cff0070dd|Hitem:178779::::::::60:102::1:4:6805:6652:1472:4785:1:28:747:::|h[Protège-épaules de froidure éternelle]|h|r",
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178779::::::::60:102::23:4:6807:43:1498:6646:1:28:749:::|h[Protège-épaules de froidure éternelle]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
@@ -36,9 +36,9 @@ PawnOptions = {
 			["Link"] = "|cffff8000|Hitem:172318::::::::60:102::63:5:7107:6716:6648:6649:1487::::|h[Équilibre en toute chose]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 184749,
-			["Level"] = 181,
-			["Link"] = "|cff0070dd|Hitem:184749::::::::60:102::14:1:7239:2:9:60:28:837:::|h[Garde-ronces du giboyeur]|h|r",
+			["ID"] = 178731,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178731::::::::60:102::23:4:6807:42:1498:6646:1:28:749:::|h[Souliers cousus de viscères]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 178702,
@@ -57,10 +57,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:178329:6168:::::::60:102::14:3:6789:1498:6646:1:28:783:::|h[Chevalière de l’aspirant impénitent]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 178781,
-			["Level"] = 171,
+			["ID"] = 178329,
+			["Level"] = 184,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff0070dd|Hitem:178781::::::::60:102::2:5:6806:6652:7193:1485:4785:1:28:748:::|h[Anneau rituel de commandant]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178329:6168:::::::60:104::14:3:6789:1498:6646:1:28:783:::|h[Chevalière de l’aspirant impénitent]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 184052,
@@ -69,10 +69,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:184052::::::::60:102::14:3:6789:1498:6646:1:28:783:::|h[Médaillon de l’aspirant impénitent]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 181459,
-			["Level"] = 174,
+			["ID"] = 184052,
+			["Level"] = 184,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff0070dd|Hitem:181459::::::::60:102::27:4:6652:1472:5871:6616:1:28:2060:::|h[Éclaté fanebosquet]|h|r",
+			["Link"] = "|cffa335ee|Hitem:184052::::::::60:104::14:3:6789:1498:6646:1:28:783:::|h[Médaillon de l’aspirant impénitent]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 184758,
@@ -81,8 +81,8 @@ PawnOptions = {
 		}, -- [15]
 		{
 			["ID"] = 178829,
-			["Level"] = 171,
-			["Link"] = "|cff0070dd|Hitem:178829::::::::60:102::2:4:6806:6652:1485:4785:1:28:748:::|h[Férule nathriane]|h|r",
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178829::::::::60:102::23:4:6807:6652:1498:6646:1:28:749:::|h[Férule nathriane]|h|r",
 		}, -- [16]
 	},
 	["LastKeybindingsSet"] = 1,

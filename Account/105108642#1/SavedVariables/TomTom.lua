@@ -3,16 +3,19 @@ TomTomDB = {
 	["profileKeys"] = {
 		["Kotlin - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
+		["Nylaria - La Croisade écarlate"] = "Default",
+		["Kotlin - Ysondre"] = "Default",
+		["Coven - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["arrow"] = {
 				["position"] = {
-					"CENTER", -- [1]
+					"TOPRIGHT", -- [1]
 					nil, -- [2]
-					"CENTER", -- [3]
-					0, -- [4]
-					0, -- [5]
+					"TOPRIGHT", -- [3]
+					-303.9999389648438, -- [4]
+					-156.9999847412109, -- [5]
 				},
 			},
 			["block"] = {
@@ -33,11 +36,20 @@ TomTomWaypointsM = {
 	["profileKeys"] = {
 		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
+		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
+		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+		["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
 	},
 	["profiles"] = {
 		["Kotlin - La Croisade écarlate"] = {
 		},
 		["Atec - La Croisade écarlate"] = {
+		},
+		["Nylaria - La Croisade écarlate"] = {
+		},
+		["Kotlin - Ysondre"] = {
+		},
+		["Coven - La Croisade écarlate"] = {
 		},
 	},
 }

@@ -1,0 +1,10 @@
+
+JojoMonk_Config = {
+	["ActiveHurtSFX"] = false,
+	["ActiveQuoteSFX"] = false,
+	["ActiveSFX"] = false,
+	["QuoteFrequencyTime"] = 0,
+	["ActiveCharacter"] = "",
+	["lang"] = "English",
+	["ActiveDeadEliteSFX"] = false,
+}

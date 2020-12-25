@@ -3,6 +3,9 @@ BasicMinimapSV = {
 	["profileKeys"] = {
 		["Kotlin - La Croisade écarlate"] = "Clou",
 		["Atec - La Croisade écarlate"] = "Clou",
+		["Nylaria - La Croisade écarlate"] = "Clou",
+		["Kotlin - Ysondre"] = "Default",
+		["Coven - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -41,7 +44,7 @@ BasicMinimapSV = {
 					0.4862734377384186, -- [2]
 					0.03921560198068619, -- [3]
 				},
-				["colorNormal"] = {
+				["colorSanctuary"] = {
 					0.9999977946281433, -- [1]
 					0.4862734377384186, -- [2]
 					0.03921560198068619, -- [3]
@@ -57,7 +60,7 @@ BasicMinimapSV = {
 					0.4862734377384186, -- [2]
 					0.03921560198068619, -- [3]
 				},
-				["colorSanctuary"] = {
+				["colorNormal"] = {
 					0.9999977946281433, -- [1]
 					0.4862734377384186, -- [2]
 					0.03921560198068619, -- [3]
