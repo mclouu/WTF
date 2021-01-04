@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0408,
+	["LastVersion"] = 2.0409,
 	["LastPlayerFullName"] = "Kotlin-Ysondre",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -69,10 +69,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:137484::::::::45:258::43:3:3573:1472:3336::::|h[Flacon de la nuit solennelle]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 151969,
-			["Level"] = 46,
+			["ID"] = 137484,
+			["Level"] = 50,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:151969::::::::45:258::4:3:3613:1468:3528::::|h[Balise de terminus]|h|r",
+			["Link"] = "|cffa335ee|Hitem:137484::::::::45:256::43:3:3573:1472:3336::::|h[Flacon de la nuit solennelle]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 148417,
@@ -80,9 +80,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:148417::::::::45:258::8:5:3581:1705:41:1472:3528::::|h[Drapé de piété du gladiateur autoritaire]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 128827,
-			["Level"] = 69,
-			["Link"] = "|cffe6cc80|Hitem:128827::154077:154057:152055::::45:258::9:2:740:1521:2:8:952:24:1:3:3581:1478:3528:3:3581:1478:3336:3:3613:1468:3528|h[Xal'atath, lame de l'Empire noir]|h|r",
+			["ID"] = 128868,
+			["Level"] = 70,
+			["Link"] = "|cffe6cc80|Hitem:128868::151005:155852:151005::::45:256::9:2:738:1522:2:8:292:24:1:3:3397:1478:3528:3:3610:1472:3528:3:3396:1478:3336|h[Courroux-de-Lumière]|h|r",
 		}, -- [16]
 		{
 			["ID"] = 133958,

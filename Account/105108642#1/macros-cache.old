@@ -18,6 +18,9 @@ END
 VER 3 0000000000000039 "clearFocus" "INV_MISC_QUESTIONMARK"
 / cast [talent: 3/2] repentance; [talent: 3/3] Lumière aveuglante
 END
+VER 3 000000000000004E "Coffre SL" "2000858"
+/run LoadAddOn ("Blizzard_WeeklyRewards"); WeeklyRewardsFrame: Show ()
+END
 VER 3 0000000000000041 "Decursive" "INV_MISC_QUESTIONMARK"
 /stopcasting
 /cast [@mouseover,nomod,exists] Détoxification;  [@mouseover,exists,mod:ctrl] Détoxification; [@mouseover,exists,mod:shift] Détoxification

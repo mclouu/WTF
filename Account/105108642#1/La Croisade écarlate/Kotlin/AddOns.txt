@@ -17,8 +17,8 @@ RaiderIO_DB_US_H: disabled
 RaiderIO_DB_US_A: disabled
 MaxDps_Druid: disabled
 MaxDps: disabled
-EpicMusicPlayer_MP3: enabled
-EpicMusicPlayer: enabled
+EpicMusicPlayer_MP3: disabled
+EpicMusicPlayer: disabled
 Details_Vanguard: disabled
 Details_TinyThreat: disabled
 Details_Streamer: disabled
@@ -43,8 +43,8 @@ Capping_Options: enabled
 Chat_Sound_Customizer: enabled
 Chronicles: enabled
 Details: enabled
-Details_DataStorage: enabled
-eAlignUpdated: enabled
+Details_DataStorage: disabled
+eAlignUpdated: disabled
 EasyQueue: enabled
 HandyNotes: enabled
 HandyNotes_BattleForAzerothTreasures: enabled
@@ -74,14 +74,14 @@ PlayedTimeMinimapClock: enabled
 Postal: enabled
 Prat-3.0: enabled
 Prat-3.0_Libraries: enabled
-PrettyReps: enabled
+PrettyReps: disabled
 RaiderIO: enabled
 RaiderIO_DB_EU_A_R: enabled
 RaiderIO_DB_EU_H_R: enabled
 Rarity: enabled
 Rarity_Options: enabled
 SexyMap: disabled
-sfClassIconPortraits: enabled
+sfClassIconPortraits: disabled
 ShadowedUF_Options: enabled
 ShadowedUnitFrames: enabled
 SoulbindsTalents: enabled
@@ -114,3 +114,4 @@ OPie_Classic: disabled
 BasicMinimap: enabled
 BasicMinimap_Options: enabled
 TargetCharms: enabled
+XLoot_Options: enabled

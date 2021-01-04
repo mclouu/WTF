@@ -23,18 +23,18 @@ OneRing_Config = {
 		},
 		["Clou"] = {
 			["RingAtMouse"] = true,
+			["Bindings"] = {
+				["Jouet"] = "CTRL-NUMPAD5",
+				["sp"] = "CTRL-NUMPAD4",
+				["SpecMenu"] = "CTRL-NUMPAD2",
+				["mount"] = "CTRL-NUMPAD1",
+				["Sp"] = "CTRL-NUMPAD4",
+				["Pet"] = "CTRL-NUMPAD3",
+				["Monture"] = "CTRL-NUMPAD1",
+			},
 			["RingScale"] = 0.7000000476837158,
 			["RotationTokens"] = {
 				["OPCTAt"] = "OPCHSh",
-			},
-			["Bindings"] = {
-				["mount"] = "CTRL-NUMPAD1",
-				["Sp"] = "CTRL-NUMPAD4",
-				["SpecMenu"] = "CTRL-NUMPAD2",
-				["Jouet"] = "CTRL-NUMPAD5",
-				["sp"] = "CTRL-NUMPAD4",
-				["Pet"] = "CTRL-NUMPAD3",
-				["Monture"] = "CTRL-NUMPAD1",
 			},
 		},
 	},
@@ -150,9 +150,9 @@ OneRing_Config = {
 					284, -- [2]
 					["sliceToken"] = "ABuekKe1KPX",
 				}, -- [12]
-				["name"] = "mount",
-				["save"] = true,
 				["limit"] = "Kotlin-LaCroisadeécarlate",
+				["save"] = true,
+				["name"] = "mount",
 			},
 			["Pet"] = {
 				{
@@ -254,28 +254,8 @@ OneRing_Config = {
 			},
 			["Jouet"] = {
 				["save"] = true,
+				["limit"] = "Atec-LaCroisadeécarlate",
 				["name"] = "Jouet",
-				["limit"] = "Atec-LaCroisadeécarlate",
-			},
-			["Sp"] = {
-				{
-					"specset", -- [1]
-					2, -- [2]
-					["sliceToken"] = "ABuekH4Z7arP",
-				}, -- [1]
-				{
-					"specset", -- [1]
-					1, -- [2]
-					["sliceToken"] = "ABuekH4Z7arO",
-				}, -- [2]
-				{
-					"specset", -- [1]
-					3, -- [2]
-					["sliceToken"] = "ABuekH4Z7arI",
-				}, -- [3]
-				["save"] = true,
-				["name"] = "Spé",
-				["limit"] = "Atec-LaCroisadeécarlate",
 			},
 			["sp"] = {
 				{
@@ -298,9 +278,29 @@ OneRing_Config = {
 					4, -- [2]
 					["sliceToken"] = "ABuekKq6o=i",
 				}, -- [4]
-				["limit"] = "Kotlin-LaCroisadeécarlate",
-				["save"] = true,
 				["name"] = "spé",
+				["save"] = true,
+				["limit"] = "Kotlin-LaCroisadeécarlate",
+			},
+			["Sp"] = {
+				{
+					"specset", -- [1]
+					2, -- [2]
+					["sliceToken"] = "ABuekH4Z7arP",
+				}, -- [1]
+				{
+					"specset", -- [1]
+					1, -- [2]
+					["sliceToken"] = "ABuekH4Z7arO",
+				}, -- [2]
+				{
+					"specset", -- [1]
+					3, -- [2]
+					["sliceToken"] = "ABuekH4Z7arI",
+				}, -- [3]
+				["save"] = true,
+				["limit"] = "Atec-LaCroisadeécarlate",
+				["name"] = "Spé",
 			},
 			["Monture"] = {
 				{
@@ -429,8 +429,8 @@ OneRing_Config = {
 					["sliceToken"] = "ABuekH4Z7awz",
 				}, -- [25]
 				["save"] = true,
-				["limit"] = "Atec-LaCroisadeécarlate",
 				["name"] = "Monture",
+				["limit"] = "Atec-LaCroisadeécarlate",
 			},
 		},
 	},

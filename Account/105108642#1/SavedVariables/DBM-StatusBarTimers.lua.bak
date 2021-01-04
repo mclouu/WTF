@@ -2,12 +2,12 @@
 DBT_AllPersistentOptions = {
 	["Default"] = {
 		["DBM"] = {
-			["HugeTimerPoint"] = "CENTER",
+			["HugeTimerPoint"] = "TOP",
 			["TimerPoint"] = "TOPRIGHT",
-			["TimerX"] = -223,
-			["HugeTimerX"] = 0,
-			["TimerY"] = -259.9999694824219,
-			["HugeTimerY"] = -120.0000228881836,
+			["TimerX"] = -324.9999694824219,
+			["HugeTimerX"] = 31.00000762939453,
+			["HugeTimerY"] = -36.49998474121094,
+			["TimerY"] = -162.0000152587891,
 		},
 	},
 }

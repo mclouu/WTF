@@ -17,8 +17,8 @@ RaiderIO_DB_US_H: disabled
 RaiderIO_DB_US_A: disabled
 MaxDps_Druid: disabled
 MaxDps: disabled
-EpicMusicPlayer_MP3: enabled
-EpicMusicPlayer: enabled
+EpicMusicPlayer_MP3: disabled
+EpicMusicPlayer: disabled
 Details_Vanguard: disabled
 Details_TinyThreat: disabled
 Details_Streamer: disabled
@@ -44,7 +44,7 @@ Chat_Sound_Customizer: enabled
 Chronicles: enabled
 Details: disabled
 Details_DataStorage: disabled
-eAlignUpdated: enabled
+eAlignUpdated: disabled
 EasyQueue: disabled
 HandyNotes: enabled
 HandyNotes_BattleForAzerothTreasures: enabled
@@ -69,13 +69,13 @@ Overachiever_Cache: enabled
 Overachiever_Tabs: enabled
 Overachiever_Trade: enabled
 Pawn: enabled
-Plater: disabled
+Plater: enabled
 PlayedTimeMinimapClock: enabled
 Postal: enabled
 Prat-3.0: enabled
 Prat-3.0_Libraries: enabled
-PrettyReps: enabled
-RaiderIO: enabled
+PrettyReps: disabled
+RaiderIO: disabled
 RaiderIO_DB_EU_A_R: enabled
 RaiderIO_DB_EU_H_R: enabled
 Rarity: enabled
@@ -91,7 +91,7 @@ VuhDo: disabled
 VuhDoOptions: disabled
 WeakAuras: enabled
 WeakAurasArchive: enabled
-WeakAurasCompanion: enabled
+WeakAurasCompanion: disabled
 WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
 WeakAurasTemplates: enabled

@@ -1,4 +1,4 @@
 
 TankChecked = nil
 HealChecked = nil
-DPSChecked = nil
+DPSChecked = true

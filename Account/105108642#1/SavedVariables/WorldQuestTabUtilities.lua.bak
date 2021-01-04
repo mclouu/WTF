@@ -10,31 +10,80 @@ WQTUDB = {
 	["global"] = {
 		["versionCheck"] = "9.0.01.4",
 		["history"] = {
+			[1609412400] = {
+				["La Croisade écarlate"] = {
+					["Kotlin"] = {
+						["rewards"] = {
+							["anima"] = 1,
+						},
+						["faction"] = "Horde",
+					},
+					["Atec"] = {
+						["faction"] = "Horde",
+						["rewards"] = {
+							["gold"] = 973440,
+						},
+					},
+				},
+			},
 			[1608634800] = {
 				["La Croisade écarlate"] = {
 					["Atec"] = {
+						["faction"] = "Horde",
 						["rewards"] = {
 							["currency;1805"] = 175,
 							["gold"] = 954720,
 						},
+					},
+				},
+			},
+			[1609585200] = {
+				["La Croisade écarlate"] = {
+					["Kotlin"] = {
 						["faction"] = "Horde",
+						["rewards"] = {
+							["anima"] = 15,
+							["gold"] = 1390700,
+						},
+					},
+				},
+			},
+			[1609153200] = {
+				["La Croisade écarlate"] = {
+					["Kotlin"] = {
+						["faction"] = "Horde",
+						["rewards"] = {
+							["currency;1806"] = 175,
+							["anima"] = 3,
+							["gold"] = 2857200,
+						},
+					},
+				},
+			},
+			[1609326000] = {
+				["La Croisade écarlate"] = {
+					["Kotlin"] = {
+						["faction"] = "Horde",
+						["rewards"] = {
+							["anima"] = 1,
+						},
 					},
 				},
 			},
 			[1608807600] = {
 				["La Croisade écarlate"] = {
 					["Atec"] = {
+						["faction"] = "Horde",
 						["rewards"] = {
 							["anima"] = 3,
 							["gold"] = 1060488,
 						},
-						["faction"] = "Horde",
 					},
 					["Kotlin"] = {
-						["faction"] = "Horde",
 						["rewards"] = {
 							["anima"] = 1,
 						},
+						["faction"] = "Horde",
 					},
 				},
 			},

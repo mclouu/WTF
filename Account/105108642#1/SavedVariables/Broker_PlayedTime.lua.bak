@@ -5,28 +5,28 @@ BrokerPlayedTimeDB = {
 			["Nylaria"] = {
 				["timePlayed"] = 192918,
 				["class"] = "MAGE",
-				["timeUpdated"] = 1608508474,
 				["level"] = 46,
+				["timeUpdated"] = 1608508474,
 			},
 			["Kotlin"] = {
-				["timePlayed"] = 3135658,
+				["timePlayed"] = 3436446,
 				["class"] = "DRUID",
+				["timeUpdated"] = 1609719070,
 				["level"] = 60,
-				["timeUpdated"] = 1608855471,
 			},
 			["Atec"] = {
-				["timePlayed"] = 2071531,
+				["timePlayed"] = 2103755,
 				["class"] = "MONK",
-				["level"] = 54,
-				["timeUpdated"] = 1608772262,
+				["timeUpdated"] = 1609696951,
+				["level"] = 55,
 			},
 		},
 		["Alliance"] = {
 			["Coven"] = {
 				["timePlayed"] = 4866326,
 				["class"] = "WARLOCK",
-				["level"] = 45,
 				["timeUpdated"] = 1608502502,
+				["level"] = 45,
 			},
 		},
 	},
@@ -38,10 +38,10 @@ BrokerPlayedTimeDB = {
 	["Ysondre"] = {
 		["Horde"] = {
 			["Kotlin"] = {
-				["timePlayed"] = 1258161,
+				["timePlayed"] = 1258719,
 				["class"] = "PRIEST",
-				["timeUpdated"] = 1608502881,
 				["level"] = 45,
+				["timeUpdated"] = 1609382160,
 			},
 		},
 	},

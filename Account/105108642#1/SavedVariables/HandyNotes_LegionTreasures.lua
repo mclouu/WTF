@@ -1,5 +1,15 @@
 
 HandyNotes_LegionTreasuresDB = {
+	["char"] = {
+		["Kotlin - La Croisade écarlate"] = {
+			["hidden"] = {
+				[680] = {
+					[26877073] = true,
+					[52733130] = true,
+				},
+			},
+		},
+	},
 	["profileKeys"] = {
 		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
@@ -9,6 +19,7 @@ HandyNotes_LegionTreasuresDB = {
 	},
 	["profiles"] = {
 		["Kotlin - La Croisade écarlate"] = {
+			["tooltip_pointanchor"] = true,
 		},
 		["Atec - La Croisade écarlate"] = {
 		},

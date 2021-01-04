@@ -14,6 +14,13 @@ XLootADB = {
 			},
 		},
 		["Frame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["show_slot_errors"] = false,
+				},
+			},
+		},
+		["Master"] = {
 		},
 		["Monitor"] = {
 			["profiles"] = {
@@ -24,11 +31,11 @@ XLootADB = {
 				},
 			},
 		},
-		["Master"] = {
-		},
 	},
 	["profileKeys"] = {
 		["Kotlin - La Croisade écarlate"] = "Default",
+		["Kotlin - Ysondre"] = "Default",
+		["Atec - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

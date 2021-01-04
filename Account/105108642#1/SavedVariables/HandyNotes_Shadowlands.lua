@@ -9,10 +9,13 @@ HandyNotes_ShadowlandsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["icon_display_faerie_tales"] = true,
 			["icon_display_vespers"] = true,
 			["icon_display_blessings"] = true,
-			["show_completed_nodes"] = true,
+			["use_char_achieves"] = true,
+			["hide_done_rares"] = true,
 			["icon_display_anima_shard"] = true,
+			["icon_display_pet_battles"] = false,
 		},
 	},
 }

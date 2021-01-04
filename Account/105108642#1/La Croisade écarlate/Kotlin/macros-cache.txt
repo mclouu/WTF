@@ -1,3 +1,11 @@
+VER 3 0100000000000006 "aaa" "136103"
+/cast Convoquer les esprits(Faë nocturnes)
+END
+VER 3 0100000000000008 "Berserker" "136060"
+#showtooltip Alignement céleste
+/cast Alignement céleste
+/cast Berserker(Raciale)
+END
 VER 3 0100000000000004 "cuire" "132722"
 /way Tornheim 47.9, 52.2
 /way Tornheim 79.7, 82.3
@@ -5,6 +13,15 @@ VER 3 0100000000000004 "cuire" "132722"
 /way Tornheim 47.3, 55.2
 END
 VER 3 0100000000000003 "MO" "236216"
-#showtooltip Éclat solaire(Solaire)
-/cast [@mouseover,exists,harm]Éclat solaire(Solaire);Éclat solaire(Solaire)
+#showtooltip Éclat solaire
+/cast [@mouseover,exists,harm]Éclat solaire ;Éclat solaire
+END
+VER 3 0100000000000005 "MO" "136096"
+#showtooltip Éclat lunaire
+/cast [@mouseover,exists,harm]Éclat lunaire ;Éclat lunaire
+END
+VER 3 0100000000000007 "SC" "236163"
+#showtooltip Charge sauvage
+/stopcasting
+/cast Charge sauvage
 END

@@ -21,19 +21,19 @@ BWQDB = {
 		["versionCheck"] = "9.0.06.2",
 		["profiles"] = {
 			[0] = {
-				["name"] = "Défaut",
 				["colors"] = {
 				},
+				["name"] = "Défaut",
 				["list"] = {
+				},
+				["general"] = {
+					["sortBy"] = 6,
 				},
 				["external"] = {
 					["TomTom"] = {
 					},
 				},
 				["pin"] = {
-				},
-				["general"] = {
-					["sortBy"] = 6,
 				},
 				["filters"] = {
 				},
