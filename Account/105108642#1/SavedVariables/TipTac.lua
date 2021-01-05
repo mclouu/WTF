@@ -36,24 +36,24 @@ TipTac_Config = {
 	["colorGuildByReaction"] = true,
 	["left"] = 1021.999938964844,
 	["showTargetedBy"] = false,
-	["powerBar"] = false,
+	["preFadeTime"] = 0.1,
 	["reactColoredBackdrop"] = false,
-	["optionsBottom"] = 200.9999847412109,
+	["fontSizeDelta"] = 2,
 	["classification_trivial"] = "~%s ",
 	["backdropInsets"] = 0,
 	["healthBarText"] = "value",
+	["classification_worldboss"] = "%s|r (Boss) ",
+	["classification_rareelite"] = "+%s|r (Rare) ",
+	["barFontFace"] = "Fonts\\ARIALN.TTF",
 	["manaBar"] = false,
-	["classColoredBorder"] = true,
-	["gradientTip"] = true,
-	["colorNameByClass"] = false,
 	["gradientColor"] = {
 		0.8, -- [1]
 		0.8, -- [2]
 		0.8, -- [3]
 		0.2, -- [4]
 	},
-	["classification_rareelite"] = "+%s|r (Rare) ",
-	["hideWorldTips"] = true,
+	["colSameGuild"] = "|cffff32ff",
+	["fadeTime"] = 0.1,
 	["healthBarColor"] = {
 		0.3, -- [1]
 		0.9, -- [2]
@@ -63,11 +63,11 @@ TipTac_Config = {
 	["targetYouText"] = "|cffff0000<<YOU>>",
 	["fontFace"] = "Fonts\\FRIZQT__.TTF",
 	["top"] = 23.99997329711914,
-	["fadeTime"] = 0.1,
-	["barFontFace"] = "Fonts\\ARIALN.TTF",
-	["colSameGuild"] = "|cffff32ff",
-	["classification_worldboss"] = "%s|r (Boss) ",
+	["hideWorldTips"] = true,
+	["gradientTip"] = true,
+	["classColoredBorder"] = true,
+	["colorNameByClass"] = false,
 	["barFontSize"] = 12,
-	["fontSizeDelta"] = 2,
-	["preFadeTime"] = 0.1,
+	["optionsBottom"] = 200.9999847412109,
+	["powerBar"] = false,
 }

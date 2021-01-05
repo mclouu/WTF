@@ -5,33 +5,16 @@ CastbarsDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
 		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
 		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 	},
 	["profiles"] = {
-		["Kotlin - Ysondre"] = {
-			["MirrorTimer"] = {
-			},
-			["FocusCastingBarFrame"] = {
-			},
-		},
 		["Kotlin - La Croisade écarlate"] = {
 			["FocusCastingBarFrame"] = {
 			},
 			["PetCastingBarFrame"] = {
 				["Show"] = false,
-			},
-			["CastingBarFrame"] = {
-				["ShowLatency"] = false,
-				["ShowSpellTarget"] = false,
-				["ShowIcon"] = false,
-				["ShowTotalCastTime"] = false,
-				["ShowSpellName"] = false,
-				["Show"] = false,
-				["ShowCooldownSpark"] = false,
-			},
-			["MirrorTimer"] = {
 			},
 			["TargetCastingBarFrame"] = {
 				["Border"] = "Details BarBorder 3",
@@ -42,14 +25,28 @@ CastbarsDB = {
 				},
 				["Height"] = 26,
 			},
+			["MirrorTimer"] = {
+			},
+			["CastingBarFrame"] = {
+				["ShowLatency"] = false,
+				["ShowSpellTarget"] = false,
+				["ShowIcon"] = false,
+				["ShowTotalCastTime"] = false,
+				["ShowSpellName"] = false,
+				["Show"] = false,
+				["ShowCooldownSpark"] = false,
+			},
+		},
+		["Kotlin - Ysondre"] = {
+			["MirrorTimer"] = {
+			},
+			["FocusCastingBarFrame"] = {
+			},
 		},
 		["Atec - La Croisade écarlate"] = {
 			["MirrorTimer"] = {
 			},
 			["FocusCastingBarFrame"] = {
-			},
-			["TargetCastingBarFrame"] = {
-				["Show"] = false,
 			},
 			["CastingBarFrame"] = {
 				["Show"] = false,
@@ -59,6 +56,9 @@ CastbarsDB = {
 				["ShowSpellTarget"] = false,
 				["ShowCooldownSpark"] = false,
 				["ShowPushback"] = false,
+			},
+			["TargetCastingBarFrame"] = {
+				["Show"] = false,
 			},
 		},
 	},

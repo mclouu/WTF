@@ -1,5 +1,12 @@
 
 Postal3DB = {
+	["profileKeys"] = {
+		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
+		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
+		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+		["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
+	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -10,13 +17,6 @@ Postal3DB = {
 				"Nylaria|La Croisade écarlate|Horde|46|MAGE", -- [5]
 			},
 		},
-	},
-	["profileKeys"] = {
-		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
-		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
-		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
-		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
-		["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
 	},
 	["profiles"] = {
 		["Kotlin - La Croisade écarlate"] = {

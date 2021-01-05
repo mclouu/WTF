@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0409,
+	["LastVersion"] = 2.041,
 	["LastPlayerFullName"] = "Atec-La Croisade écarlate",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -80,9 +80,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:181638::::::::54:270::53:2:7192:6652:2:28:807:9:54:::|h[Drapé forge-tripe]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 134674,
-			["Level"] = 108,
-			["Link"] = "|cff1eff00|Hitem:134674::::::::54:269::7:2:1723:1720:2:9:54:28:2035:::|h[Bâton d'armes de recrue de l’impatient]|h|r",
+			["ID"] = 181691,
+			["Level"] = 120,
+			["Link"] = "|cff0070dd|Hitem:181691::::::::56:268::53:2:7192:6652:2:28:807:9:56:::|h[Grand bâton forge-tripe]|h|r",
 		}, -- [16]
 		{
 			["ID"] = 176336,

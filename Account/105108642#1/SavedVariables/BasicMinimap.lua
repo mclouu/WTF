@@ -34,7 +34,7 @@ BasicMinimapSV = {
 			["calendarBtn"] = "None",
 			["radius"] = 7,
 			["zoneTextConfig"] = {
-				["colorArena"] = {
+				["colorContested"] = {
 					0.9999977946281433, -- [1]
 					0.4862734377384186, -- [2]
 					0.03921560198068619, -- [3]
@@ -55,7 +55,7 @@ BasicMinimapSV = {
 					0.03921560198068619, -- [3]
 				},
 				["classcolor"] = true,
-				["colorContested"] = {
+				["colorArena"] = {
 					0.9999977946281433, -- [1]
 					0.4862734377384186, -- [2]
 					0.03921560198068619, -- [3]

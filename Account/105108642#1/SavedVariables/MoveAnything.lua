@@ -26,33 +26,6 @@ MADB = {
 						-140.0000610351563, -- [5]
 					},
 				},
-				["OrderHallCommandBar"] = {
-					["orgPos"] = {
-						{
-							"TOPLEFT", -- [1]
-							"UIParent", -- [2]
-							"TOPLEFT", -- [3]
-							0, -- [4]
-							0, -- [5]
-						}, -- [1]
-						{
-							"TOPRIGHT", -- [1]
-							"UIParent", -- [2]
-							"TOPRIGHT", -- [3]
-							0, -- [4]
-							0, -- [5]
-						}, -- [2]
-					},
-					["name"] = "OrderHallCommandBar",
-					["hidden"] = true,
-					["pos"] = {
-						"TOPLEFT", -- [1]
-						"UIParent", -- [2]
-						"TOPLEFT", -- [3]
-						0, -- [4]
-						0, -- [5]
-					},
-				},
 				["ObjectiveTrackerFrameMover"] = {
 					["orgPos"] = {
 						"TOPRIGHT", -- [1]
@@ -70,12 +43,23 @@ MADB = {
 						186.0001220703125, -- [5]
 					},
 				},
+				["OrderHallCommandBar"] = {
+					["name"] = "OrderHallCommandBar",
+					["hidden"] = true,
+					["pos"] = {
+						"TOPLEFT", -- [1]
+						"UIParent", -- [2]
+						"TOPLEFT", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+				},
 			},
 		},
 	},
-	["closeGUIOnEscape"] = false,
+	["tooltips"] = true,
 	["playSound"] = false,
 	["noBags"] = false,
 	["collapsed"] = true,
-	["tooltips"] = true,
+	["closeGUIOnEscape"] = false,
 }

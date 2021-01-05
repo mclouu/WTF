@@ -7,13 +7,978 @@ _detalhes_database = {
 		["tabelas"] = {
 			{
 				{
-					["combatId"] = 1521,
 					["tipo"] = 2,
+					["combatId"] = 1523,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005629,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Glacecroc"] = 322240,
+								["Chauve-souris des grottes gelées"] = 281309,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["last_dps"] = 60872.31524250023,
+							["aID"] = "1127-0973C412",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 603549.005629,
+							["tipo"] = 1,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1609790390,
+							["classe"] = "DRUID",
+							["damage_taken"] = 0.005629,
+							["nome"] = "Kotlin",
+							["spells"] = {
+								["_ActorTable"] = {
+									[164815] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 58230,
+										["g_amt"] = 0,
+										["n_max"] = 33406,
+										["targets"] = {
+											["Chauve-souris des grottes gelées"] = 208096,
+										},
+										["n_dmg"] = 149866,
+										["n_min"] = 29115,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 208096,
+										["c_max"] = 58230,
+										["id"] = 164815,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 58230,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[78674] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 322240,
+										["targets"] = {
+											["Glacecroc"] = 322240,
+										},
+										["n_dmg"] = 322240,
+										["n_min"] = 322240,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 322240,
+										["c_max"] = 0,
+										["id"] = 78674,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 72,
+									},
+									[164812] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 36684,
+										["targets"] = {
+											["Chauve-souris des grottes gelées"] = 73213,
+										},
+										["n_dmg"] = 73213,
+										["n_min"] = 36529,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 73213,
+										["c_max"] = 0,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 64,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["total"] = 603549.005629,
+							["custom"] = 0,
+							["spec"] = 102,
+							["colocacao"] = 1,
+							["last_event"] = 1609790390,
+							["on_hold"] = false,
+							["start_time"] = 1609790381,
+							["serial"] = "Player-1127-0973C412",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.006947,
+							["damage_from"] = {
+								["Kotlin"] = true,
+							},
+							["targets"] = {
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006947,
+							["on_hold"] = false,
+							["fight_component"] = true,
+							["end_time"] = 1609790390,
+							["damage_taken"] = 281309.006947,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Chauve-souris des grottes gelées",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Kotlin"] = 0,
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 14,
+										["total"] = 0,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_amt"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["extra"] = {
+										},
+										["n_amt"] = 0,
+										["MISS"] = 12,
+										["DODGE"] = 2,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["aID"] = "80192",
+							["dps_started"] = false,
+							["total"] = 0.006947,
+							["custom"] = 0,
+							["last_event"] = 1609790389,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1609790390,
+							["serial"] = "Creature-0-1465-1116-26796-80192-0003737366",
+							["monster"] = true,
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.002576,
+							["damage_from"] = {
+								["Kotlin"] = true,
+							},
+							["targets"] = {
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002576,
+							["on_hold"] = false,
+							["fight_component"] = true,
+							["end_time"] = 1609790390,
+							["damage_taken"] = 322240.002576,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Glacecroc",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["aID"] = "80242",
+							["dps_started"] = false,
+							["total"] = 0.002576,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1609790390,
+							["serial"] = "Creature-0-1465-1116-26796-80242-0000737366",
+							["monster"] = true,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 1523,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.008011,
+							["last_hps"] = 0,
+							["healing_from"] = {
+							},
+							["targets"] = {
+							},
+							["healing_taken"] = 0.008011,
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.008011,
+							["targets_overheal"] = {
+							},
+							["aID"] = "1127-0973C412",
+							["totalover"] = 0.008011,
+							["total_without_pet"] = 0.008011,
+							["iniciar_hps"] = false,
+							["totaldenied"] = 0.008011,
+							["heal_enemy_amt"] = 0,
+							["total"] = 0.008011,
+							["spec"] = 102,
+							["classe"] = "DRUID",
+							["nome"] = "Kotlin",
+							["targets_absorbs"] = {
+							},
+							["grupo"] = true,
+							["last_event"] = 0,
+							["heal_enemy"] = {
+							},
+							["delay"] = 0,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["start_time"] = 0,
+							["serial"] = "Player-1127-0973C412",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 3,
+							},
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 1523,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.002799,
+							["resource"] = 6.002799,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "DRUID",
+							["passiveover"] = 0.002799,
+							["total"] = 0.002799,
+							["totalover"] = 0.002799,
+							["nome"] = "Kotlin",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["spec"] = 102,
+							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
+							["last_event"] = 1609790389,
+							["alternatepower"] = 0.002799,
+							["flag_original"] = 1297,
+							["serial"] = "Player-1127-0973C412",
+							["resource_type"] = 8,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 1523,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[164815] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 164815,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 7,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 48,
+							["aID"] = "1127-0973C412",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[269083] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[24858] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 24858,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[209746] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 209746,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[227723] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[335149] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 335149,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[342814] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 342814,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[345230] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 345230,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 2,
+							["nome"] = "Kotlin",
+							["spec"] = 102,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[93402] = 1,
+								[24858] = 1,
+								[8921] = 1,
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1609790390,
+							["classe"] = "DRUID",
+							["pets"] = {
+							},
+							["serial"] = "Player-1127-0973C412",
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 1523,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Kotlin"] = true,
+				},
+				["tempo_start"] = 1609790381,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					603548.862592, -- [1]
+					-0.3295870000000006, -- [2]
+					{
+						-0.009736000000000189, -- [1]
+						[0] = -0.03741000000001793,
+						["alternatepower"] = 0,
+						[6] = -0.007448999999999373,
+						[3] = -0.007726999999999151,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					603549, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "20:59:51",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Chauve-souris des grottes gelées",
+				["TotalElapsedCombatTime"] = 70854.094,
+				["CombatEndedAt"] = 70854.094,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "20:59:42",
+				["end_time"] = 70854.094,
+				["combat_id"] = 1523,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Kotlin"] = 603549.005629,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["overall_added"] = true,
+				["frags"] = {
+					["Glacecroc"] = 1,
+					["Chauve-souris des grottes gelées"] = 8,
+				},
+				["TimeData"] = {
+				},
+				["combat_counter"] = 2011,
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+					["Kotlin"] = {
+						{
+							false, -- [1]
+							25914, -- [2]
+							7011, -- [3]
+							1609792216.029, -- [4]
+							27880, -- [5]
+							"Nøcasualsty-CultedelaRivenoire", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [1]
+						{
+							false, -- [1]
+							325983, -- [2]
+							862, -- [3]
+							1609792216.361, -- [4]
+							27880, -- [5]
+							"Nøcasualsty-CultedelaRivenoire", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [2]
+						{
+							false, -- [1]
+							325983, -- [2]
+							1823, -- [3]
+							1609792217.621, -- [4]
+							27880, -- [5]
+							"Nøcasualsty-CultedelaRivenoire", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 4,
+					},
+				},
+				["start_time"] = 70844.179,
+				["contra"] = "Glacecroc",
+				["spells_cast_timeline"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 1522,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008173,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Grutush le Pilleur"] = 36256,
+							},
+							["pets"] = {
+							},
+							["classe"] = "DRUID",
+							["last_dps"] = 362560.08173,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 36256.008173,
+							["last_event"] = 1609790359,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1609790361,
+							["aID"] = "1127-0973C412",
+							["damage_taken"] = 0.008173,
+							["nome"] = "Kotlin",
+							["spec"] = 102,
+							["grupo"] = true,
+							["total"] = 36256.008173,
+							["custom"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+									[164812] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 36256,
+										["targets"] = {
+											["Grutush le Pilleur"] = 36256,
+										},
+										["n_dmg"] = 36256,
+										["n_min"] = 36256,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 36256,
+										["c_max"] = 0,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 64,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1609790359,
+							["serial"] = "Player-1127-0973C412",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.006752,
+							["damage_from"] = {
+								["Kotlin"] = true,
+							},
+							["targets"] = {
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["last_dps"] = 0,
+							["tipo"] = 1,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006752,
+							["end_time"] = 1609790361,
+							["fight_component"] = true,
+							["total"] = 0.006752,
+							["damage_taken"] = 36256.006752,
+							["on_hold"] = false,
+							["nome"] = "Grutush le Pilleur",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["aID"] = "80312",
+							["custom"] = 0,
+							["last_event"] = 0,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1609790361,
+							["serial"] = "Creature-0-1465-1116-26796-80312-0000737368",
+							["monster"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 1522,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 1522,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 1522,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 102,
+							["grupo"] = true,
+							["aID"] = "1127-0973C412",
+							["pets"] = {
+							},
+							["nome"] = "Kotlin",
+							["buff_uptime"] = 8,
+							["tipo"] = 4,
+							["last_event"] = 1609790361,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[335149] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 335149,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[24858] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 24858,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[227723] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269083] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-1127-0973C412",
+							["classe"] = "DRUID",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 1522,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Kotlin"] = true,
+				},
+				["CombatStartedAt"] = 70843.92,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					36256, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["totals_grupo"] = {
+					36256, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "20:59:22",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Grutush le Pilleur",
+				["TotalElapsedCombatTime"] = 1.496000000013737,
+				["CombatEndedAt"] = 70824.48700000001,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "20:59:20",
+				["end_time"] = 70824.48700000001,
+				["combat_id"] = 1522,
+				["player_last_events"] = {
+				},
+				["tempo_start"] = 1609790359,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Grutush le Pilleur",
+				["combat_counter"] = 2010,
+				["CombatSkillCache"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Kotlin"] = 36256.008173,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["start_time"] = 70822.991,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Grutush le Pilleur"] = 1,
+				},
+			}, -- [2]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 1521,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
 							["totalabsorbed"] = 0.00581,
-							["total"] = 17273.00581,
 							["damage_from"] = {
 							},
 							["targets"] = {
@@ -22,22 +987,25 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["spec"] = 102,
-							["colocacao"] = 1,
-							["classe"] = "DRUID",
+							["end_time"] = 1609734325,
+							["last_dps"] = 822.132594478811,
+							["aID"] = "1127-0973C412",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 17273.00581,
+							["on_hold"] = false,
+							["serial"] = "Player-1127-0973C412",
+							["dps_started"] = false,
+							["total"] = 17273.00581,
+							["friendlyfire_total"] = 0,
 							["friendlyfire"] = {
 							},
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["end_time"] = 1609734325,
-							["friendlyfire_total"] = 0,
-							["aID"] = "1127-0973C412",
 							["nome"] = "Kotlin",
+							["spec"] = 102,
+							["grupo"] = true,
+							["last_event"] = 1609734324,
+							["colocacao"] = 1,
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[190984] = {
 										["c_amt"] = 0,
@@ -215,82 +1183,15 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 893.3543216963619,
 							["custom"] = 0,
-							["last_event"] = 1609734324,
+							["tipo"] = 1,
 							["damage_taken"] = 0.00581,
 							["start_time"] = 1609734304,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["classe"] = "DRUID",
 						}, -- [1]
-						{
-							["flag_original"] = 68168,
-							["totalabsorbed"] = 0.006103,
-							["damage_from"] = {
-								["Kotlin"] = true,
-							},
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.006103,
-							["fight_component"] = true,
-							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734325,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Petit mystique illusoire",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[142238] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-										},
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 0,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 142238,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 1,
-										["a_amt"] = 0,
-										["n_amt"] = 0,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-								},
-							},
-							["aID"] = "71076",
-							["total"] = 0.006103,
-							["serial"] = "Creature-0-1465-1148-31811-71076-00007298A1",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 16030.006103,
-							["start_time"] = 1609734325,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [2]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.008651,
@@ -299,23 +1200,23 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
+							["serial"] = "Creature-0-1465-1148-31811-71079-00007298A1",
 							["pets"] = {
 							},
 							["friendlyfire"] = {
 							},
-							["classe"] = "UNKNOW",
+							["dps_started"] = false,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.008651,
+							["classe"] = "UNKNOW",
 							["fight_component"] = true,
-							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734325,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["total"] = 0.008651,
+							["damage_taken"] = 1243.008651,
+							["last_event"] = 0,
 							["nome"] = "Petit gardien illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142174] = {
 										["c_amt"] = 0,
@@ -344,33 +1245,168 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71079",
-							["total"] = 0.008651,
-							["serial"] = "Creature-0-1465-1148-31811-71079-00007298A1",
+							["monster"] = true,
+							["end_time"] = 1609734325,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 1243.008651,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1609734325,
 							["delay"] = 0,
+							["aID"] = "71079",
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.006103,
+							["damage_from"] = {
+								["Kotlin"] = true,
+							},
+							["targets"] = {
+							},
+							["serial"] = "Creature-0-1465-1148-31811-71076-00007298A1",
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.006103,
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["total"] = 0.006103,
+							["damage_taken"] = 16030.006103,
+							["last_event"] = 0,
+							["nome"] = "Petit mystique illusoire",
+							["spells"] = {
+								["_ActorTable"] = {
+									[142238] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 142238,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["monster"] = true,
+							["end_time"] = 1609734325,
+							["last_dps"] = 0,
+							["custom"] = 0,
 							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1609734325,
+							["delay"] = 0,
+							["aID"] = "71076",
 						}, -- [3]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1521,
 					["tipo"] = 3,
+					["combatId"] = 1521,
 					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Kotlin"] = 4860,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 4860.002091,
+							["total_without_pet"] = 0.002091,
+							["total"] = 0.002091,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-1127-0973C412",
+							["totalabsorb"] = 0.002091,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.002091,
+							["healing_taken"] = 0.002091,
+							["tipo"] = 2,
+							["end_time"] = 1609790359,
+							["spec"] = 102,
+							["healing_from"] = {
+							},
+							["nome"] = "Kotlin",
+							["spells"] = {
+								["_ActorTable"] = {
+									[8936] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Kotlin"] = 4860,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Kotlin"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 9,
+										["overheal"] = 4860,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 8936,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 9,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["totaldenied"] = 0.002091,
+							["aID"] = "1127-0973C412",
+							["custom"] = 0,
+							["last_event"] = 1609788853,
+							["classe"] = "DRUID",
+							["start_time"] = 1609790346,
+							["delay"] = 1609788853,
+							["timeMachine"] = 1,
+						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1521,
 					["tipo"] = 7,
+					["combatId"] = 1521,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.005735,
-							["resource"] = 69.005735,
+							["resource"] = 71.005735,
 							["targets"] = {
 							},
 							["pets"] = {
@@ -382,38 +1418,37 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.005735,
-							["last_event"] = 1609734325,
-							["aID"] = "1127-0973C412",
+							["last_event"] = 1609790359,
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.005735,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1521,
 					["tipo"] = 9,
+					["combatId"] = 1521,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 21,
-										["appliedamt"] = 1,
+										["id"] = 164815,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
@@ -431,101 +1466,102 @@ _detalhes_database = {
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 109,
 							["aID"] = "1127-0973C412",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[342814] = {
-										["activedamt"] = 1,
-										["id"] = 342814,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 19,
-										["appliedamt"] = 1,
+										["id"] = 342814,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 21,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[343648] = {
-										["activedamt"] = 1,
-										["id"] = 343648,
-										["targets"] = {
-										},
-										["uptime"] = 3,
-										["appliedamt"] = 1,
+										["id"] = 24858,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[339946] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
 										["activedamt"] = 1,
+										["uptime"] = 3,
 										["id"] = 339946,
-										["targets"] = {
-										},
-										["uptime"] = 3,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
-										["targets"] = {
-										},
-										["uptime"] = 21,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[48518] = {
-										["activedamt"] = 1,
-										["id"] = 48518,
-										["targets"] = {
-										},
-										["uptime"] = 3,
-										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[345230] = {
-										["activedamt"] = 2,
-										["id"] = 345230,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 18,
-										["appliedamt"] = 2,
+										["id"] = 345230,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[343648] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 3,
+										["id"] = 343648,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[48518] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 3,
+										["id"] = 48518,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 21,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 21,
-										["appliedamt"] = 1,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 28,
 							["nome"] = "Kotlin",
@@ -540,52 +1576,52 @@ _detalhes_database = {
 							},
 							["debuff_uptime_targets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
 							["last_event"] = 1609734325,
+							["tipo"] = 4,
 							["pets"] = {
 							},
 							["classe"] = "DRUID",
 							["serial"] = "Player-1127-0973C412",
-							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petit mystique illusoire",
 							["flag_original"] = 68168,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71076",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71076-00007298A1",
 							["spell_cast"] = {
 								[142238] = 1,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71076-00007298A1",
-							["aID"] = "71076",
 						}, -- [2]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petit gardien illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71079",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71079-00007298A1",
 							["spell_cast"] = {
 								[142174] = 2,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71079-00007298A1",
-							["aID"] = "71079",
 						}, -- [3]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1521,
 					["tipo"] = 2,
+					["combatId"] = 1521,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -593,19 +1629,13 @@ _detalhes_database = {
 					["Kotlin"] = true,
 				},
 				["tempo_start"] = 1609734304,
-				["cleu_timeline"] = {
+				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["overall_added"] = true,
-				["enemy"] = "Petit gardien illusoire",
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["last_events_tables"] = {
-				},
+				["combat_counter"] = 2006,
 				["totals"] = {
-					17272.983135, -- [1]
+					17272.925832, -- [1]
 					-0.006466, -- [2]
 					{
 						0, -- [1]
@@ -617,15 +1647,194 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Kotlin"] = {
+						{
+							false, -- [1]
+							8936, -- [2]
+							3752, -- [3]
+							1609788840.478, -- [4]
+							27880, -- [5]
+							"Kotlin", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [1]
+						{
+							false, -- [1]
+							8936, -- [2]
+							157, -- [3]
+							1609788842.201, -- [4]
+							27880, -- [5]
+							"Kotlin", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [2]
+						{
+							false, -- [1]
+							8936, -- [2]
+							157, -- [3]
+							1609788843.893, -- [4]
+							27880, -- [5]
+							"Kotlin", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [3]
+						{
+							false, -- [1]
+							8936, -- [2]
+							157, -- [3]
+							1609788845.594, -- [4]
+							27880, -- [5]
+							"Kotlin", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [4]
+						{
+							false, -- [1]
+							8936, -- [2]
+							157, -- [3]
+							1609788847.306, -- [4]
+							27880, -- [5]
+							"Kotlin", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [5]
+						{
+							false, -- [1]
+							8936, -- [2]
+							157, -- [3]
+							1609788849.014, -- [4]
+							27880, -- [5]
+							"Kotlin", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [6]
+						{
+							false, -- [1]
+							8936, -- [2]
+							157, -- [3]
+							1609788850.716, -- [4]
+							27880, -- [5]
+							"Kotlin", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [7]
+						{
+							false, -- [1]
+							8936, -- [2]
+							158, -- [3]
+							1609788852.406, -- [4]
+							27880, -- [5]
+							"Kotlin", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [8]
+						{
+							false, -- [1]
+							8936, -- [2]
+							8, -- [3]
+							1609788852.489, -- [4]
+							27880, -- [5]
+							"Kotlin", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 10,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:25:26",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Petit gardien illusoire",
+				["TotalElapsedCombatTime"] = 14789.922,
+				["CombatEndedAt"] = 14789.922,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "05:25:05",
+				["end_time"] = 14790.124,
+				["combat_id"] = 1521,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Kotlin"] = 17273.00581,
+						}, -- [1]
+					},
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
 				},
 				["totals_grupo"] = {
 					17273, -- [1]
@@ -640,52 +1849,23 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["instance_type"] = "scenario",
-				["frags_need_refresh"] = true,
-				["aura_timeline"] = {
+				["cleu_events"] = {
+					["n"] = 1,
 				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Kotlin"] = 17273.00581,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 14790.124,
-				["combat_counter"] = 2006,
-				["combat_id"] = 1521,
-				["TotalElapsedCombatTime"] = 14789.922,
-				["player_last_events"] = {
-				},
-				["CombatEndedAt"] = 14789.922,
-				["spells_cast_timeline"] = {
-				},
-				["data_fim"] = "05:25:26",
-				["data_inicio"] = "05:25:05",
 				["CombatSkillCache"] = {
 				},
+				["TimeData"] = {
+				},
+				["start_time"] = 14769.114,
+				["contra"] = "Petit mystique illusoire",
 				["frags"] = {
 					["Petit gardien illusoire"] = 1,
 					["Globule d’ambre volatil"] = 2,
@@ -694,20 +1874,15 @@ _detalhes_database = {
 					["Petite banshee illusoire"] = 1,
 					["Petit tisse-ambre illusoire"] = 1,
 				},
-				["start_time"] = 14769.114,
-				["TimeData"] = {
-				},
-				["contra"] = "Petit mystique illusoire",
-			}, -- [1]
+			}, -- [3]
 			{
 				{
-					["combatId"] = 1520,
 					["tipo"] = 2,
+					["combatId"] = 1520,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
 							["totalabsorbed"] = 0.007712,
-							["spec"] = 102,
 							["damage_from"] = {
 							},
 							["targets"] = {
@@ -717,22 +1892,21 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
-							["end_time"] = 1609734304,
 							["aID"] = "1127-0973C412",
+							["spec"] = 102,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 80820.00771199999,
-							["colocacao"] = 1,
 							["friendlyfire"] = {
 							},
+							["serial"] = "Player-1127-0973C412",
 							["dps_started"] = false,
-							["total"] = 80820.00771199999,
+							["end_time"] = 1609734304,
 							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[190984] = {
 										["c_amt"] = 0,
@@ -938,16 +2112,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 1879.272838952651,
-							["custom"] = 0,
+							["total"] = 80820.00771199999,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609734303,
 							["damage_taken"] = 0.007712,
 							["start_time"] = 1609734254,
 							["delay"] = 0,
-							["last_event"] = 1609734303,
+							["last_dps"] = 1879.272838952651,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -957,36 +2133,36 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.008755,
+							["serial"] = "Creature-0-1465-1148-31811-71067-0000F2986F",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.008755,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734297,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.008755,
+							["damage_taken"] = 29282.008755,
+							["last_event"] = 0,
 							["nome"] = "Grande vermine illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71067",
-							["serial"] = "Creature-0-1465-1148-31811-71067-0000F2986F",
-							["last_dps"] = 0,
+							["end_time"] = 1609734297,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 29282.008755,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609734297,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71067",
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -996,24 +2172,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.006083,
+							["serial"] = "Creature-0-1465-1148-31811-71076-0000F2986F",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.006083,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734297,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.006083,
+							["damage_taken"] = 40672.006083,
+							["last_event"] = 0,
 							["nome"] = "Petit mystique illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142238] = {
 										["c_amt"] = 0,
@@ -1042,16 +2216,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71076",
-							["serial"] = "Creature-0-1465-1148-31811-71076-0000F2986F",
-							["last_dps"] = 0,
+							["end_time"] = 1609734297,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 40672.006083,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609734297,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71076",
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -1061,48 +2237,48 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.003064,
+							["serial"] = "Creature-0-1465-1148-31811-71078-000072986F",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003064,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734297,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.003064,
+							["damage_taken"] = 10866.003064,
+							["last_event"] = 0,
 							["nome"] = "Petite vermine illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71078",
-							["serial"] = "Creature-0-1465-1148-31811-71078-000072986F",
-							["last_dps"] = 0,
+							["end_time"] = 1609734297,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 10866.003064,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609734297,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71078",
 						}, -- [4]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1520,
 					["tipo"] = 3,
+					["combatId"] = 1520,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1520,
 					["tipo"] = 7,
+					["combatId"] = 1520,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.003262,
@@ -1118,72 +2294,69 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.003262,
 							["last_event"] = 1609734304,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.003262,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1520,
 					["tipo"] = 9,
+					["combatId"] = 1520,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 24,
-										["appliedamt"] = 3,
+										["id"] = 164815,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[78675] = {
-										["activedamt"] = 0,
-										["id"] = 78675,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
+										["id"] = 78675,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 5,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 29,
-										["appliedamt"] = 5,
+										["id"] = 164812,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 289,
-							["buff_uptime_targets"] = {
-							},
 							["aID"] = "1127-0973C412",
 							["interrupt_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[97547] = {
 										["id"] = 97547,
@@ -1196,152 +2369,155 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[191034] = {
-										["activedamt"] = 2,
-										["id"] = 191034,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 16,
-										["appliedamt"] = 2,
+										["id"] = 191034,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[48518] = {
-										["activedamt"] = 1,
-										["id"] = 48518,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["id"] = 48518,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[342814] = {
-										["activedamt"] = 1,
-										["id"] = 342814,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 43,
-										["appliedamt"] = 1,
+										["id"] = 342814,
 										["refreshamt"] = 4,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[339943] = {
-										["activedamt"] = 1,
-										["id"] = 339943,
+									[48517] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 15,
+										["id"] = 48517,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 43,
-										["appliedamt"] = 1,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[339946] = {
-										["activedamt"] = 1,
-										["id"] = 339946,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 5,
-										["appliedamt"] = 1,
+										["id"] = 339946,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[345230] = {
-										["activedamt"] = 1,
-										["id"] = 345230,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 24,
-										["appliedamt"] = 1,
+										["id"] = 345230,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[48517] = {
-										["activedamt"] = 1,
-										["id"] = 48517,
+									[343648] = {
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
-										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["activedamt"] = 2,
+										["uptime"] = 12,
+										["id"] = 343648,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[324748] = {
-										["activedamt"] = 3,
-										["id"] = 324748,
+									[339943] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["uptime"] = 25,
-										["appliedamt"] = 3,
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 339943,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 43,
-										["appliedamt"] = 1,
+										["id"] = 24858,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[343648] = {
-										["activedamt"] = 2,
-										["id"] = 343648,
+									[324748] = {
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
-										["uptime"] = 12,
-										["appliedamt"] = 2,
+										["activedamt"] = 3,
+										["uptime"] = 25,
+										["id"] = 324748,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 43,
-										["appliedamt"] = 1,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["interrompeu_oque"] = {
 								[142238] = 1,
 							},
-							["debuff_uptime"] = 61,
 							["interrupt_targets"] = {
 								["Petit mystique illusoire"] = 1,
 							},
-							["interrupt"] = 1.00212,
+							["debuff_uptime"] = 61,
+							["buff_uptime_targets"] = {
+							},
+							["classe"] = "DRUID",
 							["nome"] = "Kotlin",
 							["spec"] = 102,
 							["grupo"] = true,
@@ -1359,33 +2535,33 @@ _detalhes_database = {
 							},
 							["colocacao"] = 1,
 							["last_event"] = 1609734297,
+							["tipo"] = 4,
+							["interrupt"] = 1.00212,
+							["serial"] = "Player-1127-0973C412",
 							["pets"] = {
 							},
-							["classe"] = "DRUID",
-							["serial"] = "Player-1127-0973C412",
-							["tipo"] = 4,
 						}, -- [1]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petit mystique illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71076",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71076-000072986F",
 							["spell_cast"] = {
 								[142238] = 2,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71076-000072986F",
-							["aID"] = "71076",
 						}, -- [2]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1520,
 					["tipo"] = 2,
+					["combatId"] = 1520,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -1398,10 +2574,9 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["instance_type"] = "scenario",
-				["enemy"] = "Petite vermine illusoire",
-				["combat_counter"] = 2005,
-				["tempo_start"] = 1609734254,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					80820, -- [1]
 					-0.018985, -- [2]
@@ -1415,31 +2590,16 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 1,
 						["dispell"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["CombatEndedAt"] = 14760.84,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "05:24:14",
-				["end_time"] = 14761.738,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 1520,
 				["totals_grupo"] = {
 					80820, -- [1]
 					0, -- [2]
@@ -1453,27 +2613,39 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 1,
 						["dispell"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:24:57",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Petite vermine illusoire",
+				["TotalElapsedCombatTime"] = 14760.84,
+				["CombatEndedAt"] = 14760.84,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
 						{
 						}, -- [1]
-					},
-					["damage_section"] = {
 					},
 					["damage"] = {
 						{
@@ -1481,26 +2653,31 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
+				["end_time"] = 14761.738,
+				["combat_id"] = 1520,
+				["data_inicio"] = "05:24:14",
+				["tempo_start"] = 1609734254,
 				["frags"] = {
 					["Petite vermine illusoire"] = 2,
 					["Petit mystique illusoire"] = 2,
 					["Grande vermine illusoire"] = 4,
 				},
-				["data_fim"] = "05:24:57",
-				["TotalElapsedCombatTime"] = 14760.84,
+				["player_last_events"] = {
+				},
+				["combat_counter"] = 2005,
 				["CombatSkillCache"] = {
+				},
+				["contra"] = "Grande vermine illusoire",
+				["start_time"] = 14718.732,
+				["TimeData"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["start_time"] = 14718.732,
-				["contra"] = "Grande vermine illusoire",
-				["TimeData"] = {
-				},
-			}, -- [2]
+			}, -- [4]
 			{
 				{
-					["combatId"] = 1519,
 					["tipo"] = 2,
+					["combatId"] = 1519,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -1512,22 +2689,8 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 5283.003982,
-							["on_hold"] = false,
 							["aID"] = "1127-0973C412",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 5283.003982,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1609734251,
-							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
-							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[164815] = {
 										["c_amt"] = 1,
@@ -1642,17 +2805,31 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 102,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 5283.003982,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 824.0530310406257,
-							["custom"] = 0,
+							["dps_started"] = false,
+							["total"] = 5283.003982,
+							["classe"] = "DRUID",
+							["on_hold"] = false,
+							["nome"] = "Kotlin",
+							["spec"] = 102,
+							["grupo"] = true,
+							["end_time"] = 1609734251,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609734250,
 							["damage_taken"] = 0.003982,
 							["start_time"] = 1609734244,
 							["delay"] = 0,
-							["last_event"] = 1609734250,
+							["last_dps"] = 824.0530310406257,
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -1662,48 +2839,48 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.00825,
+							["serial"] = "Creature-0-1465-1148-31811-71075-0000729865",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.00825,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734251,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.00825,
+							["damage_taken"] = 5283.00825,
+							["last_event"] = 0,
 							["nome"] = "Petite banshee illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71075",
-							["serial"] = "Creature-0-1465-1148-31811-71075-0000729865",
-							["last_dps"] = 0,
+							["end_time"] = 1609734251,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 5283.00825,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609734251,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71075",
 						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1519,
 					["tipo"] = 3,
+					["combatId"] = 1519,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1519,
 					["tipo"] = 7,
+					["combatId"] = 1519,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.001289,
@@ -1719,127 +2896,127 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.001289,
 							["last_event"] = 1609734254,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.001289,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1519,
 					["tipo"] = 9,
+					["combatId"] = 1519,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 6,
-										["appliedamt"] = 1,
+										["id"] = 164812,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 5,
-										["appliedamt"] = 1,
+										["id"] = 164815,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 39,
 							["aID"] = "1127-0973C412",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 7,
-										["appliedamt"] = 1,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 7,
-										["appliedamt"] = 1,
+										["id"] = 24858,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[345230] = {
-										["activedamt"] = 1,
-										["id"] = 345230,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 4,
-										["appliedamt"] = 1,
+										["id"] = 345230,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[324748] = {
-										["activedamt"] = 1,
-										["id"] = 324748,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 7,
-										["appliedamt"] = 1,
+										["id"] = 324748,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[342814] = {
-										["activedamt"] = 1,
-										["id"] = 342814,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 7,
-										["appliedamt"] = 1,
+										["id"] = 342814,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 7,
-										["appliedamt"] = 1,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 11,
 							["nome"] = "Kotlin",
@@ -1852,20 +3029,20 @@ _detalhes_database = {
 							},
 							["debuff_uptime_targets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
 							["last_event"] = 1609734251,
+							["tipo"] = 4,
 							["pets"] = {
 							},
 							["classe"] = "DRUID",
 							["serial"] = "Player-1127-0973C412",
-							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
 						}, -- [1]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1519,
 					["tipo"] = 2,
+					["combatId"] = 1519,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -1874,15 +3051,12 @@ _detalhes_database = {
 				},
 				["CombatStartedAt"] = 14717.972,
 				["tempo_start"] = 1609734244,
-				["cleu_timeline"] = {
+				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["enemy"] = "Petite banshee illusoire",
 				["cleu_events"] = {
 					["n"] = 1,
-				},
-				["last_events_tables"] = {
 				},
 				["totals"] = {
 					5283, -- [1]
@@ -1897,15 +3071,56 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:24:11",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Petite banshee illusoire",
+				["TotalElapsedCombatTime"] = 14715.565,
+				["CombatEndedAt"] = 14715.565,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "05:24:04",
+				["end_time"] = 14715.76,
+				["combat_id"] = 1519,
+				["combat_counter"] = 2004,
+				["frags"] = {
+					["Petite banshee illusoire"] = 1,
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Kotlin"] = 5283.003982,
+						}, -- [1]
+					},
 				},
 				["totals_grupo"] = {
 					5283, -- [1]
@@ -1920,64 +3135,27 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["instance_type"] = "scenario",
-				["frags_need_refresh"] = true,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Kotlin"] = 5283.003982,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 14715.76,
-				["combat_counter"] = 2004,
-				["combat_id"] = 1519,
-				["TotalElapsedCombatTime"] = 14715.565,
-				["player_last_events"] = {
-				},
-				["CombatEndedAt"] = 14715.565,
-				["spells_cast_timeline"] = {
-				},
-				["data_fim"] = "05:24:11",
-				["data_inicio"] = "05:24:04",
 				["CombatSkillCache"] = {
 				},
-				["frags"] = {
-					["Petite banshee illusoire"] = 1,
-				},
+				["contra"] = "Petite banshee illusoire",
 				["start_time"] = 14708.747,
 				["TimeData"] = {
 				},
-				["contra"] = "Petite banshee illusoire",
-			}, -- [3]
+				["spells_cast_timeline"] = {
+				},
+			}, -- [5]
 			{
 				{
-					["combatId"] = 1518,
 					["tipo"] = 2,
+					["combatId"] = 1518,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -1990,22 +3168,8 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 34733.00127,
-							["on_hold"] = false,
 							["aID"] = "1127-0973C412",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 34733.00127,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1609734228,
-							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
-							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[190984] = {
 										["c_amt"] = 2,
@@ -2207,17 +3371,31 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 102,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 34733.00127,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 1929.5039870007,
-							["custom"] = 0,
+							["dps_started"] = false,
+							["total"] = 34733.00127,
+							["classe"] = "DRUID",
+							["on_hold"] = false,
+							["nome"] = "Kotlin",
+							["spec"] = 102,
+							["grupo"] = true,
+							["end_time"] = 1609734228,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609734228,
 							["damage_taken"] = 0.00127,
 							["start_time"] = 1609734210,
 							["delay"] = 0,
-							["last_event"] = 1609734228,
+							["last_dps"] = 1929.5039870007,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -2227,24 +3405,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.005942,
+							["serial"] = "Creature-0-1465-1148-31811-71075-0000729847",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.005942,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734228,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.005942,
+							["damage_taken"] = 5266.005942,
+							["last_event"] = 0,
 							["nome"] = "Petite banshee illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142838] = {
 										["c_amt"] = 0,
@@ -2299,16 +3475,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71075",
-							["serial"] = "Creature-0-1465-1148-31811-71075-0000729847",
-							["last_dps"] = 0,
+							["end_time"] = 1609734228,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 5266.005942,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609734228,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71075",
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -2318,24 +3496,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.001565,
+							["serial"] = "Creature-0-1465-1148-31811-71079-0000729842",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.001565,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734228,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.001565,
+							["damage_taken"] = 29467.001565,
+							["last_event"] = 0,
 							["nome"] = "Petit gardien illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142174] = {
 										["c_amt"] = 0,
@@ -2364,28 +3540,30 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71079",
-							["serial"] = "Creature-0-1465-1148-31811-71079-0000729842",
-							["last_dps"] = 0,
+							["end_time"] = 1609734228,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 29467.001565,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609734228,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71079",
 						}, -- [3]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1518,
 					["tipo"] = 3,
+					["combatId"] = 1518,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1518,
 					["tipo"] = 7,
+					["combatId"] = 1518,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.004846,
@@ -2401,149 +3579,149 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.004846,
 							["last_event"] = 1609734244,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.004846,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1518,
 					["tipo"] = 9,
+					["combatId"] = 1518,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 12,
-										["appliedamt"] = 2,
+										["id"] = 164812,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 6,
-										["appliedamt"] = 1,
+										["id"] = 164815,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 83,
 							["aID"] = "1127-0973C412",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 18,
-										["appliedamt"] = 1,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 18,
-										["appliedamt"] = 1,
+										["id"] = 24858,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[191034] = {
-										["activedamt"] = 1,
-										["id"] = 191034,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 7,
-										["appliedamt"] = 1,
+										["id"] = 191034,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[339943] = {
-										["activedamt"] = 1,
-										["id"] = 339943,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 5,
-										["appliedamt"] = 1,
+										["id"] = 339943,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 18,
-										["appliedamt"] = 1,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[345230] = {
-										["activedamt"] = 1,
-										["id"] = 345230,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 0,
-										["appliedamt"] = 1,
+										["id"] = 345230,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[343648] = {
-										["activedamt"] = 1,
-										["id"] = 343648,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 6,
-										["appliedamt"] = 1,
+										["id"] = 343648,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[48517] = {
-										["activedamt"] = 1,
-										["id"] = 48517,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 11,
-										["appliedamt"] = 1,
+										["id"] = 48517,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 18,
 							["nome"] = "Kotlin",
@@ -2558,53 +3736,53 @@ _detalhes_database = {
 							},
 							["debuff_uptime_targets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
 							["last_event"] = 1609734228,
+							["tipo"] = 4,
 							["pets"] = {
 							},
 							["classe"] = "DRUID",
 							["serial"] = "Player-1127-0973C412",
-							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petit gardien illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71079",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71079-0000F29842",
 							["spell_cast"] = {
 								[142174] = 4,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71079-0000F29842",
-							["aID"] = "71079",
 						}, -- [2]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petite banshee illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71075",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71075-0000729856",
 							["spell_cast"] = {
 								[142838] = 1,
 								[141578] = 1,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71075-0000729856",
-							["aID"] = "71075",
 						}, -- [3]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1518,
 					["tipo"] = 2,
+					["combatId"] = 1518,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -2631,39 +3809,21 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["totals_grupo"] = {
-					34733, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = true,
 				["instance_type"] = "scenario",
+				["hasSaved"] = true,
 				["data_fim"] = "05:23:49",
 				["cleu_timeline"] = {
 				},
@@ -2679,13 +3839,13 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
 						{
 						}, -- [1]
-					},
-					["damage_section"] = {
 					},
 					["damage"] = {
 						{
@@ -2696,35 +3856,53 @@ _detalhes_database = {
 				["end_time"] = 14693.001,
 				["combat_id"] = 1518,
 				["resincked"] = true,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
-				["player_last_events"] = {
-				},
-				["data_inicio"] = "05:23:31",
-				["CombatSkillCache"] = {
-				},
 				["frags"] = {
 					["Petit gardien illusoire"] = 3,
 					["Petite banshee illusoire"] = 1,
 				},
-				["start_time"] = 14675,
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
 				["TimeData"] = {
 				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					34733, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 14675,
 				["contra"] = "Petit gardien illusoire",
-			}, -- [4]
+				["data_inicio"] = "05:23:31",
+			}, -- [6]
 			{
 				{
-					["combatId"] = 1517,
 					["tipo"] = 2,
+					["combatId"] = 1517,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
 							["totalabsorbed"] = 0.001495,
-							["spec"] = 102,
 							["damage_from"] = {
 							},
 							["targets"] = {
@@ -2733,22 +3911,21 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
-							["end_time"] = 1609734189,
 							["aID"] = "1127-0973C412",
+							["spec"] = 102,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 42907.001495,
-							["colocacao"] = 1,
 							["friendlyfire"] = {
 							},
+							["serial"] = "Player-1127-0973C412",
 							["dps_started"] = false,
-							["total"] = 42907.001495,
+							["end_time"] = 1609734189,
 							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[190984] = {
 										["c_amt"] = 0,
@@ -2957,42 +4134,44 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 2184.118172308629,
-							["custom"] = 0,
+							["total"] = 42907.001495,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609734188,
 							["damage_taken"] = 0.001495,
 							["start_time"] = 1609734169,
 							["delay"] = 0,
-							["last_event"] = 1609734188,
+							["last_dps"] = 2184.118172308629,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.008485,
-							["aID"] = "71415",
 							["damage_from"] = {
 								["Kotlin"] = true,
 							},
 							["targets"] = {
 							},
+							["serial"] = "Creature-0-1465-1148-31811-71415-000072981A",
 							["pets"] = {
 							},
-							["end_time"] = 1609734189,
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
+							["total"] = 0.008485,
+							["aID"] = "71415",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.008485,
-							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 0.008485,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["end_time"] = 1609734189,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 0,
 							["nome"] = "Petit lance-bananes illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142639] = {
 										["c_amt"] = 0,
@@ -3021,62 +4200,62 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
-							["serial"] = "Creature-0-1465-1148-31811-71415-000072981A",
 							["last_dps"] = 0,
+							["monster"] = true,
+							["on_hold"] = false,
 							["custom"] = 0,
-							["last_event"] = 0,
+							["tipo"] = 1,
 							["damage_taken"] = 12180.008485,
 							["start_time"] = 1609734189,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
 							["totalabsorbed"] = 0.005768,
-							["aID"] = "71069",
 							["damage_from"] = {
 								["Kotlin"] = true,
 							},
 							["targets"] = {
 							},
+							["serial"] = "Creature-0-1465-1148-31811-71069-000072981A",
 							["pets"] = {
 							},
-							["end_time"] = 1609734189,
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
+							["total"] = 0.005768,
+							["aID"] = "71069",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.005768,
-							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 0.005768,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Grand mystique illusoire",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-								},
-							},
+							["fight_component"] = true,
+							["end_time"] = 1609734189,
 							["friendlyfire"] = {
 							},
-							["serial"] = "Creature-0-1465-1148-31811-71069-000072981A",
-							["last_dps"] = 0,
-							["custom"] = 0,
 							["last_event"] = 0,
+							["nome"] = "Grand mystique illusoire",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["last_dps"] = 0,
+							["monster"] = true,
+							["on_hold"] = false,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["damage_taken"] = 30727.005768,
 							["start_time"] = 1609734189,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
 						}, -- [3]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1517,
 					["tipo"] = 3,
+					["combatId"] = 1517,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -3086,7 +4265,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "DRUID",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 41916.001351,
 							["total_without_pet"] = 0.001351,
 							["total"] = 0.001351,
@@ -3103,12 +4282,11 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.001351,
 							["healing_taken"] = 0.001351,
 							["end_time"] = 1609734189,
+							["spec"] = 102,
 							["healing_from"] = {
 							},
-							["heal_enemy_amt"] = 0,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[8936] = {
 										["c_amt"] = 4,
@@ -3130,9 +4308,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 10,
 										["n_curado"] = 0,
 										["totaldenied"] = 0,
-										["n_amt"] = 10,
 										["absorbed"] = 0,
 									},
 									[774] = {
@@ -3155,9 +4333,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 6,
 										["n_curado"] = 0,
 										["totaldenied"] = 0,
-										["n_amt"] = 6,
 										["absorbed"] = 0,
 									},
 									[18562] = {
@@ -3180,19 +4358,20 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 1,
 										["n_curado"] = 0,
 										["totaldenied"] = 0,
-										["n_amt"] = 1,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
+							["aID"] = "1127-0973C412",
 							["start_time"] = 1609734172,
-							["spec"] = 102,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["aID"] = "1127-0973C412",
+							["classe"] = "DRUID",
 							["totaldenied"] = 0.001351,
 							["delay"] = 0,
 							["last_event"] = 1609734189,
@@ -3200,8 +4379,8 @@ _detalhes_database = {
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1517,
 					["tipo"] = 7,
+					["combatId"] = 1517,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.007202,
@@ -3217,204 +4396,204 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.007202,
 							["last_event"] = 1609734188,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.007202,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1517,
 					["tipo"] = 9,
+					["combatId"] = 1517,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 18,
-										["appliedamt"] = 2,
+										["id"] = 164815,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[78675] = {
-										["activedamt"] = 0,
-										["id"] = 78675,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
+										["id"] = 78675,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 19,
-										["appliedamt"] = 2,
+										["id"] = 164812,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 139,
 							["aID"] = "1127-0973C412",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[191034] = {
-										["activedamt"] = 1,
-										["id"] = 191034,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
+										["id"] = 191034,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[48518] = {
-										["activedamt"] = 1,
-										["id"] = 48518,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 3,
-										["appliedamt"] = 1,
+										["id"] = 48518,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[342814] = {
-										["activedamt"] = 1,
-										["id"] = 342814,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 17,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[343648] = {
-										["activedamt"] = 1,
-										["id"] = 343648,
-										["targets"] = {
-										},
-										["uptime"] = 3,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
-										["targets"] = {
-										},
-										["uptime"] = 20,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[339946] = {
-										["activedamt"] = 1,
-										["id"] = 339946,
-										["targets"] = {
-										},
-										["uptime"] = 3,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
-										["targets"] = {
-										},
-										["uptime"] = 20,
-										["appliedamt"] = 1,
+										["id"] = 342814,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 20,
+										["id"] = 335149,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 20,
+										["id"] = 227723,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[339946] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 3,
+										["id"] = 339946,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[343648] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 3,
+										["id"] = 343648,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[24858] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 20,
+										["id"] = 24858,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[324748] = {
-										["activedamt"] = 1,
-										["id"] = 324748,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 10,
-										["appliedamt"] = 1,
+										["id"] = 324748,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[8936] = {
-										["activedamt"] = 1,
-										["id"] = 8936,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 17,
-										["appliedamt"] = 1,
+										["id"] = 8936,
 										["refreshamt"] = 3,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[323764] = {
-										["activedamt"] = 1,
-										["id"] = 323764,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 3,
-										["appliedamt"] = 1,
+										["id"] = 323764,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[774] = {
-										["activedamt"] = 1,
-										["id"] = 774,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["id"] = 774,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 45,
 							["nome"] = "Kotlin",
@@ -3431,36 +4610,36 @@ _detalhes_database = {
 							},
 							["debuff_uptime_targets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
 							["last_event"] = 1609734189,
+							["tipo"] = 4,
 							["pets"] = {
 							},
 							["classe"] = "DRUID",
 							["serial"] = "Player-1127-0973C412",
-							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petit lance-bananes illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71415",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71415-000072981A",
 							["spell_cast"] = {
 								[142639] = 1,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71415-000072981A",
-							["aID"] = "71415",
 						}, -- [2]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1517,
 					["tipo"] = 2,
+					["combatId"] = 1517,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -3473,10 +4652,9 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["instance_type"] = "scenario",
-				["enemy"] = "Petit lance-bananes illusoire",
-				["combat_counter"] = 2001,
-				["tempo_start"] = 1609734169,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					42907, -- [1]
 					0, -- [2]
@@ -3490,31 +4668,16 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["CombatEndedAt"] = 14653.581,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "05:22:49",
-				["end_time"] = 14653.633,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 1517,
 				["totals_grupo"] = {
 					42907, -- [1]
 					0, -- [2]
@@ -3528,20 +4691,34 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:23:09",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Petit lance-bananes illusoire",
+				["TotalElapsedCombatTime"] = 14653.581,
+				["CombatEndedAt"] = 14653.581,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -3549,33 +4726,36 @@ _detalhes_database = {
 							["Kotlin"] = 0.001351,
 						}, -- [1]
 					},
-					["damage_section"] = {
-					},
 					["damage"] = {
 						{
 							["Kotlin"] = 42907.001495,
 						}, -- [1]
 					},
 				},
+				["end_time"] = 14653.633,
+				["combat_id"] = 1517,
+				["data_inicio"] = "05:22:49",
+				["tempo_start"] = 1609734169,
 				["frags"] = {
 					["Petit lance-bananes illusoire"] = 1,
 					["Grand mystique illusoire"] = 1,
 				},
-				["data_fim"] = "05:23:09",
-				["TotalElapsedCombatTime"] = 14653.581,
+				["player_last_events"] = {
+				},
+				["combat_counter"] = 2001,
 				["CombatSkillCache"] = {
+				},
+				["contra"] = "Petit lance-bananes illusoire",
+				["start_time"] = 14633.629,
+				["TimeData"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["start_time"] = 14633.629,
-				["contra"] = "Petit lance-bananes illusoire",
-				["TimeData"] = {
-				},
-			}, -- [5]
+			}, -- [7]
 			{
 				{
-					["combatId"] = 1516,
 					["tipo"] = 2,
+					["combatId"] = 1516,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -3589,22 +4769,8 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 47377.004957,
-							["on_hold"] = false,
 							["aID"] = "1127-0973C412",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 47377.004957,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1609734159,
-							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
-							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[190984] = {
 										["c_amt"] = 0,
@@ -3812,17 +4978,31 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 102,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 47377.004957,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 1579.022962171763,
-							["custom"] = 0,
+							["dps_started"] = false,
+							["total"] = 47377.004957,
+							["classe"] = "DRUID",
+							["on_hold"] = false,
+							["nome"] = "Kotlin",
+							["spec"] = 102,
+							["grupo"] = true,
+							["end_time"] = 1609734159,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609734157,
 							["damage_taken"] = 0.004957,
 							["start_time"] = 1609734129,
 							["delay"] = 0,
-							["last_event"] = 1609734157,
+							["last_dps"] = 1579.022962171763,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -3832,24 +5012,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.008284,
+							["serial"] = "Creature-0-1465-1148-31811-71077-00007297F2",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.008284,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734159,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.008284,
+							["damage_taken"] = 8364.008284,
+							["last_event"] = 0,
 							["nome"] = "Petit tisse-ambre illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142189] = {
 										["c_amt"] = 0,
@@ -3878,16 +5056,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71077",
-							["serial"] = "Creature-0-1465-1148-31811-71077-00007297F2",
-							["last_dps"] = 0,
+							["end_time"] = 1609734159,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 8364.008284,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609734159,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71077",
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -3897,24 +5077,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.007512,
+							["serial"] = "Creature-0-1465-1148-31811-71415-00007297F2",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.007512,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734159,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.007512,
+							["damage_taken"] = 15126.007512,
+							["last_event"] = 0,
 							["nome"] = "Petit lance-bananes illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142639] = {
 										["c_amt"] = 0,
@@ -3943,16 +5121,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71415",
-							["serial"] = "Creature-0-1465-1148-31811-71415-00007297F2",
-							["last_dps"] = 0,
+							["end_time"] = 1609734159,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 15126.007512,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609734159,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71415",
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
@@ -3962,24 +5142,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.006892,
+							["serial"] = "Creature-0-1465-1148-31811-71076-00007297F2",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.006892,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734159,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.006892,
+							["damage_taken"] = 23887.006892,
+							["last_event"] = 0,
 							["nome"] = "Petit mystique illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142238] = {
 										["c_amt"] = 0,
@@ -4008,28 +5186,30 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71076",
-							["serial"] = "Creature-0-1465-1148-31811-71076-00007297F2",
-							["last_dps"] = 0,
+							["end_time"] = 1609734159,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 23887.006892,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609734159,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71076",
 						}, -- [4]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1516,
 					["tipo"] = 3,
+					["combatId"] = 1516,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1516,
 					["tipo"] = 7,
+					["combatId"] = 1516,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.002555,
@@ -4045,149 +5225,149 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.002555,
 							["last_event"] = 1609734169,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.002555,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1516,
 					["tipo"] = 9,
+					["combatId"] = 1516,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 25,
-										["appliedamt"] = 3,
+										["id"] = 164812,
 										["refreshamt"] = 5,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 23,
-										["appliedamt"] = 2,
+										["id"] = 164815,
 										["refreshamt"] = 2,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 176,
 							["aID"] = "1127-0973C412",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[342814] = {
-										["activedamt"] = 1,
-										["id"] = 342814,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 30,
-										["appliedamt"] = 1,
+										["id"] = 342814,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 30,
-										["appliedamt"] = 1,
+										["id"] = 24858,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[343648] = {
-										["activedamt"] = 1,
-										["id"] = 343648,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 6,
-										["appliedamt"] = 1,
+										["id"] = 343648,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[339943] = {
-										["activedamt"] = 1,
-										["id"] = 339943,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 5,
-										["appliedamt"] = 1,
+										["id"] = 339943,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 30,
-										["appliedamt"] = 1,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[48517] = {
-										["activedamt"] = 1,
-										["id"] = 48517,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["id"] = 48517,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[324748] = {
-										["activedamt"] = 1,
-										["id"] = 324748,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 30,
-										["appliedamt"] = 1,
+										["id"] = 324748,
 										["refreshamt"] = 6,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 30,
-										["appliedamt"] = 1,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 48,
 							["nome"] = "Kotlin",
@@ -4203,68 +5383,68 @@ _detalhes_database = {
 							},
 							["debuff_uptime_targets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
 							["last_event"] = 1609734159,
+							["tipo"] = 4,
 							["pets"] = {
 							},
 							["classe"] = "DRUID",
 							["serial"] = "Player-1127-0973C412",
-							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petit lance-bananes illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71415",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71415-00007297F2",
 							["spell_cast"] = {
 								[142639] = 1,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71415-00007297F2",
-							["aID"] = "71415",
 						}, -- [2]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petit tisse-ambre illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71077",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71077-00007297F2",
 							["spell_cast"] = {
 								[142189] = 2,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71077-00007297F2",
-							["aID"] = "71077",
 						}, -- [3]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petit mystique illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71076",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71076-00007297F2",
 							["spell_cast"] = {
 								[142238] = 1,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71076-00007297F2",
-							["aID"] = "71076",
 						}, -- [4]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1516,
 					["tipo"] = 2,
+					["combatId"] = 1516,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -4277,10 +5457,9 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["instance_type"] = "scenario",
-				["enemy"] = "Petit mystique illusoire",
-				["combat_counter"] = 2000,
-				["tempo_start"] = 1609734129,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					47377, -- [1]
 					-0.001755, -- [2]
@@ -4294,31 +5473,16 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["CombatEndedAt"] = 14623.232,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "05:22:10",
-				["end_time"] = 14623.936,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 1516,
 				["totals_grupo"] = {
 					47377, -- [1]
 					0, -- [2]
@@ -4332,27 +5496,39 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:22:40",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Petit mystique illusoire",
+				["TotalElapsedCombatTime"] = 14623.232,
+				["CombatEndedAt"] = 14623.232,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
 						{
 						}, -- [1]
-					},
-					["damage_section"] = {
 					},
 					["damage"] = {
 						{
@@ -4360,27 +5536,32 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
+				["end_time"] = 14623.936,
+				["combat_id"] = 1516,
+				["data_inicio"] = "05:22:10",
+				["tempo_start"] = 1609734129,
 				["frags"] = {
-					["Petit mystique illusoire"] = 1,
-					["Globule d’ambre volatil"] = 1,
-					["Petit lance-bananes illusoire"] = 1,
 					["Petit tisse-ambre illusoire"] = 1,
+					["Petit mystique illusoire"] = 1,
+					["Petit lance-bananes illusoire"] = 1,
+					["Globule d’ambre volatil"] = 1,
 				},
-				["data_fim"] = "05:22:40",
-				["TotalElapsedCombatTime"] = 14623.232,
+				["player_last_events"] = {
+				},
+				["combat_counter"] = 2000,
 				["CombatSkillCache"] = {
+				},
+				["contra"] = "Petit lance-bananes illusoire",
+				["start_time"] = 14593.932,
+				["TimeData"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["start_time"] = 14593.932,
-				["contra"] = "Petit lance-bananes illusoire",
-				["TimeData"] = {
-				},
-			}, -- [6]
+			}, -- [8]
 			{
 				{
-					["combatId"] = 1515,
 					["tipo"] = 2,
+					["combatId"] = 1515,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -4393,22 +5574,8 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 28224.002909,
-							["on_hold"] = false,
 							["aID"] = "1127-0973C412",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 28224.002909,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1609734119,
-							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
-							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[190984] = {
 										["c_amt"] = 0,
@@ -4617,17 +5784,31 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 102,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 28224.002909,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 1180.920623807459,
-							["custom"] = 0,
+							["dps_started"] = false,
+							["total"] = 28224.002909,
+							["classe"] = "DRUID",
+							["on_hold"] = false,
+							["nome"] = "Kotlin",
+							["spec"] = 102,
+							["grupo"] = true,
+							["end_time"] = 1609734119,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609734118,
 							["damage_taken"] = 0.002909,
 							["start_time"] = 1609734094,
 							["delay"] = 0,
-							["last_event"] = 1609734118,
+							["last_dps"] = 1180.920623807459,
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -4637,24 +5818,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.003379,
+							["serial"] = "Creature-0-1465-1148-31811-71414-00007297CF",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003379,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734119,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.003379,
+							["damage_taken"] = 15390.003379,
+							["last_event"] = 1609734107,
 							["nome"] = "Grand lance-bananes illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142639] = {
 										["c_amt"] = 0,
@@ -4712,16 +5891,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71414",
-							["serial"] = "Creature-0-1465-1148-31811-71414-00007297CF",
-							["last_dps"] = 0,
+							["end_time"] = 1609734119,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 1609734107,
-							["damage_taken"] = 15390.003379,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609734119,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71414",
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -4731,48 +5912,48 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.008127,
+							["serial"] = "Creature-0-1465-1148-31811-71068-00007297CF",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.008127,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734119,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.008127,
+							["damage_taken"] = 12834.008127,
+							["last_event"] = 0,
 							["nome"] = "Grand tisse-ambre illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71068",
-							["serial"] = "Creature-0-1465-1148-31811-71068-00007297CF",
-							["last_dps"] = 0,
+							["end_time"] = 1609734119,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 12834.008127,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609734119,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71068",
 						}, -- [3]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1515,
 					["tipo"] = 3,
+					["combatId"] = 1515,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1515,
 					["tipo"] = 7,
+					["combatId"] = 1515,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.00147,
@@ -4788,72 +5969,69 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.00147,
 							["last_event"] = 1609734129,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.00147,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1515,
 					["tipo"] = 9,
+					["combatId"] = 1515,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 18,
-										["appliedamt"] = 3,
+										["id"] = 164815,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[78675] = {
-										["activedamt"] = 0,
-										["id"] = 78675,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
+										["id"] = 78675,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 24,
-										["appliedamt"] = 2,
+										["id"] = 164812,
 										["refreshamt"] = 3,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 147,
-							["buff_uptime_targets"] = {
-							},
 							["aID"] = "1127-0973C412",
 							["interrupt_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[97547] = {
 										["id"] = 97547,
@@ -4866,119 +6044,122 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[48518] = {
-										["activedamt"] = 1,
-										["id"] = 48518,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["id"] = 48518,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 25,
-										["appliedamt"] = 1,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 25,
-										["appliedamt"] = 1,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[339946] = {
-										["activedamt"] = 1,
-										["id"] = 339946,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 5,
-										["appliedamt"] = 1,
+										["id"] = 339946,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[345230] = {
-										["activedamt"] = 1,
-										["id"] = 345230,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 12,
-										["appliedamt"] = 1,
+										["id"] = 345230,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[324748] = {
-										["activedamt"] = 1,
-										["id"] = 324748,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 10,
-										["appliedamt"] = 1,
+										["id"] = 324748,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 25,
-										["appliedamt"] = 1,
+										["id"] = 24858,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[342814] = {
-										["activedamt"] = 2,
-										["id"] = 342814,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 24,
-										["appliedamt"] = 2,
+										["id"] = 342814,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[343648] = {
-										["activedamt"] = 1,
-										["id"] = 343648,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 6,
-										["appliedamt"] = 1,
+										["id"] = 343648,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["interrompeu_oque"] = {
 								[142189] = 1,
 							},
-							["debuff_uptime"] = 50,
 							["interrupt_targets"] = {
 								["Grand tisse-ambre illusoire"] = 1,
 							},
-							["interrupt"] = 1.004976,
+							["debuff_uptime"] = 50,
+							["buff_uptime_targets"] = {
+							},
+							["classe"] = "DRUID",
 							["nome"] = "Kotlin",
 							["spec"] = 102,
 							["grupo"] = true,
@@ -4994,33 +6175,33 @@ _detalhes_database = {
 							},
 							["colocacao"] = 1,
 							["last_event"] = 1609734119,
+							["tipo"] = 4,
+							["interrupt"] = 1.004976,
+							["serial"] = "Player-1127-0973C412",
 							["pets"] = {
 							},
-							["classe"] = "DRUID",
-							["serial"] = "Player-1127-0973C412",
-							["tipo"] = 4,
 						}, -- [1]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Grand lance-bananes illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71414",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71414-00007297CF",
 							["spell_cast"] = {
 								[142639] = 1,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71414-00007297CF",
-							["aID"] = "71414",
 						}, -- [2]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1515,
 					["tipo"] = 2,
+					["combatId"] = 1515,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -5033,10 +6214,9 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["instance_type"] = "scenario",
-				["enemy"] = "Grand lance-bananes illusoire",
-				["combat_counter"] = 1999,
-				["tempo_start"] = 1609734094,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					28224, -- [1]
 					0, -- [2]
@@ -5050,31 +6230,16 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 1,
 						["dispell"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["CombatEndedAt"] = 14583.213,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "05:21:34",
-				["end_time"] = 14583.878,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 1515,
 				["totals_grupo"] = {
 					28224, -- [1]
 					0, -- [2]
@@ -5088,27 +6253,39 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 1,
 						["dispell"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:21:59",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Grand lance-bananes illusoire",
+				["TotalElapsedCombatTime"] = 14583.213,
+				["CombatEndedAt"] = 14583.213,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
 						{
 						}, -- [1]
-					},
-					["damage_section"] = {
 					},
 					["damage"] = {
 						{
@@ -5116,25 +6293,30 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
+				["end_time"] = 14583.878,
+				["combat_id"] = 1515,
+				["data_inicio"] = "05:21:34",
+				["tempo_start"] = 1609734094,
 				["frags"] = {
 					["Grand lance-bananes illusoire"] = 1,
 					["Grand tisse-ambre illusoire"] = 1,
 				},
-				["data_fim"] = "05:21:59",
-				["TotalElapsedCombatTime"] = 14583.213,
+				["player_last_events"] = {
+				},
+				["combat_counter"] = 1999,
 				["CombatSkillCache"] = {
+				},
+				["contra"] = "Grand lance-bananes illusoire",
+				["start_time"] = 14558.873,
+				["TimeData"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["start_time"] = 14558.873,
-				["contra"] = "Grand lance-bananes illusoire",
-				["TimeData"] = {
-				},
-			}, -- [7]
+			}, -- [9]
 			{
 				{
-					["combatId"] = 1514,
 					["tipo"] = 2,
+					["combatId"] = 1514,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -5147,22 +6329,8 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 31068.00642,
-							["on_hold"] = false,
 							["aID"] = "1127-0973C412",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 31068.00642,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1609734086,
-							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
-							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[190984] = {
 										["c_amt"] = 0,
@@ -5337,17 +6505,31 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 102,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 31068.00642,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 2188.966844219089,
-							["custom"] = 0,
+							["dps_started"] = false,
+							["total"] = 31068.00642,
+							["classe"] = "DRUID",
+							["on_hold"] = false,
+							["nome"] = "Kotlin",
+							["spec"] = 102,
+							["grupo"] = true,
+							["end_time"] = 1609734086,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609734078,
 							["damage_taken"] = 0.00642,
 							["start_time"] = 1609734064,
 							["delay"] = 0,
-							["last_event"] = 1609734078,
+							["last_dps"] = 2188.966844219089,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -5357,36 +6539,36 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.001066,
+							["serial"] = "Creature-0-1465-1148-31811-71080-0000F297B1",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.001066,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734086,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.001066,
+							["damage_taken"] = 22637.001066,
+							["last_event"] = 0,
 							["nome"] = "Petit pourfendeur illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71080",
-							["serial"] = "Creature-0-1465-1148-31811-71080-0000F297B1",
-							["last_dps"] = 0,
+							["end_time"] = 1609734086,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 22637.001066,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609734086,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71080",
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -5396,24 +6578,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.005953,
+							["serial"] = "Creature-0-1465-1148-31811-71077-00007297B1",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.005953,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609734086,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.005953,
+							["damage_taken"] = 8431.005953,
+							["last_event"] = 0,
 							["nome"] = "Petit tisse-ambre illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142189] = {
 										["c_amt"] = 0,
@@ -5442,28 +6622,30 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71077",
-							["serial"] = "Creature-0-1465-1148-31811-71077-00007297B1",
-							["last_dps"] = 0,
+							["end_time"] = 1609734086,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 8431.005953,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609734086,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71077",
 						}, -- [3]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1514,
 					["tipo"] = 3,
+					["combatId"] = 1514,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1514,
 					["tipo"] = 7,
+					["combatId"] = 1514,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.001191,
@@ -5479,149 +6661,149 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.001191,
 							["last_event"] = 1609734094,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.001191,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1514,
 					["tipo"] = 9,
+					["combatId"] = 1514,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 11,
-										["appliedamt"] = 2,
+										["id"] = 164812,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 13,
-										["appliedamt"] = 3,
+										["id"] = 164815,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 131,
 							["aID"] = "1127-0973C412",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[342814] = {
-										["activedamt"] = 1,
-										["id"] = 342814,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 22,
-										["appliedamt"] = 1,
+										["id"] = 342814,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 22,
-										["appliedamt"] = 1,
+										["id"] = 24858,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[343648] = {
-										["activedamt"] = 1,
-										["id"] = 343648,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 6,
-										["appliedamt"] = 1,
+										["id"] = 343648,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[339943] = {
-										["activedamt"] = 1,
-										["id"] = 339943,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 5,
-										["appliedamt"] = 1,
+										["id"] = 339943,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 22,
-										["appliedamt"] = 1,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[48517] = {
-										["activedamt"] = 1,
-										["id"] = 48517,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["id"] = 48517,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[345230] = {
-										["activedamt"] = 1,
-										["id"] = 345230,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 17,
-										["appliedamt"] = 1,
+										["id"] = 345230,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 22,
-										["appliedamt"] = 1,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 24,
 							["nome"] = "Kotlin",
@@ -5635,36 +6817,36 @@ _detalhes_database = {
 							},
 							["debuff_uptime_targets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
 							["last_event"] = 1609734086,
+							["tipo"] = 4,
 							["pets"] = {
 							},
 							["classe"] = "DRUID",
 							["serial"] = "Player-1127-0973C412",
-							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petit tisse-ambre illusoire",
 							["flag_original"] = 68168,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71077",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71077-00007297B1",
 							["spell_cast"] = {
 								[142189] = 1,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71077-00007297B1",
-							["aID"] = "71077",
 						}, -- [2]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1514,
 					["tipo"] = 2,
+					["combatId"] = 1514,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -5677,10 +6859,9 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["instance_type"] = "scenario",
-				["enemy"] = "Petit pourfendeur illusoire",
-				["combat_counter"] = 1998,
-				["tempo_start"] = 1609734064,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					31068, -- [1]
 					0, -- [2]
@@ -5694,31 +6875,16 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["CombatEndedAt"] = 14550.416,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "05:21:05",
-				["end_time"] = 14550.913,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 1514,
 				["totals_grupo"] = {
 					31068, -- [1]
 					0, -- [2]
@@ -5732,27 +6898,39 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:21:27",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Petit pourfendeur illusoire",
+				["TotalElapsedCombatTime"] = 14550.416,
+				["CombatEndedAt"] = 14550.416,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
 						{
 						}, -- [1]
-					},
-					["damage_section"] = {
 					},
 					["damage"] = {
 						{
@@ -5760,31 +6938,35 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
+				["end_time"] = 14550.913,
+				["combat_id"] = 1514,
+				["data_inicio"] = "05:21:05",
+				["tempo_start"] = 1609734064,
 				["frags"] = {
 					["Petit tisse-ambre illusoire"] = 1,
 					["Petit pourfendeur illusoire"] = 2,
 					["Globule d’ambre volatil"] = 1,
 				},
-				["data_fim"] = "05:21:27",
-				["TotalElapsedCombatTime"] = 14550.416,
+				["player_last_events"] = {
+				},
+				["combat_counter"] = 1998,
 				["CombatSkillCache"] = {
+				},
+				["contra"] = "Petit pourfendeur illusoire",
+				["start_time"] = 14528.903,
+				["TimeData"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["start_time"] = 14528.903,
-				["contra"] = "Petit pourfendeur illusoire",
-				["TimeData"] = {
-				},
-			}, -- [8]
+			}, -- [10]
 			{
 				{
-					["combatId"] = 1513,
 					["tipo"] = 2,
+					["combatId"] = 1513,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
 							["totalabsorbed"] = 0.008701,
-							["spec"] = 102,
 							["damage_from"] = {
 								["Petit fourrageur illusoire"] = true,
 								["Grand éventreur illusoire"] = true,
@@ -5795,22 +6977,21 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
-							["end_time"] = 1609734027,
 							["aID"] = "1127-0973C412",
+							["spec"] = 102,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 135220.008701,
-							["colocacao"] = 1,
 							["friendlyfire"] = {
 							},
+							["serial"] = "Player-1127-0973C412",
 							["dps_started"] = false,
-							["total"] = 135220.008701,
+							["end_time"] = 1609734027,
 							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[164812] = {
 										["c_amt"] = 0,
@@ -5986,21 +7167,22 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 6144.967448352872,
-							["custom"] = 0,
+							["total"] = 135220.008701,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609734025,
 							["damage_taken"] = 55806.008701,
 							["start_time"] = 1609734006,
 							["delay"] = 0,
-							["last_event"] = 1609734025,
+							["last_dps"] = 6144.967448352872,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.004461,
-							["aID"] = "71832",
 							["damage_from"] = {
 								["Kotlin"] = true,
 								["Sikari la Tisse-brume"] = true,
@@ -6009,22 +7191,23 @@ _detalhes_database = {
 								["Kotlin"] = 25591,
 								["Sikari la Tisse-brume"] = 30613,
 							},
-							["end_time"] = 1609734064,
+							["serial"] = "Creature-0-1465-1148-31811-71832-0000729776",
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
+							["total"] = 56204.004461,
+							["aID"] = "71832",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 56204.004461,
-							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 56204.004461,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["end_time"] = 1609734064,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1609734031,
 							["nome"] = "Petit fourrageur illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 3,
@@ -6089,22 +7272,21 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
-							["serial"] = "Creature-0-1465-1148-31811-71832-0000729776",
 							["last_dps"] = 0,
+							["monster"] = true,
+							["on_hold"] = false,
 							["custom"] = 0,
-							["last_event"] = 1609734031,
+							["tipo"] = 1,
 							["damage_taken"] = 510492.004461,
 							["start_time"] = 1609734041,
 							["delay"] = 1609734031,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
 							["totalabsorbed"] = 0.004762,
-							["aID"] = "71829",
 							["damage_from"] = {
 								["Kotlin"] = true,
 								["Sikari la Tisse-brume"] = true,
@@ -6113,22 +7295,23 @@ _detalhes_database = {
 								["Kotlin"] = 30215,
 								["Sikari la Tisse-brume"] = 9065,
 							},
-							["end_time"] = 1609734027,
+							["serial"] = "Creature-0-1465-1148-31811-71829-0000729776",
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
+							["total"] = 39280.004762,
+							["aID"] = "71829",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 39280.004762,
-							["monster"] = true,
 							["dps_started"] = false,
-							["total"] = 39280.004762,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["end_time"] = 1609734027,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1609734024,
 							["nome"] = "Grand éventreur illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 2,
@@ -6162,23 +7345,23 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									}, -- [1]
 								},
+								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
-							["serial"] = "Creature-0-1465-1148-31811-71829-0000729776",
 							["last_dps"] = 0,
+							["monster"] = true,
+							["on_hold"] = false,
 							["custom"] = 0,
-							["last_event"] = 1609734024,
+							["tipo"] = 1,
 							["damage_taken"] = 138086.004762,
 							["start_time"] = 1609734009,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
 						}, -- [3]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1513,
 					["tipo"] = 3,
+					["combatId"] = 1513,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 2578,
@@ -6192,26 +7375,30 @@ _detalhes_database = {
 								["Kotlin"] = 23724,
 								["Sikari la Tisse-brume"] = 13436,
 							},
-							["targets_absorbs"] = {
-							},
+							["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
 							["pets"] = {
 							},
 							["totalover_without_pet"] = 0.004597,
 							["targets_overheal"] = {
 								["Kotlin"] = 21065,
 							},
-							["classe"] = "MONK",
+							["healing_taken"] = 15807.004597,
 							["totalover"] = 21065.004597,
 							["total_without_pet"] = 37160.004597,
-							["end_time"] = 1609734027,
 							["iniciar_hps"] = false,
+							["start_time"] = 1609734006,
 							["fight_component"] = true,
-							["total"] = 37160.004597,
-							["healing_taken"] = 15807.004597,
-							["heal_enemy_amt"] = 0,
+							["end_time"] = 1609734027,
+							["classe"] = "MONK",
+							["aID"] = "71828",
 							["nome"] = "Sikari la Tisse-brume",
+							["targets_absorbs"] = {
+							},
+							["total"] = 37160.004597,
+							["heal_enemy_amt"] = 0,
+							["heal_enemy"] = {
+							},
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[144080] = {
 										["c_amt"] = 0,
@@ -6234,18 +7421,14 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 18,
 										["n_curado"] = 37160,
 										["totaldenied"] = 0,
-										["n_amt"] = 18,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
-							["aID"] = "71828",
-							["start_time"] = 1609734006,
-							["heal_enemy"] = {
-							},
-							["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
 							["custom"] = 0,
 							["last_event"] = 1609734022,
 							["on_hold"] = false,
@@ -6281,14 +7464,10 @@ _detalhes_database = {
 							["healing_taken"] = 25397.001641,
 							["fight_component"] = true,
 							["end_time"] = 1609734027,
-							["healing_from"] = {
-								["Kotlin"] = true,
-								["Sikari la Tisse-brume"] = true,
-							},
 							["heal_enemy_amt"] = 0,
+							["aID"] = "1127-0973C412",
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[145109] = {
 										["c_amt"] = 0,
@@ -6309,9 +7488,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 2,
 										["n_curado"] = 1673,
 										["totaldenied"] = 0,
-										["n_amt"] = 2,
 										["absorbed"] = 0,
 									},
 									[8936] = {
@@ -6333,9 +7512,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 2,
 										["n_curado"] = 258,
 										["totaldenied"] = 0,
-										["n_amt"] = 2,
 										["absorbed"] = 0,
 									},
 									[774] = {
@@ -6357,9 +7536,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 2,
 										["n_curado"] = 1276,
 										["totaldenied"] = 0,
-										["n_amt"] = 2,
 										["absorbed"] = 0,
 									},
 									[145110] = {
@@ -6381,28 +7560,32 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 1,
 										["n_curado"] = 837,
 										["totaldenied"] = 0,
-										["n_amt"] = 1,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
 							["start_time"] = 1609734007,
 							["spec"] = 102,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["aID"] = "1127-0973C412",
+							["last_event"] = 1609734020,
 							["totaldenied"] = 0.001641,
 							["delay"] = 0,
-							["last_event"] = 1609734020,
+							["healing_from"] = {
+								["Kotlin"] = true,
+								["Sikari la Tisse-brume"] = true,
+							},
 						}, -- [2]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1513,
 					["tipo"] = 7,
+					["combatId"] = 1513,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.003716,
@@ -6419,69 +7602,69 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.003716,
 							["last_event"] = 1609734064,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.003716,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1513,
 					["tipo"] = 9,
+					["combatId"] = 1513,
 					["_ActorTable"] = {
 						{
 							["fight_component"] = true,
-							["spell_cast"] = {
-								[144076] = 3,
-								[144077] = 75,
-							},
+							["buff_uptime"] = 32,
 							["flag_original"] = 1047,
 							["buff_uptime_targets"] = {
 							},
 							["grupo"] = true,
 							["nome"] = "Sikari la Tisse-brume",
-							["buff_uptime"] = 32,
 							["pets"] = {
+							},
+							["spell_cast"] = {
+								[144076] = 3,
+								[144077] = 75,
 							},
 							["classe"] = "MONK",
 							["tipo"] = 4,
 							["aID"] = "71828",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[144080] = {
-										["activedamt"] = 1,
-										["id"] = 144080,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 17,
-										["appliedamt"] = 1,
+										["id"] = 144080,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[144076] = {
-										["activedamt"] = 3,
-										["id"] = 144076,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 3,
 										["uptime"] = 15,
-										["appliedamt"] = 3,
+										["id"] = 144076,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
 							["last_event"] = 1609734023,
@@ -6489,181 +7672,181 @@ _detalhes_database = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 18,
-										["appliedamt"] = 2,
+										["id"] = 164812,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 6,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 16,
-										["appliedamt"] = 6,
+										["id"] = 164815,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 155,
 							["aID"] = "1127-0973C412",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[48517] = {
-										["activedamt"] = 1,
-										["id"] = 48517,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 48517,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[48518] = {
-										["activedamt"] = 1,
-										["id"] = 48518,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 48518,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[157228] = {
-										["activedamt"] = 2,
-										["id"] = 157228,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 4,
-										["appliedamt"] = 2,
+										["id"] = 157228,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+									[342814] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["uptime"] = 22,
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 342814,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[343648] = {
-										["activedamt"] = 1,
-										["id"] = 343648,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 6,
-										["appliedamt"] = 1,
+										["id"] = 343648,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 22,
-										["appliedamt"] = 1,
+										["id"] = 227723,
 										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[26297] = {
-										["activedamt"] = 1,
-										["id"] = 26297,
-										["targets"] = {
-										},
-										["uptime"] = 12,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[324748] = {
-										["activedamt"] = 1,
-										["id"] = 324748,
-										["targets"] = {
-										},
-										["uptime"] = 14,
-										["appliedamt"] = 1,
-										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[339946] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
 										["activedamt"] = 1,
+										["uptime"] = 5,
 										["id"] = 339946,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[339943] = {
-										["activedamt"] = 1,
-										["id"] = 339943,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[194223] = {
-										["activedamt"] = 1,
-										["id"] = 194223,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 194223,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[342814] = {
-										["activedamt"] = 1,
-										["id"] = 342814,
+									[324748] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["uptime"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 14,
+										["id"] = 324748,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[339943] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 339943,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 22,
+										["id"] = 24858,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[26297] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 12,
+										["id"] = 26297,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335149] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 22,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 34,
@@ -6681,36 +7864,36 @@ _detalhes_database = {
 							},
 							["debuff_uptime_targets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
 							["last_event"] = 1609734027,
+							["tipo"] = 4,
 							["pets"] = {
 							},
 							["classe"] = "DRUID",
 							["serial"] = "Player-1127-0973C412",
-							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
 						}, -- [2]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petit fourrageur illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71832",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71832-0002729776",
 							["spell_cast"] = {
 								[144113] = 12,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71832-0002729776",
-							["aID"] = "71832",
 						}, -- [3]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1513,
 					["tipo"] = 2,
+					["combatId"] = 1513,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -6724,10 +7907,9 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["instance_type"] = "scenario",
-				["enemy"] = "Petit fourrageur illusoire",
-				["combat_counter"] = 1997,
-				["tempo_start"] = 1609734005,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					230703.991985, -- [1]
 					41204, -- [2]
@@ -6741,15 +7923,77 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					135220, -- [1]
+					4044, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:20:28",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Petit fourrageur illusoire",
+				["TotalElapsedCombatTime"] = 17.70900000000074,
+				["CombatEndedAt"] = 14488.905,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Kotlin"] = 4044.001641,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Kotlin"] = 135220.008701,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 14492.008,
+				["combat_id"] = 1513,
+				["data_inicio"] = "05:20:06",
+				["tempo_start"] = 1609734005,
+				["frags"] = {
+					["Petit fourrageur illusoire"] = 5,
+					["Grand éventreur illusoire"] = 1,
 				},
 				["player_last_events"] = {
 					["Kotlin"] = {
@@ -6850,85 +8094,24 @@ _detalhes_database = {
 						["n"] = 4,
 					},
 				},
-				["cleu_timeline"] = {
-				},
-				["CombatEndedAt"] = 14488.905,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "05:20:06",
-				["end_time"] = 14492.008,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 1513,
-				["totals_grupo"] = {
-					135220, -- [1]
-					4044, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Kotlin"] = 4044.001641,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Kotlin"] = 135220.008701,
-						}, -- [1]
-					},
-				},
-				["frags"] = {
-					["Petit fourrageur illusoire"] = 5,
-					["Grand éventreur illusoire"] = 1,
-				},
-				["data_fim"] = "05:20:28",
-				["TotalElapsedCombatTime"] = 17.70900000000074,
+				["combat_counter"] = 1997,
 				["CombatSkillCache"] = {
+				},
+				["contra"] = "Petit fourrageur illusoire",
+				["start_time"] = 14470.003,
+				["TimeData"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["start_time"] = 14470.003,
-				["contra"] = "Petit fourrageur illusoire",
-				["TimeData"] = {
-				},
-			}, -- [9]
+			}, -- [11]
 			{
 				{
-					["combatId"] = 1512,
 					["tipo"] = 2,
+					["combatId"] = 1512,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.008838,
-							["total"] = 135961.008838,
 							["damage_from"] = {
 								["Kotlin"] = true,
 								["Sikari la Tisse-brume"] = true,
@@ -6937,23 +8120,22 @@ _detalhes_database = {
 								["Kotlin"] = 51909,
 								["Sikari la Tisse-brume"] = 84052,
 							},
+							["serial"] = "Creature-0-1465-1148-31811-71831-0000F29744",
 							["pets"] = {
 							},
-							["monster"] = true,
-							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
+							["aID"] = "71831",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 135961.008838,
-							["on_hold"] = false,
-							["dps_started"] = false,
 							["end_time"] = 1609734000,
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["monster"] = true,
+							["total"] = 135961.008838,
+							["damage_taken"] = 865540.008838,
+							["last_event"] = 1609733991,
 							["nome"] = "Grand fourrageur illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 2,
@@ -7017,16 +8199,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71831",
-							["serial"] = "Creature-0-1465-1148-31811-71831-0000F29744",
 							["last_dps"] = 0,
+							["dps_started"] = false,
+							["on_hold"] = false,
 							["custom"] = 0,
-							["last_event"] = 1609733991,
-							["damage_taken"] = 865540.008838,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1609733960,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["fight_component"] = true,
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -7039,22 +8223,8 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 82207.003262,
-							["on_hold"] = false,
 							["aID"] = "1127-0973C412",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 82207.003262,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1609734000,
-							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
-							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[164812] = {
 										["c_amt"] = 7,
@@ -7197,23 +8367,37 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 102,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 82207.003262,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 2300.783746487573,
-							["custom"] = 0,
+							["dps_started"] = false,
+							["total"] = 82207.003262,
+							["classe"] = "DRUID",
+							["on_hold"] = false,
+							["nome"] = "Kotlin",
+							["spec"] = 102,
+							["grupo"] = true,
+							["end_time"] = 1609734000,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609733984,
 							["damage_taken"] = 51909.003262,
 							["start_time"] = 1609733971,
 							["delay"] = 1609733984,
-							["last_event"] = 1609733984,
+							["last_dps"] = 2300.783746487573,
 						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1512,
 					["tipo"] = 3,
+					["combatId"] = 1512,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 2578,
@@ -7227,8 +8411,7 @@ _detalhes_database = {
 								["Kotlin"] = 47890,
 								["Sikari la Tisse-brume"] = 29860,
 							},
-							["targets_absorbs"] = {
-							},
+							["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
 							["pets"] = {
 							},
 							["totalover_without_pet"] = 0.001366,
@@ -7236,18 +8419,23 @@ _detalhes_database = {
 								["Kotlin"] = 66567,
 								["Sikari la Tisse-brume"] = 4479,
 							},
-							["classe"] = "MONK",
+							["healing_taken"] = 62311.001366,
 							["totalover"] = 71046.001366,
 							["total_without_pet"] = 77750.001366,
-							["end_time"] = 1609734000,
 							["iniciar_hps"] = false,
+							["start_time"] = 1609733956,
 							["fight_component"] = true,
-							["total"] = 77750.001366,
-							["healing_taken"] = 62311.001366,
-							["heal_enemy_amt"] = 0,
+							["end_time"] = 1609734000,
+							["classe"] = "MONK",
+							["aID"] = "71828",
 							["nome"] = "Sikari la Tisse-brume",
+							["targets_absorbs"] = {
+							},
+							["total"] = 77750.001366,
+							["heal_enemy_amt"] = 0,
+							["heal_enemy"] = {
+							},
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[144080] = {
 										["c_amt"] = 0,
@@ -7271,18 +8459,14 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 46,
 										["n_curado"] = 77750,
 										["totaldenied"] = 0,
-										["n_amt"] = 46,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
-							["aID"] = "71828",
-							["start_time"] = 1609733956,
-							["heal_enemy"] = {
-							},
-							["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
 							["custom"] = 0,
 							["last_event"] = 1609734000,
 							["on_hold"] = false,
@@ -7319,14 +8503,10 @@ _detalhes_database = {
 							["healing_taken"] = 50998.006997,
 							["fight_component"] = true,
 							["end_time"] = 1609734000,
-							["healing_from"] = {
-								["Kotlin"] = true,
-								["Sikari la Tisse-brume"] = true,
-							},
 							["heal_enemy_amt"] = 0,
+							["aID"] = "1127-0973C412",
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[48438] = {
 										["c_amt"] = 1,
@@ -7349,9 +8529,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 11,
 										["n_curado"] = 2122,
 										["totaldenied"] = 0,
-										["n_amt"] = 11,
 										["absorbed"] = 0,
 									},
 									[774] = {
@@ -7373,9 +8553,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 3,
 										["n_curado"] = 2081,
 										["totaldenied"] = 0,
-										["n_amt"] = 3,
 										["absorbed"] = 0,
 									},
 									[8936] = {
@@ -7397,9 +8577,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 270,
 										["c_curado"] = 7221,
+										["n_amt"] = 6,
 										["n_curado"] = 7363,
 										["totaldenied"] = 0,
-										["n_amt"] = 6,
 										["absorbed"] = 0,
 									},
 									[145110] = {
@@ -7421,9 +8601,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 5,
 										["n_curado"] = 4234,
 										["totaldenied"] = 0,
-										["n_amt"] = 5,
 										["absorbed"] = 0,
 									},
 									[18562] = {
@@ -7445,9 +8625,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 1,
 										["n_curado"] = 9430,
 										["totaldenied"] = 0,
-										["n_amt"] = 1,
 										["absorbed"] = 0,
 									},
 									[145109] = {
@@ -7470,28 +8650,32 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 4,
 										["n_curado"] = 3108,
 										["totaldenied"] = 0,
-										["n_amt"] = 4,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
 							["start_time"] = 1609733960,
 							["spec"] = 102,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["aID"] = "1127-0973C412",
+							["last_event"] = 1609734000,
 							["totaldenied"] = 0.006997,
 							["delay"] = 0,
-							["last_event"] = 1609734000,
+							["healing_from"] = {
+								["Kotlin"] = true,
+								["Sikari la Tisse-brume"] = true,
+							},
 						}, -- [2]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1512,
 					["tipo"] = 7,
+					["combatId"] = 1512,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.005448,
@@ -7508,70 +8692,70 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.005448,
 							["last_event"] = 1609733982,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.005448,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1512,
 					["tipo"] = 9,
+					["combatId"] = 1512,
 					["_ActorTable"] = {
 						{
 							["fight_component"] = true,
-							["spell_cast"] = {
-								[144076] = 5,
-								[144077] = 124,
-								[144080] = 2,
-							},
+							["buff_uptime"] = 70,
 							["flag_original"] = 1047,
 							["buff_uptime_targets"] = {
 							},
 							["grupo"] = true,
 							["nome"] = "Sikari la Tisse-brume",
-							["buff_uptime"] = 70,
 							["pets"] = {
+							},
+							["spell_cast"] = {
+								[144076] = 5,
+								[144077] = 124,
+								[144080] = 2,
 							},
 							["classe"] = "MONK",
 							["tipo"] = 4,
 							["aID"] = "71828",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[144080] = {
-										["activedamt"] = 1,
-										["id"] = 144080,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 45,
-										["appliedamt"] = 1,
+										["id"] = 144080,
 										["refreshamt"] = 3,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[144076] = {
-										["activedamt"] = 5,
-										["id"] = 144076,
+										["appliedamt"] = 5,
 										["targets"] = {
 										},
+										["activedamt"] = 5,
 										["uptime"] = 25,
-										["appliedamt"] = 5,
+										["id"] = 144076,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
 							["last_event"] = 1609734000,
@@ -7579,46 +8763,45 @@ _detalhes_database = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 5,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 26,
-										["appliedamt"] = 5,
+										["id"] = 164815,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[61391] = {
-										["activedamt"] = 0,
-										["id"] = 61391,
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 2,
-										["appliedamt"] = 4,
+										["id"] = 61391,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 28,
-										["appliedamt"] = 2,
+										["id"] = 164812,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 204,
 							["cc_done_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[61391] = {
 										["id"] = 61391,
@@ -7628,100 +8811,101 @@ _detalhes_database = {
 										["counter"] = 4,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["aID"] = "1127-0973C412",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 45,
-										["appliedamt"] = 1,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[24858] = {
-										["activedamt"] = 3,
-										["id"] = 24858,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 3,
 										["uptime"] = 41,
-										["appliedamt"] = 3,
+										["id"] = 24858,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[191034] = {
-										["activedamt"] = 2,
-										["id"] = 191034,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 16,
-										["appliedamt"] = 2,
+										["id"] = 191034,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[48438] = {
-										["activedamt"] = 1,
-										["id"] = 48438,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 6,
-										["appliedamt"] = 1,
+										["id"] = 48438,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 45,
-										["appliedamt"] = 1,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[324748] = {
-										["activedamt"] = 1,
-										["id"] = 324748,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 13,
-										["appliedamt"] = 1,
+										["id"] = 324748,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[157228] = {
-										["activedamt"] = 4,
-										["id"] = 157228,
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
+										["activedamt"] = 4,
 										["uptime"] = 3,
-										["appliedamt"] = 4,
+										["id"] = 157228,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[342814] = {
-										["activedamt"] = 1,
-										["id"] = 342814,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 35,
-										["appliedamt"] = 1,
+										["id"] = 342814,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 56,
@@ -7729,54 +8913,54 @@ _detalhes_database = {
 								["Grand fourrageur illusoire"] = 4,
 							},
 							["cc_done"] = 4.001677,
-							["nome"] = "Kotlin",
+							["debuff_uptime_targets"] = {
+							},
 							["spec"] = 102,
 							["grupo"] = true,
 							["spell_cast"] = {
 								[93402] = 1,
 								[191034] = 2,
 								[774] = 1,
-								[194153] = 11,
-								[61391] = 1,
 								[48438] = 1,
-								[24858] = 2,
-								[324748] = 2,
-								[8921] = 1,
-								[18562] = 1,
+								[61391] = 1,
 								[8936] = 3,
+								[8921] = 1,
+								[324748] = 2,
+								[24858] = 2,
+								[18562] = 1,
+								[194153] = 11,
 							},
-							["debuff_uptime_targets"] = {
-							},
+							["classe"] = "DRUID",
 							["buff_uptime_targets"] = {
 							},
 							["last_event"] = 1609734000,
 							["pets"] = {
 							},
-							["classe"] = "DRUID",
-							["serial"] = "Player-1127-0973C412",
 							["tipo"] = 4,
+							["serial"] = "Player-1127-0973C412",
+							["nome"] = "Kotlin",
 						}, -- [2]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Grand fourrageur illusoire",
 							["flag_original"] = 68168,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71831",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71831-0002729744",
 							["spell_cast"] = {
 								[144113] = 19,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71831-0002729744",
-							["aID"] = "71831",
 						}, -- [3]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1512,
 					["tipo"] = 2,
+					["combatId"] = 1512,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -7790,10 +8974,9 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["instance_type"] = "scenario",
-				["enemy"] = "Grand fourrageur illusoire",
-				["combat_counter"] = 1996,
-				["tempo_start"] = 1609733955,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					218167.9929740001, -- [1]
 					113309, -- [2]
@@ -7807,31 +8990,16 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["CombatEndedAt"] = 14464.228,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "05:19:16",
-				["end_time"] = 14465.009,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 1512,
 				["totals_grupo"] = {
 					82207, -- [1]
 					35559, -- [2]
@@ -7845,20 +9013,34 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:20:01",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Grand fourrageur illusoire",
+				["TotalElapsedCombatTime"] = 8.085000000000946,
+				["CombatEndedAt"] = 14464.228,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -7866,37 +9048,39 @@ _detalhes_database = {
 							["Kotlin"] = 35559.006997,
 						}, -- [1]
 					},
-					["damage_section"] = {
-					},
 					["damage"] = {
 						{
 							["Kotlin"] = 82207.003262,
 						}, -- [1]
 					},
 				},
+				["end_time"] = 14465.009,
+				["combat_id"] = 1512,
+				["data_inicio"] = "05:19:16",
+				["tempo_start"] = 1609733955,
 				["frags"] = {
 					["Grand fourrageur illusoire"] = 5,
 				},
-				["data_fim"] = "05:20:01",
-				["TotalElapsedCombatTime"] = 8.085000000000946,
+				["player_last_events"] = {
+				},
+				["combat_counter"] = 1996,
 				["CombatSkillCache"] = {
+				},
+				["contra"] = "Grand fourrageur illusoire",
+				["start_time"] = 14420.001,
+				["TimeData"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["start_time"] = 14420.001,
-				["contra"] = "Grand fourrageur illusoire",
-				["TimeData"] = {
-				},
-			}, -- [10]
+			}, -- [12]
 			{
 				{
-					["combatId"] = 1511,
 					["tipo"] = 2,
+					["combatId"] = 1511,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.007073,
-							["total"] = 41253.007073,
 							["damage_from"] = {
 								["Kotlin"] = true,
 								["Sikari la Tisse-brume"] = true,
@@ -7905,23 +9089,22 @@ _detalhes_database = {
 								["Kotlin"] = 35024,
 								["Sikari la Tisse-brume"] = 6229,
 							},
+							["serial"] = "Creature-0-1465-1148-31811-71830-0000F2971C",
 							["pets"] = {
 							},
-							["monster"] = true,
-							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
+							["aID"] = "71830",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 41253.007073,
-							["on_hold"] = false,
-							["dps_started"] = false,
 							["end_time"] = 1609733948,
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["monster"] = true,
+							["total"] = 41253.007073,
+							["damage_taken"] = 362021.007073,
+							["last_event"] = 1609733942,
 							["nome"] = "Petit éventreur illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 1,
@@ -7955,16 +9138,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									}, -- [1]
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71830",
-							["serial"] = "Creature-0-1465-1148-31811-71830-0000F2971C",
 							["last_dps"] = 0,
+							["dps_started"] = false,
+							["on_hold"] = false,
 							["custom"] = 0,
-							["last_event"] = 1609733942,
-							["damage_taken"] = 362021.007073,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1609733919,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["fight_component"] = true,
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -7977,22 +9162,8 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 65327.002662,
-							["on_hold"] = false,
 							["aID"] = "1127-0973C412",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 65327.002662,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1609733948,
-							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
-							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[164812] = {
 										["c_amt"] = 2,
@@ -8303,23 +9474,37 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 102,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 65327.002662,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 2416.207517919864,
-							["custom"] = 0,
+							["dps_started"] = false,
+							["total"] = 65327.002662,
+							["classe"] = "DRUID",
+							["on_hold"] = false,
+							["nome"] = "Kotlin",
+							["spec"] = 102,
+							["grupo"] = true,
+							["end_time"] = 1609733948,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609733942,
 							["damage_taken"] = 35024.002662,
 							["start_time"] = 1609733917,
 							["delay"] = 0,
-							["last_event"] = 1609733942,
+							["last_dps"] = 2416.207517919864,
 						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1511,
 					["tipo"] = 3,
+					["combatId"] = 1511,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 2578,
@@ -8333,8 +9518,7 @@ _detalhes_database = {
 								["Kotlin"] = 28052,
 								["Sikari la Tisse-brume"] = 5167,
 							},
-							["targets_absorbs"] = {
-							},
+							["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
 							["pets"] = {
 							},
 							["totalover_without_pet"] = 0.008773,
@@ -8342,18 +9526,23 @@ _detalhes_database = {
 								["Kotlin"] = 56547,
 								["Sikari la Tisse-brume"] = 20213,
 							},
-							["classe"] = "MONK",
+							["healing_taken"] = 6918.008773,
 							["totalover"] = 76760.00877300001,
 							["total_without_pet"] = 33219.008773,
-							["end_time"] = 1609733948,
 							["iniciar_hps"] = false,
+							["start_time"] = 1609733916,
 							["fight_component"] = true,
-							["total"] = 33219.008773,
-							["healing_taken"] = 6918.008773,
-							["heal_enemy_amt"] = 0,
+							["end_time"] = 1609733948,
+							["classe"] = "MONK",
+							["aID"] = "71828",
 							["nome"] = "Sikari la Tisse-brume",
+							["targets_absorbs"] = {
+							},
+							["total"] = 33219.008773,
+							["heal_enemy_amt"] = 0,
+							["heal_enemy"] = {
+							},
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[144080] = {
 										["c_amt"] = 0,
@@ -8377,18 +9566,14 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 34,
 										["n_curado"] = 33219,
 										["totaldenied"] = 0,
-										["n_amt"] = 34,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
-							["aID"] = "71828",
-							["start_time"] = 1609733916,
-							["heal_enemy"] = {
-							},
-							["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
 							["custom"] = 0,
 							["last_event"] = 1609733948,
 							["on_hold"] = false,
@@ -8426,14 +9611,10 @@ _detalhes_database = {
 							["healing_taken"] = 35043.006377,
 							["fight_component"] = true,
 							["end_time"] = 1609733948,
-							["healing_from"] = {
-								["Kotlin"] = true,
-								["Sikari la Tisse-brume"] = true,
-							},
 							["heal_enemy_amt"] = 0,
+							["aID"] = "1127-0973C412",
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[145109] = {
 										["c_amt"] = 0,
@@ -8454,9 +9635,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 1,
 										["n_curado"] = 971,
 										["totaldenied"] = 0,
-										["n_amt"] = 1,
 										["absorbed"] = 0,
 									},
 									[8936] = {
@@ -8481,9 +9662,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 14,
 										["c_curado"] = 335,
+										["n_amt"] = 16,
 										["n_curado"] = 3323,
 										["totaldenied"] = 0,
-										["n_amt"] = 16,
 										["absorbed"] = 0,
 									},
 									[774] = {
@@ -8508,9 +9689,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 12,
 										["n_curado"] = 4106,
 										["totaldenied"] = 0,
-										["n_amt"] = 12,
 										["absorbed"] = 0,
 									},
 									[145110] = {
@@ -8533,28 +9714,32 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 1,
 										["n_curado"] = 7,
 										["totaldenied"] = 0,
-										["n_amt"] = 1,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
 							["start_time"] = 1609733929,
 							["spec"] = 102,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["aID"] = "1127-0973C412",
+							["last_event"] = 1609733938,
 							["totaldenied"] = 0.006377,
 							["delay"] = 1609733938,
-							["last_event"] = 1609733938,
+							["healing_from"] = {
+								["Kotlin"] = true,
+								["Sikari la Tisse-brume"] = true,
+							},
 						}, -- [2]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1511,
 					["tipo"] = 7,
+					["combatId"] = 1511,
 					["_ActorTable"] = {
 						{
 							["received"] = 5.004815,
@@ -8572,7 +9757,6 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 									[77758] = {
 										["total"] = 5,
@@ -8584,55 +9768,56 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.004815,
 							["last_event"] = 1609733942,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.004815,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1511,
 					["tipo"] = 9,
+					["combatId"] = 1511,
 					["_ActorTable"] = {
 						{
 							["fight_component"] = true,
-							["spell_cast"] = {
-								[144103] = 10,
-								[144080] = 2,
-							},
+							["buff_uptime"] = 33,
 							["flag_original"] = 1047,
 							["buff_uptime_targets"] = {
 							},
 							["grupo"] = true,
 							["nome"] = "Sikari la Tisse-brume",
-							["buff_uptime"] = 33,
 							["pets"] = {
+							},
+							["spell_cast"] = {
+								[144103] = 10,
+								[144080] = 2,
 							},
 							["classe"] = "MONK",
 							["tipo"] = 4,
 							["aID"] = "71828",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[144080] = {
-										["activedamt"] = 1,
-										["id"] = 144080,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 33,
-										["appliedamt"] = 1,
+										["id"] = 144080,
 										["refreshamt"] = 3,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
 							["last_event"] = 1609733948,
@@ -8640,57 +9825,56 @@ _detalhes_database = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 22,
-										["appliedamt"] = 2,
+										["id"] = 164815,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[192090] = {
-										["activedamt"] = 0,
-										["id"] = 192090,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 15,
-										["appliedamt"] = 2,
+										["id"] = 192090,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[155722] = {
-										["activedamt"] = 0,
-										["id"] = 155722,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 15,
-										["appliedamt"] = 2,
+										["id"] = 155722,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 25,
-										["appliedamt"] = 2,
+										["id"] = 164812,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 226,
 							["cc_done_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[155722] = {
 										["id"] = 155722,
@@ -8700,155 +9884,156 @@ _detalhes_database = {
 										["counter"] = 2,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["aID"] = "1127-0973C412",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[191034] = {
-										["activedamt"] = 1,
-										["id"] = 191034,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
+										["id"] = 191034,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[157228] = {
-										["activedamt"] = 3,
-										["id"] = 157228,
-										["targets"] = {
-										},
-										["uptime"] = 10,
 										["appliedamt"] = 3,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[343648] = {
-										["activedamt"] = 1,
-										["id"] = 343648,
 										["targets"] = {
 										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
-										["targets"] = {
-										},
-										["uptime"] = 33,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[339943] = {
-										["activedamt"] = 1,
-										["id"] = 339943,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
-										["targets"] = {
-										},
-										["uptime"] = 33,
-										["appliedamt"] = 1,
+										["activedamt"] = 3,
+										["uptime"] = 10,
+										["id"] = 157228,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[48517] = {
-										["activedamt"] = 1,
-										["id"] = 48517,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 15,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[8936] = {
-										["activedamt"] = 1,
-										["id"] = 8936,
-										["targets"] = {
-										},
-										["uptime"] = 12,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[342814] = {
-										["activedamt"] = 1,
-										["id"] = 342814,
-										["targets"] = {
-										},
-										["uptime"] = 33,
-										["appliedamt"] = 1,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[324748] = {
-										["activedamt"] = 2,
-										["id"] = 324748,
-										["targets"] = {
-										},
-										["uptime"] = 19,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
-										["targets"] = {
-										},
-										["uptime"] = 33,
-										["appliedamt"] = 1,
+										["id"] = 48517,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[323764] = {
-										["activedamt"] = 1,
-										["id"] = 323764,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 4,
+										["id"] = 323764,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[343648] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 343648,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 33,
+										["id"] = 227723,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[8936] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 12,
+										["id"] = 8936,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[339943] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 339943,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[342814] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 33,
+										["id"] = 342814,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[324748] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 2,
+										["uptime"] = 19,
+										["id"] = 324748,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[24858] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 33,
+										["id"] = 24858,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[774] = {
-										["activedamt"] = 1,
-										["id"] = 774,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 15,
+										["id"] = 774,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[335149] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 33,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 77,
@@ -8856,7 +10041,8 @@ _detalhes_database = {
 								["Petit éventreur illusoire"] = 2,
 							},
 							["cc_done"] = 2.008068,
-							["nome"] = "Kotlin",
+							["debuff_uptime_targets"] = {
+							},
 							["spec"] = 102,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -8868,22 +10054,21 @@ _detalhes_database = {
 								[194153] = 5,
 								[8921] = 1,
 							},
-							["debuff_uptime_targets"] = {
-							},
+							["classe"] = "DRUID",
 							["buff_uptime_targets"] = {
 							},
 							["last_event"] = 1609733948,
 							["pets"] = {
 							},
-							["classe"] = "DRUID",
-							["serial"] = "Player-1127-0973C412",
 							["tipo"] = 4,
+							["serial"] = "Player-1127-0973C412",
+							["nome"] = "Kotlin",
 						}, -- [2]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1511,
 					["tipo"] = 2,
+					["combatId"] = 1511,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -8897,10 +10082,9 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["instance_type"] = "scenario",
-				["enemy"] = "Petit éventreur illusoire",
-				["combat_counter"] = 1995,
-				["tempo_start"] = 1609733915,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					106579.998789, -- [1]
 					41961, -- [2]
@@ -8914,31 +10098,16 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["CombatEndedAt"] = 14407.572,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "05:18:36",
-				["end_time"] = 14413.005,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 1511,
 				["totals_grupo"] = {
 					65327, -- [1]
 					8742, -- [2]
@@ -8952,20 +10121,34 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:19:09",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Petit éventreur illusoire",
+				["TotalElapsedCombatTime"] = 26.07799999999952,
+				["CombatEndedAt"] = 14407.572,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -8973,37 +10156,39 @@ _detalhes_database = {
 							["Kotlin"] = 8742.006377,
 						}, -- [1]
 					},
-					["damage_section"] = {
-					},
 					["damage"] = {
 						{
 							["Kotlin"] = 65327.002662,
 						}, -- [1]
 					},
 				},
+				["end_time"] = 14413.005,
+				["combat_id"] = 1511,
+				["data_inicio"] = "05:18:36",
+				["tempo_start"] = 1609733915,
 				["frags"] = {
 					["Petit éventreur illusoire"] = 2,
 				},
-				["data_fim"] = "05:19:09",
-				["TotalElapsedCombatTime"] = 26.07799999999952,
+				["player_last_events"] = {
+				},
+				["combat_counter"] = 1995,
 				["CombatSkillCache"] = {
+				},
+				["contra"] = "Petit éventreur illusoire",
+				["start_time"] = 14380.004,
+				["TimeData"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["start_time"] = 14380.004,
-				["contra"] = "Petit éventreur illusoire",
-				["TimeData"] = {
-				},
-			}, -- [11]
+			}, -- [13]
 			{
 				{
-					["combatId"] = 1510,
 					["tipo"] = 2,
+					["combatId"] = 1510,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.005761,
-							["total"] = 30862.005761,
 							["damage_from"] = {
 								["Kotlin"] = true,
 								["Sikari la Tisse-brume"] = true,
@@ -9012,23 +10197,22 @@ _detalhes_database = {
 								["Kotlin"] = 6524,
 								["Sikari la Tisse-brume"] = 24338,
 							},
+							["serial"] = "Creature-0-1465-1148-31811-71829-00007296FE",
 							["pets"] = {
 							},
-							["monster"] = true,
-							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
 							["classe"] = "UNKNOW",
+							["aID"] = "71829",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 30862.005761,
-							["on_hold"] = false,
-							["dps_started"] = false,
 							["end_time"] = 1609733911,
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
+							["monster"] = true,
+							["total"] = 30862.005761,
+							["damage_taken"] = 267791.005761,
+							["last_event"] = 1609733904,
 							["nome"] = "Grand éventreur illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -9061,16 +10245,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									}, -- [1]
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71829",
-							["serial"] = "Creature-0-1465-1148-31811-71829-00007296FE",
 							["last_dps"] = 0,
+							["dps_started"] = false,
+							["on_hold"] = false,
 							["custom"] = 0,
-							["last_event"] = 1609733904,
-							["damage_taken"] = 267791.005761,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1609733888,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["fight_component"] = true,
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -9083,22 +10269,8 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 26858.005751,
-							["on_hold"] = false,
 							["aID"] = "1127-0973C412",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 26858.005751,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1609733911,
-							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
-							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[190984] = {
 										["c_amt"] = 1,
@@ -9241,23 +10413,37 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 102,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 26858.005751,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 1351.618225101963,
-							["custom"] = 0,
+							["dps_started"] = false,
+							["total"] = 26858.005751,
+							["classe"] = "DRUID",
+							["on_hold"] = false,
+							["nome"] = "Kotlin",
+							["spec"] = 102,
+							["grupo"] = true,
+							["end_time"] = 1609733911,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609733904,
 							["damage_taken"] = 6524.005751000001,
 							["start_time"] = 1609733887,
 							["delay"] = 0,
-							["last_event"] = 1609733904,
+							["last_dps"] = 1351.618225101963,
 						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1510,
 					["tipo"] = 3,
+					["combatId"] = 1510,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 68114,
@@ -9271,8 +10457,7 @@ _detalhes_database = {
 								["Kotlin"] = 5639,
 								["Sikari la Tisse-brume"] = 16422,
 							},
-							["targets_absorbs"] = {
-							},
+							["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
 							["pets"] = {
 							},
 							["totalover_without_pet"] = 0.001564,
@@ -9280,18 +10465,23 @@ _detalhes_database = {
 								["Kotlin"] = 59057,
 								["Sikari la Tisse-brume"] = 2986,
 							},
-							["classe"] = "MONK",
+							["healing_taken"] = 19810.001564,
 							["totalover"] = 62043.001564,
 							["total_without_pet"] = 22061.001564,
-							["end_time"] = 1609733911,
 							["iniciar_hps"] = false,
+							["start_time"] = 1609733886,
 							["fight_component"] = true,
-							["total"] = 22061.001564,
-							["healing_taken"] = 19810.001564,
-							["heal_enemy_amt"] = 0,
+							["end_time"] = 1609733911,
+							["classe"] = "MONK",
+							["aID"] = "71828",
 							["nome"] = "Sikari la Tisse-brume",
+							["targets_absorbs"] = {
+							},
+							["total"] = 22061.001564,
+							["heal_enemy_amt"] = 0,
+							["heal_enemy"] = {
+							},
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[144080] = {
 										["c_amt"] = 0,
@@ -9315,18 +10505,14 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 26,
 										["n_curado"] = 22061,
 										["totaldenied"] = 0,
-										["n_amt"] = 26,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
-							["aID"] = "71828",
-							["start_time"] = 1609733886,
-							["heal_enemy"] = {
-							},
-							["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
 							["custom"] = 0,
 							["last_event"] = 1609733910,
 							["on_hold"] = false,
@@ -9362,14 +10548,10 @@ _detalhes_database = {
 							["healing_taken"] = 6492.005327,
 							["fight_component"] = true,
 							["end_time"] = 1609733911,
-							["healing_from"] = {
-								["Kotlin"] = true,
-								["Sikari la Tisse-brume"] = true,
-							},
 							["heal_enemy_amt"] = 0,
+							["aID"] = "1127-0973C412",
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[145110] = {
 										["c_amt"] = 0,
@@ -9390,9 +10572,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 4,
 										["n_curado"] = 3388,
 										["totaldenied"] = 0,
-										["n_amt"] = 4,
 										["absorbed"] = 0,
 									},
 									[145109] = {
@@ -9414,28 +10596,32 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 1,
 										["n_curado"] = 853,
 										["totaldenied"] = 0,
-										["n_amt"] = 1,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
 							["start_time"] = 1609733890,
 							["spec"] = 102,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["aID"] = "1127-0973C412",
+							["last_event"] = 1609733910,
 							["totaldenied"] = 0.005327,
 							["delay"] = 0,
-							["last_event"] = 1609733910,
+							["healing_from"] = {
+								["Kotlin"] = true,
+								["Sikari la Tisse-brume"] = true,
+							},
 						}, -- [2]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1510,
 					["tipo"] = 7,
+					["combatId"] = 1510,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.005552,
@@ -9452,58 +10638,58 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.005552,
 							["last_event"] = 1609733904,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.005552,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1510,
 					["tipo"] = 9,
+					["combatId"] = 1510,
 					["_ActorTable"] = {
 						{
 							["fight_component"] = true,
-							["spell_cast"] = {
-								[144103] = 8,
-								[144080] = 1,
-							},
+							["buff_uptime"] = 26,
 							["flag_original"] = 1047,
 							["buff_uptime_targets"] = {
 							},
 							["grupo"] = true,
 							["nome"] = "Sikari la Tisse-brume",
-							["buff_uptime"] = 26,
 							["pets"] = {
+							},
+							["spell_cast"] = {
+								[144103] = 8,
+								[144080] = 1,
 							},
 							["classe"] = "MONK",
 							["tipo"] = 4,
 							["aID"] = "71828",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[144080] = {
-										["activedamt"] = 1,
-										["id"] = 144080,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 26,
-										["appliedamt"] = 1,
+										["id"] = 144080,
 										["refreshamt"] = 2,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
 							["last_event"] = 1609733911,
@@ -9511,46 +10697,45 @@ _detalhes_database = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 17,
-										["appliedamt"] = 1,
+										["id"] = 164815,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[61391] = {
-										["activedamt"] = 0,
-										["id"] = 61391,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 6,
-										["appliedamt"] = 1,
+										["id"] = 61391,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 18,
-										["appliedamt"] = 1,
+										["id"] = 164812,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 138,
 							["cc_done_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[61391] = {
 										["id"] = 61391,
@@ -9560,100 +10745,101 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["aID"] = "1127-0973C412",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[342814] = {
-										["activedamt"] = 1,
-										["id"] = 342814,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 24,
-										["appliedamt"] = 1,
+										["id"] = 342814,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 26,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[343648] = {
-										["activedamt"] = 1,
-										["id"] = 343648,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
+										["id"] = 24858,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[339946] = {
-										["activedamt"] = 1,
-										["id"] = 339946,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
-										["targets"] = {
-										},
-										["uptime"] = 26,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[48518] = {
-										["activedamt"] = 1,
-										["id"] = 48518,
-										["targets"] = {
-										},
-										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["id"] = 339946,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[324748] = {
-										["activedamt"] = 1,
-										["id"] = 324748,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 10,
+										["id"] = 324748,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[343648] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 343648,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[48518] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 15,
+										["id"] = 48518,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 26,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 26,
-										["appliedamt"] = 1,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 41,
@@ -9661,7 +10847,8 @@ _detalhes_database = {
 								["Grand éventreur illusoire"] = 1,
 							},
 							["cc_done"] = 1.00204,
-							["nome"] = "Kotlin",
+							["debuff_uptime_targets"] = {
+							},
 							["spec"] = 102,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -9672,22 +10859,21 @@ _detalhes_database = {
 								[61391] = 1,
 								[78674] = 2,
 							},
-							["debuff_uptime_targets"] = {
-							},
+							["classe"] = "DRUID",
 							["buff_uptime_targets"] = {
 							},
 							["last_event"] = 1609733911,
 							["pets"] = {
 							},
-							["classe"] = "DRUID",
-							["serial"] = "Player-1127-0973C412",
 							["tipo"] = 4,
+							["serial"] = "Player-1127-0973C412",
+							["nome"] = "Kotlin",
 						}, -- [2]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1510,
 					["tipo"] = 2,
+					["combatId"] = 1510,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -9701,10 +10887,9 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["instance_type"] = "scenario",
-				["enemy"] = "Grand éventreur illusoire",
-				["combat_counter"] = 1994,
-				["tempo_start"] = 1609733885,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					57719.99281699999, -- [1]
 					26302, -- [2]
@@ -9718,31 +10903,16 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["CombatEndedAt"] = 14370.776,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "05:18:06",
-				["end_time"] = 14376.026,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 1510,
 				["totals_grupo"] = {
 					26858, -- [1]
 					4241, -- [2]
@@ -9756,20 +10926,34 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:18:32",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Grand éventreur illusoire",
+				["TotalElapsedCombatTime"] = 19.08299999999872,
+				["CombatEndedAt"] = 14370.776,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -9777,32 +10961,35 @@ _detalhes_database = {
 							["Kotlin"] = 4241.005327,
 						}, -- [1]
 					},
-					["damage_section"] = {
-					},
 					["damage"] = {
 						{
 							["Kotlin"] = 26858.005751,
 						}, -- [1]
 					},
 				},
+				["end_time"] = 14376.026,
+				["combat_id"] = 1510,
+				["data_inicio"] = "05:18:06",
+				["tempo_start"] = 1609733885,
 				["frags"] = {
 					["Grand éventreur illusoire"] = 1,
 				},
-				["data_fim"] = "05:18:32",
-				["TotalElapsedCombatTime"] = 19.08299999999872,
+				["player_last_events"] = {
+				},
+				["combat_counter"] = 1994,
 				["CombatSkillCache"] = {
+				},
+				["contra"] = "Grand éventreur illusoire",
+				["start_time"] = 14350.02,
+				["TimeData"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["start_time"] = 14350.02,
-				["contra"] = "Grand éventreur illusoire",
-				["TimeData"] = {
-				},
-			}, -- [12]
+			}, -- [14]
 			{
 				{
-					["combatId"] = 1509,
 					["tipo"] = 2,
+					["combatId"] = 1509,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -9816,22 +11003,8 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 73229.00698,
-							["on_hold"] = false,
 							["aID"] = "1127-0973C412",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 73229.00698,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1609733848,
-							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
-							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[164812] = {
 										["c_amt"] = 9,
@@ -10123,17 +11296,31 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 102,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 73229.00698,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 5799.857989862096,
-							["custom"] = 0,
+							["dps_started"] = false,
+							["total"] = 73229.00698,
+							["classe"] = "DRUID",
+							["on_hold"] = false,
+							["nome"] = "Kotlin",
+							["spec"] = 102,
+							["grupo"] = true,
+							["end_time"] = 1609733848,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609733847,
 							["damage_taken"] = 0.00698,
 							["start_time"] = 1609733834,
 							["delay"] = 0,
-							["last_event"] = 1609733847,
+							["last_dps"] = 5799.857989862096,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -10143,24 +11330,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.004294,
+							["serial"] = "Creature-0-1465-1148-31811-71069-00007296CB",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.004294,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733848,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.004294,
+							["damage_taken"] = 35412.004294,
+							["last_event"] = 0,
 							["nome"] = "Grand mystique illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142238] = {
 										["c_amt"] = 0,
@@ -10189,16 +11374,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71069",
-							["serial"] = "Creature-0-1465-1148-31811-71069-00007296CB",
-							["last_dps"] = 0,
+							["end_time"] = 1609733848,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 35412.004294,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609733848,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71069",
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -10208,24 +11395,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.002519,
+							["serial"] = "Creature-0-1465-1148-31811-71077-0000F296CB",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.002519,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733848,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.002519,
+							["damage_taken"] = 22545.002519,
+							["last_event"] = 0,
 							["nome"] = "Petit tisse-ambre illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142189] = {
 										["c_amt"] = 0,
@@ -10254,16 +11439,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71077",
-							["serial"] = "Creature-0-1465-1148-31811-71077-0000F296CB",
-							["last_dps"] = 0,
+							["end_time"] = 1609733848,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 22545.002519,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609733848,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71077",
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
@@ -10273,42 +11460,42 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.008584,
+							["serial"] = "Creature-0-1465-1148-31811-71062-00007296CB",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.008584,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733848,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.008584,
+							["damage_taken"] = 15272.008584,
+							["last_event"] = 0,
 							["nome"] = "Grand pourfendeur illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71062",
-							["serial"] = "Creature-0-1465-1148-31811-71062-00007296CB",
-							["last_dps"] = 0,
+							["end_time"] = 1609733848,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 15272.008584,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609733848,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71062",
 						}, -- [4]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1509,
 					["tipo"] = 3,
+					["combatId"] = 1509,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -10318,7 +11505,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "DRUID",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 7823.005685,
 							["total_without_pet"] = 0.005685,
 							["total"] = 0.005685,
@@ -10335,12 +11522,11 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.005685,
 							["healing_taken"] = 0.005685,
 							["end_time"] = 1609733848,
+							["spec"] = 102,
 							["healing_from"] = {
 							},
-							["heal_enemy_amt"] = 0,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[8936] = {
 										["c_amt"] = 1,
@@ -10362,9 +11548,9 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 5,
 										["n_curado"] = 0,
 										["totaldenied"] = 0,
-										["n_amt"] = 5,
 										["absorbed"] = 0,
 									},
 									[774] = {
@@ -10387,19 +11573,20 @@ _detalhes_database = {
 										},
 										["c_min"] = 0,
 										["c_curado"] = 0,
+										["n_amt"] = 2,
 										["n_curado"] = 0,
 										["totaldenied"] = 0,
-										["n_amt"] = 2,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
+							["aID"] = "1127-0973C412",
 							["start_time"] = 1609733841,
-							["spec"] = 102,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["aID"] = "1127-0973C412",
+							["classe"] = "DRUID",
 							["totaldenied"] = 0.005685,
 							["delay"] = 0,
 							["last_event"] = 1609733848,
@@ -10407,8 +11594,8 @@ _detalhes_database = {
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1509,
 					["tipo"] = 7,
+					["combatId"] = 1509,
 					["_ActorTable"] = {
 						{
 							["received"] = 5.008339,
@@ -10425,7 +11612,6 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 									[77758] = {
 										["total"] = 5,
@@ -10437,88 +11623,88 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.008339,
 							["last_event"] = 1609733844,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.008339,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1509,
 					["tipo"] = 9,
+					["combatId"] = 1509,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[61391] = {
-										["activedamt"] = 0,
-										["id"] = 61391,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 6,
-										["appliedamt"] = 3,
+										["id"] = 61391,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 13,
-										["appliedamt"] = 4,
+										["id"] = 164812,
 										["refreshamt"] = 6,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[155722] = {
-										["activedamt"] = 0,
-										["id"] = 155722,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 7,
-										["appliedamt"] = 1,
+										["id"] = 155722,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[192090] = {
-										["activedamt"] = 0,
-										["id"] = 192090,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 6,
-										["appliedamt"] = 1,
+										["id"] = 192090,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 10,
-										["appliedamt"] = 2,
+										["id"] = 164815,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 160,
 							["cc_done_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[61391] = {
 										["id"] = 61391,
@@ -10537,199 +11723,200 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["aID"] = "1127-0973C412",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[26297] = {
-										["activedamt"] = 1,
-										["id"] = 26297,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 10,
-										["appliedamt"] = 1,
+										["id"] = 26297,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 24858,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[774] = {
-										["activedamt"] = 1,
-										["id"] = 774,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 6,
-										["appliedamt"] = 1,
+										["id"] = 774,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[343648] = {
-										["activedamt"] = 1,
-										["id"] = 343648,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 6,
-										["appliedamt"] = 1,
+										["id"] = 343648,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[345230] = {
-										["activedamt"] = 2,
-										["id"] = 345230,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 12,
-										["appliedamt"] = 2,
+										["id"] = 345230,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[8936] = {
-										["activedamt"] = 1,
-										["id"] = 8936,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 7,
-										["appliedamt"] = 1,
+										["id"] = 8936,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[48517] = {
-										["activedamt"] = 1,
-										["id"] = 48517,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 10,
-										["appliedamt"] = 1,
+										["id"] = 48517,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[339946] = {
-										["activedamt"] = 1,
-										["id"] = 339946,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 5,
-										["appliedamt"] = 1,
+										["id"] = 339946,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[342814] = {
-										["activedamt"] = 1,
-										["id"] = 342814,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 342814,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[324748] = {
-										["activedamt"] = 1,
-										["id"] = 324748,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 7,
-										["appliedamt"] = 1,
+										["id"] = 324748,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[48518] = {
-										["activedamt"] = 1,
-										["id"] = 48518,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 48518,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[191034] = {
-										["activedamt"] = 1,
-										["id"] = 191034,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
+										["id"] = 191034,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[323764] = {
-										["activedamt"] = 1,
-										["id"] = 323764,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 4,
-										["appliedamt"] = 1,
+										["id"] = 323764,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[339943] = {
-										["activedamt"] = 1,
-										["id"] = 339943,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 5,
-										["appliedamt"] = 1,
+										["id"] = 339943,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[194223] = {
-										["activedamt"] = 1,
-										["id"] = 194223,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 10,
-										["appliedamt"] = 1,
+										["id"] = 194223,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 42,
 							["cc_done_targets"] = {
@@ -10738,7 +11925,8 @@ _detalhes_database = {
 								["Grand pourfendeur illusoire"] = 2,
 							},
 							["cc_done"] = 4.003494,
-							["nome"] = "Kotlin",
+							["debuff_uptime_targets"] = {
+							},
 							["spec"] = 102,
 							["grupo"] = true,
 							["spell_cast"] = {
@@ -10751,54 +11939,53 @@ _detalhes_database = {
 								[194223] = 1,
 								[323764] = 1,
 							},
-							["debuff_uptime_targets"] = {
-							},
+							["classe"] = "DRUID",
 							["buff_uptime_targets"] = {
 							},
 							["last_event"] = 1609733848,
 							["pets"] = {
 							},
-							["classe"] = "DRUID",
-							["serial"] = "Player-1127-0973C412",
 							["tipo"] = 4,
+							["serial"] = "Player-1127-0973C412",
+							["nome"] = "Kotlin",
 						}, -- [1]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petit tisse-ambre illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71077",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71077-00007296CB",
 							["spell_cast"] = {
 								[142189] = 2,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71077-00007296CB",
-							["aID"] = "71077",
 						}, -- [2]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Grand mystique illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71069",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71069-00007296CB",
 							["spell_cast"] = {
 								[142238] = 1,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71069-00007296CB",
-							["aID"] = "71069",
 						}, -- [3]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1509,
 					["tipo"] = 2,
+					["combatId"] = 1509,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -10806,17 +11993,11 @@ _detalhes_database = {
 					["Kotlin"] = true,
 				},
 				["tempo_start"] = 1609733834,
-				["cleu_timeline"] = {
+				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["overall_added"] = true,
-				["enemy"] = "Grand mystique illusoire",
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["last_events_tables"] = {
-				},
+				["combat_counter"] = 1993,
 				["totals"] = {
 					73229, -- [1]
 					-0.006050999999999999, -- [2]
@@ -10830,15 +12011,56 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:17:29",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Grand mystique illusoire",
+				["TotalElapsedCombatTime"] = 14312.078,
+				["CombatEndedAt"] = 14312.078,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "05:17:15",
+				["end_time"] = 14312.959,
+				["combat_id"] = 1509,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Kotlin"] = 0.005685,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Kotlin"] = 73229.00698,
+						}, -- [1]
+					},
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
 				},
 				["totals_grupo"] = {
 					73229, -- [1]
@@ -10853,72 +12075,37 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["instance_type"] = "scenario",
-				["frags_need_refresh"] = true,
-				["aura_timeline"] = {
+				["cleu_events"] = {
+					["n"] = 1,
 				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Kotlin"] = 0.005685,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Kotlin"] = 73229.00698,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 14312.959,
-				["combat_counter"] = 1993,
-				["combat_id"] = 1509,
-				["TotalElapsedCombatTime"] = 14312.078,
-				["player_last_events"] = {
-				},
-				["CombatEndedAt"] = 14312.078,
-				["spells_cast_timeline"] = {
-				},
-				["data_fim"] = "05:17:29",
-				["data_inicio"] = "05:17:15",
 				["CombatSkillCache"] = {
 				},
+				["TimeData"] = {
+				},
+				["start_time"] = 14298.951,
+				["contra"] = "Grand mystique illusoire",
 				["frags"] = {
 					["Grand mystique illusoire"] = 1,
 					["Petit tisse-ambre illusoire"] = 2,
 					["Grand pourfendeur illusoire"] = 1,
 				},
-				["start_time"] = 14298.951,
-				["TimeData"] = {
-				},
-				["contra"] = "Grand mystique illusoire",
-			}, -- [13]
+			}, -- [15]
 			{
 				{
-					["combatId"] = 1508,
 					["tipo"] = 2,
+					["combatId"] = 1508,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
 							["totalabsorbed"] = 0.007411,
-							["spec"] = 102,
 							["damage_from"] = {
 							},
 							["targets"] = {
@@ -10929,22 +12116,21 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
-							["end_time"] = 1609733826,
 							["aID"] = "1127-0973C412",
+							["spec"] = 102,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 67523.007411,
-							["colocacao"] = 1,
 							["friendlyfire"] = {
 							},
+							["serial"] = "Player-1127-0973C412",
 							["dps_started"] = false,
-							["total"] = 67523.007411,
+							["end_time"] = 1609733826,
 							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[190984] = {
 										["c_amt"] = 0,
@@ -11124,16 +12310,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 1308.509338817532,
-							["custom"] = 0,
+							["total"] = 67523.007411,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609733826,
 							["damage_taken"] = 0.007411,
 							["start_time"] = 1609733774,
 							["delay"] = 0,
-							["last_event"] = 1609733826,
+							["last_dps"] = 1308.509338817532,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -11143,36 +12331,36 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.003166,
+							["serial"] = "Creature-0-1465-1148-31811-71078-0000F2968F",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003166,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733826,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.003166,
+							["damage_taken"] = 9501.003166,
+							["last_event"] = 0,
 							["nome"] = "Petite vermine illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71078",
-							["serial"] = "Creature-0-1465-1148-31811-71078-0000F2968F",
-							["last_dps"] = 0,
+							["end_time"] = 1609733826,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 9501.003166,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609733826,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71078",
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -11182,24 +12370,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.005784,
+							["serial"] = "Creature-0-1465-1148-31811-71079-0000F2968F",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.005784,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733826,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.005784,
+							["damage_taken"] = 24002.005784,
+							["last_event"] = 0,
 							["nome"] = "Petit gardien illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142174] = {
 										["c_amt"] = 0,
@@ -11228,16 +12414,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71079",
-							["serial"] = "Creature-0-1465-1148-31811-71079-0000F2968F",
-							["last_dps"] = 0,
+							["end_time"] = 1609733826,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 24002.005784,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609733826,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71079",
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -11247,24 +12435,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.005609,
+							["serial"] = "Creature-0-1465-1148-31811-71077-000072968F",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.005609,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733826,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.005609,
+							["damage_taken"] = 10733.005609,
+							["last_event"] = 0,
 							["nome"] = "Petit tisse-ambre illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142189] = {
 										["c_amt"] = 0,
@@ -11293,16 +12479,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71077",
-							["serial"] = "Creature-0-1465-1148-31811-71077-000072968F",
-							["last_dps"] = 0,
+							["end_time"] = 1609733826,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 10733.005609,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609733826,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71077",
 						}, -- [4]
 						{
 							["flag_original"] = 2632,
@@ -11312,24 +12500,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.00412,
+							["serial"] = "Creature-0-1465-1148-31811-71076-000072968F",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.00412,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733826,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.00412,
+							["damage_taken"] = 23287.00412,
+							["last_event"] = 0,
 							["nome"] = "Petit mystique illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142238] = {
 										["c_amt"] = 0,
@@ -11358,28 +12544,30 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71076",
-							["serial"] = "Creature-0-1465-1148-31811-71076-000072968F",
-							["last_dps"] = 0,
+							["end_time"] = 1609733826,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 23287.00412,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609733826,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71076",
 						}, -- [5]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1508,
 					["tipo"] = 3,
+					["combatId"] = 1508,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1508,
 					["tipo"] = 7,
+					["combatId"] = 1508,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.006561,
@@ -11395,171 +12583,171 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.006561,
 							["last_event"] = 1609733834,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.006561,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1508,
 					["tipo"] = 9,
+					["combatId"] = 1508,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 6,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 47,
-										["appliedamt"] = 6,
+										["id"] = 164812,
 										["refreshamt"] = 7,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 31,
-										["appliedamt"] = 3,
+										["id"] = 164815,
 										["refreshamt"] = 3,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 214,
 							["aID"] = "1127-0973C412",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[48517] = {
-										["activedamt"] = 1,
-										["id"] = 48517,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["id"] = 48517,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[48518] = {
-										["activedamt"] = 1,
-										["id"] = 48518,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 2,
-										["appliedamt"] = 1,
+										["id"] = 48518,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 52,
-										["appliedamt"] = 1,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 52,
-										["appliedamt"] = 1,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[339946] = {
-										["activedamt"] = 1,
-										["id"] = 339946,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 2,
-										["appliedamt"] = 1,
+										["id"] = 339946,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[345230] = {
-										["activedamt"] = 1,
-										["id"] = 345230,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 16,
-										["appliedamt"] = 1,
+										["id"] = 345230,
 										["refreshamt"] = 2,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[343648] = {
-										["activedamt"] = 2,
-										["id"] = 343648,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 8,
-										["appliedamt"] = 2,
+										["id"] = 343648,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 52,
-										["appliedamt"] = 1,
+										["id"] = 24858,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[339943] = {
-										["activedamt"] = 1,
-										["id"] = 339943,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 5,
-										["appliedamt"] = 1,
+										["id"] = 339943,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[324748] = {
-										["activedamt"] = 1,
-										["id"] = 324748,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 10,
-										["appliedamt"] = 1,
+										["id"] = 324748,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 78,
 							["nome"] = "Kotlin",
@@ -11575,100 +12763,69 @@ _detalhes_database = {
 							},
 							["debuff_uptime_targets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
 							["last_event"] = 1609733826,
+							["tipo"] = 4,
 							["pets"] = {
 							},
 							["classe"] = "DRUID",
 							["serial"] = "Player-1127-0973C412",
-							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petit mystique illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71076",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71076-000072968F",
 							["spell_cast"] = {
 								[142238] = 2,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71076-000072968F",
-							["aID"] = "71076",
 						}, -- [2]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petit gardien illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71079",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71079-000072968F",
 							["spell_cast"] = {
 								[142174] = 5,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71079-000072968F",
-							["aID"] = "71079",
 						}, -- [3]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Petit tisse-ambre illusoire",
 							["flag_original"] = 2632,
-							["spell_cast"] = {
-								[142189] = 4,
-							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
 							["pets"] = {
 								"Détonation de globule d’ambre <Petit tisse-ambre illusoire>", -- [1]
 							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71077",
 							["tipo"] = 4,
 							["serial"] = "Creature-0-1465-1148-31811-71077-000072968F",
-							["aID"] = "71077",
+							["spell_cast"] = {
+								[142189] = 4,
+							},
 						}, -- [4]
-						{
-							["flag_original"] = 8776,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-								},
-							},
-							["pets"] = {
-							},
-							["classe"] = "PET",
-							["boss_debuff"] = true,
-							["debuff_uptime"] = 12,
-							["spellschool"] = 8,
-							["ownerName"] = "Petit tisse-ambre illusoire",
-							["nome"] = "Détonation de globule d’ambre <Petit tisse-ambre illusoire>",
-							["debuff_uptime_targets"] = {
-								["Kotlin"] = {
-									["uptime"] = 12,
-									["appliedamt"] = 0,
-									["activedamt"] = 0,
-									["actived"] = false,
-									["refreshamt"] = 0,
-								},
-							},
-							["damage_spellid"] = 142191,
-							["tipo"] = 4,
-							["damage_twin"] = "Globule d’ambre volatil",
-							["aID"] = "73332",
-							["serial"] = "Creature-0-1465-1148-31811-73332-000072969D",
-							["last_event"] = 1609733819,
-						}, -- [5]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1508,
 					["tipo"] = 2,
+					["combatId"] = 1508,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -11681,10 +12838,9 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["instance_type"] = "scenario",
-				["enemy"] = "Petit gardien illusoire",
-				["combat_counter"] = 1992,
-				["tempo_start"] = 1609733774,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					67523, -- [1]
 					-0.007254999999999999, -- [2]
@@ -11698,31 +12854,16 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["CombatEndedAt"] = 14290.598,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "05:16:15",
-				["end_time"] = 14291.004,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 1508,
 				["totals_grupo"] = {
 					67523, -- [1]
 					0, -- [2]
@@ -11736,27 +12877,39 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:17:07",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Petit gardien illusoire",
+				["TotalElapsedCombatTime"] = 14290.598,
+				["CombatEndedAt"] = 14290.598,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
 						{
 						}, -- [1]
-					},
-					["damage_section"] = {
 					},
 					["damage"] = {
 						{
@@ -11764,6 +12917,10 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
+				["end_time"] = 14291.004,
+				["combat_id"] = 1508,
+				["data_inicio"] = "05:16:15",
+				["tempo_start"] = 1609733774,
 				["frags"] = {
 					["Petit gardien illusoire"] = 2,
 					["Globule d’ambre volatil"] = 1,
@@ -11771,21 +12928,22 @@ _detalhes_database = {
 					["Petit mystique illusoire"] = 1,
 					["Petit tisse-ambre illusoire"] = 1,
 				},
-				["data_fim"] = "05:17:07",
-				["TotalElapsedCombatTime"] = 14290.598,
+				["player_last_events"] = {
+				},
+				["combat_counter"] = 1992,
 				["CombatSkillCache"] = {
+				},
+				["contra"] = "Petite vermine illusoire",
+				["start_time"] = 14238.995,
+				["TimeData"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["start_time"] = 14238.995,
-				["contra"] = "Petite vermine illusoire",
-				["TimeData"] = {
-				},
-			}, -- [14]
+			}, -- [16]
 			{
 				{
-					["combatId"] = 1507,
 					["tipo"] = 2,
+					["combatId"] = 1507,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -11799,22 +12957,8 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 72295.004117,
-							["on_hold"] = false,
 							["aID"] = "1127-0973C412",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 72295.004117,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1609733747,
-							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
-							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[8921] = {
 										["c_amt"] = 0,
@@ -11932,65 +13076,6 @@ _detalhes_database = {
 										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
-									[191037] = {
-										["c_amt"] = 6,
-										["b_amt"] = 0,
-										["c_dmg"] = 4014,
-										["g_amt"] = 0,
-										["n_max"] = 352,
-										["targets"] = {
-											["Grand mystique illusoire"] = 3676,
-											["Grand gardien illusoire"] = 3575,
-										},
-										["n_dmg"] = 3237,
-										["n_min"] = 277,
-										["g_dmg"] = 0,
-										["counter"] = 18,
-										["total"] = 7251,
-										["c_max"] = 705,
-										["DEFLECT"] = 2,
-										["id"] = 191037,
-										["r_dmg"] = 0,
-										["spellschool"] = 72,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 559,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 10,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[164815] = {
-										["c_amt"] = 6,
-										["b_amt"] = 0,
-										["c_dmg"] = 3098,
-										["g_amt"] = 0,
-										["n_max"] = 344,
-										["targets"] = {
-											["Grand mystique illusoire"] = 7116,
-											["Grand gardien illusoire"] = 4622,
-										},
-										["n_dmg"] = 8640,
-										["n_min"] = 236,
-										["g_dmg"] = 0,
-										["counter"] = 38,
-										["total"] = 11738,
-										["c_max"] = 608,
-										["id"] = 164815,
-										["r_dmg"] = 0,
-										["spellschool"] = 8,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 472,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 32,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
 									[194153] = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
@@ -12019,6 +13104,36 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["a_amt"] = 0,
 										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[191037] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 4014,
+										["g_amt"] = 0,
+										["n_max"] = 352,
+										["targets"] = {
+											["Grand mystique illusoire"] = 3676,
+											["Grand gardien illusoire"] = 3575,
+										},
+										["n_dmg"] = 3237,
+										["n_min"] = 277,
+										["g_dmg"] = 0,
+										["counter"] = 18,
+										["total"] = 7251,
+										["c_max"] = 705,
+										["DEFLECT"] = 2,
+										["id"] = 191037,
+										["r_dmg"] = 0,
+										["spellschool"] = 72,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 559,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 10,
 										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
@@ -12052,18 +13167,61 @@ _detalhes_database = {
 										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
+									[164815] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 3098,
+										["g_amt"] = 0,
+										["n_max"] = 344,
+										["targets"] = {
+											["Grand mystique illusoire"] = 7116,
+											["Grand gardien illusoire"] = 4622,
+										},
+										["n_dmg"] = 8640,
+										["n_min"] = 236,
+										["g_dmg"] = 0,
+										["counter"] = 38,
+										["total"] = 11738,
+										["c_max"] = 608,
+										["id"] = 164815,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 472,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 32,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 102,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 72295.004117,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 2039.523912235161,
-							["custom"] = 0,
+							["dps_started"] = false,
+							["total"] = 72295.004117,
+							["classe"] = "DRUID",
+							["on_hold"] = false,
+							["nome"] = "Kotlin",
+							["spec"] = 102,
+							["grupo"] = true,
+							["end_time"] = 1609733747,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609733746,
 							["damage_taken"] = 0.004117,
 							["start_time"] = 1609733710,
 							["delay"] = 0,
-							["last_event"] = 1609733746,
+							["last_dps"] = 2039.523912235161,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -12073,24 +13231,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.005337,
+							["serial"] = "Creature-0-1465-1148-31811-71069-000072964E",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.005337,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733747,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.005337,
+							["damage_taken"] = 40778.005337,
+							["last_event"] = 0,
 							["nome"] = "Grand mystique illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142238] = {
 										["c_amt"] = 0,
@@ -12119,16 +13275,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71069",
-							["serial"] = "Creature-0-1465-1148-31811-71069-000072964E",
-							["last_dps"] = 0,
+							["end_time"] = 1609733747,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 40778.005337,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609733747,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71069",
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -12138,24 +13296,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.008246,
+							["serial"] = "Creature-0-1465-1148-31811-71064-000072964E",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.008246,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733747,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.008246,
+							["damage_taken"] = 15900.008246,
+							["last_event"] = 0,
 							["nome"] = "Grand gardien illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142174] = {
 										["c_amt"] = 0,
@@ -12184,16 +13340,18 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71064",
-							["serial"] = "Creature-0-1465-1148-31811-71064-000072964E",
-							["last_dps"] = 0,
+							["end_time"] = 1609733747,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 15900.008246,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609733747,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71064",
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -12203,48 +13361,48 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.004326,
+							["serial"] = "Creature-0-1465-1148-31811-71062-000072964E",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.004326,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733747,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.004326,
+							["damage_taken"] = 15617.004326,
+							["last_event"] = 0,
 							["nome"] = "Grand pourfendeur illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71062",
-							["serial"] = "Creature-0-1465-1148-31811-71062-000072964E",
-							["last_dps"] = 0,
+							["end_time"] = 1609733747,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 15617.004326,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609733747,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71062",
 						}, -- [4]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1507,
 					["tipo"] = 3,
+					["combatId"] = 1507,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1507,
 					["tipo"] = 7,
+					["combatId"] = 1507,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.001249,
@@ -12260,182 +13418,182 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.001249,
 							["last_event"] = 1609733774,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.001249,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1507,
 					["tipo"] = 9,
+					["combatId"] = 1507,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 36,
-										["appliedamt"] = 2,
+										["id"] = 164812,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 34,
-										["appliedamt"] = 2,
+										["id"] = 164815,
 										["refreshamt"] = 4,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 197,
 							["aID"] = "1127-0973C412",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[48517] = {
-										["activedamt"] = 1,
-										["id"] = 48517,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["id"] = 48517,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[48518] = {
-										["activedamt"] = 1,
-										["id"] = 48518,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 13,
-										["appliedamt"] = 1,
+										["id"] = 48518,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 37,
-										["appliedamt"] = 1,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 37,
-										["appliedamt"] = 1,
+										["id"] = 227723,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[339946] = {
-										["activedamt"] = 1,
-										["id"] = 339946,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 5,
-										["appliedamt"] = 1,
+										["id"] = 339946,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[342814] = {
-										["activedamt"] = 1,
-										["id"] = 342814,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 18,
-										["appliedamt"] = 1,
+										["id"] = 342814,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[191034] = {
-										["activedamt"] = 1,
-										["id"] = 191034,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[343648] = {
-										["activedamt"] = 2,
-										["id"] = 343648,
-										["targets"] = {
-										},
-										["uptime"] = 12,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
-										["targets"] = {
-										},
-										["uptime"] = 37,
-										["appliedamt"] = 1,
+										["id"] = 191034,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[339943] = {
-										["activedamt"] = 1,
-										["id"] = 339943,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 5,
+										["id"] = 339943,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[24858] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 37,
+										["id"] = 24858,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[324748] = {
-										["activedamt"] = 1,
-										["id"] = 324748,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 10,
-										["appliedamt"] = 1,
+										["id"] = 324748,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[343648] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 2,
+										["uptime"] = 12,
+										["id"] = 343648,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 70,
 							["nome"] = "Kotlin",
@@ -12452,52 +13610,52 @@ _detalhes_database = {
 							},
 							["debuff_uptime_targets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
 							["last_event"] = 1609733747,
+							["tipo"] = 4,
 							["pets"] = {
 							},
 							["classe"] = "DRUID",
 							["serial"] = "Player-1127-0973C412",
-							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Grand gardien illusoire",
 							["flag_original"] = 68168,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71064",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71064-000072964E",
 							["spell_cast"] = {
 								[142174] = 2,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71064-000072964E",
-							["aID"] = "71064",
 						}, -- [2]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Grand mystique illusoire",
 							["flag_original"] = 2632,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71069",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71069-000072964E",
 							["spell_cast"] = {
 								[142238] = 2,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71069-000072964E",
-							["aID"] = "71069",
 						}, -- [3]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1507,
 					["tipo"] = 2,
+					["combatId"] = 1507,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -12510,10 +13668,9 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["instance_type"] = "scenario",
-				["enemy"] = "Grand mystique illusoire",
-				["combat_counter"] = 1991,
-				["tempo_start"] = 1609733710,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					72295, -- [1]
 					-0.005848, -- [2]
@@ -12527,31 +13684,16 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["CombatEndedAt"] = 14211.689,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "05:15:11",
-				["end_time"] = 14212.149,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 1507,
 				["totals_grupo"] = {
 					72295, -- [1]
 					0, -- [2]
@@ -12565,27 +13707,39 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:15:48",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Grand mystique illusoire",
+				["TotalElapsedCombatTime"] = 14211.689,
+				["CombatEndedAt"] = 14211.689,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
 						{
 						}, -- [1]
-					},
-					["damage_section"] = {
 					},
 					["damage"] = {
 						{
@@ -12593,26 +13747,31 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
+				["end_time"] = 14212.149,
+				["combat_id"] = 1507,
+				["data_inicio"] = "05:15:11",
+				["tempo_start"] = 1609733710,
 				["frags"] = {
 					["Grand mystique illusoire"] = 1,
 					["Grand gardien illusoire"] = 1,
 					["Grand pourfendeur illusoire"] = 1,
 				},
-				["data_fim"] = "05:15:48",
-				["TotalElapsedCombatTime"] = 14211.689,
+				["player_last_events"] = {
+				},
+				["combat_counter"] = 1991,
 				["CombatSkillCache"] = {
+				},
+				["contra"] = "Grand mystique illusoire",
+				["start_time"] = 14175.135,
+				["TimeData"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["start_time"] = 14175.135,
-				["contra"] = "Grand mystique illusoire",
-				["TimeData"] = {
-				},
-			}, -- [15]
+			}, -- [17]
 			{
 				{
-					["combatId"] = 1506,
 					["tipo"] = 2,
+					["combatId"] = 1506,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -12625,22 +13784,8 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 45776.002493,
-							["on_hold"] = false,
 							["aID"] = "1127-0973C412",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 45776.002493,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1609733689,
-							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
-							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[190984] = {
 										["c_amt"] = 1,
@@ -12814,17 +13959,31 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 102,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 45776.002493,
+							["friendlyfire"] = {
+							},
 							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 2655.682687996879,
-							["custom"] = 0,
+							["dps_started"] = false,
+							["total"] = 45776.002493,
+							["classe"] = "DRUID",
+							["on_hold"] = false,
+							["nome"] = "Kotlin",
+							["spec"] = 102,
+							["grupo"] = true,
+							["end_time"] = 1609733689,
 							["tipo"] = 1,
+							["colocacao"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1609733687,
 							["damage_taken"] = 0.002493,
 							["start_time"] = 1609733670,
 							["delay"] = 0,
-							["last_event"] = 1609733687,
+							["last_dps"] = 2655.682687996879,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -12834,36 +13993,36 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.00184,
+							["serial"] = "Creature-0-1465-1148-31811-71078-0001729626",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.00184,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733689,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.00184,
+							["damage_taken"] = 15095.00184,
+							["last_event"] = 0,
 							["nome"] = "Petite vermine illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71078",
-							["serial"] = "Creature-0-1465-1148-31811-71078-0001729626",
-							["last_dps"] = 0,
+							["end_time"] = 1609733689,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 15095.00184,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609733689,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71078",
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -12873,24 +14032,22 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["total"] = 0.002113,
+							["serial"] = "Creature-0-1465-1148-31811-71069-0000729626",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.002113,
-							["fight_component"] = true,
 							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733689,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.002113,
+							["damage_taken"] = 30681.002113,
+							["last_event"] = 0,
 							["nome"] = "Grand mystique illusoire",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[142238] = {
 										["c_amt"] = 0,
@@ -12919,28 +14076,30 @@ _detalhes_database = {
 										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["aID"] = "71069",
-							["serial"] = "Creature-0-1465-1148-31811-71069-0000729626",
-							["last_dps"] = 0,
+							["end_time"] = 1609733689,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
 							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 30681.002113,
+							["tipo"] = 1,
+							["last_dps"] = 0,
 							["start_time"] = 1609733689,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["aID"] = "71069",
 						}, -- [3]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1506,
 					["tipo"] = 3,
+					["combatId"] = 1506,
 					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1506,
 					["tipo"] = 7,
+					["combatId"] = 1506,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.007449,
@@ -12956,149 +14115,149 @@ _detalhes_database = {
 							["resource_type"] = 8,
 							["nome"] = "Kotlin",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["spec"] = 102,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.007449,
 							["last_event"] = 1609733710,
-							["aID"] = "1127-0973C412",
 							["tipo"] = 3,
+							["aID"] = "1127-0973C412",
 							["serial"] = "Player-1127-0973C412",
 							["totalover"] = 0.007449,
 						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1506,
 					["tipo"] = 9,
+					["combatId"] = 1506,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 17,
-										["appliedamt"] = 4,
+										["id"] = 164812,
 										["refreshamt"] = 2,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
+										["appliedamt"] = 5,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 16,
-										["appliedamt"] = 5,
+										["id"] = 164815,
 										["refreshamt"] = 4,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 103,
 							["aID"] = "1127-0973C412",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 19,
-										["appliedamt"] = 1,
+										["id"] = 335149,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[24858] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
 										["activedamt"] = 1,
+										["uptime"] = 19,
 										["id"] = 24858,
-										["targets"] = {
-										},
-										["uptime"] = 19,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[343648] = {
-										["activedamt"] = 1,
-										["id"] = 343648,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[339943] = {
-										["activedamt"] = 1,
-										["id"] = 339943,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[345230] = {
-										["activedamt"] = 1,
-										["id"] = 345230,
-										["targets"] = {
-										},
-										["uptime"] = 19,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[48517] = {
-										["activedamt"] = 1,
-										["id"] = 48517,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[342814] = {
-										["activedamt"] = 1,
-										["id"] = 342814,
-										["targets"] = {
-										},
-										["uptime"] = 12,
-										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 19,
+										["id"] = 227723,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[339943] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 339943,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[343648] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 343648,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[48517] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 48517,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[342814] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 12,
+										["id"] = 342814,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[345230] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 19,
+										["id"] = 345230,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 33,
 							["nome"] = "Kotlin",
@@ -13113,36 +14272,36 @@ _detalhes_database = {
 							},
 							["debuff_uptime_targets"] = {
 							},
-							["buff_uptime_targets"] = {
-							},
 							["last_event"] = 1609733689,
+							["tipo"] = 4,
 							["pets"] = {
 							},
 							["classe"] = "DRUID",
 							["serial"] = "Player-1127-0973C412",
-							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["monster"] = true,
+							["classe"] = "UNKNOW",
 							["nome"] = "Grand mystique illusoire",
 							["flag_original"] = 68168,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["aID"] = "71069",
+							["tipo"] = 4,
+							["serial"] = "Creature-0-1465-1148-31811-71069-0000729626",
 							["spell_cast"] = {
 								[142238] = 1,
 							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71069-0000729626",
-							["aID"] = "71069",
 						}, -- [2]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1506,
 					["tipo"] = 2,
+					["combatId"] = 1506,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -13155,10 +14314,9 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["instance_type"] = "scenario",
-				["enemy"] = "Petite vermine illusoire",
-				["combat_counter"] = 1990,
-				["tempo_start"] = 1609733670,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["totals"] = {
 					45776, -- [1]
 					0, -- [2]
@@ -13172,20 +14330,45 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					45776, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "scenario",
+				["hasSaved"] = true,
+				["data_fim"] = "05:14:50",
 				["cleu_timeline"] = {
 				},
+				["enemy"] = "Petite vermine illusoire",
+				["TotalElapsedCombatTime"] = 14153.017,
 				["CombatEndedAt"] = 14153.017,
 				["aura_timeline"] = {
 				},
@@ -13193,44 +14376,30 @@ _detalhes_database = {
 				},
 				["data_inicio"] = "05:14:31",
 				["end_time"] = 14153.905,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
 				["combat_id"] = 1506,
-				["totals_grupo"] = {
-					45776, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["tempo_start"] = 1609733670,
+				["player_last_events"] = {
 				},
-				["frags_need_refresh"] = true,
+				["frags"] = {
+					["Petite vermine illusoire"] = 4,
+					["Grand mystique illusoire"] = 1,
+				},
+				["combat_counter"] = 1990,
+				["contra"] = "Petite vermine illusoire",
+				["CombatSkillCache"] = {
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
 						{
 						}, -- [1]
-					},
-					["damage_section"] = {
 					},
 					["damage"] = {
 						{
@@ -13238,1345 +14407,10 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["frags"] = {
-					["Petite vermine illusoire"] = 4,
-					["Grand mystique illusoire"] = 1,
-				},
-				["data_fim"] = "05:14:50",
-				["TotalElapsedCombatTime"] = 14153.017,
-				["CombatSkillCache"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
 				["start_time"] = 14134.905,
-				["contra"] = "Petite vermine illusoire",
 				["TimeData"] = {
-				},
-			}, -- [16]
-			{
-				{
-					["combatId"] = 1505,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.004571,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Petite vermine illusoire"] = 12412,
-								["Grande vermine illusoire"] = 18903,
-								["Grand tisse-ambre illusoire"] = 13106,
-							},
-							["pets"] = {
-							},
-							["total"] = 44421.004571,
-							["on_hold"] = false,
-							["aID"] = "1127-0973C412",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 44421.004571,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1609733643,
-							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
-							["nome"] = "Kotlin",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[190984] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 874,
-										["targets"] = {
-											["Petite vermine illusoire"] = 856,
-											["Grand tisse-ambre illusoire"] = 1724,
-										},
-										["n_dmg"] = 2580,
-										["n_min"] = 850,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 2580,
-										["c_max"] = 0,
-										["id"] = 190984,
-										["r_dmg"] = 0,
-										["spellschool"] = 8,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 3,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[164812] = {
-										["c_amt"] = 5,
-										["b_amt"] = 0,
-										["c_dmg"] = 4012,
-										["g_amt"] = 0,
-										["n_max"] = 502,
-										["targets"] = {
-											["Grand tisse-ambre illusoire"] = 2402,
-											["Grande vermine illusoire"] = 9910,
-										},
-										["n_dmg"] = 8300,
-										["n_min"] = 272,
-										["g_dmg"] = 0,
-										["counter"] = 32,
-										["total"] = 12312,
-										["c_max"] = 1003,
-										["id"] = 164812,
-										["r_dmg"] = 0,
-										["spellschool"] = 64,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 668,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 27,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[194153] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1360,
-										["targets"] = {
-											["Petite vermine illusoire"] = 3508,
-											["Grand tisse-ambre illusoire"] = 1075,
-										},
-										["n_dmg"] = 4583,
-										["n_min"] = 1072,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 4583,
-										["c_max"] = 0,
-										["id"] = 194153,
-										["r_dmg"] = 0,
-										["spellschool"] = 64,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 4,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[164815] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 496,
-										["g_amt"] = 0,
-										["n_max"] = 288,
-										["targets"] = {
-											["Grand tisse-ambre illusoire"] = 1774,
-										},
-										["n_dmg"] = 1278,
-										["n_min"] = 247,
-										["g_dmg"] = 0,
-										["counter"] = 6,
-										["total"] = 1774,
-										["c_max"] = 496,
-										["id"] = 164815,
-										["r_dmg"] = 0,
-										["spellschool"] = 8,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 496,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 5,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[202497] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 1027,
-										["g_amt"] = 0,
-										["n_max"] = 643,
-										["targets"] = {
-											["Grande vermine illusoire"] = 643,
-											["Grand tisse-ambre illusoire"] = 3333,
-										},
-										["n_dmg"] = 2949,
-										["n_min"] = 507,
-										["g_dmg"] = 0,
-										["counter"] = 6,
-										["total"] = 3976,
-										["c_max"] = 1027,
-										["id"] = 202497,
-										["r_dmg"] = 0,
-										["spellschool"] = 72,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 1027,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 5,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[191037] = {
-										["c_amt"] = 6,
-										["b_amt"] = 0,
-										["c_dmg"] = 3345,
-										["g_amt"] = 0,
-										["n_max"] = 288,
-										["targets"] = {
-											["Petite vermine illusoire"] = 8048,
-											["Grande vermine illusoire"] = 8350,
-											["Grand tisse-ambre illusoire"] = 2798,
-										},
-										["n_dmg"] = 15851,
-										["n_min"] = 261,
-										["g_dmg"] = 0,
-										["counter"] = 63,
-										["total"] = 19196,
-										["c_max"] = 564,
-										["id"] = 191037,
-										["r_dmg"] = 0,
-										["spellschool"] = 72,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 553,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 57,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["spec"] = 102,
-							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 2706.6173879478,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.004571,
-							["start_time"] = 1609733625,
-							["delay"] = 0,
-							["last_event"] = 1609733641,
-						}, -- [1]
-						{
-							["flag_original"] = 2632,
-							["totalabsorbed"] = 0.007419,
-							["damage_from"] = {
-								["Kotlin"] = true,
-							},
-							["targets"] = {
-							},
-							["total"] = 0.007419,
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.007419,
-							["fight_component"] = true,
-							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733643,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Grand tisse-ambre illusoire",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[142189] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-										},
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 0,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 142189,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 1,
-										["a_amt"] = 0,
-										["n_amt"] = 0,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-								},
-							},
-							["aID"] = "71068",
-							["serial"] = "Creature-0-1465-1148-31811-71068-00007295F9",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 13106.007419,
-							["start_time"] = 1609733643,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [2]
-						{
-							["flag_original"] = 68168,
-							["totalabsorbed"] = 0.004135,
-							["damage_from"] = {
-								["Kotlin"] = true,
-							},
-							["targets"] = {
-							},
-							["total"] = 0.004135,
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.004135,
-							["fight_component"] = true,
-							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733643,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Petite vermine illusoire",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-								},
-							},
-							["aID"] = "71078",
-							["serial"] = "Creature-0-1465-1148-31811-71078-00017295F9",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 12412.004135,
-							["start_time"] = 1609733643,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [3]
-						{
-							["flag_original"] = 2632,
-							["totalabsorbed"] = 0.002331,
-							["damage_from"] = {
-								["Kotlin"] = true,
-							},
-							["targets"] = {
-							},
-							["total"] = 0.002331,
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.002331,
-							["fight_component"] = true,
-							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733643,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Grande vermine illusoire",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-								},
-							},
-							["aID"] = "71067",
-							["serial"] = "Creature-0-1465-1148-31811-71067-00007295F9",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 18903.002331,
-							["start_time"] = 1609733643,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [4]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 1505,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["combatId"] = 1505,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["received"] = 0.004623,
-							["resource"] = 68.50462300000001,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "DRUID",
-							["passiveover"] = 0.004623,
-							["total"] = 0.004623,
-							["resource_type"] = 8,
-							["nome"] = "Kotlin",
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-								},
-							},
-							["grupo"] = true,
-							["spec"] = 102,
-							["flag_original"] = 1297,
-							["alternatepower"] = 0.004623,
-							["last_event"] = 1609733670,
-							["aID"] = "1127-0973C412",
-							["tipo"] = 3,
-							["serial"] = "Player-1127-0973C412",
-							["totalover"] = 0.004623,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 1505,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
-										["targets"] = {
-										},
-										["uptime"] = 14,
-										["appliedamt"] = 4,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
-										["targets"] = {
-										},
-										["uptime"] = 10,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["buff_uptime"] = 99,
-							["aID"] = "1127-0973C412",
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
-										["targets"] = {
-										},
-										["uptime"] = 18,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
-										["targets"] = {
-										},
-										["uptime"] = 18,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[191034] = {
-										["activedamt"] = 1,
-										["id"] = 191034,
-										["targets"] = {
-										},
-										["uptime"] = 7,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[343648] = {
-										["activedamt"] = 1,
-										["id"] = 343648,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
-										["targets"] = {
-										},
-										["uptime"] = 18,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[339946] = {
-										["activedamt"] = 1,
-										["id"] = 339946,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[48518] = {
-										["activedamt"] = 1,
-										["id"] = 48518,
-										["targets"] = {
-										},
-										["uptime"] = 9,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[324748] = {
-										["activedamt"] = 1,
-										["id"] = 324748,
-										["targets"] = {
-										},
-										["uptime"] = 18,
-										["appliedamt"] = 1,
-										["refreshamt"] = 3,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["debuff_uptime"] = 24,
-							["nome"] = "Kotlin",
-							["spec"] = 102,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[190984] = 4,
-								[8921] = 2,
-								[93402] = 1,
-								[324748] = 4,
-								[194153] = 2,
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["buff_uptime_targets"] = {
-							},
-							["last_event"] = 1609733643,
-							["pets"] = {
-							},
-							["classe"] = "DRUID",
-							["serial"] = "Player-1127-0973C412",
-							["tipo"] = 4,
-						}, -- [1]
-						{
-							["monster"] = true,
-							["nome"] = "Grand tisse-ambre illusoire",
-							["flag_original"] = 68168,
-							["spell_cast"] = {
-								[142189] = 1,
-							},
-							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["serial"] = "Creature-0-1465-1148-31811-71068-00007295F9",
-							["aID"] = "71068",
-						}, -- [2]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 1505,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Kotlin"] = true,
-				},
-				["CombatStartedAt"] = 14133.551,
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["instance_type"] = "scenario",
-				["enemy"] = "Petite vermine illusoire",
-				["combat_counter"] = 1989,
-				["tempo_start"] = 1609733625,
-				["totals"] = {
-					44421, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["CombatEndedAt"] = 14106.84,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "05:13:45",
-				["end_time"] = 14107.733,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 1505,
-				["totals_grupo"] = {
-					44421, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Kotlin"] = 44421.004571,
-						}, -- [1]
-					},
-				},
-				["frags"] = {
-					["Petite vermine illusoire"] = 3,
-					["Grande vermine illusoire"] = 3,
-					["Grand tisse-ambre illusoire"] = 1,
-				},
-				["data_fim"] = "05:14:03",
-				["TotalElapsedCombatTime"] = 14106.84,
-				["CombatSkillCache"] = {
 				},
 				["spells_cast_timeline"] = {
-				},
-				["start_time"] = 14089.731,
-				["contra"] = "Grand tisse-ambre illusoire",
-				["TimeData"] = {
-				},
-			}, -- [17]
-			{
-				{
-					["combatId"] = 1504,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.003499,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Petit pourfendeur illusoire"] = 19275,
-								["Petit tisse-ambre illusoire"] = 8074,
-							},
-							["pets"] = {
-							},
-							["total"] = 27349.003499,
-							["on_hold"] = false,
-							["aID"] = "1127-0973C412",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 27349.003499,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1609733606,
-							["classe"] = "DRUID",
-							["friendlyfire_total"] = 0,
-							["nome"] = "Kotlin",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									[190984] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 2642,
-										["g_amt"] = 0,
-										["n_max"] = 1322,
-										["targets"] = {
-											["Petit pourfendeur illusoire"] = 5284,
-										},
-										["n_dmg"] = 2642,
-										["n_min"] = 1320,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 5284,
-										["c_max"] = 2642,
-										["id"] = 190984,
-										["r_dmg"] = 0,
-										["spellschool"] = 8,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 2642,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 2,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[164812] = {
-										["c_amt"] = 3,
-										["b_amt"] = 0,
-										["c_dmg"] = 1675,
-										["g_amt"] = 0,
-										["n_max"] = 297,
-										["targets"] = {
-											["Petit pourfendeur illusoire"] = 1931,
-											["Petit tisse-ambre illusoire"] = 2219,
-										},
-										["n_dmg"] = 2475,
-										["n_min"] = 272,
-										["g_dmg"] = 0,
-										["counter"] = 12,
-										["total"] = 4150,
-										["c_max"] = 585,
-										["id"] = 164812,
-										["r_dmg"] = 0,
-										["spellschool"] = 64,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 545,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 9,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[78674] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 3552,
-										["targets"] = {
-											["Petit pourfendeur illusoire"] = 3552,
-										},
-										["n_dmg"] = 3552,
-										["n_min"] = 3552,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 3552,
-										["c_max"] = 0,
-										["id"] = 78674,
-										["r_dmg"] = 0,
-										["spellschool"] = 72,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 1,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[164815] = {
-										["c_amt"] = 3,
-										["b_amt"] = 0,
-										["c_dmg"] = 1758,
-										["g_amt"] = 0,
-										["n_max"] = 306,
-										["targets"] = {
-											["Petit pourfendeur illusoire"] = 4241,
-											["Petit tisse-ambre illusoire"] = 1889,
-										},
-										["n_dmg"] = 4372,
-										["n_min"] = 247,
-										["g_dmg"] = 0,
-										["counter"] = 19,
-										["total"] = 6130,
-										["c_max"] = 612,
-										["id"] = 164815,
-										["r_dmg"] = 0,
-										["spellschool"] = 8,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 534,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 16,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[194153] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 702,
-										["g_amt"] = 0,
-										["n_max"] = 1091,
-										["targets"] = {
-											["Petit pourfendeur illusoire"] = 1768,
-											["Petit tisse-ambre illusoire"] = 2156,
-										},
-										["n_dmg"] = 3222,
-										["n_min"] = 354,
-										["g_dmg"] = 0,
-										["counter"] = 6,
-										["total"] = 3924,
-										["c_max"] = 702,
-										["id"] = 194153,
-										["r_dmg"] = 0,
-										["spellschool"] = 64,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 702,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 5,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[202497] = {
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["c_dmg"] = 2546,
-										["g_amt"] = 0,
-										["n_max"] = 621,
-										["targets"] = {
-											["Petit pourfendeur illusoire"] = 2499,
-											["Petit tisse-ambre illusoire"] = 1810,
-										},
-										["n_dmg"] = 1763,
-										["n_min"] = 525,
-										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 4309,
-										["c_max"] = 1285,
-										["id"] = 202497,
-										["r_dmg"] = 0,
-										["spellschool"] = 72,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 1261,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 3,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["spec"] = 102,
-							["serial"] = "Player-1127-0973C412",
-							["last_dps"] = 1815.761751361053,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.003499,
-							["start_time"] = 1609733590,
-							["delay"] = 0,
-							["last_event"] = 1609733605,
-						}, -- [1]
-						{
-							["flag_original"] = 2632,
-							["totalabsorbed"] = 0.006013,
-							["damage_from"] = {
-								["Kotlin"] = true,
-							},
-							["targets"] = {
-							},
-							["total"] = 0.006013,
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.006013,
-							["fight_component"] = true,
-							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733606,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Petit pourfendeur illusoire",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-								},
-							},
-							["aID"] = "71080",
-							["serial"] = "Creature-0-1465-1148-31811-71080-0000F295D6",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 19275.006013,
-							["start_time"] = 1609733606,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [2]
-						{
-							["flag_original"] = 68168,
-							["totalabsorbed"] = 0.005219,
-							["damage_from"] = {
-								["Kotlin"] = true,
-							},
-							["targets"] = {
-							},
-							["total"] = 0.005219,
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.005219,
-							["fight_component"] = true,
-							["monster"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1609733606,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Petit tisse-ambre illusoire",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-								},
-							},
-							["aID"] = "71077",
-							["serial"] = "Creature-0-1465-1148-31811-71077-00007295D6",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 8074.005219000001,
-							["start_time"] = 1609733606,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [3]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 1504,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["combatId"] = 1504,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["received"] = 0.003094,
-							["resource"] = 7.003094,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "DRUID",
-							["passiveover"] = 0.003094,
-							["total"] = 0.003094,
-							["resource_type"] = 8,
-							["nome"] = "Kotlin",
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-								},
-							},
-							["grupo"] = true,
-							["spec"] = 102,
-							["flag_original"] = 1297,
-							["alternatepower"] = 0.003094,
-							["last_event"] = 1609733604,
-							["aID"] = "1127-0973C412",
-							["tipo"] = 3,
-							["serial"] = "Player-1127-0973C412",
-							["totalover"] = 0.003094,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 1504,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[164815] = {
-										["activedamt"] = 0,
-										["id"] = 164815,
-										["targets"] = {
-										},
-										["uptime"] = 13,
-										["appliedamt"] = 3,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[78675] = {
-										["activedamt"] = 0,
-										["id"] = 78675,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[164812] = {
-										["activedamt"] = 0,
-										["id"] = 164812,
-										["targets"] = {
-										},
-										["uptime"] = 12,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["buff_uptime"] = 98,
-							["buff_uptime_targets"] = {
-							},
-							["aID"] = "1127-0973C412",
-							["interrupt_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[97547] = {
-										["id"] = 97547,
-										["interrompeu_oque"] = {
-											[142189] = 1,
-										},
-										["targets"] = {
-											["Petit tisse-ambre illusoire"] = 1,
-										},
-										["counter"] = 1,
-									},
-								},
-							},
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[342814] = {
-										["activedamt"] = 1,
-										["id"] = 342814,
-										["targets"] = {
-										},
-										["uptime"] = 16,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[24858] = {
-										["activedamt"] = 1,
-										["id"] = 24858,
-										["targets"] = {
-										},
-										["uptime"] = 16,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[343648] = {
-										["activedamt"] = 1,
-										["id"] = 343648,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[339943] = {
-										["activedamt"] = 1,
-										["id"] = 339943,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[227723] = {
-										["activedamt"] = 1,
-										["id"] = 227723,
-										["targets"] = {
-										},
-										["uptime"] = 16,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[48517] = {
-										["activedamt"] = 1,
-										["id"] = 48517,
-										["targets"] = {
-										},
-										["uptime"] = 9,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[324748] = {
-										["activedamt"] = 1,
-										["id"] = 324748,
-										["targets"] = {
-										},
-										["uptime"] = 14,
-										["appliedamt"] = 1,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[335149] = {
-										["activedamt"] = 1,
-										["id"] = 335149,
-										["targets"] = {
-										},
-										["uptime"] = 16,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["interrompeu_oque"] = {
-								[142189] = 1,
-							},
-							["debuff_uptime"] = 31,
-							["interrupt_targets"] = {
-								["Petit tisse-ambre illusoire"] = 1,
-							},
-							["interrupt"] = 1.006656,
-							["nome"] = "Kotlin",
-							["spec"] = 102,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[190984] = 4,
-								[93402] = 1,
-								[324748] = 2,
-								[78675] = 1,
-								[194153] = 2,
-								[78674] = 1,
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["colocacao"] = 1,
-							["last_event"] = 1609733606,
-							["pets"] = {
-							},
-							["classe"] = "DRUID",
-							["serial"] = "Player-1127-0973C412",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 1504,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Kotlin"] = true,
-				},
-				["CombatStartedAt"] = 14088.611,
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["instance_type"] = "scenario",
-				["enemy"] = "Petit pourfendeur illusoire",
-				["combat_counter"] = 1988,
-				["tempo_start"] = 1609733590,
-				["totals"] = {
-					27349, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 1,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["cleu_timeline"] = {
-				},
-				["CombatEndedAt"] = 14070.783,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "05:13:11",
-				["end_time"] = 14071.15,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["combat_id"] = 1504,
-				["totals_grupo"] = {
-					27349, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 1,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Kotlin"] = 27349.003499,
-						}, -- [1]
-					},
-				},
-				["frags"] = {
-					["Petit pourfendeur illusoire"] = 2,
-					["Petit tisse-ambre illusoire"] = 1,
-				},
-				["data_fim"] = "05:13:27",
-				["TotalElapsedCombatTime"] = 14070.783,
-				["CombatSkillCache"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
-				["start_time"] = 14055.148,
-				["contra"] = "Petit pourfendeur illusoire",
-				["TimeData"] = {
 				},
 			}, -- [18]
 		},
@@ -14595,177 +14429,6 @@ _detalhes_database = {
 	},
 	["on_death_menu"] = true,
 	["cached_talents"] = {
-		["Player-1127-08FAD801"] = {
-			22119, -- [1]
-			23470, -- [2]
-			19240, -- [3]
-			22122, -- [4]
-			22115, -- [5]
-			23128, -- [6]
-			23075, -- [7]
-		},
-		["Player-1127-0971518C"] = {
-			22329, -- [1]
-			19758, -- [2]
-			19755, -- [3]
-			19761, -- [4]
-			22330, -- [5]
-			22161, -- [6]
-			21183, -- [7]
-		},
-		["Player-1127-0952A850"] = {
-			15774, -- [1]
-			22629, -- [2]
-			22626, -- [3]
-			22627, -- [4]
-			22800, -- [5]
-			22395, -- [6]
-			22406, -- [7]
-		},
-		["Player-1127-097082AA"] = {
-			19264, -- [1]
-			19259, -- [2]
-			22127, -- [3]
-			22152, -- [4]
-			19269, -- [5]
-			19265, -- [6]
-			22359, -- [7]
-		},
-		["Player-1127-09B7F91A"] = {
-			22025, -- [1]
-			22029, -- [2]
-			22518, -- [3]
-			22522, -- [4]
-			22529, -- [5]
-			22534, -- [6]
-			22030, -- [7]
-		},
-		["Player-3690-088A97C1"] = {
-			17565, -- [1]
-			17577, -- [2]
-			22179, -- [3]
-			22433, -- [4]
-			17597, -- [5]
-			23191, -- [6]
-			21201, -- [7]
-		},
-		["Player-3690-09B08781"] = {
-			22462, -- [1]
-			23071, -- [2]
-			22447, -- [3]
-			22450, -- [4]
-			22448, -- [5]
-			22472, -- [6]
-			21631, -- [7]
-		},
-		["Player-1390-0AB69E05"] = {
-			22357, -- [1]
-			23108, -- [2]
-			23164, -- [3]
-			19271, -- [4]
-			22144, -- [5]
-			19266, -- [6]
-			22153, -- [7]
-		},
-		["Player-1127-09A4FE49"] = {
-			22557, -- [1]
-			22592, -- [2]
-			22179, -- [3]
-			22434, -- [4]
-			17597, -- [5]
-			23167, -- [6]
-			23456, -- [7]
-		},
-		["Player-1127-092EEA69"] = {
-			22386, -- [1]
-			18570, -- [2]
-			22159, -- [3]
-			18576, -- [4]
-			21706, -- [5]
-			21712, -- [6]
-			21193, -- [7]
-		},
-		["Player-1127-0973C412"] = {
-			22385, -- [1]
-			18571, -- [2]
-			22159, -- [3]
-			18576, -- [4]
-			18580, -- [5]
-			21712, -- [6]
-			21648, -- [7]
-		},
-		["Player-1127-0973560D"] = {
-			19234, -- [1]
-			22331, -- [2]
-			19241, -- [3]
-			22122, -- [4]
-			22115, -- [5]
-			22336, -- [6]
-			22132, -- [7]
-		},
-		["Player-1127-09B7E1BD"] = {
-			19233, -- [1]
-			22331, -- [2]
-			19240, -- [3]
-			22122, -- [4]
-			22115, -- [5]
-			22336, -- [6]
-			22132, -- [7]
-		},
-		["Player-512-07D996E0"] = {
-			21854, -- [1]
-			21857, -- [2]
-			21862, -- [3]
-			21865, -- [4]
-			21866, -- [5]
-			22767, -- [6]
-			21900, -- [7]
-		},
-		["Player-1127-0999861B"] = {
-			22312, -- [1]
-			19758, -- [2]
-			22487, -- [3]
-			21977, -- [4]
-			19764, -- [5]
-			19767, -- [6]
-			23145, -- [7]
-		},
-		["Player-1127-090ACB57"] = {
-			19166, -- [1]
-			19219, -- [2]
-			22134, -- [3]
-			22013, -- [4]
-			19228, -- [5]
-			19232, -- [6]
-			21207, -- [7]
-		},
-		["Player-1127-06855B91"] = {
-			22357, -- [1]
-			23108, -- [2]
-			23164, -- [3]
-			19271, -- [4]
-			22144, -- [5]
-			23111, -- [6]
-			22153, -- [7]
-		},
-		["Player-1390-088AC4B8"] = {
-			22502, -- [1]
-			22766, -- [2]
-			22324, -- [3]
-			22770, -- [4]
-			22510, -- [5]
-			22513, -- [6]
-			22543, -- [7]
-		},
-		["Player-1127-09B94418"] = {
-			22025, -- [1]
-			22029, -- [2]
-			22520, -- [3]
-			22526, -- [4]
-			22529, -- [5]
-			22534, -- [6]
-			22030, -- [7]
-		},
 	},
 	["last_instance_id"] = 619,
 	["announce_interrupts"] = {
@@ -14865,7 +14528,7 @@ _detalhes_database = {
 			["point"] = "CENTER",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["author"] = "Details! Team",
+			["main_frame_strata"] = "LOW",
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -14873,17 +14536,9 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
-			["use_spark"] = true,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
+			["y"] = -7.62939453125e-06,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -14895,8 +14550,16 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["y"] = -7.62939453125e-06,
-			["main_frame_strata"] = "LOW",
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["use_spark"] = true,
+			["font_size"] = 10,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["main_frame_locked"] = false,
 			["arrow_anchor_y"] = 0,
 		},
@@ -14907,7 +14570,7 @@ _detalhes_database = {
 		["reverse"] = false,
 	},
 	["last_encounter"] = "Dame Inerva Sombreveine",
-	["last_day"] = "04",
+	["last_day"] = "05",
 	["mythic_dungeon_currentsaved"] = {
 		["dungeon_name"] = "Flèches de l’Ascension",
 		["started"] = false,
@@ -14927,10 +14590,10 @@ _detalhes_database = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["combat_id"] = 1521,
+	["combat_id"] = 1523,
 	["savedStyles"] = {
 	},
-	["combat_counter"] = 2006,
+	["combat_counter"] = 2012,
 	["force_font_outline"] = "",
 	["announce_deaths"] = {
 		["enabled"] = false,
@@ -14944,24 +14607,24 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1297,
-					["totalabsorbed"] = 151.4088469999998,
+					["totalabsorbed"] = 151.4226489999998,
 					["damage_from"] = {
 						["Tourdemagyps-KhazModan"] = true,
 						["Gourbière le Cogneur"] = true,
 						["Rampante des profondeurs"] = true,
 						["Grouillant ahn'kahar"] = true,
-						["Petit fourrageur illusoire"] = true,
-						["Grand fourrageur illusoire"] = true,
-						["Miklów-Hyjal"] = true,
-						["Petit éventreur illusoire"] = true,
 						["Arru"] = true,
-						["Invocateur noir du Crépuscule"] = true,
+						["Rampelorgne des catacombes"] = true,
+						["Miklów-Hyjal"] = true,
 						["Dératiseur ciruléen"] = true,
+						["Petit éventreur illusoire"] = true,
+						["Invocateur noir du Crépuscule"] = true,
+						["Petit fourrageur illusoire"] = true,
 						["Héraut Volazj"] = true,
 						["Rongeur"] = true,
-						["Rampelorgne des catacombes"] = true,
 						["Ollie"] = true,
 						["Profania"] = true,
+						["Grand fourrageur illusoire"] = true,
 						["Aliyiah-Hyjal"] = true,
 						["Grand éventreur illusoire"] = true,
 						["Adoratrice du Crépuscule"] = true,
@@ -14976,71 +14639,74 @@ _detalhes_database = {
 						["Adorateur du Crépuscule"] = true,
 					},
 					["targets"] = {
-						["Gourbière le Cogneur"] = 21500,
-						["Gardien ahn'kahar"] = 3825,
-						["Petit pourfendeur illusoire"] = 70135,
-						["Grouillant ahn'kahar"] = 58,
-						["Brûle-mèche ciruléen"] = 10159,
-						["Grand lance-bananes illusoire"] = 15390,
-						["Petit fourrageur illusoire"] = 84013,
-						["Grand fourrageur illusoire"] = 82207,
 						["Broyeur d'os"] = 23567,
-						["Taurson"] = 11292,
-						["Grand éventreur illusoire"] = 78065,
-						["Arru"] = 20817,
-						["Briseur ahn'kahar"] = 19292,
-						["Grand mystique illusoire"] = 137598,
-						["Grand gardien illusoire"] = 15900,
-						["Rongeur"] = 1941,
-						["Grand tisse-ambre illusoire"] = 25940,
+						["Grouillant ahn'kahar"] = 58,
+						["Dératiseur ciruléen"] = 12117,
 						["Petit tisse-ambre illusoire"] = 58147,
+						["Grutush le Pilleur"] = 36256,
+						["Rongeur"] = 1941,
 						["Défenseur des Titans"] = 121626,
-						["Mynta Serre-Stridente"] = 25294,
-						["Rampelorgne des catacombes"] = 29997,
 						["Petite banshee illusoire"] = 5266,
-						["Apôtre du Crépuscule"] = 14327,
-						["Petite vermine illusoire"] = 95632,
-						["Grande vermine illusoire"] = 105029,
-						["Ollie"] = 2486,
-						["Ancien Nadox"] = 27194,
-						["Petit gardien illusoire"] = 122397,
-						["Grand pourfendeur illusoire"] = 62172,
-						["Xaander"] = 2239,
+						["Grand tisse-ambre illusoire"] = 25940,
 						["Adorateur du Crépuscule"] = 10601,
-						["Oeil de Taldaram"] = 16011,
 						["Prince Taldaram"] = 11401,
-						["Geist pilleur"] = 8731,
+						["Cavibrisse ciruléen"] = 25972,
+						["Glacecroc"] = 322240,
+						["Petit lance-bananes illusoire"] = 27306,
+						["Immense pourfendeur illusoire"] = 50537,
+						["Héraut Volazj"] = 20771,
+						["Grande vermine illusoire"] = 105029,
+						["Embusquée ailevile"] = 28770,
+						["Grand éventreur illusoire"] = 78065,
+						["Grand fourrageur illusoire"] = 82207,
+						["Défenseur conjuré"] = 31348,
+						["Petit pourfendeur illusoire"] = 70135,
+						["Mannequin d’entraînement du boxeur"] = 3156927,
+						["Profania"] = 95023,
+						["Gardien ahn'kahar"] = 3825,
+						["Grand mystique illusoire"] = 137598,
+						["Taurson"] = 11292,
+						["Briseur ahn'kahar"] = 19292,
+						["Grand gardien illusoire"] = 15900,
+						["Petit fourrageur illusoire"] = 84013,
+						["Mynta Serre-Stridente"] = 25294,
+						["Infernal gangresiège"] = 4769,
+						["Ollie"] = 2486,
+						["Chauve-souris des grottes gelées"] = 281309,
+						["Xaander"] = 2239,
+						["Arru"] = 20817,
+						["Oeil de Taldaram"] = 16011,
+						["Rampante des profondeurs"] = 7082,
 						["Rampelorgne froidécaille"] = 10251,
 						["Gardemort d'obsidienne"] = 141538,
-						["Ténèbres dévorantes"] = 25228,
-						["Petit lance-bananes illusoire"] = 27306,
-						["Cavibrisse ciruléen"] = 25972,
-						["Dératiseur ciruléen"] = 12117,
-						["Immense pourfendeur illusoire"] = 50537,
+						["Gourbière le Cogneur"] = 21500,
+						["Brûle-mèche ciruléen"] = 10159,
+						["Marcheur de peste"] = 7903,
 						["Rat des catacombes"] = 4853,
+						["Ténèbres dévorantes"] = 25228,
+						["Petit gardien illusoire"] = 122397,
 						["Oublié"] = 23421,
-						["Profania"] = 95023,
 						["Grande chauve-souris des grottes"] = 4720,
-						["Mannequin d’entraînement du boxeur"] = 3156927,
-						["Héraut Volazj"] = 20771,
+						["Porte-givre"] = 18330,
+						["Ancien Nadox"] = 27194,
 						["Petit éventreur illusoire"] = 65327,
 						["Lanceur de sorts ahn'kahar"] = 16436,
-						["Porte-givre"] = 18330,
-						["Embusquée ailevile"] = 28770,
-						["Hartli la Chapardeuse"] = 21050,
+						["Grand lance-bananes illusoire"] = 15390,
+						["Petite vermine illusoire"] = 95632,
+						["Grand pourfendeur illusoire"] = 62172,
 						["Petit mystique illusoire"] = 103547,
 						["Puck"] = 4585,
-						["Invocateur noir du Crépuscule"] = 9983,
-						["Infernal gangresiège"] = 4769,
+						["Geist pilleur"] = 8731,
+						["Apôtre du Crépuscule"] = 14327,
 						["Guetteur ahn'kahar"] = 3889,
+						["Hartli la Chapardeuse"] = 21050,
 						["Ambréclat enragé"] = 14207,
-						["Rampante des profondeurs"] = 7082,
-						["Défenseur conjuré"] = 31348,
+						["Invocateur noir du Crépuscule"] = 9983,
 						["Tisseuse ahn'kahar"] = 10339,
-						["Marcheur de peste"] = 7903,
+						["Rampelorgne des catacombes"] = 29997,
 						["Bo’xon"] = 14410,
 					},
-					["on_hold"] = false,
+					["total"] = 5940693.422649003,
 					["pets"] = {
 					},
 					["friendlyfire"] = {
@@ -15084,24 +14750,20 @@ _detalhes_database = {
 							["total"] = 1790,
 						},
 					},
-					["colocacao"] = 1,
+					["spec"] = 102,
 					["aID"] = "1127-0973C412",
 					["raid_targets"] = {
 						[128] = 3022,
 					},
-					["total_without_pet"] = 5300888.408847002,
-					["boss_fight_component"] = true,
-					["end_time"] = 1609728875,
-					["dps_started"] = false,
-					["total"] = 5300888.408847002,
-					["classe"] = "DRUID",
+					["total_without_pet"] = 5940693.422649003,
+					["on_hold"] = false,
 					["friendlyfire_total"] = 10595,
+					["dps_started"] = false,
+					["end_time"] = 1609728875,
+					["serial"] = "Player-1127-0973C412",
+					["classe"] = "DRUID",
 					["nome"] = "Kotlin",
-					["spec"] = 102,
-					["grupo"] = true,
-					["last_event"] = 0,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 1,
@@ -15138,9 +14800,9 @@ _detalhes_database = {
 								["n_max"] = 0,
 								["targets"] = {
 									["Petit gardien illusoire"] = 0,
+									["Grand lance-bananes illusoire"] = 0,
 									["Petit lance-bananes illusoire"] = 0,
 									["Rampelorgne des catacombes"] = 0,
-									["Grand lance-bananes illusoire"] = 0,
 								},
 								["n_dmg"] = 0,
 								["n_min"] = 0,
@@ -15197,7 +14859,7 @@ _detalhes_database = {
 								["b_amt"] = 0,
 								["c_dmg"] = 196986,
 								["g_amt"] = 0,
-								["n_max"] = 35607,
+								["n_max"] = 322240,
 								["targets"] = {
 									["Gourbière le Cogneur"] = 21500,
 									["Gardien ahn'kahar"] = 2225,
@@ -15212,6 +14874,7 @@ _detalhes_database = {
 									["Prince Taldaram"] = 2422,
 									["Rampante des profondeurs"] = 1560,
 									["Gardemort d'obsidienne"] = 46984,
+									["Glacecroc"] = 322240,
 									["Petit lance-bananes illusoire"] = 19648,
 									["Immense pourfendeur illusoire"] = 23402,
 									["Broyeur d'os"] = 12718,
@@ -15233,11 +14896,11 @@ _detalhes_database = {
 									["Grand pourfendeur illusoire"] = 20662,
 									["Porte-givre"] = 1438,
 								},
-								["n_dmg"] = 440046,
+								["n_dmg"] = 762286,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 126,
-								["total"] = 637032,
+								["counter"] = 127,
+								["total"] = 959272,
 								["c_max"] = 46256,
 								["DEFLECT"] = 1,
 								["id"] = 78674,
@@ -15250,7 +14913,7 @@ _detalhes_database = {
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
-								["n_amt"] = 89,
+								["n_amt"] = 90,
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
@@ -15319,61 +14982,64 @@ _detalhes_database = {
 									["Profania"] = 9330,
 									["Grouillant ahn'kahar"] = 58,
 									["Taurson"] = 4622,
-									["Invocateur noir du Crépuscule"] = 714,
 									["Grand gardien illusoire"] = 4571,
+									["Invocateur noir du Crépuscule"] = 714,
+									["Rampelorgne des catacombes"] = 12295,
+									["Grutush le Pilleur"] = 36256,
 									["Petit fourrageur illusoire"] = 3746,
-									["Petite vermine illusoire"] = 18454,
-									["Défenseur des Titans"] = 6216,
-									["Rat des catacombes"] = 4853,
-									["Grand lance-bananes illusoire"] = 6850,
-									["Grand fourrageur illusoire"] = 9742,
-									["Apôtre du Crépuscule"] = 1281,
-									["Cavibrisse ciruléen"] = 2499,
-									["Grand éventreur illusoire"] = 8442,
-									["Ollie"] = 2486,
-									["Ancien Nadox"] = 2209,
 									["Dératiseur ciruléen"] = 7662,
 									["Grand mystique illusoire"] = 19274,
+									["Défenseur des Titans"] = 6216,
+									["Rat des catacombes"] = 4853,
+									["Ancien Nadox"] = 2209,
+									["Petite banshee illusoire"] = 0,
+									["Apôtre du Crépuscule"] = 1281,
+									["Petit pourfendeur illusoire"] = 9721,
+									["Guetteur ahn'kahar"] = 1100,
+									["Ollie"] = 2486,
 									["Grand tisse-ambre illusoire"] = 4751,
+									["Cavibrisse ciruléen"] = 2499,
+									["Chauve-souris des grottes gelées"] = 73213,
+									["Petit gardien illusoire"] = 22900,
 									["Adorateur du Crépuscule"] = 1506,
 									["Oeil de Taldaram"] = 3010,
 									["Prince Taldaram"] = 1906,
 									["Geist pilleur"] = 379,
 									["Rampelorgne froidécaille"] = 5443,
 									["Gardemort d'obsidienne"] = 20676,
-									["Petit tisse-ambre illusoire"] = 16282,
+									["Grand lance-bananes illusoire"] = 6850,
 									["Petit lance-bananes illusoire"] = 4452,
-									["Petit pourfendeur illusoire"] = 9721,
-									["Grande vermine illusoire"] = 22511,
-									["Immense pourfendeur illusoire"] = 3533,
-									["Petit gardien illusoire"] = 22900,
+									["Grand éventreur illusoire"] = 8442,
 									["Grand pourfendeur illusoire"] = 9597,
-									["Ténèbres dévorantes"] = 2419,
-									["Grande chauve-souris des grottes"] = 2469,
+									["Immense pourfendeur illusoire"] = 3533,
+									["Porte-givre"] = 4388,
 									["Brûle-mèche ciruléen"] = 10159,
+									["Grande vermine illusoire"] = 22511,
+									["Grande chauve-souris des grottes"] = 2469,
+									["Broyeur d'os"] = 2239,
 									["Héraut Volazj"] = 1805,
 									["Petit éventreur illusoire"] = 7033,
 									["Lanceur de sorts ahn'kahar"] = 1251,
-									["Broyeur d'os"] = 2239,
+									["Ténèbres dévorantes"] = 2419,
 									["Embusquée ailevile"] = 22070,
-									["Porte-givre"] = 4388,
+									["Grand fourrageur illusoire"] = 9742,
 									["Petit mystique illusoire"] = 19494,
 									["Puck"] = 2405,
-									["Rampelorgne des catacombes"] = 12295,
 									["Mannequin d’entraînement du boxeur"] = 1418581,
-									["Guetteur ahn'kahar"] = 1100,
+									["Petit tisse-ambre illusoire"] = 16282,
+									["Oublié"] = 5834,
 									["Ambréclat enragé"] = 7104,
 									["Briseur ahn'kahar"] = 3018,
 									["Défenseur conjuré"] = 21758,
-									["Oublié"] = 5834,
+									["Petite vermine illusoire"] = 18454,
 									["Marcheur de peste"] = 1276,
 									["Bo’xon"] = 7369,
 								},
-								["n_dmg"] = 1336346,
+								["n_dmg"] = 1445815,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 1172,
-								["total"] = 1793743,
+								["counter"] = 1175,
+								["total"] = 1903212,
 								["c_max"] = 99253,
 								["id"] = 164812,
 								["r_dmg"] = 0,
@@ -15384,7 +15050,7 @@ _detalhes_database = {
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
-								["n_amt"] = 999,
+								["n_amt"] = 1002,
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
@@ -15417,8 +15083,8 @@ _detalhes_database = {
 									["Petit éventreur illusoire"] = 9444,
 									["Grande vermine illusoire"] = 2274,
 									["Grouillant ahn'kahar"] = 0,
-									["Grand éventreur illusoire"] = 7507,
 									["Petit tisse-ambre illusoire"] = 4449,
+									["Grand éventreur illusoire"] = 7507,
 									["Petit mystique illusoire"] = 9523,
 									["Grand lance-bananes illusoire"] = 0,
 									["Broyeur d'os"] = 3402,
@@ -15493,6 +15159,7 @@ _detalhes_database = {
 									["Grand gardien illusoire"] = 0,
 									["Petit fourrageur illusoire"] = 53129,
 									["Petite vermine illusoire"] = 8296,
+									["Petite banshee illusoire"] = 0,
 									["Apôtre du Crépuscule"] = 4057,
 									["Ancien Nadox"] = 409,
 									["Adorateur du Crépuscule"] = 3698,
@@ -15501,26 +15168,26 @@ _detalhes_database = {
 									["Rampante des profondeurs"] = 374,
 									["Gardemort d'obsidienne"] = 7020,
 									["Immense pourfendeur illusoire"] = 2173,
-									["Petit mystique illusoire"] = 7941,
 									["Grand tisse-ambre illusoire"] = 1075,
-									["Oeil de Taldaram"] = 3903,
+									["Broyeur d'os"] = 818,
+									["Grand pourfendeur illusoire"] = 7225,
 									["Héraut Volazj"] = 413,
 									["Petit éventreur illusoire"] = 5880,
 									["Lanceur de sorts ahn'kahar"] = 6016,
-									["Broyeur d'os"] = 818,
 									["Geist pilleur"] = 2583,
 									["Porte-givre"] = 3486,
 									["Grand éventreur illusoire"] = 14027,
+									["Petit mystique illusoire"] = 7941,
 									["Grand fourrageur illusoire"] = 27503,
-									["Petit tisse-ambre illusoire"] = 5532,
-									["Invocateur noir du Crépuscule"] = 3572,
 									["Guetteur ahn'kahar"] = 903,
+									["Invocateur noir du Crépuscule"] = 3572,
+									["Oublié"] = 2504,
 									["Petit pourfendeur illusoire"] = 8066,
+									["Petit tisse-ambre illusoire"] = 5532,
 									["Grande vermine illusoire"] = 5879,
-									["Grand pourfendeur illusoire"] = 7225,
 									["Tisseuse ahn'kahar"] = 4873,
 									["Marcheur de peste"] = 3009,
-									["Oublié"] = 2504,
+									["Oeil de Taldaram"] = 3903,
 								},
 								["n_dmg"] = 113200,
 								["n_min"] = 0,
@@ -15543,11 +15210,11 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 							[164815] = {
-								["c_amt"] = 172,
+								["c_amt"] = 173,
 								["b_amt"] = 0,
-								["c_dmg"] = 106862,
+								["c_dmg"] = 165092,
 								["g_amt"] = 0,
-								["n_max"] = 29115,
+								["n_max"] = 33406,
 								["targets"] = {
 									["Profania"] = 8366,
 									["Grand mystique illusoire"] = 16540,
@@ -15557,30 +15224,32 @@ _detalhes_database = {
 									["Rongeur"] = 1941,
 									["Défenseur des Titans"] = 7488,
 									["Petite vermine illusoire"] = 21200,
+									["Petit tisse-ambre illusoire"] = 7997,
+									["Petite banshee illusoire"] = 0,
 									["Apôtre du Crépuscule"] = 1961,
-									["Grand tisse-ambre illusoire"] = 3472,
-									["Grand lance-bananes illusoire"] = 3220,
+									["Rampelorgne des catacombes"] = 9092,
 									["Petit fourrageur illusoire"] = 15929,
 									["Ancien Nadox"] = 1578,
-									["Grand fourrageur illusoire"] = 20167,
+									["Grand tisse-ambre illusoire"] = 3472,
 									["Geist pilleur"] = 3159,
-									["Grand éventreur illusoire"] = 6914,
+									["Chauve-souris des grottes gelées"] = 208096,
+									["Petit pourfendeur illusoire"] = 11613,
 									["Adorateur du Crépuscule"] = 1674,
 									["Oeil de Taldaram"] = 3300,
 									["Prince Taldaram"] = 1321,
 									["Rampante des profondeurs"] = 754,
 									["Rampelorgne froidécaille"] = 2394,
 									["Gardemort d'obsidienne"] = 11028,
-									["Rampelorgne des catacombes"] = 9092,
+									["Oublié"] = 4356,
 									["Petit lance-bananes illusoire"] = 472,
-									["Petit tisse-ambre illusoire"] = 7997,
-									["Petit pourfendeur illusoire"] = 11613,
-									["Immense pourfendeur illusoire"] = 3732,
-									["Grande vermine illusoire"] = 15927,
 									["Petit gardien illusoire"] = 15167,
 									["Grand pourfendeur illusoire"] = 3327,
-									["Grande chauve-souris des grottes"] = 2251,
+									["Immense pourfendeur illusoire"] = 3732,
+									["Grand lance-bananes illusoire"] = 3220,
+									["Grand éventreur illusoire"] = 6914,
 									["Broyeur d'os"] = 1321,
+									["Grande chauve-souris des grottes"] = 2251,
+									["Grande vermine illusoire"] = 15927,
 									["Héraut Volazj"] = 1594,
 									["Petit éventreur illusoire"] = 6679,
 									["Lanceur de sorts ahn'kahar"] = 1697,
@@ -15589,22 +15258,22 @@ _detalhes_database = {
 									["Dératiseur ciruléen"] = 4455,
 									["Petit mystique illusoire"] = 15676,
 									["Puck"] = 2180,
+									["Grand fourrageur illusoire"] = 20167,
 									["Mannequin d’entraînement du boxeur"] = 241024,
-									["Oublié"] = 4356,
 									["Guetteur ahn'kahar"] = 920,
 									["Ambréclat enragé"] = 7103,
-									["Briseur ahn'kahar"] = 2709,
 									["Défenseur conjuré"] = 5622,
+									["Briseur ahn'kahar"] = 2709,
 									["Tisseuse ahn'kahar"] = 1532,
 									["Marcheur de peste"] = 561,
 									["Bo’xon"] = 7041,
 								},
-								["n_dmg"] = 416982,
+								["n_dmg"] = 566848,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 1184,
-								["total"] = 523844,
-								["c_max"] = 33167,
+								["counter"] = 1190,
+								["total"] = 731940,
+								["c_max"] = 58230,
 								["id"] = 164815,
 								["r_dmg"] = 0,
 								["IMMUNE"] = 9,
@@ -15614,65 +15283,65 @@ _detalhes_database = {
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
-								["n_amt"] = 1003,
+								["n_amt"] = 1008,
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
-							[202497] = {
-								["c_amt"] = 99,
+							[191037] = {
+								["c_amt"] = 153,
 								["b_amt"] = 0,
-								["c_dmg"] = 89632,
+								["c_dmg"] = 190474,
 								["g_amt"] = 0,
-								["n_max"] = 67190,
+								["n_max"] = 33722,
 								["targets"] = {
-									["Broyeur d'os"] = 2455,
-									["Grand mystique illusoire"] = 16701,
-									["Briseur ahn'kahar"] = 1649,
-									["Grand gardien illusoire"] = 522,
-									["Petit fourrageur illusoire"] = 11209,
-									["Petite vermine illusoire"] = 6324,
-									["Apôtre du Crépuscule"] = 1496,
-									["Ancien Nadox"] = 3636,
-									["Adorateur du Crépuscule"] = 1389,
-									["Petit gardien illusoire"] = 14553,
-									["Prince Taldaram"] = 1478,
-									["Rampante des profondeurs"] = 543,
-									["Gardemort d'obsidienne"] = 18205,
-									["Petit lance-bananes illusoire"] = 1123,
-									["Immense pourfendeur illusoire"] = 2228,
-									["Grand lance-bananes illusoire"] = 1332,
-									["Petit tisse-ambre illusoire"] = 9173,
-									["Grand éventreur illusoire"] = 12585,
-									["Oeil de Taldaram"] = 1885,
-									["Geist pilleur"] = 1220,
-									["Héraut Volazj"] = 1442,
-									["Petit éventreur illusoire"] = 8189,
-									["Lanceur de sorts ahn'kahar"] = 2192,
-									["Porte-givre"] = 1999,
-									["Défenseur conjuré"] = 3968,
-									["Grand tisse-ambre illusoire"] = 5571,
-									["Petit mystique illusoire"] = 13216,
-									["Grand fourrageur illusoire"] = 3899,
-									["Invocateur noir du Crépuscule"] = 1180,
-									["Grande vermine illusoire"] = 10946,
-									["Guetteur ahn'kahar"] = 750,
-									["Petit pourfendeur illusoire"] = 8055,
-									["Grand pourfendeur illusoire"] = 6768,
-									["Mannequin d’entraînement du boxeur"] = 557876,
-									["Tisseuse ahn'kahar"] = 118,
-									["Marcheur de peste"] = 609,
-									["Oublié"] = 4616,
+									["Broyeur d'os"] = 614,
+									["Grouillant ahn'kahar"] = 0,
+									["Taurson"] = 4399,
+									["Invocateur noir du Crépuscule"] = 1376,
+									["Grand gardien illusoire"] = 3575,
+									["Petite vermine illusoire"] = 40502,
+									["Petite banshee illusoire"] = 1870,
+									["Apôtre du Crépuscule"] = 1373,
+									["Ancien Nadox"] = 935,
+									["Xaander"] = 2239,
+									["Adorateur du Crépuscule"] = 2004,
+									["Petit gardien illusoire"] = 17184,
+									["Prince Taldaram"] = 439,
+									["Rampante des profondeurs"] = 1471,
+									["Rampelorgne froidécaille"] = 2414,
+									["Gardemort d'obsidienne"] = 3180,
+									["Petit lance-bananes illusoire"] = 805,
+									["Immense pourfendeur illusoire"] = 2767,
+									["Petit tisse-ambre illusoire"] = 3059,
+									["Marcheur de peste"] = 1960,
+									["Héraut Volazj"] = 1620,
+									["Petit éventreur illusoire"] = 5831,
+									["Lanceur de sorts ahn'kahar"] = 3707,
+									["Oeil de Taldaram"] = 2588,
+									["Porte-givre"] = 2572,
+									["Grand pourfendeur illusoire"] = 3821,
+									["Petit mystique illusoire"] = 8707,
+									["Grand fourrageur illusoire"] = 20896,
+									["Grand tisse-ambre illusoire"] = 2798,
+									["Briseur ahn'kahar"] = 5064,
+									["Guetteur ahn'kahar"] = 216,
+									["Petit pourfendeur illusoire"] = 5661,
+									["Infernal gangresiège"] = 4769,
+									["Grande vermine illusoire"] = 47492,
+									["Tisseuse ahn'kahar"] = 3653,
+									["Mannequin d’entraînement du boxeur"] = 939446,
+									["Grand mystique illusoire"] = 8022,
 								},
-								["n_dmg"] = 651468,
+								["n_dmg"] = 968555,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 384,
-								["total"] = 741100,
-								["c_max"] = 2063,
-								["DEFLECT"] = 6,
-								["id"] = 202497,
+								["counter"] = 900,
+								["total"] = 1159029,
+								["c_max"] = 65083,
+								["DEFLECT"] = 12,
+								["id"] = 191037,
 								["r_dmg"] = 0,
-								["MISS"] = 8,
+								["MISS"] = 3,
 								["IMMUNE"] = 3,
 								["extra"] = {
 								},
@@ -15680,7 +15349,7 @@ _detalhes_database = {
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
-								["n_amt"] = 268,
+								["n_amt"] = 729,
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
@@ -15774,72 +15443,6 @@ _detalhes_database = {
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
-							[191037] = {
-								["c_amt"] = 153,
-								["b_amt"] = 0,
-								["c_dmg"] = 190474,
-								["g_amt"] = 0,
-								["n_max"] = 33722,
-								["targets"] = {
-									["Broyeur d'os"] = 614,
-									["Grouillant ahn'kahar"] = 0,
-									["Taurson"] = 4399,
-									["Invocateur noir du Crépuscule"] = 1376,
-									["Grand gardien illusoire"] = 3575,
-									["Petite vermine illusoire"] = 40502,
-									["Petite banshee illusoire"] = 1870,
-									["Apôtre du Crépuscule"] = 1373,
-									["Ancien Nadox"] = 935,
-									["Xaander"] = 2239,
-									["Adorateur du Crépuscule"] = 2004,
-									["Petit gardien illusoire"] = 17184,
-									["Prince Taldaram"] = 439,
-									["Rampante des profondeurs"] = 1471,
-									["Rampelorgne froidécaille"] = 2414,
-									["Gardemort d'obsidienne"] = 3180,
-									["Petit lance-bananes illusoire"] = 805,
-									["Immense pourfendeur illusoire"] = 2767,
-									["Petit tisse-ambre illusoire"] = 3059,
-									["Grand mystique illusoire"] = 8022,
-									["Héraut Volazj"] = 1620,
-									["Petit éventreur illusoire"] = 5831,
-									["Lanceur de sorts ahn'kahar"] = 3707,
-									["Oeil de Taldaram"] = 2588,
-									["Porte-givre"] = 2572,
-									["Grand pourfendeur illusoire"] = 3821,
-									["Petit mystique illusoire"] = 8707,
-									["Grand fourrageur illusoire"] = 20896,
-									["Grand tisse-ambre illusoire"] = 2798,
-									["Briseur ahn'kahar"] = 5064,
-									["Guetteur ahn'kahar"] = 216,
-									["Petit pourfendeur illusoire"] = 5661,
-									["Infernal gangresiège"] = 4769,
-									["Grande vermine illusoire"] = 47492,
-									["Tisseuse ahn'kahar"] = 3653,
-									["Marcheur de peste"] = 1960,
-									["Mannequin d’entraînement du boxeur"] = 939446,
-								},
-								["n_dmg"] = 968555,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 900,
-								["total"] = 1159029,
-								["c_max"] = 65083,
-								["DEFLECT"] = 12,
-								["id"] = 191037,
-								["r_dmg"] = 0,
-								["MISS"] = 3,
-								["IMMUNE"] = 3,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["a_amt"] = 0,
-								["n_amt"] = 729,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
-							},
 							[1822] = {
 								["c_amt"] = 1,
 								["b_amt"] = 0,
@@ -15869,13 +15472,84 @@ _detalhes_database = {
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
+							[202497] = {
+								["c_amt"] = 99,
+								["b_amt"] = 0,
+								["c_dmg"] = 89632,
+								["g_amt"] = 0,
+								["n_max"] = 67190,
+								["targets"] = {
+									["Broyeur d'os"] = 2455,
+									["Grand mystique illusoire"] = 16701,
+									["Briseur ahn'kahar"] = 1649,
+									["Grand gardien illusoire"] = 522,
+									["Petit fourrageur illusoire"] = 11209,
+									["Petite vermine illusoire"] = 6324,
+									["Petite banshee illusoire"] = 0,
+									["Apôtre du Crépuscule"] = 1496,
+									["Ancien Nadox"] = 3636,
+									["Adorateur du Crépuscule"] = 1389,
+									["Petit gardien illusoire"] = 14553,
+									["Prince Taldaram"] = 1478,
+									["Rampante des profondeurs"] = 543,
+									["Gardemort d'obsidienne"] = 18205,
+									["Petit lance-bananes illusoire"] = 1123,
+									["Immense pourfendeur illusoire"] = 2228,
+									["Petit tisse-ambre illusoire"] = 9173,
+									["Mannequin d’entraînement du boxeur"] = 557876,
+									["Oeil de Taldaram"] = 1885,
+									["Porte-givre"] = 1999,
+									["Grand tisse-ambre illusoire"] = 5571,
+									["Héraut Volazj"] = 1442,
+									["Petit éventreur illusoire"] = 8189,
+									["Lanceur de sorts ahn'kahar"] = 2192,
+									["Oublié"] = 4616,
+									["Défenseur conjuré"] = 3968,
+									["Grand lance-bananes illusoire"] = 1332,
+									["Grand éventreur illusoire"] = 12585,
+									["Grand fourrageur illusoire"] = 3899,
+									["Invocateur noir du Crépuscule"] = 1180,
+									["Petit mystique illusoire"] = 13216,
+									["Guetteur ahn'kahar"] = 750,
+									["Petit pourfendeur illusoire"] = 8055,
+									["Grande vermine illusoire"] = 10946,
+									["Grand pourfendeur illusoire"] = 6768,
+									["Tisseuse ahn'kahar"] = 118,
+									["Marcheur de peste"] = 609,
+									["Geist pilleur"] = 1220,
+								},
+								["n_dmg"] = 651468,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 384,
+								["total"] = 741100,
+								["c_max"] = 2063,
+								["DEFLECT"] = 6,
+								["id"] = 202497,
+								["r_dmg"] = 0,
+								["MISS"] = 8,
+								["IMMUNE"] = 3,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 268,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
 						},
+						["tipo"] = 2,
 					},
-					["serial"] = "Player-1127-0973C412",
+					["grupo"] = true,
+					["last_event"] = 0,
+					["boss_fight_component"] = true,
+					["colocacao"] = 1,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 274239.408847,
-					["start_time"] = 1609727590,
+					["damage_taken"] = 274239.422649,
+					["start_time"] = 1609727579,
 					["delay"] = 0,
 					["last_dps"] = 622.2895509987065,
 				}, -- [1]
@@ -15889,10 +15563,10 @@ _detalhes_database = {
 						["Apôtre du Crépuscule"] = true,
 						["Héraut Volazj"] = true,
 						["Oublié"] = true,
-						["Briseur ahn'kahar"] = true,
 						["Tisseuse ahn'kahar"] = true,
-						["Jedoga Cherchelombre"] = true,
 						["Invocateur noir du Crépuscule"] = true,
+						["Jedoga Cherchelombre"] = true,
+						["Briseur ahn'kahar"] = true,
 						["Skwooma-KhazModan"] = true,
 						["Adorateur du Crépuscule"] = true,
 					},
@@ -15904,13 +15578,13 @@ _detalhes_database = {
 						["Briseur ahn'kahar"] = 17421,
 						["Héraut Volazj"] = 15698,
 						["Lanceur de sorts ahn'kahar"] = 15529,
-						["Oublié"] = 23089,
 						["Volontaire du Crépuscule"] = 4889,
 						["Prince Taldaram"] = 25401,
 						["Geist pilleur"] = 30256,
 						["Rampante des profondeurs"] = 9717,
-						["Apôtre du Crépuscule"] = 11732,
 						["Grouillant ahn'kahar"] = 1208,
+						["Apôtre du Crépuscule"] = 11732,
+						["Oublié"] = 23089,
 						["Guetteur ahn'kahar"] = 11184,
 						["Invocateur noir du Crépuscule"] = 11290,
 						["Ancien Nadox"] = 14342,
@@ -15919,12 +15593,19 @@ _detalhes_database = {
 						["Marcheur de peste"] = 6744,
 						["Adorateur du Crépuscule"] = 10791,
 					},
-					["on_hold"] = false,
+					["colocacao"] = 2,
 					["pets"] = {
 						"Pustule écumante <Miklów-Hyjal>", -- [1]
 						"Elémentaire de feu primordial <Miklów-Hyjal>", -- [2]
 						"Totem condensateur <Miklów-Hyjal>", -- [3]
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["aID"] = "1390-0AB69E05",
+					["raid_targets"] = {
+						[128] = 773,
+					},
+					["total_without_pet"] = 302897.07185,
 					["friendlyfire"] = {
 						["Aliyiah-Hyjal"] = {
 							["spells"] = {
@@ -15946,46 +15627,38 @@ _detalhes_database = {
 							["total"] = 329,
 						},
 					},
-					["colocacao"] = 2,
-					["aID"] = "1390-0AB69E05",
-					["raid_targets"] = {
-						[128] = 773,
-					},
-					["total_without_pet"] = 302897.07185,
-					["boss_fight_component"] = true,
-					["end_time"] = 1609728875,
+					["friendlyfire_total"] = 666,
 					["dps_started"] = false,
 					["total"] = 316959.07185,
-					["classe"] = "SHAMAN",
-					["friendlyfire_total"] = 666,
+					["serial"] = "Player-1390-0AB69E05",
+					["end_time"] = 1609728875,
 					["nome"] = "Miklów-Hyjal",
-					["spec"] = 262,
-					["grupo"] = true,
-					["last_event"] = 0,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
-							[60010] = {
+							[77505] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["c_dmg"] = 0,
 								["g_amt"] = 0,
 								["n_max"] = 0,
 								["targets"] = {
+									["Oublié"] = 0,
+									["Broyeur d'os"] = 0,
 								},
 								["n_dmg"] = 0,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 0,
+								["counter"] = 5,
 								["total"] = 0,
 								["c_max"] = 0,
-								["id"] = 60010,
+								["id"] = 77505,
 								["r_dmg"] = 0,
+								["IMMUNE"] = 5,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
 								["c_min"] = 0,
-								["successful_casted"] = 1,
+								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 0,
 								["b_dmg"] = 0,
@@ -16026,30 +15699,27 @@ _detalhes_database = {
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
-							[77505] = {
+							[60010] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["c_dmg"] = 0,
 								["g_amt"] = 0,
 								["n_max"] = 0,
 								["targets"] = {
-									["Oublié"] = 0,
-									["Broyeur d'os"] = 0,
 								},
 								["n_dmg"] = 0,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 5,
+								["counter"] = 0,
 								["total"] = 0,
 								["c_max"] = 0,
-								["id"] = 77505,
+								["id"] = 60010,
 								["r_dmg"] = 0,
-								["IMMUNE"] = 5,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
 								["c_min"] = 0,
-								["successful_casted"] = 0,
+								["successful_casted"] = 1,
 								["a_amt"] = 0,
 								["n_amt"] = 0,
 								["b_dmg"] = 0,
@@ -16068,10 +15738,10 @@ _detalhes_database = {
 									["Grouillant ahn'kahar"] = 0,
 									["Briseur ahn'kahar"] = 4931,
 									["Lanceur de sorts ahn'kahar"] = 3583,
-									["Oublié"] = 5590,
 									["Rampante des profondeurs"] = 2629,
-									["Apôtre du Crépuscule"] = 4271,
 									["Porte-givre"] = 7105,
+									["Apôtre du Crépuscule"] = 4271,
+									["Oublié"] = 5590,
 									["Guetteur ahn'kahar"] = 1945,
 									["Geist pilleur"] = 8155,
 									["Ancien Nadox"] = 280,
@@ -16155,43 +15825,46 @@ _detalhes_database = {
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
-							[77478] = {
-								["c_amt"] = 147,
+							[188389] = {
+								["c_amt"] = 38,
 								["b_amt"] = 0,
-								["c_dmg"] = 25751,
+								["c_dmg"] = 3647,
 								["g_amt"] = 0,
-								["n_max"] = 183,
+								["n_max"] = 70,
 								["targets"] = {
-									["Oeil de Taldaram"] = 13711,
-									["Lanceur de sorts ahn'kahar"] = 5239,
-									["Rampante des profondeurs"] = 3773,
-									["Porte-givre"] = 8305,
-									["Oublié"] = 3805,
-									["Apôtre du Crépuscule"] = 4036,
-									["Tisseuse ahn'kahar"] = 6206,
-									["Guetteur ahn'kahar"] = 1162,
-									["Invocateur noir du Crépuscule"] = 3570,
-									["Geist pilleur"] = 12002,
-									["Broyeur d'os"] = 3322,
-									["Briseur ahn'kahar"] = 7161,
-									["Marcheur de peste"] = 2557,
-									["Adorateur du Crépuscule"] = 5120,
+									["Héraut Volazj"] = 1443,
+									["Broyeur d'os"] = 819,
+									["Gardien ahn'kahar"] = 174,
+									["Rampante des profondeurs"] = 139,
+									["Volontaire du Crépuscule"] = 346,
+									["Briseur ahn'kahar"] = 506,
+									["Invocateur noir du Crépuscule"] = 313,
+									["Apôtre du Crépuscule"] = 211,
+									["Oublié"] = 1868,
+									["Guetteur ahn'kahar"] = 716,
+									["Prince Taldaram"] = 1527,
+									["Ancien Nadox"] = 965,
+									["Jedoga Cherchelombre"] = 1615,
+									["Tisseuse ahn'kahar"] = 60,
+									["Geist pilleur"] = 321,
+									["Adorateur du Crépuscule"] = 58,
 								},
-								["n_dmg"] = 54218,
+								["n_dmg"] = 7434,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 879,
-								["total"] = 79969,
-								["c_max"] = 456,
-								["id"] = 77478,
+								["counter"] = 245,
+								["total"] = 11081,
+								["c_max"] = 158,
+								["id"] = 188389,
 								["r_dmg"] = 0,
+								["IMMUNE"] = 11,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
-								["n_amt"] = 732,
+								["n_amt"] = 196,
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
@@ -16337,10 +16010,10 @@ _detalhes_database = {
 									["Porte-givre"] = 3094,
 									["Briseur ahn'kahar"] = 4812,
 									["Lanceur de sorts ahn'kahar"] = 2902,
-									["Oublié"] = 1241,
 									["Rampante des profondeurs"] = 3176,
-									["Apôtre du Crépuscule"] = 1092,
 									["Geist pilleur"] = 8949,
+									["Apôtre du Crépuscule"] = 1092,
+									["Oublié"] = 1241,
 									["Guetteur ahn'kahar"] = 3446,
 									["Grouillant ahn'kahar"] = 0,
 									["Ancien Nadox"] = 0,
@@ -16436,49 +16109,6 @@ _detalhes_database = {
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
-							[188389] = {
-								["c_amt"] = 38,
-								["b_amt"] = 0,
-								["c_dmg"] = 3647,
-								["g_amt"] = 0,
-								["n_max"] = 70,
-								["targets"] = {
-									["Héraut Volazj"] = 1443,
-									["Broyeur d'os"] = 819,
-									["Gardien ahn'kahar"] = 174,
-									["Oublié"] = 1868,
-									["Volontaire du Crépuscule"] = 346,
-									["Rampante des profondeurs"] = 139,
-									["Briseur ahn'kahar"] = 506,
-									["Apôtre du Crépuscule"] = 211,
-									["Invocateur noir du Crépuscule"] = 313,
-									["Guetteur ahn'kahar"] = 716,
-									["Prince Taldaram"] = 1527,
-									["Ancien Nadox"] = 965,
-									["Jedoga Cherchelombre"] = 1615,
-									["Tisseuse ahn'kahar"] = 60,
-									["Geist pilleur"] = 321,
-									["Adorateur du Crépuscule"] = 58,
-								},
-								["n_dmg"] = 7434,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 245,
-								["total"] = 11081,
-								["c_max"] = 158,
-								["id"] = 188389,
-								["r_dmg"] = 0,
-								["IMMUNE"] = 11,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["a_amt"] = 0,
-								["n_amt"] = 196,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
-							},
 							[345319] = {
 								["c_amt"] = 5,
 								["b_amt"] = 0,
@@ -16511,9 +16141,53 @@ _detalhes_database = {
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
+							[77478] = {
+								["c_amt"] = 147,
+								["b_amt"] = 0,
+								["c_dmg"] = 25751,
+								["g_amt"] = 0,
+								["n_max"] = 183,
+								["targets"] = {
+									["Oeil de Taldaram"] = 13711,
+									["Lanceur de sorts ahn'kahar"] = 5239,
+									["Rampante des profondeurs"] = 3773,
+									["Porte-givre"] = 8305,
+									["Oublié"] = 3805,
+									["Apôtre du Crépuscule"] = 4036,
+									["Invocateur noir du Crépuscule"] = 3570,
+									["Guetteur ahn'kahar"] = 1162,
+									["Briseur ahn'kahar"] = 7161,
+									["Geist pilleur"] = 12002,
+									["Broyeur d'os"] = 3322,
+									["Tisseuse ahn'kahar"] = 6206,
+									["Marcheur de peste"] = 2557,
+									["Adorateur du Crépuscule"] = 5120,
+								},
+								["n_dmg"] = 54218,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 879,
+								["total"] = 79969,
+								["c_max"] = 456,
+								["id"] = 77478,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 732,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
 						},
+						["tipo"] = 2,
 					},
-					["serial"] = "Player-1390-0AB69E05",
+					["grupo"] = true,
+					["classe"] = "SHAMAN",
+					["last_event"] = 0,
+					["spec"] = 262,
 					["custom"] = 0,
 					["tipo"] = 1,
 					["damage_taken"] = 21426.07185,
@@ -16542,17 +16216,17 @@ _detalhes_database = {
 						["Porte-givre"] = true,
 						["Miklów-Hyjal"] = true,
 						["Briseur ahn'kahar"] = true,
-						["Skwooma-KhazModan"] = true,
-						["Héraut Volazj"] = true,
 						["Tourdemagyps-KhazModan"] = true,
+						["Héraut Volazj"] = true,
+						["Skwooma-KhazModan"] = true,
 						["Lanceur de sorts ahn'kahar"] = true,
 						["Kotlin"] = true,
-						["Oublié"] = true,
 						["Prince Taldaram"] = true,
 						["Geist pilleur"] = true,
 						["Rampante des profondeurs"] = true,
-						["Apôtre du Crépuscule"] = true,
 						["Grouillant ahn'kahar"] = true,
+						["Apôtre du Crépuscule"] = true,
+						["Oublié"] = true,
 						["Guetteur ahn'kahar"] = true,
 						["Invocateur noir du Crépuscule"] = true,
 						["Ancien Nadox"] = true,
@@ -16568,17 +16242,17 @@ _detalhes_database = {
 						["Porte-givre"] = 20801,
 						["Briseur ahn'kahar"] = 19347,
 						["Héraut Volazj"] = 8199,
-						["Oublié"] = 26820,
-						["Lanceur de sorts ahn'kahar"] = 16580,
 						["Volontaire du Crépuscule"] = 3060,
-						["Blatte"] = 56,
+						["Lanceur de sorts ahn'kahar"] = 16580,
 						["Invocateur noir du Crépuscule"] = 11544,
 						["Geist pilleur"] = 33683,
 						["Rampante des profondeurs"] = 8070,
-						["Apôtre du Crépuscule"] = 10253,
-						["Grouillant ahn'kahar"] = 1149,
-						["Guetteur ahn'kahar"] = 8341,
 						["Prince Taldaram"] = 4890,
+						["Grouillant ahn'kahar"] = 1149,
+						["Apôtre du Crépuscule"] = 10253,
+						["Oublié"] = 26820,
+						["Guetteur ahn'kahar"] = 8341,
+						["Blatte"] = 56,
 						["Ancien Nadox"] = 6879,
 						["Jedoga Cherchelombre"] = 9549,
 						["Tisseuse ahn'kahar"] = 13322,
@@ -16589,7 +16263,7 @@ _detalhes_database = {
 					["raid_targets"] = {
 						[128] = 213,
 					},
-					["boss_fight_component"] = true,
+					["aID"] = "1390-088AC4B8",
 					["fight_component"] = true,
 					["end_time"] = 1609728875,
 					["friendlyfire"] = {
@@ -16621,10 +16295,9 @@ _detalhes_database = {
 							["total"] = 44,
 						},
 					},
-					["last_event"] = 0,
-					["nome"] = "Aliyiah-Hyjal",
+					["last_dps"] = 548.0824700060832,
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 86,
@@ -16641,13 +16314,13 @@ _detalhes_database = {
 									["Héraut Volazj"] = 1338,
 									["Tourdemagyps-KhazModan"] = 0,
 									["Lanceur de sorts ahn'kahar"] = 1580,
-									["Oublié"] = 3000,
 									["Volontaire du Crépuscule"] = 845,
 									["Prince Taldaram"] = 753,
 									["Geist pilleur"] = 1407,
 									["Rampante des profondeurs"] = 882,
-									["Apôtre du Crépuscule"] = 785,
 									["Grouillant ahn'kahar"] = 86,
+									["Apôtre du Crépuscule"] = 785,
+									["Oublié"] = 3000,
 									["Guetteur ahn'kahar"] = 446,
 									["Invocateur noir du Crépuscule"] = 1212,
 									["Ancien Nadox"] = 1306,
@@ -16690,12 +16363,12 @@ _detalhes_database = {
 									["Briseur ahn'kahar"] = 1454,
 									["Héraut Volazj"] = 334,
 									["Lanceur de sorts ahn'kahar"] = 1200,
-									["Oublié"] = 1794,
 									["Prince Taldaram"] = 331,
 									["Geist pilleur"] = 4519,
 									["Rampante des profondeurs"] = 439,
-									["Apôtre du Crépuscule"] = 681,
 									["Grouillant ahn'kahar"] = 212,
+									["Apôtre du Crépuscule"] = 681,
+									["Oublié"] = 1794,
 									["Guetteur ahn'kahar"] = 648,
 									["Invocateur noir du Crépuscule"] = 682,
 									["Ancien Nadox"] = 116,
@@ -16767,13 +16440,13 @@ _detalhes_database = {
 									["Briseur ahn'kahar"] = 4706,
 									["Héraut Volazj"] = 1022,
 									["Lanceur de sorts ahn'kahar"] = 2932,
-									["Oublié"] = 5369,
 									["Volontaire du Crépuscule"] = 1153,
 									["Prince Taldaram"] = 735,
 									["Geist pilleur"] = 4988,
 									["Rampante des profondeurs"] = 1477,
-									["Apôtre du Crépuscule"] = 2687,
 									["Grouillant ahn'kahar"] = 153,
+									["Apôtre du Crépuscule"] = 2687,
+									["Oublié"] = 5369,
 									["Guetteur ahn'kahar"] = 866,
 									["Invocateur noir du Crépuscule"] = 2565,
 									["Ancien Nadox"] = 1314,
@@ -16815,10 +16488,10 @@ _detalhes_database = {
 									["Briseur ahn'kahar"] = 4732,
 									["Héraut Volazj"] = 1002,
 									["Lanceur de sorts ahn'kahar"] = 4754,
-									["Oublié"] = 6041,
 									["Rampante des profondeurs"] = 2003,
-									["Apôtre du Crépuscule"] = 2040,
 									["Broyeur d'os"] = 1845,
+									["Apôtre du Crépuscule"] = 2040,
+									["Oublié"] = 6041,
 									["Guetteur ahn'kahar"] = 3020,
 									["Invocateur noir du Crépuscule"] = 2037,
 									["Ancien Nadox"] = 1050,
@@ -16902,13 +16575,13 @@ _detalhes_database = {
 									["Briseur ahn'kahar"] = 380,
 									["Héraut Volazj"] = 1478,
 									["Lanceur de sorts ahn'kahar"] = 925,
-									["Oublié"] = 2650,
 									["Volontaire du Crépuscule"] = 822,
 									["Prince Taldaram"] = 743,
 									["Geist pilleur"] = 980,
 									["Rampante des profondeurs"] = 780,
-									["Apôtre du Crépuscule"] = 375,
 									["Porte-givre"] = 1221,
+									["Apôtre du Crépuscule"] = 375,
+									["Oublié"] = 2650,
 									["Guetteur ahn'kahar"] = 596,
 									["Invocateur noir du Crépuscule"] = 1223,
 									["Ancien Nadox"] = 1120,
@@ -16949,12 +16622,12 @@ _detalhes_database = {
 									["Briseur ahn'kahar"] = 786,
 									["Héraut Volazj"] = 233,
 									["Lanceur de sorts ahn'kahar"] = 694,
-									["Oublié"] = 1009,
 									["Volontaire du Crépuscule"] = 75,
 									["Invocateur noir du Crépuscule"] = 389,
 									["Rampante des profondeurs"] = 155,
-									["Apôtre du Crépuscule"] = 462,
 									["Prince Taldaram"] = 154,
+									["Apôtre du Crépuscule"] = 462,
+									["Oublié"] = 1009,
 									["Guetteur ahn'kahar"] = 152,
 									["Grouillant ahn'kahar"] = 295,
 									["Ancien Nadox"] = 156,
@@ -17013,50 +16686,6 @@ _detalhes_database = {
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
-							[339894] = {
-								["c_amt"] = 11,
-								["b_amt"] = 0,
-								["c_dmg"] = 5960,
-								["g_amt"] = 0,
-								["n_max"] = 292,
-								["targets"] = {
-									["Oeil de Taldaram"] = 1685,
-									["Prince Taldaram"] = 275,
-									["Geist pilleur"] = 1239,
-									["Porte-givre"] = 1118,
-									["Briseur ahn'kahar"] = 1330,
-									["Héraut Volazj"] = 553,
-									["Lanceur de sorts ahn'kahar"] = 1345,
-									["Oublié"] = 1123,
-									["Rampante des profondeurs"] = 832,
-									["Apôtre du Crépuscule"] = 559,
-									["Broyeur d'os"] = 528,
-									["Guetteur ahn'kahar"] = 818,
-									["Invocateur noir du Crépuscule"] = 557,
-									["Ancien Nadox"] = 284,
-									["Jedoga Cherchelombre"] = 567,
-									["Tisseuse ahn'kahar"] = 1287,
-									["Marcheur de peste"] = 518,
-									["Adorateur du Crépuscule"] = 1126,
-								},
-								["n_dmg"] = 9784,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 47,
-								["total"] = 15744,
-								["c_max"] = 572,
-								["id"] = 339894,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["a_amt"] = 0,
-								["n_amt"] = 36,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
-							},
 							[204157] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
@@ -17085,6 +16714,50 @@ _detalhes_database = {
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
+							[339894] = {
+								["c_amt"] = 11,
+								["b_amt"] = 0,
+								["c_dmg"] = 5960,
+								["g_amt"] = 0,
+								["n_max"] = 292,
+								["targets"] = {
+									["Oeil de Taldaram"] = 1685,
+									["Prince Taldaram"] = 275,
+									["Geist pilleur"] = 1239,
+									["Porte-givre"] = 1118,
+									["Briseur ahn'kahar"] = 1330,
+									["Héraut Volazj"] = 553,
+									["Lanceur de sorts ahn'kahar"] = 1345,
+									["Rampante des profondeurs"] = 832,
+									["Broyeur d'os"] = 528,
+									["Apôtre du Crépuscule"] = 559,
+									["Oublié"] = 1123,
+									["Guetteur ahn'kahar"] = 818,
+									["Invocateur noir du Crépuscule"] = 557,
+									["Ancien Nadox"] = 284,
+									["Jedoga Cherchelombre"] = 567,
+									["Tisseuse ahn'kahar"] = 1287,
+									["Marcheur de peste"] = 518,
+									["Adorateur du Crépuscule"] = 1126,
+								},
+								["n_dmg"] = 9784,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 47,
+								["total"] = 15744,
+								["c_max"] = 572,
+								["id"] = 339894,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 36,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
 							[320334] = {
 								["c_amt"] = 35,
 								["b_amt"] = 0,
@@ -17099,11 +16772,11 @@ _detalhes_database = {
 									["Briseur ahn'kahar"] = 285,
 									["Héraut Volazj"] = 69,
 									["Lanceur de sorts ahn'kahar"] = 42,
-									["Oublié"] = 305,
 									["Prince Taldaram"] = 53,
 									["Rampante des profondeurs"] = 53,
-									["Apôtre du Crépuscule"] = 113,
 									["Invocateur noir du Crépuscule"] = 114,
+									["Apôtre du Crépuscule"] = 113,
+									["Oublié"] = 305,
 									["Guetteur ahn'kahar"] = 56,
 									["Grouillant ahn'kahar"] = 43,
 									["Ancien Nadox"] = 56,
@@ -17145,15 +16818,15 @@ _detalhes_database = {
 									["Briseur ahn'kahar"] = 1668,
 									["Héraut Volazj"] = 420,
 									["Lanceur de sorts ahn'kahar"] = 1008,
-									["Oublié"] = 2470,
 									["Volontaire du Crépuscule"] = 165,
 									["Prince Taldaram"] = 254,
-									["Blatte"] = 56,
 									["Rampante des profondeurs"] = 406,
-									["Apôtre du Crépuscule"] = 990,
 									["Grouillant ahn'kahar"] = 115,
-									["Guetteur ahn'kahar"] = 502,
 									["Invocateur noir du Crépuscule"] = 937,
+									["Apôtre du Crépuscule"] = 990,
+									["Blatte"] = 56,
+									["Oublié"] = 2470,
+									["Guetteur ahn'kahar"] = 502,
 									["Ancien Nadox"] = 407,
 									["Jedoga Cherchelombre"] = 490,
 									["Tisseuse ahn'kahar"] = 882,
@@ -17264,12 +16937,12 @@ _detalhes_database = {
 									["Briseur ahn'kahar"] = 1450,
 									["Héraut Volazj"] = 385,
 									["Lanceur de sorts ahn'kahar"] = 1300,
-									["Oublié"] = 1891,
 									["Prince Taldaram"] = 143,
 									["Geist pilleur"] = 4551,
 									["Rampante des profondeurs"] = 530,
-									["Apôtre du Crépuscule"] = 691,
 									["Grouillant ahn'kahar"] = 68,
+									["Apôtre du Crépuscule"] = 691,
+									["Oublié"] = 1891,
 									["Guetteur ahn'kahar"] = 563,
 									["Invocateur noir du Crépuscule"] = 662,
 									["Ancien Nadox"] = 457,
@@ -17298,8 +16971,13 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
 					["grupo"] = true,
+					["damage_taken"] = 210382.076104,
+					["last_event"] = 0,
+					["custom"] = 0,
+					["tipo"] = 1,
 					["avoidance"] = {
 						["overall"] = {
 							["DODGE"] = 0,
@@ -17318,13 +16996,9 @@ _detalhes_database = {
 							["FULL_HIT_AMT"] = 0,
 						},
 					},
-					["aID"] = "1390-088AC4B8",
-					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 210382.076104,
 					["start_time"] = 1609728330,
 					["delay"] = 0,
-					["last_dps"] = 548.0824700060832,
+					["nome"] = "Aliyiah-Hyjal",
 				}, -- [3]
 				{
 					["flag_original"] = 1298,
@@ -17336,9 +17010,9 @@ _detalhes_database = {
 						["Porte-givre"] = true,
 						["Héraut Volazj"] = true,
 						["Apôtre du Crépuscule"] = true,
-						["Tisseuse ahn'kahar"] = true,
-						["Oublié"] = true,
 						["Kotlin"] = true,
+						["Oublié"] = true,
+						["Tisseuse ahn'kahar"] = true,
 						["Aliyiah-Hyjal"] = true,
 						["Lanceur de sorts ahn'kahar"] = true,
 						["Invocateur noir du Crépuscule"] = true,
@@ -17354,13 +17028,13 @@ _detalhes_database = {
 						["Briseur ahn'kahar"] = 15169,
 						["Héraut Volazj"] = 11772,
 						["Lanceur de sorts ahn'kahar"] = 8280,
-						["Oublié"] = 15955,
 						["Volontaire du Crépuscule"] = 2668,
 						["Prince Taldaram"] = 18056,
 						["Geist pilleur"] = 7774,
 						["Rampante des profondeurs"] = 4291,
-						["Apôtre du Crépuscule"] = 4738,
 						["Invocateur noir du Crépuscule"] = 8917,
+						["Apôtre du Crépuscule"] = 4738,
+						["Oublié"] = 15955,
 						["Guetteur ahn'kahar"] = 4317,
 						["Grouillant ahn'kahar"] = 895,
 						["Ancien Nadox"] = 9149,
@@ -17369,10 +17043,17 @@ _detalhes_database = {
 						["Marcheur de peste"] = 5528,
 						["Adorateur du Crépuscule"] = 5712,
 					},
-					["on_hold"] = false,
+					["colocacao"] = 4,
 					["pets"] = {
 						"Tourdemagyps-KhazModan <Tourdemagyps-KhazModan>", -- [1]
 					},
+					["on_hold"] = false,
+					["boss_fight_component"] = true,
+					["classe"] = "MAGE",
+					["raid_targets"] = {
+						[128] = 64,
+					},
+					["total_without_pet"] = 178859.080539,
 					["friendlyfire"] = {
 						["Aliyiah-Hyjal"] = {
 							["spells"] = {
@@ -17393,24 +17074,13 @@ _detalhes_database = {
 							["total"] = 243,
 						},
 					},
-					["boss_fight_component"] = true,
-					["classe"] = "MAGE",
-					["raid_targets"] = {
-						[128] = 64,
-					},
-					["total_without_pet"] = 178859.080539,
-					["colocacao"] = 4,
-					["end_time"] = 1609728875,
+					["aID"] = "3690-09B08781",
 					["dps_started"] = false,
 					["total"] = 179433.080539,
-					["friendlyfire_total"] = 335,
-					["aID"] = "3690-09B08781",
+					["serial"] = "Player-3690-09B08781",
+					["end_time"] = 1609728875,
 					["nome"] = "Tourdemagyps-KhazModan",
-					["spec"] = 63,
-					["grupo"] = true,
-					["last_event"] = 0,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[1449] = {
 								["c_amt"] = 5,
@@ -17519,13 +17189,13 @@ _detalhes_database = {
 									["Briseur ahn'kahar"] = 1680,
 									["Héraut Volazj"] = 2091,
 									["Lanceur de sorts ahn'kahar"] = 1106,
-									["Oublié"] = 1788,
 									["Volontaire du Crépuscule"] = 222,
 									["Prince Taldaram"] = 2140,
 									["Geist pilleur"] = 1545,
 									["Rampante des profondeurs"] = 465,
-									["Apôtre du Crépuscule"] = 985,
 									["Porte-givre"] = 1020,
+									["Apôtre du Crépuscule"] = 985,
+									["Oublié"] = 1788,
 									["Guetteur ahn'kahar"] = 406,
 									["Invocateur noir du Crépuscule"] = 972,
 									["Ancien Nadox"] = 630,
@@ -17619,17 +17289,17 @@ _detalhes_database = {
 									["Oeil de Taldaram"] = 3426,
 									["Lanceur de sorts ahn'kahar"] = 3328,
 									["Rampante des profondeurs"] = 1606,
-									["Oublié"] = 2130,
-									["Grouillant ahn'kahar"] = 890,
-									["Invocateur noir du Crépuscule"] = 1564,
-									["Tisseuse ahn'kahar"] = 2975,
-									["Apôtre du Crépuscule"] = 1756,
 									["Geist pilleur"] = 2425,
+									["Grouillant ahn'kahar"] = 890,
+									["Tisseuse ahn'kahar"] = 2975,
+									["Briseur ahn'kahar"] = 4373,
+									["Apôtre du Crépuscule"] = 1756,
+									["Oublié"] = 2130,
 									["Guetteur ahn'kahar"] = 1632,
 									["Broyeur d'os"] = 371,
 									["Ancien Nadox"] = 178,
 									["Porte-givre"] = 2927,
-									["Briseur ahn'kahar"] = 4373,
+									["Invocateur noir du Crépuscule"] = 1564,
 									["Marcheur de peste"] = 1560,
 									["Adorateur du Crépuscule"] = 2123,
 								},
@@ -17661,10 +17331,10 @@ _detalhes_database = {
 									["Lanceur de sorts ahn'kahar"] = 109,
 									["Rampante des profondeurs"] = 108,
 									["Oublié"] = 185,
-									["Broyeur d'os"] = 102,
 									["Tisseuse ahn'kahar"] = 172,
-									["Marcheur de peste"] = 92,
 									["Briseur ahn'kahar"] = 134,
+									["Marcheur de peste"] = 92,
+									["Broyeur d'os"] = 102,
 								},
 								["n_dmg"] = 195,
 								["n_min"] = 0,
@@ -17718,14 +17388,14 @@ _detalhes_database = {
 								["g_amt"] = 0,
 								["n_max"] = 51,
 								["targets"] = {
+									["Guetteur ahn'kahar"] = 17,
 									["Oublié"] = 544,
-									["Lanceur de sorts ahn'kahar"] = 781,
 									["Rampante des profondeurs"] = 288,
 									["Broyeur d'os"] = 40,
 									["Tisseuse ahn'kahar"] = 767,
 									["Briseur ahn'kahar"] = 1150,
 									["Marcheur de peste"] = 452,
-									["Guetteur ahn'kahar"] = 17,
+									["Lanceur de sorts ahn'kahar"] = 781,
 								},
 								["n_dmg"] = 942,
 								["n_min"] = 0,
@@ -17878,10 +17548,10 @@ _detalhes_database = {
 									["Briseur ahn'kahar"] = 2187,
 									["Héraut Volazj"] = 2370,
 									["Lanceur de sorts ahn'kahar"] = 762,
-									["Oublié"] = 914,
 									["Rampante des profondeurs"] = 1261,
-									["Apôtre du Crépuscule"] = 933,
 									["Broyeur d'os"] = 731,
+									["Apôtre du Crépuscule"] = 933,
+									["Oublié"] = 914,
 									["Guetteur ahn'kahar"] = 341,
 									["Invocateur noir du Crépuscule"] = 1554,
 									["Ancien Nadox"] = 476,
@@ -17920,10 +17590,10 @@ _detalhes_database = {
 									["Rampante des profondeurs"] = 455,
 									["Lanceur de sorts ahn'kahar"] = 547,
 									["Porte-givre"] = 241,
-									["Oublié"] = 1718,
-									["Volontaire du Crépuscule"] = 249,
 									["Geist pilleur"] = 240,
+									["Volontaire du Crépuscule"] = 249,
 									["Invocateur noir du Crépuscule"] = 736,
+									["Oublié"] = 1718,
 									["Guetteur ahn'kahar"] = 227,
 									["Prince Taldaram"] = 1014,
 									["Ancien Nadox"] = 772,
@@ -17965,8 +17635,8 @@ _detalhes_database = {
 									["Héraut Volazj"] = 882,
 									["Lanceur de sorts ahn'kahar"] = 581,
 									["Gardien ahn'kahar"] = 582,
-									["Oublié"] = 3550,
 									["Volontaire du Crépuscule"] = 882,
+									["Oublié"] = 3550,
 									["Guetteur ahn'kahar"] = 1632,
 									["Broyeur d'os"] = 2549,
 									["Ancien Nadox"] = 2702,
@@ -18071,8 +17741,8 @@ _detalhes_database = {
 								["targets"] = {
 									["Oublié"] = 1646,
 									["Broyeur d'os"] = 427,
-									["Volontaire du Crépuscule"] = 410,
 									["Prince Taldaram"] = 786,
+									["Volontaire du Crépuscule"] = 410,
 									["Invocateur noir du Crépuscule"] = 209,
 									["Briseur ahn'kahar"] = 721,
 									["Marcheur de peste"] = 574,
@@ -18097,8 +17767,12 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["serial"] = "Player-3690-09B08781",
+					["grupo"] = true,
+					["friendlyfire_total"] = 335,
+					["last_event"] = 0,
+					["spec"] = 63,
 					["custom"] = 0,
 					["tipo"] = 1,
 					["damage_taken"] = 24637.080539,
@@ -18109,8 +17783,114 @@ _detalhes_database = {
 				{
 					["flag_original"] = 1298,
 					["totalabsorbed"] = 0.07797699999999999,
+					["aID"] = "3690-088A97C1",
+					["damage_from"] = {
+						["Oeil de Taldaram"] = true,
+						["Prince Taldaram"] = true,
+						["Rampante des profondeurs"] = true,
+						["Porte-givre"] = true,
+						["Miklów-Hyjal"] = true,
+						["Briseur ahn'kahar"] = true,
+						["[*] Frisson"] = true,
+						["Lanceur de sorts ahn'kahar"] = true,
+						["Kotlin"] = true,
+						["Aliyiah-Hyjal"] = true,
+						["Héraut Volazj"] = true,
+						["Tourdemagyps-KhazModan"] = true,
+						["Apôtre du Crépuscule"] = true,
+						["Broyeur d'os"] = true,
+						["Oublié"] = true,
+						["Invocateur noir du Crépuscule"] = true,
+						["Ancien Nadox"] = true,
+						["Jedoga Cherchelombre"] = true,
+						["Grouillant ahn'kahar"] = true,
+						["Skwooma-KhazModan"] = true,
+						["Adorateur du Crépuscule"] = true,
+					},
+					["targets"] = {
+						["Oeil de Taldaram"] = 7154,
+						["Broyeur d'os"] = 3291,
+						["Gardien ahn'kahar"] = 2545,
+						["Porte-givre"] = 8909,
+						["Briseur ahn'kahar"] = 5540,
+						["Héraut Volazj"] = 11865,
+						["Volontaire du Crépuscule"] = 4093,
+						["Lanceur de sorts ahn'kahar"] = 4594,
+						["Prince Taldaram"] = 11303,
+						["Geist pilleur"] = 3588,
+						["Invocateur noir du Crépuscule"] = 4184,
+						["Rampante des profondeurs"] = 2102,
+						["Grouillant ahn'kahar"] = 104,
+						["Apôtre du Crépuscule"] = 4568,
+						["Oublié"] = 2878,
+						["Guetteur ahn'kahar"] = 3298,
+						["Blatte"] = 124,
+						["Ancien Nadox"] = 10975,
+						["Jedoga Cherchelombre"] = 9833,
+						["Tisseuse ahn'kahar"] = 2498,
+						["Marcheur de peste"] = 1303,
+						["Adorateur du Crépuscule"] = 4941,
+					},
+					["last_event"] = 0,
+					["pets"] = {
+					},
+					["damage_taken"] = 42135.07797699999,
+					["last_dps"] = 213.6063402571612,
+					["classe"] = "PALADIN",
+					["raid_targets"] = {
+						[128] = 992,
+					},
+					["total_without_pet"] = 109690.077977,
+					["serial"] = "Player-3690-088A97C1",
+					["friendlyfire_total"] = 2986,
+					["fight_component"] = true,
+					["end_time"] = 1609728875,
+					["total"] = 109690.077977,
+					["dps_started"] = false,
+					["nome"] = "Skwooma-KhazModan",
+					["spec"] = 65,
+					["grupo"] = true,
+					["friendlyfire"] = {
+						["Tourdemagyps-KhazModan"] = {
+							["spells"] = {
+								454, -- [1]
+								[81297] = 257,
+								[35395] = 190,
+								[24275] = 824,
+							},
+							["total"] = 1725,
+						},
+						["Kotlin"] = {
+							["spells"] = {
+								100, -- [1]
+								[81297] = 220,
+								[57770] = 89,
+							},
+							["total"] = 409,
+						},
+						["Aliyiah-Hyjal"] = {
+							["spells"] = {
+								96, -- [1]
+								[81297] = 220,
+								[57770] = 27,
+							},
+							["total"] = 343,
+						},
+						["Skwooma-KhazModan"] = {
+							["spells"] = {
+								[196917] = 287,
+							},
+							["total"] = 287,
+						},
+						["Miklów-Hyjal"] = {
+							["spells"] = {
+								[81297] = 222,
+							},
+							["total"] = 222,
+						},
+					},
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 24,
@@ -18127,12 +17907,12 @@ _detalhes_database = {
 									["Héraut Volazj"] = 1406,
 									["Lanceur de sorts ahn'kahar"] = 432,
 									["Volontaire du Crépuscule"] = 623,
-									["Oublié"] = 545,
-									["Aliyiah-Hyjal"] = 0,
 									["Briseur ahn'kahar"] = 338,
+									["Aliyiah-Hyjal"] = 0,
 									["Rampante des profondeurs"] = 85,
-									["Apôtre du Crépuscule"] = 366,
 									["Prince Taldaram"] = 1394,
+									["Apôtre du Crépuscule"] = 366,
+									["Oublié"] = 545,
 									["Guetteur ahn'kahar"] = 256,
 									["Grouillant ahn'kahar"] = 0,
 									["Ancien Nadox"] = 1285,
@@ -18172,15 +17952,15 @@ _detalhes_database = {
 									["Lanceur de sorts ahn'kahar"] = 2153,
 									["Rampante des profondeurs"] = 946,
 									["Grouillant ahn'kahar"] = 104,
-									["Invocateur noir du Crépuscule"] = 1287,
+									["Porte-givre"] = 2601,
 									["Tisseuse ahn'kahar"] = 1116,
 									["Apôtre du Crépuscule"] = 1132,
-									["Porte-givre"] = 2601,
+									["Briseur ahn'kahar"] = 2590,
 									["Guetteur ahn'kahar"] = 676,
 									["Geist pilleur"] = 534,
 									["Ancien Nadox"] = 744,
 									["Broyeur d'os"] = 881,
-									["Briseur ahn'kahar"] = 2590,
+									["Invocateur noir du Crépuscule"] = 1287,
 									["Marcheur de peste"] = 824,
 									["Adorateur du Crépuscule"] = 940,
 								},
@@ -18199,6 +17979,39 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 439,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[114852] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 996,
+								["g_amt"] = 0,
+								["n_max"] = 285,
+								["targets"] = {
+									["Prince Taldaram"] = 285,
+									["Lanceur de sorts ahn'kahar"] = 205,
+									["Ancien Nadox"] = 471,
+									["Jedoga Cherchelombre"] = 773,
+									["Invocateur noir du Crépuscule"] = 439,
+									["Oublié"] = 215,
+									["Héraut Volazj"] = 268,
+								},
+								["n_dmg"] = 1660,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 9,
+								["total"] = 2656,
+								["c_max"] = 557,
+								["id"] = 114852,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 7,
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
@@ -18228,32 +18041,6 @@ _detalhes_database = {
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
-							[57770] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-								},
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 57770,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 3,
-								["a_amt"] = 0,
-								["n_amt"] = 0,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
-							},
 							[114871] = {
 								["c_amt"] = 10,
 								["b_amt"] = 0,
@@ -18265,15 +18052,15 @@ _detalhes_database = {
 									["Lanceur de sorts ahn'kahar"] = 239,
 									["Rampante des profondeurs"] = 122,
 									["Porte-givre"] = 504,
-									["Oublié"] = 521,
-									["Tisseuse ahn'kahar"] = 124,
-									["Apôtre du Crépuscule"] = 259,
 									["Invocateur noir du Crépuscule"] = 132,
+									["Oublié"] = 521,
+									["Apôtre du Crépuscule"] = 259,
+									["Briseur ahn'kahar"] = 491,
 									["Guetteur ahn'kahar"] = 254,
 									["Blatte"] = 124,
 									["Geist pilleur"] = 1346,
 									["Broyeur d'os"] = 369,
-									["Briseur ahn'kahar"] = 491,
+									["Tisseuse ahn'kahar"] = 124,
 									["Marcheur de peste"] = 122,
 									["Adorateur du Crépuscule"] = 126,
 								},
@@ -18373,9 +18160,9 @@ _detalhes_database = {
 									["Héraut Volazj"] = 778,
 									["Lanceur de sorts ahn'kahar"] = 284,
 									["Geist pilleur"] = 140,
-									["Volontaire du Crépuscule"] = 497,
-									["Grouillant ahn'kahar"] = 0,
 									["Broyeur d'os"] = 430,
+									["Grouillant ahn'kahar"] = 0,
+									["Volontaire du Crépuscule"] = 497,
 									["Tisseuse ahn'kahar"] = 145,
 									["Apôtre du Crépuscule"] = 300,
 									["Invocateur noir du Crépuscule"] = 202,
@@ -18434,67 +18221,6 @@ _detalhes_database = {
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
-							[114852] = {
-								["c_amt"] = 2,
-								["b_amt"] = 0,
-								["c_dmg"] = 996,
-								["g_amt"] = 0,
-								["n_max"] = 285,
-								["targets"] = {
-									["Prince Taldaram"] = 285,
-									["Lanceur de sorts ahn'kahar"] = 205,
-									["Ancien Nadox"] = 471,
-									["Jedoga Cherchelombre"] = 773,
-									["Invocateur noir du Crépuscule"] = 439,
-									["Oublié"] = 215,
-									["Héraut Volazj"] = 268,
-								},
-								["n_dmg"] = 1660,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 9,
-								["total"] = 2656,
-								["c_max"] = 557,
-								["id"] = 114852,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["a_amt"] = 0,
-								["n_amt"] = 7,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
-							},
-							[853] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["Volontaire du Crépuscule"] = 0,
-								},
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 1,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 853,
-								["r_dmg"] = 0,
-								["IMMUNE"] = 1,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["a_amt"] = 0,
-								["n_amt"] = 0,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
-							},
 							[53600] = {
 								["c_amt"] = 20,
 								["b_amt"] = 0,
@@ -18539,6 +18265,34 @@ _detalhes_database = {
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
+							[853] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Volontaire du Crépuscule"] = 0,
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 853,
+								["r_dmg"] = 0,
+								["IMMUNE"] = 1,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
 							[275773] = {
 								["c_amt"] = 8,
 								["b_amt"] = 0,
@@ -18553,11 +18307,11 @@ _detalhes_database = {
 									["Invocateur noir du Crépuscule"] = 494,
 									["Héraut Volazj"] = 3580,
 									["Lanceur de sorts ahn'kahar"] = 456,
-									["Oublié"] = 962,
 									["Volontaire du Crépuscule"] = 1256,
 									["Gardien ahn'kahar"] = 611,
-									["Apôtre du Crépuscule"] = 943,
 									["Geist pilleur"] = 460,
+									["Apôtre du Crépuscule"] = 943,
+									["Oublié"] = 962,
 									["Guetteur ahn'kahar"] = 464,
 									["Briseur ahn'kahar"] = 456,
 									["Ancien Nadox"] = 1653,
@@ -18581,6 +18335,32 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["a_amt"] = 0,
 								["n_amt"] = 19,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[57770] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 57770,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 3,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
@@ -18628,8 +18408,8 @@ _detalhes_database = {
 									["Geist pilleur"] = 422,
 									["Héraut Volazj"] = 2728,
 									["Porte-givre"] = 872,
-									["Volontaire du Crépuscule"] = 960,
 									["Prince Taldaram"] = 2171,
+									["Volontaire du Crépuscule"] = 960,
 									["Apôtre du Crépuscule"] = 718,
 									["Briseur ahn'kahar"] = 420,
 									["Guetteur ahn'kahar"] = 484,
@@ -18697,120 +18477,14 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["damage_from"] = {
-						["Oeil de Taldaram"] = true,
-						["Prince Taldaram"] = true,
-						["Rampante des profondeurs"] = true,
-						["Porte-givre"] = true,
-						["Miklów-Hyjal"] = true,
-						["Briseur ahn'kahar"] = true,
-						["[*] Frisson"] = true,
-						["Lanceur de sorts ahn'kahar"] = true,
-						["Kotlin"] = true,
-						["Aliyiah-Hyjal"] = true,
-						["Héraut Volazj"] = true,
-						["Tourdemagyps-KhazModan"] = true,
-						["Apôtre du Crépuscule"] = true,
-						["Broyeur d'os"] = true,
-						["Oublié"] = true,
-						["Invocateur noir du Crépuscule"] = true,
-						["Ancien Nadox"] = true,
-						["Jedoga Cherchelombre"] = true,
-						["Grouillant ahn'kahar"] = true,
-						["Skwooma-KhazModan"] = true,
-						["Adorateur du Crépuscule"] = true,
-					},
-					["targets"] = {
-						["Oeil de Taldaram"] = 7154,
-						["Broyeur d'os"] = 3291,
-						["Gardien ahn'kahar"] = 2545,
-						["Porte-givre"] = 8909,
-						["Briseur ahn'kahar"] = 5540,
-						["Héraut Volazj"] = 11865,
-						["Oublié"] = 2878,
-						["Lanceur de sorts ahn'kahar"] = 4594,
-						["Volontaire du Crépuscule"] = 4093,
-						["Prince Taldaram"] = 11303,
-						["Geist pilleur"] = 3588,
-						["Invocateur noir du Crépuscule"] = 4184,
-						["Rampante des profondeurs"] = 2102,
-						["Apôtre du Crépuscule"] = 4568,
-						["Grouillant ahn'kahar"] = 104,
-						["Guetteur ahn'kahar"] = 3298,
-						["Blatte"] = 124,
-						["Ancien Nadox"] = 10975,
-						["Jedoga Cherchelombre"] = 9833,
-						["Tisseuse ahn'kahar"] = 2498,
-						["Marcheur de peste"] = 1303,
-						["Adorateur du Crépuscule"] = 4941,
-					},
-					["friendlyfire"] = {
-						["Tourdemagyps-KhazModan"] = {
-							["spells"] = {
-								454, -- [1]
-								[81297] = 257,
-								[35395] = 190,
-								[24275] = 824,
-							},
-							["total"] = 1725,
-						},
-						["Kotlin"] = {
-							["spells"] = {
-								100, -- [1]
-								[81297] = 220,
-								[57770] = 89,
-							},
-							["total"] = 409,
-						},
-						["Aliyiah-Hyjal"] = {
-							["spells"] = {
-								96, -- [1]
-								[81297] = 220,
-								[57770] = 27,
-							},
-							["total"] = 343,
-						},
-						["Skwooma-KhazModan"] = {
-							["spells"] = {
-								[196917] = 287,
-							},
-							["total"] = 287,
-						},
-						["Miklów-Hyjal"] = {
-							["spells"] = {
-								[81297] = 222,
-							},
-							["total"] = 222,
-						},
-					},
-					["pets"] = {
-					},
-					["fight_component"] = true,
-					["boss_fight_component"] = true,
-					["aID"] = "3690-088A97C1",
-					["raid_targets"] = {
-						[128] = 992,
-					},
-					["total_without_pet"] = 109690.077977,
 					["colocacao"] = 5,
-					["classe"] = "PALADIN",
-					["dps_started"] = false,
-					["total"] = 109690.077977,
-					["end_time"] = 1609728875,
-					["friendlyfire_total"] = 2986,
-					["nome"] = "Skwooma-KhazModan",
-					["spec"] = 65,
-					["grupo"] = true,
-					["last_event"] = 0,
-					["on_hold"] = false,
-					["serial"] = "Player-3690-088A97C1",
-					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 213.6063402571612,
+					["on_hold"] = false,
 					["start_time"] = 1609728465,
 					["delay"] = 0,
-					["damage_taken"] = 42135.07797699999,
+					["custom"] = 0,
 				}, -- [5]
 				{
 					["flag_original"] = 2632,
@@ -18828,24 +18502,23 @@ _detalhes_database = {
 						["Skwooma-KhazModan"] = 1351,
 						["Miklów-Hyjal"] = 1192,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30277-0004F2830F",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "30277",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 18750.027004,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 18750.027004,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609728903,
-					["dps_started"] = false,
-					["total"] = 18750.027004,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Briseur ahn'kahar",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 1,
@@ -18990,16 +18663,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609728903,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30277-0004F2830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 76769.027004,
 					["start_time"] = 1609728827,
 					["delay"] = 0,
-					["damage_taken"] = 76769.027004,
+					["aID"] = "30277",
 				}, -- [6]
 				{
 					["flag_original"] = 2632,
@@ -19018,24 +18692,23 @@ _detalhes_database = {
 						["Miklów-Hyjal"] = 2393,
 						["Tourdemagyps-KhazModan"] = 884,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30276-000072830F",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "30276",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 13820.017431,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 13820.017431,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609728930,
-					["dps_started"] = false,
-					["total"] = 13820.017431,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Tisseuse ahn'kahar",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -19124,16 +18797,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609728930,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30276-000072830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 46547.017431,
 					["start_time"] = 1609728875,
 					["delay"] = 0,
-					["damage_taken"] = 46547.017431,
+					["aID"] = "30276",
 				}, -- [7]
 				{
 					["flag_original"] = 68168,
@@ -19151,24 +18825,23 @@ _detalhes_database = {
 						["Aliyiah-Hyjal"] = 11845,
 						["Skwooma-KhazModan"] = 452,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-29309-000072830F",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["last_dps"] = 0,
 					["aID"] = "29309",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 12297.010659,
+					["end_time"] = 1609729028,
+					["monster"] = true,
+					["total"] = 12297.010659,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609729028,
-					["dps_started"] = false,
-					["total"] = 12297.010659,
-					["boss_fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Ancien Nadox",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -19253,16 +18926,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["boss_fight_component"] = true,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-29309-000072830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 68539.01065899999,
 					["start_time"] = 1609728985,
 					["delay"] = 0,
-					["damage_taken"] = 68539.01065899999,
+					["dps_started"] = false,
 				}, -- [8]
 				{
 					["flag_original"] = 2632,
@@ -19281,24 +18955,23 @@ _detalhes_database = {
 						["Skwooma-KhazModan"] = 1185,
 						["Kotlin"] = 1195,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30279-000072830F",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "30279",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 9487.011316999999,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 9487.011316999999,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609728875,
-					["dps_started"] = false,
-					["total"] = 9487.011316999999,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Rampante des profondeurs",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -19361,16 +19034,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609728875,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30279-000072830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 31262.011317,
 					["start_time"] = 1609728851,
 					["delay"] = 0,
-					["damage_taken"] = 31262.011317,
+					["aID"] = "30279",
 				}, -- [9]
 				{
 					["flag_original"] = 2632,
@@ -19390,24 +19064,23 @@ _detalhes_database = {
 						["Aliyiah-Hyjal"] = 5559,
 						["Skwooma-KhazModan"] = 821,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30278-000472830F",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "30278",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 7502.020393,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 7502.020393,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609728903,
-					["dps_started"] = false,
-					["total"] = 7502.020393,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Lanceur de sorts ahn'kahar",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -19496,16 +19169,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609728903,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30278-000472830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 61419.020393,
 					["start_time"] = 1609728825,
 					["delay"] = 0,
-					["damage_taken"] = 61419.020393,
+					["aID"] = "30278",
 				}, -- [10]
 				{
 					["flag_original"] = 2632,
@@ -19520,24 +19194,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Aliyiah-Hyjal"] = 5991,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30283-000272830F",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "30283",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 5991.012714,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 5991.012714,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609728903,
-					["dps_started"] = false,
-					["total"] = 5991.012714,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Marcheur de peste",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -19621,16 +19294,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609728903,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30283-000272830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 31261.012714,
 					["start_time"] = 1609728851,
 					["delay"] = 0,
-					["damage_taken"] = 31261.012714,
+					["aID"] = "30283",
 				}, -- [11]
 				{
 					["flag_original"] = 2632,
@@ -19646,24 +19320,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Aliyiah-Hyjal"] = 5408,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-31104-0000F2830F",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "31104",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 5408.008858,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 5408.008858,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609728875,
-					["dps_started"] = false,
-					["total"] = 5408.008858,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Guetteur ahn'kahar",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -19802,16 +19475,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609728875,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-31104-0000F2830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 31029.008858,
 					["start_time"] = 1609728844,
 					["delay"] = 0,
-					["damage_taken"] = 31029.008858,
+					["aID"] = "31104",
 				}, -- [12]
 				{
 					["flag_original"] = 4370,
@@ -19828,23 +19502,22 @@ _detalhes_database = {
 						["Jedoga Cherchelombre"] = 1799,
 						["Héraut Volazj"] = 2616,
 					},
-					["last_event"] = 0,
 					["pets"] = {
 					},
 					["end_time"] = 1609729629,
-					["classe"] = "UNKNOW",
+					["nome"] = "Elémentaire de feu primordial <Miklów-Hyjal>",
+					["aID"] = "61029",
 					["raid_targets"] = {
 						[128] = 709,
 					},
 					["total_without_pet"] = 10591.030798,
-					["damage_taken"] = 22.030798,
+					["delay"] = 0,
 					["dps_started"] = false,
 					["total"] = 10591.030798,
-					["aID"] = "61029",
 					["friendlyfire_total"] = 0,
-					["nome"] = "Elémentaire de feu primordial <Miklów-Hyjal>",
+					["damage_taken"] = 22.030798,
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[117588] = {
 								["c_amt"] = 0,
@@ -19943,8 +19616,9 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["boss_fight_component"] = true,
+					["last_event"] = 0,
 					["on_hold"] = false,
 					["friendlyfire"] = {
 					},
@@ -19952,13 +19626,12 @@ _detalhes_database = {
 					["tipo"] = 1,
 					["last_dps"] = 0,
 					["start_time"] = 1609729615,
-					["delay"] = 0,
 					["serial"] = "Creature-0-3892-619-17154-61029-00007283E3",
+					["classe"] = "UNKNOW",
 				}, -- [13]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.011076,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Tourdemagyps-KhazModan"] = true,
 						["Miklów-Hyjal"] = true,
@@ -19974,22 +19647,20 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["monster"] = true,
-					["friendlyfire"] = {
-					},
+					["dps_started"] = false,
 					["aID"] = "30338",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 2091.011076,
-					["end_time"] = 1609728974,
+					["last_dps"] = 0,
+					["serial"] = "Creature-0-3892-619-17154-30338-000BF2830F",
 					["fight_component"] = true,
-					["dps_started"] = false,
-					["total"] = 2091.011076,
-					["boss_fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["end_time"] = 1609728974,
+					["friendlyfire_total"] = 0,
+					["on_hold"] = false,
 					["nome"] = "Grouillant ahn'kahar",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -20022,16 +19693,19 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
+					["monster"] = true,
+					["total"] = 2091.011076,
 					["last_event"] = 0,
-					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30338-000BF2830F",
+					["boss_fight_component"] = true,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 3414.011076,
 					["start_time"] = 1609728945,
 					["delay"] = 0,
-					["damage_taken"] = 3414.011076,
+					["friendlyfire"] = {
+					},
 				}, -- [14]
 				{
 					["flag_original"] = 2632,
@@ -20049,24 +19723,23 @@ _detalhes_database = {
 						["Kotlin"] = 386,
 						["Aliyiah-Hyjal"] = 1192,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30176-00007283E8",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["last_dps"] = 0,
 					["aID"] = "30176",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 1578.007722,
+					["end_time"] = 1609729028,
+					["monster"] = true,
+					["total"] = 1578.007722,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609729028,
-					["dps_started"] = false,
-					["total"] = 1578.007722,
-					["boss_fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Gardien ahn'kahar",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -20124,22 +19797,21 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["boss_fight_component"] = true,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30176-00007283E8",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 11208.007722,
 					["start_time"] = 1609729008,
 					["delay"] = 0,
-					["damage_taken"] = 11208.007722,
+					["dps_started"] = false,
 				}, -- [15]
 				{
 					["flag_original"] = 8466,
 					["totalabsorbed"] = 0.061423,
-					["on_hold"] = false,
-					["end_time"] = 1609728875,
 					["damage_from"] = {
 					},
 					["targets"] = {
@@ -20148,10 +19820,10 @@ _detalhes_database = {
 						["Gardien ahn'kahar"] = 30,
 						["Héraut Volazj"] = 299,
 						["Porte-givre"] = 364,
-						["Oublié"] = 425,
 						["Volontaire du Crépuscule"] = 122,
-						["Apôtre du Crépuscule"] = 61,
 						["Invocateur noir du Crépuscule"] = 92,
+						["Apôtre du Crépuscule"] = 61,
+						["Oublié"] = 425,
 						["Guetteur ahn'kahar"] = 121,
 						["Lanceur de sorts ahn'kahar"] = 92,
 						["Ancien Nadox"] = 58,
@@ -20160,24 +19832,23 @@ _detalhes_database = {
 						["Prince Taldaram"] = 600,
 						["Adorateur du Crépuscule"] = 182,
 					},
+					["serial"] = "Creature-0-3892-619-17154-175519-0000728352",
 					["pets"] = {
 					},
-					["serial"] = "Creature-0-3892-619-17154-175519-0000728352",
+					["boss_fight_component"] = true,
 					["friendlyfire_total"] = 0,
 					["classe"] = "PET",
 					["raid_targets"] = {
 						[128] = 30,
 					},
 					["total_without_pet"] = 3808.061423,
-					["boss_fight_component"] = true,
+					["last_dps"] = 0,
 					["dps_started"] = false,
-					["total"] = 3808.061423,
-					["aID"] = "175519",
+					["end_time"] = 1609728875,
+					["damage_taken"] = 0.061423,
 					["ownerName"] = "Miklów-Hyjal",
 					["nome"] = "Pustule écumante <Miklów-Hyjal>",
-					["last_event"] = 0,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[345495] = {
 								["c_amt"] = 15,
@@ -20191,10 +19862,10 @@ _detalhes_database = {
 									["Gardien ahn'kahar"] = 30,
 									["Héraut Volazj"] = 299,
 									["Porte-givre"] = 364,
-									["Oublié"] = 425,
 									["Volontaire du Crépuscule"] = 122,
-									["Apôtre du Crépuscule"] = 61,
 									["Invocateur noir du Crépuscule"] = 92,
+									["Apôtre du Crépuscule"] = 61,
+									["Oublié"] = 425,
 									["Guetteur ahn'kahar"] = 121,
 									["Lanceur de sorts ahn'kahar"] = 92,
 									["Ancien Nadox"] = 58,
@@ -20222,21 +19893,22 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
+					["last_event"] = 0,
+					["aID"] = "175519",
 					["friendlyfire"] = {
 					},
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 0.061423,
+					["on_hold"] = false,
 					["start_time"] = 1609728663,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["total"] = 3808.061423,
 				}, -- [16]
 				{
 					["flag_original"] = 8466,
 					["totalabsorbed"] = 0.026399,
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
 					["damage_from"] = {
 						["Apôtre du Crépuscule"] = true,
 						["Lanceur de sorts ahn'kahar"] = true,
@@ -20246,23 +19918,22 @@ _detalhes_database = {
 						["Prince Taldaram"] = 273,
 						["Héraut Volazj"] = 145,
 					},
+					["serial"] = "Creature-0-3892-619-17154-31216-0001728390",
 					["pets"] = {
 					},
-					["serial"] = "Creature-0-3892-619-17154-31216-0001728390",
 					["boss_fight_component"] = true,
+					["friendlyfire_total"] = 0,
 					["classe"] = "PET",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 574.026399,
-					["end_time"] = 1609728930,
+					["last_dps"] = 0,
 					["dps_started"] = false,
-					["total"] = 574.026399,
-					["aID"] = "31216",
+					["end_time"] = 1609728930,
+					["damage_taken"] = 728.026399,
 					["ownerName"] = "Tourdemagyps-KhazModan",
 					["nome"] = "Tourdemagyps-KhazModan <Tourdemagyps-KhazModan>",
-					["last_event"] = 0,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[59638] = {
 								["c_amt"] = 34,
@@ -20294,20 +19965,22 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
+					["last_event"] = 0,
+					["aID"] = "31216",
 					["friendlyfire"] = {
 					},
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 728.026399,
+					["on_hold"] = false,
 					["start_time"] = 1609728872,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["total"] = 574.026399,
 				}, -- [17]
 				{
 					["flag_original"] = 2600,
 					["totalabsorbed"] = 0.006592,
-					["aID"] = "14881",
 					["damage_from"] = {
 						["Tourdemagyps-KhazModan"] = true,
 					},
@@ -20315,32 +19988,33 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["aID"] = "14881",
 					["boss_fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.006592,
-					["last_event"] = 0,
+					["serial"] = "Creature-0-3892-619-17154-14881-0001728310",
 					["dps_started"] = false,
 					["end_time"] = 1609729028,
-					["on_hold"] = false,
-					["friendlyfire_total"] = 0,
+					["last_dps"] = 0,
+					["damage_taken"] = 262.006592,
 					["nome"] = "Araignée",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["last_event"] = 0,
 					["total"] = 0.006592,
-					["serial"] = "Creature-0-3892-619-17154-14881-0001728310",
+					["friendlyfire_total"] = 0,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 262.006592,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1609729025,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["on_hold"] = false,
 				}, -- [18]
 				{
 					["flag_original"] = 2632,
@@ -20355,24 +20029,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Aliyiah-Hyjal"] = 11067,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30287-0002F2830F",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "30287",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 11067.010949,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 11067.010949,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609729120,
-					["dps_started"] = false,
-					["total"] = 11067.010949,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Geist pilleur",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -20434,16 +20107,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609729120,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30287-0002F2830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 84032.010949,
 					["start_time"] = 1609729040,
 					["delay"] = 0,
-					["damage_taken"] = 84032.010949,
+					["aID"] = "30287",
 				}, -- [19]
 				{
 					["flag_original"] = 2632,
@@ -20461,24 +20135,23 @@ _detalhes_database = {
 						["Skwooma-KhazModan"] = 1585,
 						["Tourdemagyps-KhazModan"] = 667,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30286-000172830F",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "30286",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 22123.025468,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 22123.025468,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609729120,
-					["dps_started"] = false,
-					["total"] = 22123.025468,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Porte-givre",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -20591,16 +20264,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609729120,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30286-000172830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 78705.02546799999,
 					["start_time"] = 1609728993,
 					["delay"] = 0,
-					["damage_taken"] = 78705.02546799999,
+					["aID"] = "30286",
 				}, -- [20]
 				{
 					["flag_original"] = 2632,
@@ -20619,24 +20293,23 @@ _detalhes_database = {
 						["Skwooma-KhazModan"] = 7552,
 						["Tourdemagyps-KhazModan"] = 6404,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30285-000172830F",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "30285",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 41470.014399,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 41470.014399,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609729120,
-					["dps_started"] = false,
-					["total"] = 41470.014399,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Oeil de Taldaram",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -20780,16 +20453,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609729120,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30285-000172830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 92594.014399,
 					["start_time"] = 1609729012,
 					["delay"] = 0,
-					["damage_taken"] = 92594.014399,
+					["aID"] = "30285",
 				}, -- [21]
 				{
 					["flag_original"] = 2632,
@@ -20807,24 +20481,23 @@ _detalhes_database = {
 						["Skwooma-KhazModan"] = 2047,
 						["Aliyiah-Hyjal"] = 11619,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30284-0000F2830F",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "30284",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 17199.019443,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 17199.019443,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609729120,
-					["dps_started"] = false,
-					["total"] = 17199.019443,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Broyeur d'os",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -20856,6 +20529,32 @@ _detalhes_database = {
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							}, -- [1]
+							[56737] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 56737,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
 							[59107] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
@@ -20885,32 +20584,6 @@ _detalhes_database = {
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
-							[19134] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-								},
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 19134,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 2,
-								["a_amt"] = 0,
-								["n_amt"] = 0,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
-							},
 							[8599] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
@@ -20937,7 +20610,7 @@ _detalhes_database = {
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
-							[56737] = {
+							[19134] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["c_dmg"] = 0,
@@ -20951,29 +20624,30 @@ _detalhes_database = {
 								["counter"] = 0,
 								["total"] = 0,
 								["c_max"] = 0,
-								["id"] = 56737,
+								["id"] = 19134,
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
 								["c_min"] = 0,
-								["successful_casted"] = 1,
+								["successful_casted"] = 2,
 								["a_amt"] = 0,
 								["n_amt"] = 0,
 								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609729120,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30284-0000F2830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 62236.019443,
 					["start_time"] = 1609729044,
 					["delay"] = 0,
-					["damage_taken"] = 62236.019443,
+					["aID"] = "30284",
 				}, -- [22]
 				{
 					["flag_original"] = 2600,
@@ -20987,32 +20661,32 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["friendlyfire_total"] = 0,
+					["damage_taken"] = 180.016602,
+					["aID"] = "4076",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.016602,
-					["last_event"] = 0,
-					["aID"] = "4076",
+					["serial"] = "Creature-0-3892-619-17154-4076-0000F2830F",
 					["dps_started"] = false,
 					["total"] = 0.016602,
-					["fight_component"] = true,
 					["classe"] = "UNKNOW",
+					["last_dps"] = 0,
 					["nome"] = "Blatte",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
-					["end_time"] = 1609729217,
+					["last_event"] = 0,
 					["friendlyfire"] = {
 					},
-					["serial"] = "Creature-0-3892-619-17154-4076-0000F2830F",
+					["fight_component"] = true,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1609729214,
 					["delay"] = 0,
-					["damage_taken"] = 180.016602,
+					["end_time"] = 1609729217,
 				}, -- [23]
 				{
 					["flag_original"] = 68168,
@@ -21031,24 +20705,23 @@ _detalhes_database = {
 						["Skwooma-KhazModan"] = 1549,
 						["Aliyiah-Hyjal"] = 5843,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-29308-000072830F",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["last_dps"] = 0,
 					["aID"] = "29308",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 7392.007049,
+					["end_time"] = 1609729272,
+					["monster"] = true,
+					["total"] = 7392.007049,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609729272,
-					["dps_started"] = false,
-					["total"] = 7392.007049,
-					["boss_fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Prince Taldaram",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -21133,21 +20806,21 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["boss_fight_component"] = true,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-29308-000072830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 71051.007049,
 					["start_time"] = 1609729226,
 					["delay"] = 0,
-					["damage_taken"] = 71051.007049,
+					["dps_started"] = false,
 				}, -- [24]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 151.017435,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Tourdemagyps-KhazModan"] = true,
 						["Kotlin"] = true,
@@ -21165,22 +20838,20 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["monster"] = true,
-					["friendlyfire"] = {
-					},
+					["dps_started"] = false,
 					["aID"] = "30179",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 10836.017435,
-					["end_time"] = 1609729272,
+					["last_dps"] = 0,
+					["serial"] = "Creature-0-3892-619-17154-30179-0000F2830F",
 					["fight_component"] = true,
-					["dps_started"] = false,
-					["total"] = 10836.017435,
-					["boss_fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["end_time"] = 1609729272,
+					["friendlyfire_total"] = 0,
+					["on_hold"] = false,
 					["nome"] = "Apôtre du Crépuscule",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -21295,16 +20966,19 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
+					["monster"] = true,
+					["total"] = 10836.017435,
 					["last_event"] = 0,
-					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30179-0000F2830F",
+					["boss_fight_component"] = true,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 45618.017435,
 					["start_time"] = 1609729201,
 					["delay"] = 0,
-					["damage_taken"] = 45618.017435,
+					["friendlyfire"] = {
+					},
 				}, -- [25]
 				{
 					["flag_original"] = 2632,
@@ -21324,24 +20998,23 @@ _detalhes_database = {
 						["Skwooma-KhazModan"] = 3502,
 						["Miklów-Hyjal"] = 2642,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30319-000272830F",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "30319",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 19305.007849,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 19305.007849,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609729366,
-					["dps_started"] = false,
-					["total"] = 19305.007849,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Invocateur noir du Crépuscule",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -21407,9 +21080,9 @@ _detalhes_database = {
 								["n_max"] = 325,
 								["targets"] = {
 									["Aliyiah-Hyjal"] = 3291,
+									["Kotlin"] = 1895,
 									["Skwooma-KhazModan"] = 1846,
 									["Miklów-Hyjal"] = 1875,
-									["Kotlin"] = 1895,
 								},
 								["n_dmg"] = 8907,
 								["n_min"] = 0,
@@ -21460,16 +21133,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609729366,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30319-000272830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 45918.007849,
 					["start_time"] = 1609729298,
 					["delay"] = 0,
-					["damage_taken"] = 45918.007849,
+					["aID"] = "30319",
 				}, -- [26]
 				{
 					["flag_original"] = 68168,
@@ -21489,24 +21163,23 @@ _detalhes_database = {
 						["Skwooma-KhazModan"] = 4781,
 						["Kotlin"] = 4125,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30111-0002F2830F",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "30111",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 23146.007917,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 23146.007917,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609729366,
-					["dps_started"] = false,
-					["total"] = 23146.007917,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Adorateur du Crépuscule",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -21576,9 +21249,9 @@ _detalhes_database = {
 								["n_max"] = 1380,
 								["targets"] = {
 									["Aliyiah-Hyjal"] = 2617,
+									["Skwooma-KhazModan"] = 2506,
 									["Miklów-Hyjal"] = 3834,
 									["Kotlin"] = 3336,
-									["Skwooma-KhazModan"] = 2506,
 								},
 								["n_dmg"] = 12293,
 								["n_min"] = 0,
@@ -21599,16 +21272,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609729366,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30111-0002F2830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 46334.007917,
 					["start_time"] = 1609729316,
 					["delay"] = 0,
-					["damage_taken"] = 46334.007917,
+					["aID"] = "30111",
 				}, -- [27]
 				{
 					["flag_original"] = 2632,
@@ -21626,24 +21300,23 @@ _detalhes_database = {
 						["Skwooma-KhazModan"] = 2591,
 						["Miklów-Hyjal"] = 755,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-29310-000072830F",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["last_dps"] = 0,
 					["aID"] = "29310",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 19719.007795,
+					["end_time"] = 1609729485,
+					["monster"] = true,
+					["total"] = 19719.007795,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609729485,
-					["dps_started"] = false,
-					["total"] = 19719.007795,
-					["boss_fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Jedoga Cherchelombre",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -21759,16 +21432,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["boss_fight_component"] = true,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-29310-000072830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 60845.007795,
 					["start_time"] = 1609729447,
 					["delay"] = 0,
-					["damage_taken"] = 60845.007795,
+					["dps_started"] = false,
 				}, -- [28]
 				{
 					["flag_original"] = 2632,
@@ -21783,36 +21457,36 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30385-000272858C",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["last_dps"] = 0,
 					["aID"] = "30385",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.004921,
+					["end_time"] = 1609729485,
+					["monster"] = true,
+					["total"] = 0.004921,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609729485,
-					["dps_started"] = false,
-					["total"] = 0.004921,
-					["boss_fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Volontaire du Crépuscule",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["boss_fight_component"] = true,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30385-000272858C",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 14710.004921,
 					["start_time"] = 1609729482,
 					["delay"] = 0,
-					["damage_taken"] = 14710.004921,
+					["dps_started"] = false,
 				}, -- [29]
 				{
 					["flag_original"] = 2632,
@@ -21822,24 +21496,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Kotlin"] = 615,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30111-0002F28590",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["last_dps"] = 0,
 					["aID"] = "30111",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 615.013216,
+					["end_time"] = 1609729485,
+					["monster"] = true,
+					["total"] = 615.013216,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609729485,
-					["dps_started"] = false,
-					["total"] = 615.013216,
-					["boss_fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Adoratrice du Crépuscule",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -21869,16 +21542,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["boss_fight_component"] = true,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30111-0002F28590",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.013216,
 					["start_time"] = 1609729482,
 					["delay"] = 0,
-					["damage_taken"] = 0.013216,
+					["dps_started"] = false,
 				}, -- [30]
 				{
 					["flag_original"] = 68168,
@@ -21898,24 +21572,23 @@ _detalhes_database = {
 						["Skwooma-KhazModan"] = 8783,
 						["Kotlin"] = 7763,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-30414-000172830F",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "30414",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 52709.013358,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 52709.013358,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609729585,
-					["dps_started"] = false,
-					["total"] = 52709.013358,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Oublié",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -22010,9 +21683,9 @@ _detalhes_database = {
 								["n_max"] = 2313,
 								["targets"] = {
 									["Tourdemagyps-KhazModan"] = 2221,
+									["Miklów-Hyjal"] = 6469,
 									["Skwooma-KhazModan"] = 8783,
 									["Kotlin"] = 6775,
-									["Miklów-Hyjal"] = 6469,
 								},
 								["n_dmg"] = 24248,
 								["n_min"] = 0,
@@ -22060,41 +21733,40 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609729585,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-30414-000172830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 92163.01335800001,
 					["start_time"] = 1609729518,
 					["delay"] = 0,
-					["damage_taken"] = 92163.01335800001,
+					["aID"] = "30414",
 				}, -- [31]
 				{
 					["flag_original"] = 8466,
 					["totalabsorbed"] = 0.011998,
-					["serial"] = "Creature-0-3892-619-17154-61245-0000728605",
 					["damage_from"] = {
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1609729585,
 					["pets"] = {
 					},
 					["friendlyfire_total"] = 0,
+					["last_event"] = 0,
 					["aID"] = "61245",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.011998,
-					["last_event"] = 0,
+					["serial"] = "Creature-0-3892-619-17154-61245-0000728605",
 					["dps_started"] = false,
 					["total"] = 0.011998,
-					["classe"] = "PET",
+					["damage_taken"] = 0.011998,
 					["ownerName"] = "Miklów-Hyjal",
 					["nome"] = "Totem condensateur <Miklów-Hyjal>",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[118905] = {
 								["c_amt"] = 0,
@@ -22125,16 +21797,18 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["on_hold"] = false,
+					["last_dps"] = 0,
+					["classe"] = "PET",
 					["friendlyfire"] = {
 					},
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1609729582,
 					["delay"] = 0,
-					["damage_taken"] = 0.011998,
+					["end_time"] = 1609729585,
 				}, -- [32]
 				{
 					["flag_original"] = 2632,
@@ -22158,24 +21832,23 @@ _detalhes_database = {
 						["Skwooma-KhazModan"] = 569,
 						["Miklów-Hyjal"] = 473,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3892-619-17154-29311-000072830F",
 					["pets"] = {
 					},
-					["monster"] = true,
+					["last_dps"] = 0,
 					["aID"] = "29311",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 4930.011826,
+					["end_time"] = 1609729629,
+					["monster"] = true,
+					["total"] = 4930.011826,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609729629,
-					["dps_started"] = false,
-					["total"] = 4930.011826,
-					["boss_fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Héraut Volazj",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -22289,16 +21962,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["boss_fight_component"] = true,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3892-619-17154-29311-000072830F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 68642.011826,
 					["start_time"] = 1609729614,
 					["delay"] = 0,
-					["damage_taken"] = 68642.011826,
+					["dps_started"] = false,
 				}, -- [33]
 				{
 					["flag_original"] = 2632,
@@ -22308,23 +21982,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Skwooma-KhazModan"] = 300,
 					},
-					["dps_started"] = false,
+					["serial"] = "",
 					["pets"] = {
 					},
-					["last_event"] = 0,
-					["aID"] = "",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 300.010299,
-					["on_hold"] = false,
 					["end_time"] = 1609729629,
 					["monster"] = true,
 					["total"] = 300.010299,
-					["boss_fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
 					["nome"] = "[*] Frisson",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[59979] = {
 								["c_amt"] = 0,
@@ -22354,17 +22028,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["boss_fight_component"] = true,
 					["friendlyfire_total"] = 0,
-					["serial"] = "",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.010299,
 					["start_time"] = 1609729622,
 					["delay"] = 0,
-					["damage_taken"] = 0.010299,
+					["aID"] = "",
 				}, -- [34]
 				{
 					["flag_original"] = 68168,
@@ -22375,24 +22049,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Kotlin"] = 75,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-96287-00007275D0",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "96287",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 75.007407,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 75.007407,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609731161,
-					["dps_started"] = false,
-					["total"] = 75.007407,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Grande chauve-souris des grottes",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -22478,16 +22151,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609731161,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-96287-00007275D0",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 4720.007407,
 					["start_time"] = 1609731136,
 					["delay"] = 0,
-					["damage_taken"] = 4720.007407,
+					["aID"] = "96287",
 				}, -- [35]
 				{
 					["flag_original"] = 68168,
@@ -22497,24 +22171,23 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-96298-0000728CF2",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "96298",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.027763,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 0.027763,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609731321,
-					["dps_started"] = false,
-					["total"] = 0.027763,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Défenseur conjuré",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -22572,16 +22245,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609731321,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-96298-0000728CF2",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 31348.027763,
 					["start_time"] = 1609731318,
 					["delay"] = 0,
-					["damage_taken"] = 31348.027763,
+					["aID"] = "96298",
 				}, -- [36]
 				{
 					["flag_original"] = 68168,
@@ -22591,36 +22265,36 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-96300-0000728CF2",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "96300",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.038872,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 0.038872,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609731331,
-					["dps_started"] = false,
-					["total"] = 0.038872,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Défenseur des Titans",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609731331,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-96300-0000728CF2",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 121626.038872,
 					["start_time"] = 1609731328,
 					["delay"] = 0,
-					["damage_taken"] = 121626.038872,
+					["aID"] = "96300",
 				}, -- [37]
 				{
 					["flag_original"] = 68168,
@@ -22631,24 +22305,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Kotlin"] = 94612,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-125951-00007275CF",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "125951",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 94612.007028,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 94612.007028,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609731536,
-					["dps_started"] = false,
-					["total"] = 94612.007028,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Gardemort d'obsidienne",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -22785,16 +22458,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609731536,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-125951-00007275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 141538.007028,
 					["start_time"] = 1609731436,
 					["delay"] = 0,
-					["damage_taken"] = 141538.007028,
+					["aID"] = "125951",
 				}, -- [38]
 				{
 					["flag_original"] = 2632,
@@ -22804,23 +22478,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Kotlin"] = 11272,
 					},
-					["dps_started"] = false,
+					["serial"] = "",
 					["pets"] = {
 					},
-					["last_event"] = 0,
-					["aID"] = "",
+					["last_dps"] = 0,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 11272.010866,
-					["on_hold"] = false,
-					["end_time"] = 1609731536,
 					["monster"] = true,
+					["dps_started"] = false,
 					["total"] = 11272.010866,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
 					["nome"] = "[*] Extrusion de lave",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[207296] = {
 								["c_amt"] = 0,
@@ -22850,17 +22524,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["end_time"] = 1609731536,
 					["friendlyfire_total"] = 0,
-					["serial"] = "",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 0.010866,
 					["start_time"] = 1609731531,
 					["delay"] = 0,
-					["damage_taken"] = 0.010866,
+					["aID"] = "",
 				}, -- [39]
 				{
 					["flag_original"] = 68168,
@@ -22871,24 +22545,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Kotlin"] = 23,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-96590-00007275CF",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "96590",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 23.010032,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 23.010032,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609731633,
-					["dps_started"] = false,
-					["total"] = 23.010032,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Gourbière le Cogneur",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -22918,16 +22591,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609731633,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-96590-00007275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 21500.010032,
 					["start_time"] = 1609731628,
 					["delay"] = 0,
-					["damage_taken"] = 21500.010032,
+					["aID"] = "96590",
 				}, -- [40]
 				{
 					["flag_original"] = 68168,
@@ -22937,36 +22611,36 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-100302-0000728E4B",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "100302",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.014109,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 0.014109,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609731665,
-					["dps_started"] = false,
-					["total"] = 0.014109,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Puck",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609731665,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-100302-0000728E4B",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 4585.014109,
 					["start_time"] = 1609731662,
 					["delay"] = 0,
-					["damage_taken"] = 4585.014109,
+					["aID"] = "100302",
 				}, -- [41]
 				{
 					["flag_original"] = 2632,
@@ -22977,24 +22651,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Infernal gangresiège"] = 407,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-108185-000CF275CF",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "108185",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 407.03058,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 407.03058,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609731665,
-					["dps_started"] = false,
-					["total"] = 407.03058,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Rampelorgne froidécaille",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -23026,16 +22699,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609731665,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-108185-000CF275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 10251.03058,
 					["start_time"] = 1609731659,
 					["delay"] = 0,
-					["damage_taken"] = 10251.03058,
+					["aID"] = "108185",
 				}, -- [42]
 				{
 					["flag_original"] = 2632,
@@ -23046,36 +22720,36 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-119489-0002F275CF",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "119489",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.026258,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 0.026258,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609731665,
-					["dps_started"] = false,
-					["total"] = 0.026258,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Infernal gangresiège",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609731665,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-119489-0002F275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 5176.026258000001,
 					["start_time"] = 1609731662,
 					["delay"] = 0,
-					["damage_taken"] = 5176.026258000001,
+					["aID"] = "119489",
 				}, -- [43]
 				{
 					["flag_original"] = 68168,
@@ -23085,36 +22759,36 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-109498-0000728E4B",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "109498",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.013602,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 0.013602,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609731668,
-					["dps_started"] = false,
-					["total"] = 0.013602,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Xaander",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609731668,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-109498-0000728E4B",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 2239.013602,
 					["start_time"] = 1609731665,
 					["delay"] = 0,
-					["damage_taken"] = 2239.013602,
+					["aID"] = "109498",
 				}, -- [44]
 				{
 					["flag_original"] = 68168,
@@ -23125,24 +22799,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Kotlin"] = 23,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-94507-0003F275CF",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "94507",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 23.014852,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 23.014852,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609731713,
-					["dps_started"] = false,
-					["total"] = 23.014852,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Ambréclat enragé",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -23172,16 +22845,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609731713,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-94507-0003F275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 14207.014852,
 					["start_time"] = 1609731707,
 					["delay"] = 0,
-					["damage_taken"] = 14207.014852,
+					["aID"] = "94507",
 				}, -- [45]
 				{
 					["flag_original"] = 68168,
@@ -23192,24 +22866,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Kotlin"] = 39,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-97220-00007275CF",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "97220",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 39.00633,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 39.00633,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609731779,
-					["dps_started"] = false,
-					["total"] = 39.00633,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Arru",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -23267,16 +22940,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609731779,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-97220-00007275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 20817.00633,
 					["start_time"] = 1609731767,
 					["delay"] = 0,
-					["damage_taken"] = 20817.00633,
+					["aID"] = "97220",
 				}, -- [46]
 				{
 					["flag_original"] = 68168,
@@ -23286,36 +22960,36 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-97326-00007275CF",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "97326",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.009388,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 0.009388,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609731839,
-					["dps_started"] = false,
-					["total"] = 0.009388,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Hartli la Chapardeuse",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609731839,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-97326-00007275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 21050.009388,
 					["start_time"] = 1609731836,
 					["delay"] = 0,
-					["damage_taken"] = 21050.009388,
+					["aID"] = "97326",
 				}, -- [47]
 				{
 					["flag_original"] = 68168,
@@ -23325,23 +22999,23 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["dps_started"] = false,
+					["serial"] = "Vehicle-0-4236-1220-31909-97102-0000728F0F",
 					["pets"] = {
 					},
-					["last_event"] = 0,
-					["aID"] = "",
+					["last_dps"] = 0,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.007089,
-					["on_hold"] = false,
-					["end_time"] = 1609731861,
 					["monster"] = true,
+					["dps_started"] = false,
 					["total"] = 0.007089,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
 					["nome"] = "Bo’xon",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -23372,22 +23046,21 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["end_time"] = 1609731861,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Vehicle-0-4236-1220-31909-97102-0000728F0F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 14410.007089,
 					["start_time"] = 1609731858,
 					["delay"] = 0,
-					["damage_taken"] = 14410.007089,
+					["aID"] = "",
 				}, -- [48]
 				{
 					["flag_original"] = 2600,
 					["totalabsorbed"] = 0.046961,
-					["aID"] = "97668",
 					["damage_from"] = {
 						["Kotlin"] = true,
 					},
@@ -23395,32 +23068,33 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["fight_component"] = true,
+					["aID"] = "97668",
+					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.046961,
-					["last_event"] = 0,
-					["dps_started"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-97668-0000F275CF",
+					["fight_component"] = true,
 					["end_time"] = 1609731900,
-					["on_hold"] = false,
 					["friendlyfire_total"] = 0,
+					["damage_taken"] = 3156927.046961,
 					["nome"] = "Mannequin d’entraînement du boxeur",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["last_event"] = 0,
 					["total"] = 0.046961,
-					["serial"] = "Creature-0-4236-1220-31909-97668-0000F275CF",
+					["dps_started"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 3156927.046961,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1609731897,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["on_hold"] = false,
 				}, -- [49]
 				{
 					["flag_original"] = 68168,
@@ -23430,24 +23104,23 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-97653-00007275CF",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "97653",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.011035,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 0.011035,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609731900,
-					["dps_started"] = false,
-					["total"] = 0.011035,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Taurson",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -23479,16 +23152,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609731900,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-97653-00007275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 17548.011035,
 					["start_time"] = 1609731897,
 					["delay"] = 0,
-					["damage_taken"] = 17548.011035,
+					["aID"] = "97653",
 				}, -- [50]
 				{
 					["flag_original"] = 68168,
@@ -23499,24 +23173,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Kotlin"] = 121,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-104513-00007275CF",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "104513",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 121.00704,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 121.00704,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609731986,
-					["dps_started"] = false,
-					["total"] = 121.00704,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Profania",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -23574,16 +23247,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609731986,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-104513-00007275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 95023.00704,
 					["start_time"] = 1609731974,
 					["delay"] = 0,
-					["damage_taken"] = 95023.00704,
+					["aID"] = "104513",
 				}, -- [51]
 				{
 					["flag_original"] = 68168,
@@ -23593,24 +23267,23 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-97591-0001728FFD",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "97591",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.019458,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 0.019458,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609732106,
-					["dps_started"] = false,
-					["total"] = 0.019458,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Embusquée ailevile",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -23669,16 +23342,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609732106,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-97591-0001728FFD",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 28770.019458,
 					["start_time"] = 1609732103,
 					["delay"] = 0,
-					["damage_taken"] = 28770.019458,
+					["aID"] = "97591",
 				}, -- [52]
 				{
 					["flag_original"] = 68168,
@@ -23688,36 +23362,36 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-97593-0000729014",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "97593",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.011869,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 0.011869,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609732120,
-					["dps_started"] = false,
-					["total"] = 0.011869,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Mynta Serre-Stridente",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609732120,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-97593-0000729014",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 25294.011869,
 					["start_time"] = 1609732117,
 					["delay"] = 0,
-					["damage_taken"] = 25294.011869,
+					["aID"] = "97593",
 				}, -- [53]
 				{
 					["flag_original"] = 68168,
@@ -23728,24 +23402,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Kotlin"] = 3,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-101609-00007275CF",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "101609",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 3.008443,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 3.008443,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609732185,
-					["dps_started"] = false,
-					["total"] = 3.008443,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Ollie",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -23775,44 +23448,44 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609732185,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-101609-00007275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 2486.008443,
 					["start_time"] = 1609732174,
 					["delay"] = 0,
-					["damage_taken"] = 2486.008443,
+					["aID"] = "101609",
 				}, -- [54]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.027453,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 						["Rampelorgne des catacombes"] = true,
 					},
 					["targets"] = {
 					},
+					["serial"] = "Creature-0-4236-1220-31909-96989-0009F275CF",
 					["pets"] = {
 					},
-					["end_time"] = 1609732185,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "96989",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.027453,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 0.027453,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
+					["total"] = 0.027453,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
 					["nome"] = "Rat des catacombes",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -23845,21 +23518,21 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609732185,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-96989-0009F275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 7112.027453,
 					["start_time"] = 1609732182,
 					["delay"] = 0,
-					["damage_taken"] = 7112.027453,
+					["fight_component"] = true,
 				}, -- [55]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.049945,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 						["Cavibrisse ciruléen"] = true,
@@ -23869,23 +23542,23 @@ _detalhes_database = {
 						["Kotlin"] = 53,
 						["Cavibrisse ciruléen"] = 393,
 					},
+					["serial"] = "Creature-0-4236-1220-31909-96878-00007275CF",
 					["pets"] = {
 					},
-					["end_time"] = 1609732185,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "96878",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 2705.049945,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 2705.049945,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
+					["total"] = 2705.049945,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
 					["nome"] = "Rampelorgne des catacombes",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -23948,44 +23621,44 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609732185,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-96878-00007275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 30217.049945,
 					["start_time"] = 1609732161,
 					["delay"] = 0,
-					["damage_taken"] = 30217.049945,
+					["fight_component"] = true,
 				}, -- [56]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.014077,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 					},
 					["targets"] = {
 						["Kotlin"] = 13,
 					},
+					["serial"] = "Creature-0-4236-1220-31909-101684-00007275CF",
 					["pets"] = {
 					},
-					["end_time"] = 1609732185,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "101684",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 13.014077,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 13.014077,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
+					["total"] = 13.014077,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
 					["nome"] = "Dératiseur ciruléen",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -24015,16 +23688,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609732185,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-101684-00007275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 12117.014077,
 					["start_time"] = 1609732177,
 					["delay"] = 0,
-					["damage_taken"] = 12117.014077,
+					["fight_component"] = true,
 				}, -- [57]
 				{
 					["flag_original"] = 2632,
@@ -24035,24 +23709,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Kotlin"] = 3,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-101614-00007275CF",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "101614",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 3.008678,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 3.008678,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609732196,
-					["dps_started"] = false,
-					["total"] = 3.008678,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Rongeur",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -24082,21 +23755,21 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609732196,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-101614-00007275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 1941.008678,
 					["start_time"] = 1609732189,
 					["delay"] = 0,
-					["damage_taken"] = 1941.008678,
+					["aID"] = "101614",
 				}, -- [58]
 				{
 					["flag_original"] = 68168,
 					["totalabsorbed"] = 0.021361,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 						["Rampelorgne des catacombes"] = true,
@@ -24104,23 +23777,23 @@ _detalhes_database = {
 					["targets"] = {
 						["Rampelorgne des catacombes"] = 220,
 					},
+					["serial"] = "Creature-0-4236-1220-31909-96986-0001F275CF",
 					["pets"] = {
 					},
-					["end_time"] = 1609732196,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "96986",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 220.021361,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 220.021361,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
+					["total"] = 220.021361,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
 					["nome"] = "Cavibrisse ciruléen",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -24203,55 +23876,56 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609732196,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-96986-0001F275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 26365.021361,
 					["start_time"] = 1609732190,
 					["delay"] = 0,
-					["damage_taken"] = 26365.021361,
+					["fight_component"] = true,
 				}, -- [59]
 				{
 					["flag_original"] = 68168,
 					["totalabsorbed"] = 0.019083,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 					},
 					["targets"] = {
 					},
+					["serial"] = "Creature-0-4236-1220-31909-94085-00007275CF",
 					["pets"] = {
 					},
-					["end_time"] = 1609732201,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "94085",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.019083,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 0.019083,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
-					["nome"] = "Brûle-mèche ciruléen",
-					["spells"] = {
-						["tipo"] = 2,
-						["_ActorTable"] = {
-						},
+					["total"] = 0.019083,
+					["friendlyfire"] = {
 					},
 					["last_event"] = 0,
+					["nome"] = "Brûle-mèche ciruléen",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["end_time"] = 1609732201,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-94085-00007275CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 10159.019083,
 					["start_time"] = 1609732198,
 					["delay"] = 0,
-					["damage_taken"] = 10159.019083,
+					["fight_component"] = true,
 				}, -- [60]
 				{
 					["flag_original"] = 68168,
@@ -24261,24 +23935,23 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-4236-1220-31909-100495-000072909E",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "100495",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.007697,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 0.007697,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609732259,
-					["dps_started"] = false,
-					["total"] = 0.007697,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Ténèbres dévorantes",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -24309,82 +23982,82 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609732259,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-4236-1220-31909-100495-000072909E",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 25228.007697,
 					["start_time"] = 1609732256,
 					["delay"] = 0,
-					["damage_taken"] = 25228.007697,
+					["aID"] = "100495",
 				}, -- [61]
 				{
 					["flag_original"] = 68168,
 					["totalabsorbed"] = 0.031305,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 					},
 					["targets"] = {
 					},
+					["serial"] = "Creature-0-1465-1148-31811-71062-0000729491",
 					["pets"] = {
 					},
-					["end_time"] = 1609733276,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "71062",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.031305,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 0.031305,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
-					["nome"] = "Grand pourfendeur illusoire",
-					["spells"] = {
-						["tipo"] = 2,
-						["_ActorTable"] = {
-						},
+					["total"] = 0.031305,
+					["friendlyfire"] = {
 					},
 					["last_event"] = 0,
+					["nome"] = "Grand pourfendeur illusoire",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["end_time"] = 1609733276,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71062-0000729491",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 62172.031305,
 					["start_time"] = 1609733273,
 					["delay"] = 0,
-					["damage_taken"] = 62172.031305,
+					["fight_component"] = true,
 				}, -- [62]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.04631299999999999,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1609733310,
+					["serial"] = "Creature-0-1465-1148-31811-71079-00007294AF",
 					["pets"] = {
 					},
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "71079",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.04631299999999999,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 0.04631299999999999,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
+					["total"] = 0.04631299999999999,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
 					["nome"] = "Petit gardien illusoire",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[142174] = {
 								["c_amt"] = 0,
@@ -24413,133 +24086,134 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609733310,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71079-00007294AF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 122397.046313,
 					["start_time"] = 1609733307,
 					["delay"] = 0,
-					["damage_taken"] = 122397.046313,
+					["fight_component"] = true,
 				}, -- [63]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.030679,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1609733372,
+					["serial"] = "Creature-0-1465-1148-31811-71078-00017294E6",
 					["pets"] = {
 					},
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "71078",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.030679,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 0.030679,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
-					["nome"] = "Petite vermine illusoire",
-					["spells"] = {
-						["tipo"] = 2,
-						["_ActorTable"] = {
-						},
+					["total"] = 0.030679,
+					["friendlyfire"] = {
 					},
 					["last_event"] = 0,
+					["nome"] = "Petite vermine illusoire",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["end_time"] = 1609733372,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71078-00017294E6",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 95632.03067899999,
 					["start_time"] = 1609733369,
 					["delay"] = 0,
-					["damage_taken"] = 95632.03067899999,
+					["fight_component"] = true,
 				}, -- [64]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.036219,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1609733372,
+					["serial"] = "Creature-0-1465-1148-31811-71067-0001F294E6",
 					["pets"] = {
 					},
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "71067",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.036219,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 0.036219,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
-					["nome"] = "Grande vermine illusoire",
-					["spells"] = {
-						["tipo"] = 2,
-						["_ActorTable"] = {
-						},
+					["total"] = 0.036219,
+					["friendlyfire"] = {
 					},
 					["last_event"] = 0,
+					["nome"] = "Grande vermine illusoire",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["end_time"] = 1609733372,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71067-0001F294E6",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 105029.036219,
 					["start_time"] = 1609733369,
 					["delay"] = 0,
-					["damage_taken"] = 105029.036219,
+					["fight_component"] = true,
 				}, -- [65]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.019037,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1609733442,
+					["serial"] = "Creature-0-1465-1148-31811-71080-000072951D",
 					["pets"] = {
 					},
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "71080",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.019037,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 0.019037,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
-					["nome"] = "Petit pourfendeur illusoire",
-					["spells"] = {
-						["tipo"] = 2,
-						["_ActorTable"] = {
-						},
+					["total"] = 0.019037,
+					["friendlyfire"] = {
 					},
 					["last_event"] = 0,
+					["nome"] = "Petit pourfendeur illusoire",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["end_time"] = 1609733442,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71080-000072951D",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 70135.019037,
 					["start_time"] = 1609733439,
 					["delay"] = 0,
-					["damage_taken"] = 70135.019037,
+					["fight_component"] = true,
 				}, -- [66]
 				{
 					["flag_original"] = 68168,
@@ -24549,63 +24223,62 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-1465-1148-31811-74092-000072955E",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "74092",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.012174,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 0.012174,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609733489,
-					["dps_started"] = false,
-					["total"] = 0.012174,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Immense pourfendeur illusoire",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609733489,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-74092-000072955E",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 50537.012174,
 					["start_time"] = 1609733486,
 					["delay"] = 0,
-					["damage_taken"] = 50537.012174,
+					["aID"] = "74092",
 				}, -- [67]
 				{
 					["flag_original"] = 68168,
 					["totalabsorbed"] = 0.040659,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1609733607,
+					["serial"] = "Creature-0-1465-1148-31811-71077-00007295D6",
 					["pets"] = {
 					},
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "71077",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.040659,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 0.040659,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
+					["total"] = 0.040659,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
 					["nome"] = "Petit tisse-ambre illusoire",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[142189] = {
 								["c_amt"] = 0,
@@ -24634,43 +24307,43 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609733607,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71077-00007295D6",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 58147.04065899999,
 					["start_time"] = 1609733604,
 					["delay"] = 0,
-					["damage_taken"] = 58147.04065899999,
+					["fight_component"] = true,
 				}, -- [68]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.017811,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 					},
 					["targets"] = {
 					},
+					["serial"] = "Creature-0-1465-1148-31811-71068-00007295F9",
 					["pets"] = {
 					},
-					["end_time"] = 1609733643,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "71068",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.017811,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 0.017811,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
+					["total"] = 0.017811,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
 					["nome"] = "Grand tisse-ambre illusoire",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[142189] = {
 								["c_amt"] = 0,
@@ -24699,43 +24372,43 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609733643,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71068-00007295F9",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 25940.017811,
 					["start_time"] = 1609733640,
 					["delay"] = 0,
-					["damage_taken"] = 25940.017811,
+					["fight_component"] = true,
 				}, -- [69]
 				{
 					["flag_original"] = 68168,
 					["totalabsorbed"] = 0.021837,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 					},
 					["targets"] = {
 					},
-					["end_time"] = 1609733690,
+					["serial"] = "Creature-0-1465-1148-31811-71069-0000729626",
 					["pets"] = {
 					},
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "71069",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.021837,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 0.021837,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
+					["total"] = 0.021837,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
 					["nome"] = "Grand mystique illusoire",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[142238] = {
 								["c_amt"] = 0,
@@ -24764,16 +24437,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609733690,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71069-0000729626",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 137598.021837,
 					["start_time"] = 1609733687,
 					["delay"] = 0,
-					["damage_taken"] = 137598.021837,
+					["fight_component"] = true,
 				}, -- [70]
 				{
 					["flag_original"] = 68168,
@@ -24783,24 +24457,23 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-1465-1148-31811-71064-000072964E",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "71064",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.010837,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 0.010837,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609733748,
-					["dps_started"] = false,
-					["total"] = 0.010837,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Grand gardien illusoire",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[142174] = {
 								["c_amt"] = 0,
@@ -24829,43 +24502,43 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609733748,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71064-000072964E",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 15900.010837,
 					["start_time"] = 1609733745,
 					["delay"] = 0,
-					["damage_taken"] = 15900.010837,
+					["aID"] = "71064",
 				}, -- [71]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.027538,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 					},
 					["targets"] = {
 					},
+					["serial"] = "Creature-0-1465-1148-31811-71076-000072968F",
 					["pets"] = {
 					},
-					["end_time"] = 1609733827,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "71076",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.027538,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 0.027538,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
+					["total"] = 0.027538,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
 					["nome"] = "Petit mystique illusoire",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[142238] = {
 								["c_amt"] = 0,
@@ -24894,16 +24567,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609733827,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71076-000072968F",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 103547.027538,
 					["start_time"] = 1609733824,
 					["delay"] = 0,
-					["damage_taken"] = 103547.027538,
+					["fight_component"] = true,
 				}, -- [72]
 				{
 					["flag_original"] = 2632,
@@ -24916,24 +24590,23 @@ _detalhes_database = {
 						["Kotlin"] = 36739,
 						["Sikari la Tisse-brume"] = 33403,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-1465-1148-31811-71829-00007296FE",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "71829",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 70142.016447,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 70142.016447,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609733912,
-					["dps_started"] = false,
-					["total"] = 70142.016447,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Grand éventreur illusoire",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 2,
@@ -24966,16 +24639,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609733912,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71829-00007296FE",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 405877.016447,
 					["start_time"] = 1609733868,
 					["delay"] = 0,
-					["damage_taken"] = 405877.016447,
+					["aID"] = "71829",
 				}, -- [73]
 				{
 					["flag_original"] = 2632,
@@ -24988,24 +24662,23 @@ _detalhes_database = {
 						["Kotlin"] = 35024,
 						["Sikari la Tisse-brume"] = 6229,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-1465-1148-31811-71830-0000F2971C",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "71830",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 41253.010555,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 41253.010555,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609733949,
-					["dps_started"] = false,
-					["total"] = 41253.010555,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Petit éventreur illusoire",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 1,
@@ -25038,16 +24711,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609733949,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71830-0000F2971C",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 362021.010555,
 					["start_time"] = 1609733917,
 					["delay"] = 0,
-					["damage_taken"] = 362021.010555,
+					["aID"] = "71830",
 				}, -- [74]
 				{
 					["flag_original"] = 2632,
@@ -25060,24 +24734,23 @@ _detalhes_database = {
 						["Kotlin"] = 51909,
 						["Sikari la Tisse-brume"] = 84052,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-1465-1148-31811-71831-0000F29744",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "71831",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 135961.011301,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 135961.011301,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609734001,
-					["dps_started"] = false,
-					["total"] = 135961.011301,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Grand fourrageur illusoire",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 2,
@@ -25140,16 +24813,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609734001,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71831-0000F29744",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 865540.011301,
 					["start_time"] = 1609733958,
 					["delay"] = 0,
-					["damage_taken"] = 865540.011301,
+					["aID"] = "71831",
 				}, -- [75]
 				{
 					["flag_original"] = 2632,
@@ -25162,24 +24836,23 @@ _detalhes_database = {
 						["Kotlin"] = 24618,
 						["Sikari la Tisse-brume"] = 30613,
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-1465-1148-31811-71832-0000729776",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "71832",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 55231.008667,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 55231.008667,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609734028,
-					["dps_started"] = false,
-					["total"] = 55231.008667,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Petit fourrageur illusoire",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 3,
@@ -25243,16 +24916,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609734028,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71832-0000729776",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 510492.008667,
 					["start_time"] = 1609734007,
 					["delay"] = 0,
-					["damage_taken"] = 510492.008667,
+					["aID"] = "71832",
 				}, -- [76]
 				{
 					["flag_original"] = 68168,
@@ -25262,24 +24936,23 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-1465-1148-31811-71414-00007297CF",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "71414",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.008688999999999999,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 0.008688999999999999,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609734119,
-					["dps_started"] = false,
-					["total"] = 0.008688999999999999,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Grand lance-bananes illusoire",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[142639] = {
 								["c_amt"] = 0,
@@ -25336,43 +25009,43 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609734119,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71414-00007297CF",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 15390.008689,
 					["start_time"] = 1609734116,
 					["delay"] = 0,
-					["damage_taken"] = 15390.008689,
+					["aID"] = "71414",
 				}, -- [77]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.028417,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Kotlin"] = true,
 					},
 					["targets"] = {
 					},
+					["serial"] = "Creature-0-1465-1148-31811-71415-00007297F2",
 					["pets"] = {
 					},
-					["end_time"] = 1609734160,
-					["friendlyfire"] = {
-					},
+					["last_dps"] = 0,
 					["aID"] = "71415",
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.028417,
-					["fight_component"] = true,
 					["dps_started"] = false,
-					["total"] = 0.028417,
-					["classe"] = "UNKNOW",
 					["monster"] = true,
+					["total"] = 0.028417,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
 					["nome"] = "Petit lance-bananes illusoire",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[142639] = {
 								["c_amt"] = 0,
@@ -25430,16 +25103,17 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609734160,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71415-00007297F2",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 27306.028417,
 					["start_time"] = 1609734157,
 					["delay"] = 0,
-					["damage_taken"] = 27306.028417,
+					["fight_component"] = true,
 				}, -- [78]
 				{
 					["flag_original"] = 2632,
@@ -25449,24 +25123,23 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["on_hold"] = false,
+					["serial"] = "Creature-0-1465-1148-31811-71075-0000729847",
 					["pets"] = {
 					},
-					["monster"] = true,
-					["aID"] = "71075",
+					["last_dps"] = 0,
+					["dps_started"] = false,
+					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.012678,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 0.012678,
 					["friendlyfire"] = {
 					},
-					["end_time"] = 1609734229,
-					["dps_started"] = false,
-					["total"] = 0.012678,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["last_event"] = 0,
 					["nome"] = "Petite banshee illusoire",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[142838] = {
 								["c_amt"] = 0,
@@ -25521,17 +25194,164 @@ _detalhes_database = {
 								["r_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["last_event"] = 0,
+					["end_time"] = 1609734229,
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-1465-1148-31811-71075-0000729847",
+					["on_hold"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["damage_taken"] = 5266.012678,
 					["start_time"] = 1609734226,
 					["delay"] = 0,
-					["damage_taken"] = 5266.012678,
+					["aID"] = "71075",
 				}, -- [79]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.013403,
+					["damage_from"] = {
+						["Kotlin"] = true,
+					},
+					["targets"] = {
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["dps_started"] = false,
+					["damage_taken"] = 36256.013403,
+					["aID"] = "80312",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.013403,
+					["total"] = 0.013403,
+					["monster"] = true,
+					["end_time"] = 1609790362,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["nome"] = "Grutush le Pilleur",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1609790359,
+					["serial"] = "Creature-0-1465-1116-26796-80312-0000737368",
+					["friendlyfire"] = {
+					},
+				}, -- [80]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.005743,
+					["damage_from"] = {
+						["Kotlin"] = true,
+					},
+					["targets"] = {
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["dps_started"] = false,
+					["damage_taken"] = 322240.005743,
+					["aID"] = "80242",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.005743,
+					["total"] = 0.005743,
+					["monster"] = true,
+					["end_time"] = 1609790391,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["nome"] = "Glacecroc",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1609790388,
+					["serial"] = "Creature-0-1465-1116-26796-80242-0000737366",
+					["friendlyfire"] = {
+					},
+				}, -- [81]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.010232,
+					["damage_from"] = {
+						["Kotlin"] = true,
+					},
+					["targets"] = {
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["dps_started"] = false,
+					["damage_taken"] = 281309.010232,
+					["aID"] = "80192",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.010232,
+					["total"] = 0.010232,
+					["monster"] = true,
+					["end_time"] = 1609790391,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["nome"] = "Chauve-souris des grottes gelées",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Kotlin"] = 0,
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 14,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["b_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_dmg"] = 0,
+								["n_amt"] = 0,
+								["DODGE"] = 2,
+								["MISS"] = 12,
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["fight_component"] = true,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1609790388,
+					["serial"] = "Creature-0-1465-1116-26796-80192-0003737366",
+					["friendlyfire"] = {
+					},
+				}, -- [82]
 			},
 		}, -- [1]
 		{
@@ -25565,7 +25385,7 @@ _detalhes_database = {
 					},
 					["totalover_without_pet"] = 0.06793800000000001,
 					["healing_taken"] = 194126.067938,
-					["boss_fight_component"] = true,
+					["start_time"] = 1609728383,
 					["fight_component"] = true,
 					["end_time"] = 1609728875,
 					["healing_from"] = {
@@ -25574,10 +25394,9 @@ _detalhes_database = {
 						["Skwooma-KhazModan"] = true,
 						["Kotlin"] = true,
 					},
-					["heal_enemy_amt"] = 0,
-					["nome"] = "Aliyiah-Hyjal",
+					["aID"] = "1390-088AC4B8",
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 3,
 						["_ActorTable"] = {
 							[345689] = {
 								["c_amt"] = 3,
@@ -25599,9 +25418,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 366,
+								["n_amt"] = 15,
 								["n_curado"] = 772,
 								["totaldenied"] = 0,
-								["n_amt"] = 15,
 								["absorbed"] = 0,
 							},
 							[178963] = {
@@ -25624,9 +25443,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 26,
 								["n_curado"] = 19450,
 								["totaldenied"] = 0,
-								["n_amt"] = 26,
 								["absorbed"] = 0,
 							},
 							[330945] = {
@@ -25649,9 +25468,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 4,
 								["n_curado"] = 3800,
 								["totaldenied"] = 0,
-								["n_amt"] = 4,
 								["absorbed"] = 0,
 							},
 							[203794] = {
@@ -25674,9 +25493,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 352,
 								["n_curado"] = 45883,
 								["totaldenied"] = 0,
-								["n_amt"] = 352,
 								["absorbed"] = 0,
 							},
 							[212106] = {
@@ -25699,9 +25518,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 4001,
+								["n_amt"] = 77,
 								["n_curado"] = 7614,
 								["totaldenied"] = 0,
-								["n_amt"] = 77,
 								["absorbed"] = 0,
 							},
 							[329352] = {
@@ -25724,9 +25543,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 21,
 								["n_curado"] = 4232,
 								["totaldenied"] = 0,
-								["n_amt"] = 21,
 								["absorbed"] = 0,
 							},
 							[210042] = {
@@ -25749,9 +25568,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 16,
 								["n_curado"] = 6571,
 								["totaldenied"] = 0,
-								["n_amt"] = 16,
 								["absorbed"] = 0,
 							},
 							[343013] = {
@@ -25774,9 +25593,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 4,
 								["n_curado"] = 1616,
 								["totaldenied"] = 0,
-								["n_amt"] = 4,
 								["absorbed"] = 0,
 							},
 							[228477] = {
@@ -25799,22 +25618,23 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 16432,
+								["n_amt"] = 182,
 								["n_curado"] = 28554,
 								["totaldenied"] = 0,
-								["n_amt"] = 182,
 								["absorbed"] = 0,
 							},
 						},
+						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["start_time"] = 1609728383,
-					["spec"] = 581,
-					["custom"] = 0,
+					["nome"] = "Aliyiah-Hyjal",
 					["tipo"] = 2,
-					["aID"] = "1390-088AC4B8",
+					["custom"] = 0,
+					["last_event"] = 0,
+					["spec"] = 581,
 					["totaldenied"] = 0.06793800000000001,
 					["delay"] = 0,
-					["last_event"] = 0,
+					["heal_enemy_amt"] = 0,
 				}, -- [1]
 				{
 					["flag_original"] = 1298,
@@ -25851,17 +25671,16 @@ _detalhes_database = {
 					},
 					["totalover_without_pet"] = 0.069739,
 					["healing_taken"] = 27425.069739,
-					["boss_fight_component"] = true,
+					["start_time"] = 1609728481,
 					["fight_component"] = true,
 					["end_time"] = 1609728875,
-					["start_time"] = 1609728481,
 					["healing_from"] = {
 						["Skwooma-KhazModan"] = true,
 						["Kotlin"] = true,
 					},
 					["nome"] = "Skwooma-KhazModan",
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 3,
 						["_ActorTable"] = {
 							[114852] = {
 								["c_amt"] = 14,
@@ -25893,9 +25712,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 1835,
+								["n_amt"] = 22,
 								["n_curado"] = 1966,
 								["totaldenied"] = 0,
-								["n_amt"] = 22,
 								["absorbed"] = 0,
 							},
 							[325983] = {
@@ -25926,9 +25745,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 2974,
+								["n_amt"] = 70,
 								["n_curado"] = 4620,
 								["totaldenied"] = 0,
-								["n_amt"] = 70,
 								["absorbed"] = 0,
 							},
 							[114871] = {
@@ -25951,9 +25770,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 850,
+								["n_amt"] = 8,
 								["n_curado"] = 3292,
 								["totaldenied"] = 0,
-								["n_amt"] = 8,
 								["absorbed"] = 0,
 							},
 							[330945] = {
@@ -25976,9 +25795,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 4,
 								["n_curado"] = 3268,
 								["totaldenied"] = 0,
-								["n_amt"] = 4,
 								["absorbed"] = 0,
 							},
 							[25914] = {
@@ -26009,9 +25828,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 15180,
+								["n_amt"] = 17,
 								["n_curado"] = 7245,
 								["totaldenied"] = 0,
-								["n_amt"] = 17,
 								["absorbed"] = 0,
 							},
 							[330927] = {
@@ -26034,9 +25853,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 24,
 								["n_curado"] = 4684,
 								["totaldenied"] = 0,
-								["n_amt"] = 24,
 								["absorbed"] = 0,
 							},
 							[183998] = {
@@ -26064,31 +25883,6 @@ _detalhes_database = {
 								["n_amt"] = 1,
 								["absorbed"] = 0,
 							},
-							[633] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-									["Tourdemagyps-KhazModan"] = 714,
-								},
-								["n_max"] = 3058,
-								["targets"] = {
-									["Tourdemagyps-KhazModan"] = 3058,
-								},
-								["n_min"] = 0,
-								["counter"] = 1,
-								["overheal"] = 714,
-								["total"] = 3058,
-								["c_max"] = 0,
-								["id"] = 633,
-								["targets_absorbs"] = {
-								},
-								["c_min"] = 0,
-								["c_curado"] = 0,
-								["n_curado"] = 3058,
-								["totaldenied"] = 0,
-								["n_amt"] = 1,
-								["absorbed"] = 0,
-							},
 							[53652] = {
 								["c_amt"] = 0,
 								["totalabsorb"] = 0,
@@ -26109,9 +25903,41 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 146,
 								["n_curado"] = 19170,
 								["totaldenied"] = 0,
-								["n_amt"] = 146,
+								["absorbed"] = 0,
+							},
+							[19750] = {
+								["c_amt"] = 8,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Aliyiah-Hyjal"] = 631,
+									["Kotlin"] = 535,
+									["Skwooma-KhazModan"] = 100,
+									["Miklów-Hyjal"] = 372,
+								},
+								["n_max"] = 570,
+								["targets"] = {
+									["Tourdemagyps-KhazModan"] = 1045,
+									["Kotlin"] = 3283,
+									["Aliyiah-Hyjal"] = 3626,
+									["Skwooma-KhazModan"] = 2079,
+									["Miklów-Hyjal"] = 3980,
+								},
+								["n_min"] = 0,
+								["counter"] = 21,
+								["overheal"] = 1638,
+								["total"] = 14013,
+								["c_max"] = 1136,
+								["id"] = 19750,
+								["targets_absorbs"] = {
+								},
+								["c_min"] = 0,
+								["c_curado"] = 7146,
+								["n_amt"] = 13,
+								["n_curado"] = 6867,
+								["totaldenied"] = 0,
 								["absorbed"] = 0,
 							},
 							[143924] = {
@@ -26133,9 +25959,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 150,
 								["n_curado"] = 1597,
 								["totaldenied"] = 0,
-								["n_amt"] = 150,
 								["absorbed"] = 0,
 							},
 							[85673] = {
@@ -26160,9 +25986,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 6221,
+								["n_amt"] = 10,
 								["n_curado"] = 9476,
 								["totaldenied"] = 0,
-								["n_amt"] = 10,
 								["absorbed"] = 0,
 							},
 							[323436] = {
@@ -26184,64 +26010,58 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 2,
 								["n_curado"] = 1734,
 								["totaldenied"] = 0,
-								["n_amt"] = 2,
 								["absorbed"] = 0,
 							},
-							[19750] = {
-								["c_amt"] = 8,
+							[633] = {
+								["c_amt"] = 0,
 								["totalabsorb"] = 0,
 								["targets_overheal"] = {
-									["Aliyiah-Hyjal"] = 631,
-									["Skwooma-KhazModan"] = 100,
-									["Miklów-Hyjal"] = 372,
-									["Kotlin"] = 535,
+									["Tourdemagyps-KhazModan"] = 714,
 								},
-								["n_max"] = 570,
+								["n_max"] = 3058,
 								["targets"] = {
-									["Tourdemagyps-KhazModan"] = 1045,
-									["Kotlin"] = 3283,
-									["Aliyiah-Hyjal"] = 3626,
-									["Skwooma-KhazModan"] = 2079,
-									["Miklów-Hyjal"] = 3980,
+									["Tourdemagyps-KhazModan"] = 3058,
 								},
 								["n_min"] = 0,
-								["counter"] = 21,
-								["overheal"] = 1638,
-								["total"] = 14013,
-								["c_max"] = 1136,
-								["id"] = 19750,
+								["counter"] = 1,
+								["overheal"] = 714,
+								["total"] = 3058,
+								["c_max"] = 0,
+								["id"] = 633,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
-								["c_curado"] = 7146,
-								["n_curado"] = 6867,
+								["c_curado"] = 0,
+								["n_amt"] = 1,
+								["n_curado"] = 3058,
 								["totaldenied"] = 0,
-								["n_amt"] = 13,
 								["absorbed"] = 0,
 							},
 						},
+						["tipo"] = 3,
 					},
 					["grupo"] = true,
 					["heal_enemy_amt"] = 0,
-					["classe"] = "PALADIN",
-					["custom"] = 0,
 					["tipo"] = 2,
-					["spec"] = 65,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["classe"] = "PALADIN",
 					["totaldenied"] = 0.069739,
 					["delay"] = 0,
-					["last_event"] = 0,
+					["spec"] = 65,
 				}, -- [2]
 				{
 					["flag_original"] = 1297,
 					["targets_overheal"] = {
 						["Tourdemagyps-KhazModan"] = 1918,
-						["Kotlin"] = 93760,
+						["Kotlin"] = 0,
 						["Aliyiah-Hyjal"] = 2837,
 						["Miklów-Hyjal"] = 4613,
 						["Skwooma-KhazModan"] = 2743,
-						["Sikari la Tisse-brume"] = 9901,
+						["Sikari la Tisse-brume"] = 0,
 					},
 					["pets"] = {
 					},
@@ -26260,35 +26080,34 @@ _detalhes_database = {
 					["last_hps"] = 0,
 					["targets"] = {
 						["Tourdemagyps-KhazModan"] = 2179,
-						["Kotlin"] = 111073,
+						["Kotlin"] = 0,
 						["Aliyiah-Hyjal"] = 6579,
 						["Miklów-Hyjal"] = 755,
 						["Skwooma-KhazModan"] = 925,
-						["Sikari la Tisse-brume"] = 39961,
+						["Sikari la Tisse-brume"] = 0,
 					},
 					["totalover_without_pet"] = 0.170379,
 					["healing_taken"] = 223951.170379,
-					["boss_fight_component"] = true,
+					["start_time"] = 1609728220,
 					["fight_component"] = true,
 					["end_time"] = 1609728875,
-					["start_time"] = 1609728220,
 					["healing_from"] = {
 						["Kotlin"] = true,
 						["Skwooma-KhazModan"] = true,
 						["Sikari la Tisse-brume"] = true,
 					},
 					["nome"] = "Kotlin",
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 3,
 						["_ActorTable"] = {
 							[48438] = {
 								["c_amt"] = 3,
 								["totalabsorb"] = 0,
 								["targets_overheal"] = {
 									["Tourdemagyps-KhazModan"] = 282,
+									["Miklów-Hyjal"] = 536,
 									["Kotlin"] = 2957,
 									["Skwooma-KhazModan"] = 584,
-									["Miklów-Hyjal"] = 536,
 								},
 								["n_max"] = 405,
 								["targets"] = {
@@ -26308,9 +26127,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 137,
+								["n_amt"] = 45,
 								["n_curado"] = 2306,
 								["totaldenied"] = 0,
-								["n_amt"] = 45,
 								["absorbed"] = 0,
 							},
 							[774] = {
@@ -26341,9 +26160,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 4283,
+								["n_amt"] = 97,
 								["n_curado"] = 14800,
 								["totaldenied"] = 0,
-								["n_amt"] = 97,
 								["absorbed"] = 0,
 							},
 							[145109] = {
@@ -26366,9 +26185,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 57,
 								["n_curado"] = 25871,
 								["totaldenied"] = 0,
-								["n_amt"] = 57,
 								["absorbed"] = 0,
 							},
 							[145110] = {
@@ -26398,9 +26217,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 70,
 								["n_curado"] = 15302,
 								["totaldenied"] = 0,
-								["n_amt"] = 70,
 								["absorbed"] = 0,
 							},
 							[18562] = {
@@ -26424,9 +26243,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 4,
 								["n_curado"] = 20759,
 								["totaldenied"] = 0,
-								["n_amt"] = 4,
 								["absorbed"] = 0,
 							},
 							[8936] = {
@@ -26459,22 +26278,23 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 32114,
+								["n_amt"] = 168,
 								["n_curado"] = 45900,
 								["totaldenied"] = 0,
-								["n_amt"] = 168,
 								["absorbed"] = 0,
 							},
 						},
+						["tipo"] = 3,
 					},
 					["grupo"] = true,
 					["heal_enemy_amt"] = 0,
-					["classe"] = "DRUID",
-					["custom"] = 0,
 					["tipo"] = 2,
-					["spec"] = 102,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["classe"] = "DRUID",
 					["totaldenied"] = 0.170379,
 					["delay"] = 0,
-					["last_event"] = 0,
+					["spec"] = 102,
 				}, -- [3]
 				{
 					["flag_original"] = 1298,
@@ -26505,19 +26325,18 @@ _detalhes_database = {
 					},
 					["totalover_without_pet"] = 0.063341,
 					["healing_taken"] = 16372.063341,
-					["boss_fight_component"] = true,
+					["start_time"] = 1609728718,
 					["fight_component"] = true,
 					["end_time"] = 1609728875,
-					["start_time"] = 1609728718,
 					["healing_from"] = {
-						["Kotlin"] = true,
-						["Totem guérisseur <Miklów-Hyjal>"] = true,
-						["Skwooma-KhazModan"] = true,
 						["Miklów-Hyjal"] = true,
+						["Totem guérisseur <Miklów-Hyjal>"] = true,
+						["Kotlin"] = true,
+						["Skwooma-KhazModan"] = true,
 					},
 					["nome"] = "Miklów-Hyjal",
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 3,
 						["_ActorTable"] = {
 							[143924] = {
 								["c_amt"] = 0,
@@ -26538,9 +26357,9 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 98,
 								["n_curado"] = 1189,
 								["totaldenied"] = 0,
-								["n_amt"] = 98,
 								["absorbed"] = 0,
 							},
 							[31616] = {
@@ -26562,22 +26381,23 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 4,
 								["n_curado"] = 3476,
 								["totaldenied"] = 0,
-								["n_amt"] = 4,
 								["absorbed"] = 0,
 							},
 						},
+						["tipo"] = 3,
 					},
 					["grupo"] = true,
 					["heal_enemy_amt"] = 0,
-					["classe"] = "SHAMAN",
-					["custom"] = 0,
 					["tipo"] = 2,
-					["spec"] = 262,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["classe"] = "SHAMAN",
 					["totaldenied"] = 0.063341,
 					["delay"] = 0,
-					["last_event"] = 0,
+					["spec"] = 262,
 				}, -- [4]
 				{
 					["flag_original"] = 1298,
@@ -26604,10 +26424,9 @@ _detalhes_database = {
 					},
 					["totalover_without_pet"] = 0.06687599999999999,
 					["healing_taken"] = 16430.066876,
-					["boss_fight_component"] = true,
+					["start_time"] = 1609728861,
 					["fight_component"] = true,
 					["end_time"] = 1609728875,
-					["start_time"] = 1609728861,
 					["healing_from"] = {
 						["Tourdemagyps-KhazModan"] = true,
 						["Kotlin"] = true,
@@ -26616,8 +26435,8 @@ _detalhes_database = {
 						["Skwooma-KhazModan"] = true,
 					},
 					["nome"] = "Tourdemagyps-KhazModan",
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 3,
 						["_ActorTable"] = {
 							[235313] = {
 								["c_amt"] = 0,
@@ -26639,22 +26458,23 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 6,
 								["n_curado"] = 4239,
 								["totaldenied"] = 0,
-								["n_amt"] = 6,
 								["absorbed"] = 0,
 							},
 						},
+						["tipo"] = 3,
 					},
 					["grupo"] = true,
 					["heal_enemy_amt"] = 0,
-					["classe"] = "MAGE",
-					["custom"] = 0,
 					["tipo"] = 2,
-					["spec"] = 63,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["classe"] = "MAGE",
 					["totaldenied"] = 0.06687599999999999,
 					["delay"] = 0,
-					["last_event"] = 0,
+					["spec"] = 63,
 				}, -- [5]
 				{
 					["flag_original"] = 8466,
@@ -26663,7 +26483,7 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["iniciar_hps"] = false,
-					["aID"] = "3527",
+					["heal_enemy_amt"] = 0,
 					["totalover"] = 706.010853,
 					["total_without_pet"] = 1428.010853,
 					["total"] = 1428.010853,
@@ -26681,9 +26501,7 @@ _detalhes_database = {
 						["Tourdemagyps-KhazModan"] = 333,
 					},
 					["totalover_without_pet"] = 0.010853,
-					["last_event"] = 0,
 					["healing_taken"] = 0.010853,
-					["boss_fight_component"] = true,
 					["fight_component"] = true,
 					["end_time"] = 1609729366,
 					["targets_overheal"] = {
@@ -26692,9 +26510,8 @@ _detalhes_database = {
 						["Kotlin"] = 134,
 					},
 					["ownerName"] = "Miklów-Hyjal",
-					["nome"] = "Totem guérisseur <Miklów-Hyjal>",
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 3,
 						["_ActorTable"] = {
 							[52042] = {
 								["c_amt"] = 2,
@@ -26723,20 +26540,23 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 333,
+								["n_amt"] = 11,
 								["n_curado"] = 1095,
 								["totaldenied"] = 0,
-								["n_amt"] = 11,
 								["absorbed"] = 0,
 							},
 						},
+						["tipo"] = 3,
 					},
+					["nome"] = "Totem guérisseur <Miklów-Hyjal>",
 					["classe"] = "PET",
-					["heal_enemy_amt"] = 0,
-					["custom"] = 0,
-					["tipo"] = 2,
 					["start_time"] = 1609729339,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["aID"] = "3527",
 					["totaldenied"] = 0.010853,
 					["delay"] = 0,
+					["tipo"] = 2,
 				}, -- [6]
 				{
 					["flag_original"] = 4370,
@@ -26748,24 +26568,25 @@ _detalhes_database = {
 					["targets"] = {
 						["Elémentaire de feu primordial <Miklów-Hyjal>"] = 2,
 					},
-					["start_time"] = 1609729481,
+					["heal_enemy_amt"] = 0,
 					["pets"] = {
 					},
-					["iniciar_hps"] = false,
+					["totalover_without_pet"] = 0.017114,
 					["targets_overheal"] = {
 					},
-					["heal_enemy_amt"] = 0,
+					["aID"] = "61029",
 					["totalover"] = 0.017114,
 					["total_without_pet"] = 2.017114,
+					["iniciar_hps"] = false,
+					["start_time"] = 1609729481,
 					["healing_taken"] = 2.017114,
-					["totalover_without_pet"] = 0.017114,
-					["classe"] = "PET",
 					["total"] = 2.017114,
-					["aID"] = "61029",
+					["classe"] = "PET",
 					["end_time"] = 1609729485,
-					["nome"] = "Elémentaire de feu primordial <Miklów-Hyjal>",
+					["boss_fight_component"] = true,
+					["targets_absorbs"] = {
+					},
 					["spells"] = {
-						["tipo"] = 3,
 						["_ActorTable"] = {
 							[143924] = {
 								["c_amt"] = 0,
@@ -26786,24 +26607,23 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 1,
 								["n_curado"] = 2,
 								["totaldenied"] = 0,
-								["n_amt"] = 1,
 								["absorbed"] = 0,
 							},
 						},
+						["tipo"] = 3,
 					},
-					["targets_absorbs"] = {
-					},
-					["boss_fight_component"] = true,
+					["nome"] = "Elémentaire de feu primordial <Miklów-Hyjal>",
 					["heal_enemy"] = {
 					},
-					["serial"] = "Creature-0-3892-619-17154-61029-0000728595",
+					["delay"] = 0,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
 					["totaldenied"] = 0.017114,
-					["delay"] = 0,
+					["serial"] = "Creature-0-3892-619-17154-61029-0000728595",
 					["tipo"] = 2,
 				}, -- [7]
 				{
@@ -26815,30 +26635,28 @@ _detalhes_database = {
 						["Sikari la Tisse-brume"] = true,
 					},
 					["targets"] = {
-						["Kotlin"] = 105305,
-						["Sikari la Tisse-brume"] = 64885,
+						["Kotlin"] = 0,
+						["Sikari la Tisse-brume"] = 0,
 					},
-					["aID"] = "71828",
+					["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
 					["pets"] = {
 					},
 					["iniciar_hps"] = false,
 					["targets_overheal"] = {
-						["Kotlin"] = 203236,
-						["Sikari la Tisse-brume"] = 27678,
+						["Kotlin"] = 0,
+						["Sikari la Tisse-brume"] = 0,
 					},
-					["healing_taken"] = 104846.022669,
+					["aID"] = "71828",
 					["totalover"] = 230914.022669,
 					["total_without_pet"] = 170190.022669,
-					["start_time"] = 1609733787,
 					["totalover_without_pet"] = 0.022669,
+					["start_time"] = 1609733787,
 					["fight_component"] = true,
 					["total"] = 170190.022669,
 					["classe"] = "MONK",
-					["targets_absorbs"] = {
-					},
+					["healing_taken"] = 104846.022669,
 					["nome"] = "Sikari la Tisse-brume",
 					["spells"] = {
-						["tipo"] = 3,
 						["_ActorTable"] = {
 							[144080] = {
 								["c_amt"] = 0,
@@ -26862,18 +26680,20 @@ _detalhes_database = {
 								},
 								["c_min"] = 0,
 								["c_curado"] = 0,
+								["n_amt"] = 124,
 								["n_curado"] = 170190,
 								["totaldenied"] = 0,
-								["n_amt"] = 124,
 								["absorbed"] = 0,
 							},
 						},
+						["tipo"] = 3,
 					},
 					["end_time"] = 1609733912,
 					["heal_enemy_amt"] = 0,
 					["heal_enemy"] = {
 					},
-					["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
+					["targets_absorbs"] = {
+					},
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
@@ -26894,28 +26714,28 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["powertype"] = 1,
-					["boss_fight_component"] = true,
 					["classe"] = "DEMONHUNTER",
 					["passiveover"] = 0.003356,
-					["resource_type"] = 17,
+					["boss_fight_component"] = true,
 					["fight_component"] = true,
+					["resource_type"] = 17,
 					["total"] = 0.074969,
 					["totalover"] = 0.003356,
-					["tipo"] = 3,
 					["nome"] = "Aliyiah-Hyjal",
 					["spells"] = {
-						["tipo"] = 7,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 7,
 					},
 					["grupo"] = true,
 					["spec"] = 581,
+					["tipo"] = 3,
 					["flag_original"] = 1298,
-					["alternatepower"] = 0.074969,
 					["last_event"] = 0,
-					["aID"] = "1390-088AC4B8",
+					["alternatepower"] = 0.074969,
 					["isTank"] = true,
 					["serial"] = "Player-1390-088AC4B8",
+					["aID"] = "1390-088AC4B8",
 				}, -- [1]
 				{
 					["received"] = 0.08795299999999999,
@@ -26925,27 +26745,27 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["powertype"] = 0,
-					["boss_fight_component"] = true,
 					["classe"] = "PALADIN",
 					["passiveover"] = 0.008752,
-					["resource_type"] = 9,
 					["fight_component"] = true,
-					["total"] = 0.08795299999999999,
-					["tipo"] = 3,
+					["resource_type"] = 9,
+					["aID"] = "3690-088A97C1",
 					["totalover"] = 0.008752,
-					["nome"] = "Skwooma-KhazModan",
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 7,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 7,
 					},
 					["grupo"] = true,
+					["nome"] = "Skwooma-KhazModan",
 					["spec"] = 65,
+					["tipo"] = 3,
+					["last_event"] = 0,
 					["flag_original"] = 1298,
 					["alternatepower"] = 0.08795299999999999,
-					["last_event"] = 0,
-					["aID"] = "3690-088A97C1",
 					["serial"] = "Player-3690-088A97C1",
+					["total"] = 0.08795299999999999,
 				}, -- [2]
 				{
 					["received"] = 0.08056600000000001,
@@ -26955,48 +26775,45 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["powertype"] = 0,
-					["boss_fight_component"] = true,
 					["classe"] = "SHAMAN",
 					["passiveover"] = 0.004095,
-					["resource_type"] = 11,
 					["fight_component"] = true,
-					["total"] = 0.08056600000000001,
-					["tipo"] = 3,
+					["resource_type"] = 11,
+					["aID"] = "1390-0AB69E05",
 					["totalover"] = 0.004095,
-					["nome"] = "Miklów-Hyjal",
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 7,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 7,
 					},
 					["grupo"] = true,
+					["nome"] = "Miklów-Hyjal",
 					["spec"] = 262,
+					["tipo"] = 3,
+					["last_event"] = 0,
 					["flag_original"] = 1298,
 					["alternatepower"] = 0.08056600000000001,
-					["last_event"] = 0,
-					["aID"] = "1390-0AB69E05",
 					["serial"] = "Player-1390-0AB69E05",
+					["total"] = 0.08056600000000001,
 				}, -- [3]
 				{
-					["received"] = 45.32371500000001,
-					["resource"] = 3368.223715572206,
+					["received"] = 45.32651400000001,
+					["resource"] = 8523.835180762939,
 					["targets"] = {
-						["Kotlin"] = 45,
+						["Kotlin"] = 0,
 					},
 					["pets"] = {
 					},
 					["powertype"] = 0,
-					["boss_fight_component"] = true,
 					["classe"] = "DRUID",
 					["passiveover"] = 0.003497,
-					["resource_type"] = 8,
 					["fight_component"] = true,
-					["total"] = 45.32371500000001,
-					["tipo"] = 3,
+					["resource_type"] = 8,
+					["aID"] = "1127-0973C412",
 					["totalover"] = 0.003497,
-					["nome"] = "Kotlin",
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 7,
 						["_ActorTable"] = {
 							[17057] = {
 								["total"] = 25,
@@ -27012,19 +26829,22 @@ _detalhes_database = {
 								["id"] = 77758,
 								["totalover"] = 0,
 								["targets"] = {
-									["Kotlin"] = 20,
+									["Kotlin"] = 0,
 								},
 								["counter"] = 4,
 							},
 						},
+						["tipo"] = 7,
 					},
 					["grupo"] = true,
+					["nome"] = "Kotlin",
 					["spec"] = 102,
-					["flag_original"] = 1297,
-					["alternatepower"] = 0.323715,
+					["tipo"] = 3,
 					["last_event"] = 0,
-					["aID"] = "1127-0973C412",
+					["flag_original"] = 1297,
+					["alternatepower"] = 0.326514,
 					["serial"] = "Player-1127-0973C412",
+					["total"] = 45.32651400000001,
 				}, -- [4]
 				{
 					["received"] = 0.018422,
@@ -27039,11 +26859,8 @@ _detalhes_database = {
 					["passiveover"] = 0.002112,
 					["fight_component"] = true,
 					["total"] = 0.018422,
-					["tipo"] = 3,
-					["totalover"] = 0.002112,
 					["nome"] = "Tourdemagyps-KhazModan",
 					["spells"] = {
-						["tipo"] = 7,
 						["_ActorTable"] = {
 							[28730] = {
 								["total"] = 0,
@@ -27055,14 +26872,17 @@ _detalhes_database = {
 								["counter"] = 1,
 							},
 						},
+						["tipo"] = 7,
 					},
 					["grupo"] = true,
-					["spec"] = 63,
+					["totalover"] = 0.002112,
+					["aID"] = "3690-09B08781",
 					["flag_original"] = 1298,
+					["tipo"] = 3,
 					["alternatepower"] = 0.018422,
 					["last_event"] = 0,
-					["aID"] = "3690-09B08781",
 					["serial"] = "Player-3690-09B08781",
+					["spec"] = 63,
 				}, -- [5]
 			},
 		}, -- [3]
@@ -27072,7 +26892,6 @@ _detalhes_database = {
 				{
 					["flag_original"] = 1047,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[188389] = {
 								["refreshamt"] = 7,
@@ -27126,6 +26945,7 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["cooldowns_defensive"] = 1.010927,
 					["pets"] = {
@@ -27136,7 +26956,6 @@ _detalhes_database = {
 					},
 					["aID"] = "1390-0AB69E05",
 					["interrupt_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[57994] = {
 								["id"] = 57994,
@@ -27151,16 +26970,16 @@ _detalhes_database = {
 								["counter"] = 3,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["buff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
-							[2383] = {
+							[335149] = {
 								["refreshamt"] = 0,
 								["appliedamt"] = 2,
 								["activedamt"] = 2,
 								["uptime"] = 0,
-								["id"] = 2383,
+								["id"] = 335149,
 								["actived_at"] = 3219459051,
 								["targets"] = {
 								},
@@ -27176,13 +26995,12 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[335149] = {
+							[228128] = {
 								["refreshamt"] = 0,
-								["appliedamt"] = 2,
 								["activedamt"] = 2,
-								["uptime"] = 0,
-								["id"] = 335149,
-								["actived_at"] = 3219459051,
+								["appliedamt"] = 2,
+								["id"] = 228128,
+								["uptime"] = 34,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -27237,32 +27055,23 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[228128] = {
+							[2645] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 2,
+								["activedamt"] = 12,
+								["appliedamt"] = 12,
+								["id"] = 2645,
+								["uptime"] = 19,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[2383] = {
+								["refreshamt"] = 0,
 								["appliedamt"] = 2,
-								["id"] = 228128,
-								["uptime"] = 34,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[342181] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 9,
-								["appliedamt"] = 9,
-								["id"] = 342181,
-								["uptime"] = 61,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[2825] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 3,
-								["appliedamt"] = 3,
-								["id"] = 2825,
-								["uptime"] = 46,
+								["activedamt"] = 2,
+								["uptime"] = 0,
+								["id"] = 2383,
+								["actived_at"] = 3219459051,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -27277,6 +27086,16 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
+							[2825] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 2825,
+								["uptime"] = 46,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
 							[192106] = {
 								["refreshamt"] = 0,
 								["activedamt"] = 15,
@@ -27287,12 +27106,12 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[2645] = {
+							[342181] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 12,
-								["appliedamt"] = 12,
-								["id"] = 2645,
-								["uptime"] = 19,
+								["activedamt"] = 9,
+								["appliedamt"] = 9,
+								["id"] = 342181,
+								["uptime"] = 61,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -27318,6 +27137,7 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["interrompeu_oque"] = {
 						[59102] = 2,
@@ -27335,7 +27155,6 @@ _detalhes_database = {
 					},
 					["serial"] = "Player-1390-0AB69E05",
 					["cc_break_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[188443] = {
 								["cc_break_oque"] = {
@@ -27376,10 +27195,10 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["buff_uptime"] = 1736,
 					["cc_done_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[118905] = {
 								["id"] = 118905,
@@ -27391,15 +27210,15 @@ _detalhes_database = {
 								["counter"] = 3,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["cooldowns_defensive_targets"] = {
 						["Miklów-Hyjal"] = 1,
 					},
-					["debuff_uptime_targets"] = {
-					},
+					["classe"] = "SHAMAN",
 					["fight_component"] = true,
+					["nome"] = "Miklów-Hyjal",
 					["cooldowns_defensive_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[108271] = {
 								["id"] = 108271,
@@ -27409,10 +27228,10 @@ _detalhes_database = {
 								["counter"] = 1,
 							},
 						},
+						["tipo"] = 9,
 					},
-					["boss_fight_component"] = true,
 					["cc_done"] = 3.010545,
-					["nome"] = "Miklów-Hyjal",
+					["boss_fight_component"] = true,
 					["grupo"] = true,
 					["spell_cast"] = {
 						[26297] = 3,
@@ -27442,7 +27261,7 @@ _detalhes_database = {
 					},
 					["interrupt"] = 3.010177000000001,
 					["tipo"] = 4,
-					["classe"] = "SHAMAN",
+					["last_event"] = 0,
 					["cc_break_targets"] = {
 						["Oeil de Taldaram"] = 8,
 						["Geist pilleur"] = 7,
@@ -27452,12 +27271,12 @@ _detalhes_database = {
 						["Apôtre du Crépuscule"] = 1,
 						["Lanceur de sorts ahn'kahar"] = 2,
 					},
-					["last_event"] = 0,
+					["debuff_uptime_targets"] = {
+					},
 				}, -- [1]
 				{
 					["flag_original"] = 1047,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[204242] = {
 								["refreshamt"] = 0,
@@ -27531,6 +27350,7 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["dispell"] = 15.049984,
 					["cooldowns_defensive"] = 3.023567,
@@ -27538,7 +27358,6 @@ _detalhes_database = {
 					},
 					["classe"] = "PALADIN",
 					["buff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[97341] = {
 								["refreshamt"] = 0,
@@ -27632,17 +27451,6 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[2580] = {
-								["refreshamt"] = 0,
-								["appliedamt"] = 1,
-								["activedamt"] = 1,
-								["uptime"] = 0,
-								["id"] = 2580,
-								["actived_at"] = 1609729429,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
 							[2383] = {
 								["refreshamt"] = 0,
 								["appliedamt"] = 1,
@@ -27650,6 +27458,16 @@ _detalhes_database = {
 								["uptime"] = 0,
 								["id"] = 2383,
 								["actived_at"] = 1609729429,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[1022] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 1022,
+								["uptime"] = 10,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -27664,12 +27482,13 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[1022] = {
+							[2580] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 1,
 								["appliedamt"] = 1,
-								["id"] = 1022,
-								["uptime"] = 10,
+								["activedamt"] = 1,
+								["uptime"] = 0,
+								["id"] = 2580,
+								["actived_at"] = 1609729429,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -27757,6 +27576,7 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["debuff_uptime"] = 648,
 					["buff_uptime_targets"] = {
@@ -27768,7 +27588,6 @@ _detalhes_database = {
 					},
 					["serial"] = "Player-3690-088A97C1",
 					["cc_break_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[81297] = {
 								["cc_break_oque"] = {
@@ -27795,10 +27614,10 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["buff_uptime"] = 3438,
 					["cc_done_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[853] = {
 								["id"] = 853,
@@ -27808,6 +27627,7 @@ _detalhes_database = {
 								["counter"] = 1,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["debuff_uptime_targets"] = {
 					},
@@ -27826,7 +27646,6 @@ _detalhes_database = {
 						[59108] = 3,
 					},
 					["dispell_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[4987] = {
 								["dispell"] = 15,
@@ -27842,17 +27661,17 @@ _detalhes_database = {
 								},
 								["targets"] = {
 									["Aliyiah-Hyjal"] = 12,
+									["Kotlin"] = 1,
 									["Skwooma-KhazModan"] = 1,
 									["Miklów-Hyjal"] = 1,
-									["Kotlin"] = 1,
 								},
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["fight_component"] = true,
 					["cooldowns_defensive_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[1022] = {
 								["id"] = 1022,
@@ -27876,6 +27695,7 @@ _detalhes_database = {
 								["counter"] = 1,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["cc_done"] = 1.010783,
 					["nome"] = "Skwooma-KhazModan",
@@ -27910,25 +27730,24 @@ _detalhes_database = {
 						[122] = 6,
 						[31661] = 3,
 					},
-					["dispell_targets"] = {
-						["Aliyiah-Hyjal"] = 12,
-						["Skwooma-KhazModan"] = 1,
-						["Miklów-Hyjal"] = 1,
-						["Kotlin"] = 1,
-					},
 					["last_event"] = 0,
+					["tipo"] = 4,
 					["aID"] = "3690-088A97C1",
 					["cc_break_targets"] = {
 						["Oeil de Taldaram"] = 5,
 						["Porte-givre"] = 4,
 					},
 					["boss_fight_component"] = true,
-					["tipo"] = 4,
+					["dispell_targets"] = {
+						["Aliyiah-Hyjal"] = 12,
+						["Kotlin"] = 1,
+						["Skwooma-KhazModan"] = 1,
+						["Miklów-Hyjal"] = 1,
+					},
 				}, -- [2]
 				{
 					["flag_original"] = 1047,
 					["cc_break_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[164815] = {
 								["cc_break_oque"] = {
@@ -27985,38 +27804,27 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
-					},
-					["cc_done_targets"] = {
-						["Oeil de Taldaram"] = 2,
-						["Geist pilleur"] = 6,
-						["Grand mystique illusoire"] = 1,
-						["Grand éventreur illusoire"] = 1,
-						["Grand fourrageur illusoire"] = 4,
-						["Petit éventreur illusoire"] = 2,
-						["Porte-givre"] = 1,
-						["Petit tisse-ambre illusoire"] = 1,
-						["Gardemort d'obsidienne"] = 4,
-						["Grand pourfendeur illusoire"] = 2,
-					},
-					["debuff_uptime_spells"] = {
 						["tipo"] = 9,
+					},
+					["interrupt"] = 3.013752,
+					["debuff_uptime_spells"] = {
 						["_ActorTable"] = {
-							[155722] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 0,
-								["appliedamt"] = 4,
-								["id"] = 155722,
-								["uptime"] = 37,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
 							[61391] = {
 								["refreshamt"] = 0,
 								["activedamt"] = 0,
 								["appliedamt"] = 18,
 								["id"] = 61391,
 								["uptime"] = 26,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[192090] = {
+								["refreshamt"] = 1,
+								["activedamt"] = 0,
+								["appliedamt"] = 4,
+								["id"] = 192090,
+								["uptime"] = 42,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -28032,12 +27840,13 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[192090] = {
-								["refreshamt"] = 1,
-								["activedamt"] = 0,
-								["appliedamt"] = 4,
-								["id"] = 192090,
-								["uptime"] = 42,
+							[164815] = {
+								["actived_at"] = 1609731915,
+								["refreshamt"] = 28,
+								["activedamt"] = 8,
+								["appliedamt"] = 164,
+								["id"] = 164815,
+								["uptime"] = 856,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -28052,16 +27861,6 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[57724] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 57724,
-								["uptime"] = 66,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
 							[78675] = {
 								["refreshamt"] = 0,
 								["activedamt"] = 0,
@@ -28072,27 +27871,47 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[164815] = {
-								["actived_at"] = 1609731915,
-								["refreshamt"] = 28,
-								["activedamt"] = 8,
-								["appliedamt"] = 157,
-								["id"] = 164815,
-								["uptime"] = 854,
+							[57724] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 57724,
+								["uptime"] = 66,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[155722] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 4,
+								["id"] = 155722,
+								["uptime"] = 37,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
-					["boss_fight_component"] = true,
-					["buff_uptime"] = 8993,
+					["buff_uptime_targets"] = {
+					},
+					["cc_done_targets"] = {
+						["Oeil de Taldaram"] = 2,
+						["Geist pilleur"] = 6,
+						["Grand mystique illusoire"] = 1,
+						["Grand éventreur illusoire"] = 1,
+						["Grand fourrageur illusoire"] = 4,
+						["Petit éventreur illusoire"] = 2,
+						["Porte-givre"] = 1,
+						["Petit tisse-ambre illusoire"] = 1,
+						["Gardemort d'obsidienne"] = 4,
+						["Grand pourfendeur illusoire"] = 2,
+					},
 					["pets"] = {
 					},
-					["debuff_uptime_targets"] = {
-					},
+					["grupo"] = true,
 					["cc_done_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[155722] = {
 								["id"] = 155722,
@@ -28126,10 +27945,10 @@ _detalhes_database = {
 								["counter"] = 18,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["aID"] = "1127-0973C412",
 					["interrupt_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[97547] = {
 								["id"] = 97547,
@@ -28145,9 +27964,9 @@ _detalhes_database = {
 								["counter"] = 3,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["buff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[26297] = {
 								["refreshamt"] = 0,
@@ -28159,52 +27978,52 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[165961] = {
+							[5215] = {
 								["refreshamt"] = 0,
 								["activedamt"] = 1,
 								["appliedamt"] = 1,
-								["id"] = 165961,
-								["uptime"] = 3,
+								["id"] = 5215,
+								["uptime"] = 56,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[209746] = {
-								["refreshamt"] = 5,
-								["activedamt"] = 20,
-								["appliedamt"] = 20,
-								["id"] = 209746,
-								["uptime"] = 141,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[342814] = {
-								["refreshamt"] = 34,
-								["activedamt"] = 53,
-								["appliedamt"] = 53,
-								["id"] = 342814,
-								["uptime"] = 820,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[323764] = {
+							[48438] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 8,
-								["appliedamt"] = 8,
-								["id"] = 323764,
-								["uptime"] = 31,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 48438,
+								["uptime"] = 12,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
 							[24858] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 86,
-								["appliedamt"] = 86,
+								["activedamt"] = 88,
+								["appliedamt"] = 88,
 								["id"] = 24858,
-								["uptime"] = 1293,
+								["uptime"] = 1298,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[48517] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 34,
+								["appliedamt"] = 34,
+								["id"] = 48517,
+								["uptime"] = 405,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[165961] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 165961,
+								["uptime"] = 3,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -28239,16 +28058,6 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[40120] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 0,
-								["appliedamt"] = 0,
-								["id"] = 40120,
-								["uptime"] = 0,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
 							[48518] = {
 								["refreshamt"] = 2,
 								["activedamt"] = 31,
@@ -28259,22 +28068,32 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
+							[335149] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 85,
+								["appliedamt"] = 85,
+								["id"] = 335149,
+								["uptime"] = 1444,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
 							[345230] = {
 								["refreshamt"] = 12,
-								["activedamt"] = 41,
-								["appliedamt"] = 41,
+								["activedamt"] = 42,
+								["appliedamt"] = 42,
 								["id"] = 345230,
 								["uptime"] = 366,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[48438] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 48438,
-								["uptime"] = 12,
+							[342814] = {
+								["refreshamt"] = 34,
+								["activedamt"] = 54,
+								["appliedamt"] = 54,
+								["id"] = 342814,
+								["uptime"] = 829,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -28289,12 +28108,12 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[5215] = {
+							[40120] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 1,
-								["appliedamt"] = 1,
-								["id"] = 5215,
-								["uptime"] = 56,
+								["activedamt"] = 0,
+								["appliedamt"] = 0,
+								["id"] = 40120,
+								["uptime"] = 0,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -28309,32 +28128,32 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[324748] = {
-								["refreshamt"] = 26,
-								["activedamt"] = 55,
-								["appliedamt"] = 55,
-								["id"] = 324748,
-								["uptime"] = 492,
+							[209746] = {
+								["refreshamt"] = 5,
+								["activedamt"] = 21,
+								["appliedamt"] = 21,
+								["id"] = 209746,
+								["uptime"] = 150,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[339946] = {
+							[323764] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 30,
-								["appliedamt"] = 30,
-								["id"] = 339946,
-								["uptime"] = 127,
+								["activedamt"] = 8,
+								["appliedamt"] = 8,
+								["id"] = 323764,
+								["uptime"] = 31,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[335149] = {
+							[194223] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 83,
-								["appliedamt"] = 83,
-								["id"] = 335149,
-								["uptime"] = 1433,
+								["activedamt"] = 8,
+								["appliedamt"] = 8,
+								["id"] = 194223,
+								["uptime"] = 89,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -28381,10 +28200,10 @@ _detalhes_database = {
 							},
 							[227723] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 83,
-								["appliedamt"] = 83,
+								["activedamt"] = 85,
+								["appliedamt"] = 85,
 								["id"] = 227723,
-								["uptime"] = 1433,
+								["uptime"] = 1444,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -28421,32 +28240,32 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[194223] = {
+							[339946] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 8,
-								["appliedamt"] = 8,
-								["id"] = 194223,
-								["uptime"] = 89,
+								["activedamt"] = 30,
+								["appliedamt"] = 30,
+								["id"] = 339946,
+								["uptime"] = 127,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[48517] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 34,
-								["appliedamt"] = 34,
-								["id"] = 48517,
-								["uptime"] = 405,
+							[324748] = {
+								["refreshamt"] = 26,
+								["activedamt"] = 55,
+								["appliedamt"] = 55,
+								["id"] = 324748,
+								["uptime"] = 492,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
 							[269083] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 45,
-								["appliedamt"] = 45,
+								["activedamt"] = 47,
+								["appliedamt"] = 47,
 								["id"] = 269083,
-								["uptime"] = 267,
+								["uptime"] = 278,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -28472,44 +28291,44 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
-					["interrupt_targets"] = {
-						["Petit tisse-ambre illusoire"] = 1,
-						["Petit mystique illusoire"] = 1,
-						["Grand tisse-ambre illusoire"] = 1,
-					},
+					["buff_uptime"] = 9049,
 					["interrompeu_oque"] = {
 						[142189] = 2,
 						[142238] = 1,
 					},
 					["fight_component"] = true,
-					["debuff_uptime"] = 2079,
+					["debuff_uptime"] = 2081,
 					["classe"] = "DRUID",
 					["cc_done"] = 24.028695,
-					["buff_uptime_targets"] = {
-					},
+					["nome"] = "Kotlin",
 					["spec"] = 102,
-					["grupo"] = true,
-					["interrupt"] = 3.013752,
+					["cc_break"] = 19.023759,
+					["interrupt_targets"] = {
+						["Petit tisse-ambre illusoire"] = 1,
+						["Petit mystique illusoire"] = 1,
+						["Grand tisse-ambre illusoire"] = 1,
+					},
 					["spell_cast"] = {
 						[26297] = 6,
-						[24858] = 17,
+						[24858] = 18,
 						[774] = 1,
 						[5487] = 1,
 						[78674] = 91,
-						[8921] = 100,
+						[8921] = 101,
 						[324748] = 73,
 						[323764] = 8,
 						[194223] = 5,
 						[191034] = 20,
-						[48438] = 1,
 						[59986] = 4,
+						[48438] = 1,
 						[190984] = 200,
 						[102359] = 2,
 						[783] = 1,
 						[61391] = 5,
 						[8936] = 12,
-						[93402] = 98,
+						[93402] = 99,
 						[768] = 2,
 						[78675] = 5,
 						[18562] = 3,
@@ -28520,9 +28339,10 @@ _detalhes_database = {
 						[122] = 6,
 						[102359] = 2,
 					},
-					["nome"] = "Kotlin",
+					["debuff_uptime_targets"] = {
+					},
+					["last_event"] = 0,
 					["tipo"] = 4,
-					["cc_break"] = 19.023759,
 					["cc_break_targets"] = {
 						["Oeil de Taldaram"] = 4,
 						["Lanceur de sorts ahn'kahar"] = 2,
@@ -28533,12 +28353,11 @@ _detalhes_database = {
 						["Briseur ahn'kahar"] = 3,
 					},
 					["serial"] = "Player-1127-0973C412",
-					["last_event"] = 0,
+					["boss_fight_component"] = true,
 				}, -- [3]
 				{
 					["flag_original"] = 1047,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[204598] = {
 								["refreshamt"] = 16,
@@ -28626,6 +28445,7 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["dispell"] = 7.023807,
 					["cooldowns_defensive"] = 6.024899,
@@ -28633,7 +28453,6 @@ _detalhes_database = {
 					},
 					["aID"] = "1390-088AC4B8",
 					["interrupt_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[183752] = {
 								["id"] = 183752,
@@ -28650,9 +28469,9 @@ _detalhes_database = {
 								["counter"] = 5,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["buff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[187827] = {
 								["refreshamt"] = 0,
@@ -28724,13 +28543,12 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[335149] = {
+							[311493] = {
 								["refreshamt"] = 0,
-								["appliedamt"] = 1,
-								["activedamt"] = 1,
-								["uptime"] = 0,
-								["id"] = 335149,
-								["actived_at"] = 1609729430,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 311493,
+								["uptime"] = 21,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -28745,12 +28563,22 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[311493] = {
+							[311499] = {
 								["refreshamt"] = 0,
 								["activedamt"] = 3,
 								["appliedamt"] = 3,
-								["id"] = 311493,
-								["uptime"] = 21,
+								["id"] = 311499,
+								["uptime"] = 13,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[258920] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 39,
+								["appliedamt"] = 39,
+								["id"] = 258920,
+								["uptime"] = 232,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -28765,12 +28593,12 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[311499] = {
+							[131347] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 3,
-								["appliedamt"] = 3,
-								["id"] = 311499,
-								["uptime"] = 13,
+								["activedamt"] = 0,
+								["appliedamt"] = 0,
+								["id"] = 131347,
+								["uptime"] = 0,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -28785,16 +28613,6 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[131347] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 0,
-								["appliedamt"] = 0,
-								["id"] = 131347,
-								["uptime"] = 0,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
 							[311497] = {
 								["refreshamt"] = 0,
 								["activedamt"] = 3,
@@ -28805,12 +28623,12 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[311496] = {
+							[72221] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 311496,
-								["uptime"] = 14,
+								["activedamt"] = 13,
+								["appliedamt"] = 13,
+								["id"] = 72221,
+								["uptime"] = 507,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -28835,12 +28653,12 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[72221] = {
+							[311498] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 13,
-								["appliedamt"] = 13,
-								["id"] = 72221,
-								["uptime"] = 507,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 311498,
+								["uptime"] = 4,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -28855,22 +28673,22 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[258920] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 39,
-								["appliedamt"] = 39,
-								["id"] = 258920,
-								["uptime"] = 232,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
 							[212084] = {
 								["refreshamt"] = 0,
 								["activedamt"] = 10,
 								["appliedamt"] = 10,
 								["id"] = 212084,
 								["uptime"] = 18,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[311496] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 311496,
+								["uptime"] = 14,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -28885,17 +28703,19 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[311498] = {
+							[335149] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 311498,
-								["uptime"] = 4,
+								["appliedamt"] = 1,
+								["activedamt"] = 1,
+								["uptime"] = 0,
+								["id"] = 335149,
+								["actived_at"] = 1609729430,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["interrompeu_oque"] = {
 						[59102] = 2,
@@ -28909,7 +28729,6 @@ _detalhes_database = {
 					["cc_break"] = 15.012517,
 					["serial"] = "Player-1390-088AC4B8",
 					["cc_break_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[320334] = {
 								["cc_break_oque"] = {
@@ -28972,9 +28791,11 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["buff_uptime"] = 3143,
-					["classe"] = "DEMONHUNTER",
+					["debuff_uptime_targets"] = {
+					},
 					["cooldowns_defensive_targets"] = {
 						["Prince Taldaram"] = 1,
 						["Porte-givre"] = 1,
@@ -28988,7 +28809,6 @@ _detalhes_database = {
 						[56716] = 4,
 					},
 					["dispell_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[278326] = {
 								["dispell"] = 6,
@@ -29017,17 +28837,11 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["fight_component"] = true,
-					["dispell_targets"] = {
-						["Porte-givre"] = 4,
-						["Invocateur noir du Crépuscule"] = 1,
-						["Apôtre du Crépuscule"] = 2,
-					},
-					["debuff_uptime_targets"] = {
-					},
+					["interrupt"] = 5.027705000000001,
 					["cooldowns_defensive_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[187827] = {
 								["id"] = 187827,
@@ -29047,8 +28861,10 @@ _detalhes_database = {
 								["counter"] = 4,
 							},
 						},
+						["tipo"] = 9,
 					},
-					["nome"] = "Aliyiah-Hyjal",
+					["classe"] = "DEMONHUNTER",
+					["boss_fight_component"] = true,
 					["grupo"] = true,
 					["spell_cast"] = {
 						[187827] = 2,
@@ -29065,39 +28881,42 @@ _detalhes_database = {
 						[278326] = 6,
 						[185245] = 10,
 						[225921] = 113,
-						[311444] = 7,
-						[203795] = 23,
 						[204157] = 10,
+						[203795] = 23,
+						[311444] = 7,
 						[209693] = 30,
 						[263642] = 119,
 						[202137] = 2,
-						[131347] = 6,
 						[212084] = 10,
+						[131347] = 6,
 						[324748] = 28,
 					},
 					["cc_break_oque"] = {
 						[122] = 13,
 						[31661] = 2,
 					},
-					["interrupt_targets"] = {
-						["Porte-givre"] = 2,
-						["Lanceur de sorts ahn'kahar"] = 2,
-						["Héraut Volazj"] = 1,
-					},
 					["tipo"] = 4,
-					["interrupt"] = 5.027705000000001,
+					["last_event"] = 0,
+					["nome"] = "Aliyiah-Hyjal",
 					["cc_break_targets"] = {
 						["Porte-givre"] = 4,
 						["Geist pilleur"] = 8,
 						["Oeil de Taldaram"] = 3,
 					},
-					["boss_fight_component"] = true,
-					["last_event"] = 0,
+					["interrupt_targets"] = {
+						["Porte-givre"] = 2,
+						["Lanceur de sorts ahn'kahar"] = 2,
+						["Héraut Volazj"] = 1,
+					},
+					["dispell_targets"] = {
+						["Porte-givre"] = 4,
+						["Invocateur noir du Crépuscule"] = 1,
+						["Apôtre du Crépuscule"] = 2,
+					},
 				}, -- [4]
 				{
 					["flag_original"] = 1047,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[31661] = {
 								["refreshamt"] = 0,
@@ -29190,6 +29009,7 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["dispell"] = 3.001264,
 					["cooldowns_defensive"] = 1.010637,
@@ -29197,7 +29017,6 @@ _detalhes_database = {
 					},
 					["classe"] = "MAGE",
 					["interrupt_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[2139] = {
 								["id"] = 2139,
@@ -29212,9 +29031,9 @@ _detalhes_database = {
 								["counter"] = 2,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["buff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[310143] = {
 								["refreshamt"] = 0,
@@ -29391,6 +29210,7 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["interrompeu_oque"] = {
 						[59102] = 1,
@@ -29412,7 +29232,6 @@ _detalhes_database = {
 					},
 					["serial"] = "Player-3690-09B08781",
 					["cc_break_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[12654] = {
 								["cc_break_oque"] = {
@@ -29427,11 +29246,12 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
-					["boss_fight_component"] = true,
+					["debuff_uptime_targets"] = {
+					},
 					["buff_uptime"] = 2085,
 					["cc_done_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[31661] = {
 								["id"] = 31661,
@@ -29455,6 +29275,7 @@ _detalhes_database = {
 								["counter"] = 14,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["cooldowns_defensive_targets"] = {
 						["Tourdemagyps-KhazModan"] = 1,
@@ -29464,7 +29285,6 @@ _detalhes_database = {
 						[13338] = 1,
 					},
 					["dispell_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[28730] = {
 								["dispell"] = 1,
@@ -29500,9 +29320,12 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
-					},
-					["cooldowns_defensive_spells"] = {
 						["tipo"] = 9,
+					},
+					["interrupt"] = 2.011034,
+					["fight_component"] = true,
+					["nome"] = "Tourdemagyps-KhazModan",
+					["cooldowns_defensive_spells"] = {
 						["_ActorTable"] = {
 							[45438] = {
 								["id"] = 45438,
@@ -29512,17 +29335,10 @@ _detalhes_database = {
 								["counter"] = 1,
 							},
 						},
-					},
-					["fight_component"] = true,
-					["dispell_targets"] = {
-						["Invocateur noir du Crépuscule"] = 1,
-						["Skwooma-KhazModan"] = 1,
-						["Adorateur du Crépuscule"] = 1,
-					},
-					["debuff_uptime_targets"] = {
+						["tipo"] = 9,
 					},
 					["cc_done"] = 31.03262,
-					["nome"] = "Tourdemagyps-KhazModan",
+					["boss_fight_component"] = true,
 					["grupo"] = true,
 					["spell_cast"] = {
 						[310143] = 1,
@@ -29533,65 +29349,69 @@ _detalhes_database = {
 						[45438] = 1,
 						[59638] = 81,
 						[2139] = 3,
-						[59994] = 1,
 						[116] = 1,
-						[30449] = 2,
+						[28730] = 1,
+						[2120] = 30,
 						[324701] = 1,
 						[190336] = 1,
-						[2120] = 30,
-						[44457] = 7,
-						[28730] = 1,
 						[475] = 1,
+						[44457] = 7,
 						[122] = 3,
-						[108853] = 70,
+						[30449] = 2,
+						[59994] = 1,
+						[55342] = 3,
 						[257541] = 30,
 						[314791] = 1,
 						[133] = 17,
 						[325130] = 4,
-						[343393] = 3,
-						[2948] = 45,
-						[55342] = 3,
 						[343396] = 7,
-						[11366] = 44,
+						[2948] = 45,
 						[116014] = 10,
+						[108853] = 70,
+						[11366] = 44,
+						[343393] = 3,
 					},
 					["cc_break_oque"] = {
 						[122] = 5,
 					},
-					["interrupt_targets"] = {
-						["Porte-givre"] = 1,
-						["Lanceur de sorts ahn'kahar"] = 1,
-					},
 					["last_event"] = 0,
+					["tipo"] = 4,
 					["aID"] = "3690-09B08781",
 					["cc_break_targets"] = {
 						["Porte-givre"] = 3,
 						["Oeil de Taldaram"] = 2,
 					},
-					["interrupt"] = 2.011034,
-					["tipo"] = 4,
+					["interrupt_targets"] = {
+						["Porte-givre"] = 1,
+						["Lanceur de sorts ahn'kahar"] = 1,
+					},
+					["dispell_targets"] = {
+						["Invocateur noir du Crépuscule"] = 1,
+						["Skwooma-KhazModan"] = 1,
+						["Adorateur du Crépuscule"] = 1,
+					},
 				}, -- [5]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Rampante des profondeurs",
 					["spell_cast"] = {
 						[59108] = 2,
 					},
-					["nome"] = "Rampante des profondeurs",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 2632,
+					["tipo"] = 4,
 					["aID"] = "30279",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-3892-619-17154-30279-000072830F",
-					["tipo"] = 4,
+					["flag_original"] = 2632,
 				}, -- [6]
 				{
 					["flag_original"] = 8466,
+					["tipo"] = 4,
 					["ownerName"] = "Miklów-Hyjal",
 					["nome"] = "Pustule écumante <Miklów-Hyjal>",
-					["tipo"] = 4,
 					["spell_cast"] = {
 						[345495] = 119,
 					},
@@ -29606,38 +29426,36 @@ _detalhes_database = {
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Guetteur ahn'kahar",
 					["spell_cast"] = {
 						[42746] = 2,
 						[56643] = 1,
 						[56646] = 1,
 					},
-					["nome"] = "Guetteur ahn'kahar",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 68168,
+					["tipo"] = 4,
 					["aID"] = "31104",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-3892-619-17154-31104-000072830F",
-					["tipo"] = 4,
+					["flag_original"] = 68168,
 				}, -- [8]
 				{
 					["flag_original"] = 8466,
-					["last_event"] = 0,
+					["classe"] = "PET",
 					["ownerName"] = "Miklów-Hyjal",
-					["cc_done"] = 3.006718,
 					["nome"] = "Totem condensateur <Miklów-Hyjal>",
+					["cc_done"] = 3.006718,
 					["tipo"] = 4,
-					["spell_cast"] = {
-						[118905] = 2,
-					},
 					["cc_done_targets"] = {
 						["Briseur ahn'kahar"] = 1,
 						["Marcheur de peste"] = 1,
 						["Lanceur de sorts ahn'kahar"] = 1,
 					},
+					["pets"] = {
+					},
 					["cc_done_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[118905] = {
 								["id"] = 118905,
@@ -29649,87 +29467,89 @@ _detalhes_database = {
 								["counter"] = 3,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["aID"] = "61245",
-					["pets"] = {
+					["spell_cast"] = {
+						[118905] = 2,
 					},
 					["serial"] = "Creature-0-3892-619-17154-61245-000072837B",
-					["classe"] = "PET",
+					["last_event"] = 0,
 				}, -- [9]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Briseur ahn'kahar",
 					["spell_cast"] = {
 						[42746] = 9,
 						[56643] = 6,
 						[32714] = 3,
 					},
-					["nome"] = "Briseur ahn'kahar",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 2632,
+					["tipo"] = 4,
 					["aID"] = "30277",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-3892-619-17154-30277-0004F2830F",
-					["tipo"] = 4,
+					["flag_original"] = 2632,
 				}, -- [10]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Marcheur de peste",
 					["spell_cast"] = {
 						[61459] = 2,
 						[56707] = 2,
 					},
-					["nome"] = "Marcheur de peste",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 2632,
+					["tipo"] = 4,
 					["aID"] = "30283",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-3892-619-17154-30283-000272830F",
-					["tipo"] = 4,
+					["flag_original"] = 2632,
 				}, -- [11]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Lanceur de sorts ahn'kahar",
 					["spell_cast"] = {
 						[59103] = 1,
 					},
-					["nome"] = "Lanceur de sorts ahn'kahar",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 2632,
+					["tipo"] = 4,
 					["aID"] = "30278",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-3892-619-17154-30278-000072830F",
-					["tipo"] = 4,
+					["flag_original"] = 2632,
 				}, -- [12]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Tisseuse ahn'kahar",
 					["spell_cast"] = {
 						[59106] = 4,
 						[56632] = 2,
 					},
-					["nome"] = "Tisseuse ahn'kahar",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 2632,
+					["tipo"] = 4,
 					["aID"] = "30276",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-3892-619-17154-30276-000072830F",
-					["tipo"] = 4,
+					["flag_original"] = 2632,
 				}, -- [13]
 				{
 					["flag_original"] = 2632,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 9,
 					},
 					["pets"] = {
 					},
@@ -29754,8 +29574,8 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
-					["damage_spellid"] = 59467,
 					["boss_fight_component"] = true,
+					["damage_spellid"] = 59467,
 					["last_event"] = 0,
 					["tipo"] = 4,
 					["damage_twin"] = "Ancien Nadox",
@@ -29765,20 +29585,20 @@ _detalhes_database = {
 				}, -- [14]
 				{
 					["flag_original"] = 2632,
+					["classe"] = "UNKNOW",
 					["boss_fight_component"] = true,
 					["monster"] = true,
-					["pets"] = {
-					},
-					["classe"] = "UNKNOW",
-					["nome"] = "Ancien Nadox",
-					["tipo"] = 4,
 					["spell_cast"] = {
 						[59465] = 2,
 						[59467] = 2,
 					},
+					["nome"] = "Ancien Nadox",
+					["tipo"] = 4,
+					["last_event"] = 0,
 					["aID"] = "29309",
 					["serial"] = "Creature-0-3892-619-17154-29309-000072830F",
-					["last_event"] = 0,
+					["pets"] = {
+					},
 				}, -- [15]
 				{
 					["flag_original"] = 4370,
@@ -29800,9 +29620,9 @@ _detalhes_database = {
 				{
 					["flag_original"] = 68168,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 9,
 					},
 					["pets"] = {
 					},
@@ -29820,8 +29640,8 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
-					["damage_spellid"] = 59482,
 					["boss_fight_component"] = true,
+					["damage_spellid"] = 59482,
 					["last_event"] = 0,
 					["tipo"] = 4,
 					["damage_twin"] = "Gardien ahn'kahar",
@@ -29832,9 +29652,9 @@ _detalhes_database = {
 				{
 					["flag_original"] = 2632,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 9,
 					},
 					["pets"] = {
 					},
@@ -29859,8 +29679,8 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
-					["damage_spellid"] = 1604,
 					["boss_fight_component"] = true,
+					["damage_spellid"] = 1604,
 					["last_event"] = 0,
 					["tipo"] = 4,
 					["damage_twin"] = "Grouillant ahn'kahar",
@@ -29874,14 +29694,13 @@ _detalhes_database = {
 					},
 					["classe"] = "UNKNOW",
 					["interrupt_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[59111] = {
 								["id"] = 59111,
 								["interrompeu_oque"] = {
+									[2948] = 1,
 									[19750] = 2,
 									[133] = 1,
-									[2948] = 1,
 								},
 								["targets"] = {
 									["Skwooma-KhazModan"] = 2,
@@ -29890,11 +29709,12 @@ _detalhes_database = {
 								["counter"] = 4,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["interrompeu_oque"] = {
+						[2948] = 1,
 						[19750] = 2,
 						[133] = 1,
-						[2948] = 1,
 					},
 					["fight_component"] = true,
 					["nome"] = "Oeil de Taldaram",
@@ -29908,72 +29728,72 @@ _detalhes_database = {
 						[17289] = 16,
 						[61463] = 6,
 					},
-					["monster"] = true,
 					["last_event"] = 0,
 					["tipo"] = 4,
-					["interrupt"] = 4.01121,
-					["serial"] = "Creature-0-3892-619-17154-30285-000172830F",
 					["aID"] = "30285",
+					["monster"] = true,
+					["serial"] = "Creature-0-3892-619-17154-30285-000172830F",
+					["interrupt"] = 4.01121,
 				}, -- [19]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Porte-givre",
 					["spell_cast"] = {
 						[56716] = 5,
 						[61461] = 22,
 						[61462] = 5,
 					},
-					["nome"] = "Porte-givre",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 2632,
+					["tipo"] = 4,
 					["aID"] = "30286",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-3892-619-17154-30286-000172830F",
-					["tipo"] = 4,
+					["flag_original"] = 2632,
 				}, -- [20]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
-					["spell_cast"] = {
-						[59107] = 5,
-						[19134] = 2,
-						[8599] = 2,
-						[56737] = 1,
-					},
 					["nome"] = "Broyeur d'os",
+					["spell_cast"] = {
+						[56737] = 1,
+						[59107] = 5,
+						[8599] = 2,
+						[19134] = 2,
+					},
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 2632,
+					["tipo"] = 4,
 					["aID"] = "30284",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-3892-619-17154-30284-0000F2830F",
-					["tipo"] = 4,
+					["flag_original"] = 2632,
 				}, -- [21]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Geist pilleur",
 					["spell_cast"] = {
 						[59114] = 25,
 					},
-					["nome"] = "Geist pilleur",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 2632,
+					["tipo"] = 4,
 					["aID"] = "30287",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-3892-619-17154-30287-0001F2830F",
-					["tipo"] = 4,
+					["flag_original"] = 2632,
 				}, -- [22]
 				{
 					["flag_original"] = 68168,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 9,
 					},
 					["pets"] = {
 					},
@@ -29998,8 +29818,8 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
-					["damage_spellid"] = 59513,
 					["boss_fight_component"] = true,
+					["damage_spellid"] = 59513,
 					["last_event"] = 0,
 					["tipo"] = 4,
 					["damage_twin"] = "Prince Taldaram",
@@ -30009,43 +29829,42 @@ _detalhes_database = {
 				}, -- [23]
 				{
 					["flag_original"] = 68168,
+					["classe"] = "UNKNOW",
 					["boss_fight_component"] = true,
 					["monster"] = true,
-					["pets"] = {
-					},
-					["classe"] = "UNKNOW",
-					["nome"] = "Prince Taldaram",
-					["tipo"] = 4,
 					["spell_cast"] = {
 						[55964] = 2,
 						[59513] = 2,
 					},
+					["nome"] = "Prince Taldaram",
+					["tipo"] = 4,
+					["last_event"] = 0,
 					["aID"] = "29308",
 					["serial"] = "Creature-0-3892-619-17154-29308-000072830F",
-					["last_event"] = 0,
+					["pets"] = {
+					},
 				}, -- [24]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Adorateur du Crépuscule",
 					["spell_cast"] = {
 						[61567] = 8,
 						[61568] = 4,
 					},
-					["nome"] = "Adorateur du Crépuscule",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 68168,
+					["tipo"] = 4,
 					["aID"] = "30111",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-3892-619-17154-30111-0002F2830F",
-					["tipo"] = 4,
+					["flag_original"] = 68168,
 				}, -- [25]
 				{
 					["flag_original"] = 2632,
 					["boss_fight_component"] = true,
 					["monster"] = true,
-					["classe"] = "UNKNOW",
 					["pets"] = {
 					},
 					["spell_cast"] = {
@@ -30054,6 +29873,7 @@ _detalhes_database = {
 						[28902] = 4,
 					},
 					["nome"] = "Apôtre du Crépuscule",
+					["classe"] = "UNKNOW",
 					["tipo"] = 4,
 					["fight_component"] = true,
 					["aID"] = "30179",
@@ -30063,26 +29883,26 @@ _detalhes_database = {
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Invocateur noir du Crépuscule",
 					["spell_cast"] = {
 						[61562] = 7,
 						[61563] = 6,
 						[13338] = 4,
 					},
-					["nome"] = "Invocateur noir du Crépuscule",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 2632,
+					["tipo"] = 4,
 					["aID"] = "30319",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-3892-619-17154-30319-000272830F",
-					["tipo"] = 4,
+					["flag_original"] = 2632,
 				}, -- [27]
 				{
 					["fight_component"] = true,
+					["aID"] = "3527",
 					["ownerName"] = "Miklów-Hyjal",
 					["nome"] = "Totem guérisseur <Miklów-Hyjal>",
-					["aID"] = "3527",
 					["pets"] = {
 					},
 					["flag_original"] = 8466,
@@ -30096,28 +29916,28 @@ _detalhes_database = {
 				}, -- [28]
 				{
 					["flag_original"] = 2632,
+					["classe"] = "UNKNOW",
 					["boss_fight_component"] = true,
 					["monster"] = true,
-					["pets"] = {
-					},
-					["classe"] = "UNKNOW",
-					["nome"] = "Jedoga Cherchelombre",
-					["tipo"] = 4,
 					["spell_cast"] = {
 						[60032] = 3,
 						[60030] = 2,
 						[60029] = 1,
 					},
+					["nome"] = "Jedoga Cherchelombre",
+					["tipo"] = 4,
+					["last_event"] = 0,
 					["aID"] = "29310",
 					["serial"] = "Creature-0-3892-619-17154-29310-000072830F",
-					["last_event"] = 0,
+					["pets"] = {
+					},
 				}, -- [29]
 				{
 					["flag_original"] = 2632,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 9,
 					},
 					["pets"] = {
 					},
@@ -30149,8 +29969,8 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
-					["damage_spellid"] = 60029,
 					["boss_fight_component"] = true,
+					["damage_spellid"] = 60029,
 					["last_event"] = 0,
 					["tipo"] = 4,
 					["damage_twin"] = "Jedoga Cherchelombre",
@@ -30161,27 +29981,27 @@ _detalhes_database = {
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Oublié",
 					["spell_cast"] = {
 						[34322] = 5,
 						[60848] = 8,
 						[60851] = 7,
 					},
-					["nome"] = "Oublié",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 68168,
+					["tipo"] = 4,
 					["aID"] = "30414",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-3892-619-17154-30414-000172830F",
-					["tipo"] = 4,
+					["flag_original"] = 68168,
 				}, -- [31]
 				{
 					["flag_original"] = 68168,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 9,
 					},
 					["pets"] = {
 					},
@@ -30199,8 +30019,8 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
-					["damage_spellid"] = 59974,
 					["boss_fight_component"] = true,
+					["damage_spellid"] = 59974,
 					["last_event"] = 0,
 					["tipo"] = 4,
 					["damage_twin"] = "Héraut Volazj",
@@ -30210,28 +30030,28 @@ _detalhes_database = {
 				}, -- [32]
 				{
 					["flag_original"] = 68168,
+					["classe"] = "UNKNOW",
 					["boss_fight_component"] = true,
 					["monster"] = true,
-					["pets"] = {
-					},
-					["classe"] = "UNKNOW",
-					["nome"] = "Héraut Volazj",
-					["tipo"] = 4,
 					["spell_cast"] = {
 						[59978] = 1,
 						[59974] = 2,
 						[59975] = 1,
 					},
+					["nome"] = "Héraut Volazj",
+					["tipo"] = 4,
+					["last_event"] = 0,
 					["aID"] = "29311",
 					["serial"] = "Creature-0-3892-619-17154-29311-000072830F",
-					["last_event"] = 0,
+					["pets"] = {
+					},
 				}, -- [33]
 				{
 					["flag_original"] = 68168,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 9,
 					},
 					["pets"] = {
 					},
@@ -30249,8 +30069,8 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
-					["damage_spellid"] = 59978,
 					["boss_fight_component"] = true,
+					["damage_spellid"] = 59978,
 					["last_event"] = 0,
 					["tipo"] = 4,
 					["damage_twin"] = "Héraut Volazj",
@@ -30261,222 +30081,222 @@ _detalhes_database = {
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Grande chauve-souris des grottes",
 					["spell_cast"] = {
 						[166342] = 1,
 						[166347] = 1,
 					},
-					["nome"] = "Grande chauve-souris des grottes",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 68168,
+					["tipo"] = 4,
 					["aID"] = "96287",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-4236-1220-31909-96287-00007275D0",
-					["tipo"] = 4,
+					["flag_original"] = 68168,
 				}, -- [35]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Défenseur conjuré",
 					["spell_cast"] = {
 						[196649] = 1,
 					},
-					["nome"] = "Défenseur conjuré",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 2632,
+					["tipo"] = 4,
 					["aID"] = "96298",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-4236-1220-31909-96298-0000728CFE",
-					["tipo"] = 4,
+					["flag_original"] = 2632,
 				}, -- [36]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Gardemort d'obsidienne",
 					["spell_cast"] = {
 						[207292] = 6,
 						[207315] = 13,
 						[207294] = 6,
 						[207298] = 5,
 					},
-					["nome"] = "Gardemort d'obsidienne",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 68168,
+					["tipo"] = 4,
 					["aID"] = "125951",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-4236-1220-31909-125951-00007275CF",
-					["tipo"] = 4,
+					["flag_original"] = 68168,
 				}, -- [37]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Arru",
 					["spell_cast"] = {
 						[215741] = 1,
 					},
-					["nome"] = "Arru",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 68168,
+					["tipo"] = 4,
 					["aID"] = "97220",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-4236-1220-31909-97220-00007275CF",
-					["tipo"] = 4,
+					["flag_original"] = 68168,
 				}, -- [38]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Profania",
 					["spell_cast"] = {
 						[207729] = 1,
 					},
-					["nome"] = "Profania",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 68168,
+					["tipo"] = 4,
 					["aID"] = "104513",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-4236-1220-31909-104513-00007275CF",
-					["tipo"] = 4,
+					["flag_original"] = 68168,
 				}, -- [39]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Embusquée ailevile",
 					["spell_cast"] = {
 						[215315] = 2,
 					},
-					["nome"] = "Embusquée ailevile",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 68168,
+					["tipo"] = 4,
 					["aID"] = "97591",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-4236-1220-31909-97591-0000F28FFD",
-					["tipo"] = 4,
+					["flag_original"] = 68168,
 				}, -- [40]
 				{
 					["flag_original"] = 2632,
-					["monster"] = true,
 					["aID"] = "96878",
 					["nome"] = "Rampelorgne des catacombes",
+					["fight_component"] = true,
 					["pets"] = {
 					},
+					["monster"] = true,
+					["last_event"] = 0,
+					["tipo"] = 4,
 					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-4236-1220-31909-96878-00007275CF",
 					["spell_cast"] = {
 						[219167] = 4,
 					},
-					["tipo"] = 4,
-					["fight_component"] = true,
-					["serial"] = "Creature-0-4236-1220-31909-96878-00007275CF",
-					["last_event"] = 0,
 				}, -- [41]
 				{
 					["flag_original"] = 2632,
-					["monster"] = true,
-					["nome"] = "Petit gardien illusoire",
 					["last_event"] = 0,
+					["nome"] = "Petit gardien illusoire",
+					["monster"] = true,
 					["pets"] = {
 					},
 					["spell_cast"] = {
 						[142174] = 21,
 					},
-					["fight_component"] = true,
+					["classe"] = "UNKNOW",
 					["tipo"] = 4,
 					["aID"] = "71079",
 					["serial"] = "Creature-0-1465-1148-31811-71079-00007294AF",
-					["classe"] = "UNKNOW",
+					["fight_component"] = true,
 				}, -- [42]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Grand tisse-ambre illusoire",
 					["spell_cast"] = {
 						[142189] = 1,
 					},
-					["nome"] = "Grand tisse-ambre illusoire",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 68168,
+					["tipo"] = 4,
 					["aID"] = "71068",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-1465-1148-31811-71068-00007295F9",
-					["tipo"] = 4,
+					["flag_original"] = 68168,
 				}, -- [43]
 				{
 					["flag_original"] = 68168,
-					["monster"] = true,
 					["aID"] = "71069",
 					["nome"] = "Grand mystique illusoire",
+					["fight_component"] = true,
 					["pets"] = {
 					},
+					["monster"] = true,
+					["last_event"] = 0,
+					["tipo"] = 4,
 					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-1465-1148-31811-71069-0000729626",
 					["spell_cast"] = {
 						[142238] = 4,
 					},
-					["tipo"] = 4,
-					["fight_component"] = true,
-					["serial"] = "Creature-0-1465-1148-31811-71069-0000729626",
-					["last_event"] = 0,
 				}, -- [44]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Grand gardien illusoire",
 					["spell_cast"] = {
 						[142174] = 2,
 					},
-					["nome"] = "Grand gardien illusoire",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 68168,
+					["tipo"] = 4,
 					["aID"] = "71064",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-1465-1148-31811-71064-000072964E",
-					["tipo"] = 4,
+					["flag_original"] = 68168,
 				}, -- [45]
 				{
 					["flag_original"] = 2632,
-					["monster"] = true,
 					["aID"] = "71077",
 					["nome"] = "Petit tisse-ambre illusoire",
+					["fight_component"] = true,
 					["pets"] = {
 						"Détonation de globule d’ambre <Petit tisse-ambre illusoire>", -- [1]
 					},
+					["monster"] = true,
+					["last_event"] = 0,
+					["tipo"] = 4,
 					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-1465-1148-31811-71077-000072968F",
 					["spell_cast"] = {
 						[142189] = 11,
 					},
-					["tipo"] = 4,
-					["fight_component"] = true,
-					["serial"] = "Creature-0-1465-1148-31811-71077-000072968F",
-					["last_event"] = 0,
 				}, -- [46]
 				{
 					["flag_original"] = 2632,
-					["monster"] = true,
 					["aID"] = "71076",
 					["nome"] = "Petit mystique illusoire",
+					["fight_component"] = true,
 					["pets"] = {
 					},
+					["monster"] = true,
+					["last_event"] = 0,
+					["tipo"] = 4,
 					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-1465-1148-31811-71076-000072968F",
 					["spell_cast"] = {
 						[142238] = 6,
 					},
-					["tipo"] = 4,
-					["fight_component"] = true,
-					["serial"] = "Creature-0-1465-1148-31811-71076-000072968F",
-					["last_event"] = 0,
 				}, -- [47]
 				{
 					["flag_original"] = 8776,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 9,
 					},
 					["pets"] = {
 					},
@@ -30486,7 +30306,6 @@ _detalhes_database = {
 					["spellschool"] = 8,
 					["ownerName"] = "Petit tisse-ambre illusoire",
 					["nome"] = "Détonation de globule d’ambre <Petit tisse-ambre illusoire>",
-					["damage_spellid"] = 142191,
 					["debuff_uptime_targets"] = {
 						["Kotlin"] = {
 							["uptime"] = 12,
@@ -30496,22 +30315,21 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
+					["aID"] = "73332",
 					["last_event"] = 0,
 					["damage_twin"] = "Globule d’ambre volatil",
-					["aID"] = "73332",
+					["damage_spellid"] = 142191,
 					["serial"] = "Creature-0-1465-1148-31811-73332-000072969D",
 					["tipo"] = 4,
 				}, -- [48]
 				{
 					["flag_original"] = 1047,
-					["last_event"] = 0,
+					["pets"] = {
+					},
 					["fight_component"] = true,
 					["nome"] = "Sikari la Tisse-brume",
 					["grupo"] = true,
 					["buff_uptime_targets"] = {
-					},
-					["buff_uptime"] = 161,
-					["pets"] = {
 					},
 					["spell_cast"] = {
 						[144103] = 18,
@@ -30519,10 +30337,11 @@ _detalhes_database = {
 						[144080] = 5,
 						[144076] = 8,
 					},
+					["buff_uptime"] = 161,
+					["last_event"] = 0,
 					["aID"] = "71828",
 					["classe"] = "MONK",
 					["buff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[144080] = {
 								["refreshamt"] = 8,
@@ -30545,6 +30364,7 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["serial"] = "Creature-0-1465-1148-31811-71828-00007296F4",
 					["tipo"] = 4,
@@ -30552,83 +30372,83 @@ _detalhes_database = {
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Grand fourrageur illusoire",
 					["spell_cast"] = {
 						[144113] = 19,
 					},
-					["nome"] = "Grand fourrageur illusoire",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 68168,
+					["tipo"] = 4,
 					["aID"] = "71831",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-1465-1148-31811-71831-0002729744",
-					["tipo"] = 4,
+					["flag_original"] = 68168,
 				}, -- [50]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Petit fourrageur illusoire",
 					["spell_cast"] = {
 						[144113] = 12,
 					},
-					["nome"] = "Petit fourrageur illusoire",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 2632,
+					["tipo"] = 4,
 					["aID"] = "71832",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-1465-1148-31811-71832-0002729776",
-					["tipo"] = 4,
+					["flag_original"] = 2632,
 				}, -- [51]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Grand lance-bananes illusoire",
 					["spell_cast"] = {
 						[142639] = 1,
 					},
-					["nome"] = "Grand lance-bananes illusoire",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 2632,
+					["tipo"] = 4,
 					["aID"] = "71414",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-1465-1148-31811-71414-00007297CF",
-					["tipo"] = 4,
+					["flag_original"] = 2632,
 				}, -- [52]
 				{
 					["flag_original"] = 2632,
-					["monster"] = true,
 					["aID"] = "71415",
 					["nome"] = "Petit lance-bananes illusoire",
+					["fight_component"] = true,
 					["pets"] = {
 					},
+					["monster"] = true,
+					["last_event"] = 0,
+					["tipo"] = 4,
 					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-1465-1148-31811-71415-00007297F2",
 					["spell_cast"] = {
 						[142639] = 3,
 					},
-					["tipo"] = 4,
-					["fight_component"] = true,
-					["serial"] = "Creature-0-1465-1148-31811-71415-00007297F2",
-					["last_event"] = 0,
 				}, -- [53]
 				{
 					["monster"] = true,
 					["classe"] = "UNKNOW",
+					["nome"] = "Petite banshee illusoire",
 					["spell_cast"] = {
 						[142838] = 2,
 						[141578] = 2,
 					},
-					["nome"] = "Petite banshee illusoire",
 					["pets"] = {
 					},
 					["fight_component"] = true,
-					["flag_original"] = 2632,
+					["tipo"] = 4,
 					["aID"] = "71075",
 					["last_event"] = 0,
 					["serial"] = "Creature-0-1465-1148-31811-71075-0000729856",
-					["tipo"] = 4,
+					["flag_original"] = 2632,
 				}, -- [54]
 			},
 		}, -- [4]
@@ -30644,13 +30464,15 @@ _detalhes_database = {
 		},
 		["alternate_power"] = {
 		},
+		["spells_cast_timeline"] = {
+		},
 		["combat_counter"] = 1918,
 		["totals"] = {
-			6906940.620400998, -- [1]
+			7546745.650477998, -- [1]
 			584295.4369539998, -- [2]
 			{
 				0.07161299999999998, -- [1]
-				[0] = 45.49220000000001,
+				[0] = 45.49499900000001,
 				["alternatepower"] = 0,
 				[3] = 0,
 				[6] = 0,
@@ -30658,10 +30480,10 @@ _detalhes_database = {
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["debuff_uptime"] = 0,
 				["cooldowns_defensive"] = 11.051093,
-				["interrupt"] = 17.073878,
 				["dispell"] = 25.075055,
+				["interrupt"] = 17.073878,
+				["debuff_uptime"] = 0,
 				["cc_break"] = 69.07697800000001,
 				["dead"] = 0,
 			}, -- [4]
@@ -30670,206 +30492,22 @@ _detalhes_database = {
 		},
 		["player_last_events"] = {
 		},
-		["spells_cast_timeline"] = {
-		},
 		["frags_need_refresh"] = false,
 		["aura_timeline"] = {
 		},
 		["__call"] = {
 		},
 		["data_inicio"] = "03:54:06",
-		["end_time"] = 14790.124,
+		["end_time"] = 70854.094,
 		["cleu_events"] = {
 			["n"] = 1,
 		},
-		["segments_added"] = {
-			{
-				["elapsed"] = 21.01000000000022,
-				["type"] = 0,
-				["name"] = "Petit gardien illusoire",
-				["clock"] = "05:25:05",
-			}, -- [1]
-			{
-				["elapsed"] = 43.00600000000122,
-				["type"] = 0,
-				["name"] = "Petite vermine illusoire",
-				["clock"] = "05:24:14",
-			}, -- [2]
-			{
-				["elapsed"] = 18.0010000000002,
-				["type"] = 0,
-				["name"] = "Petit gardien illusoire",
-				["clock"] = "05:23:31",
-			}, -- [3]
-			{
-				["elapsed"] = 20.003999999999,
-				["type"] = 0,
-				["name"] = "Petit lance-bananes illusoire",
-				["clock"] = "05:22:49",
-			}, -- [4]
-			{
-				["elapsed"] = 30.003999999999,
-				["type"] = 0,
-				["name"] = "Petit mystique illusoire",
-				["clock"] = "05:22:10",
-			}, -- [5]
-			{
-				["elapsed"] = 25.00500000000102,
-				["type"] = 0,
-				["name"] = "Grand lance-bananes illusoire",
-				["clock"] = "05:21:34",
-			}, -- [6]
-			{
-				["elapsed"] = 22.01000000000022,
-				["type"] = 0,
-				["name"] = "Petit pourfendeur illusoire",
-				["clock"] = "05:21:05",
-			}, -- [7]
-			{
-				["elapsed"] = 22.0049999999992,
-				["type"] = 0,
-				["name"] = "Petit fourrageur illusoire",
-				["clock"] = "05:20:06",
-			}, -- [8]
-			{
-				["elapsed"] = 45.00799999999981,
-				["type"] = 0,
-				["name"] = "Grand fourrageur illusoire",
-				["clock"] = "05:19:16",
-			}, -- [9]
-			{
-				["elapsed"] = 33.0010000000002,
-				["type"] = 0,
-				["name"] = "Petit éventreur illusoire",
-				["clock"] = "05:18:36",
-			}, -- [10]
-			{
-				["elapsed"] = 26.0059999999994,
-				["type"] = 0,
-				["name"] = "Grand éventreur illusoire",
-				["clock"] = "05:18:06",
-			}, -- [11]
-			{
-				["elapsed"] = 14.00799999999981,
-				["type"] = 0,
-				["name"] = "Grand mystique illusoire",
-				["clock"] = "05:17:15",
-			}, -- [12]
-			{
-				["elapsed"] = 52.00900000000002,
-				["type"] = 0,
-				["name"] = "Petit gardien illusoire",
-				["clock"] = "05:16:15",
-			}, -- [13]
-			{
-				["elapsed"] = 37.01399999999921,
-				["type"] = 0,
-				["name"] = "Grand mystique illusoire",
-				["clock"] = "05:15:11",
-			}, -- [14]
-			{
-				["elapsed"] = 19,
-				["type"] = 0,
-				["name"] = "Petite vermine illusoire",
-				["clock"] = "05:14:31",
-			}, -- [15]
-			{
-				["elapsed"] = 18.00200000000041,
-				["type"] = 0,
-				["name"] = "Petite vermine illusoire",
-				["clock"] = "05:13:45",
-			}, -- [16]
-			{
-				["elapsed"] = 16.00199999999859,
-				["type"] = 0,
-				["name"] = "Petit pourfendeur illusoire",
-				["clock"] = "05:13:11",
-			}, -- [17]
-			{
-				["elapsed"] = 14.0109999999986,
-				["type"] = 0,
-				["name"] = "Petite vermine illusoire",
-				["clock"] = "05:12:30",
-			}, -- [18]
-			{
-				["elapsed"] = 24.00200000000041,
-				["type"] = 0,
-				["name"] = "Petit pourfendeur illusoire",
-				["clock"] = "05:12:00",
-			}, -- [19]
-			{
-				["elapsed"] = 19,
-				["type"] = 0,
-				["name"] = "Immense pourfendeur illusoire",
-				["clock"] = "05:11:10",
-			}, -- [20]
-			{
-				["elapsed"] = 37.00200000000041,
-				["type"] = 0,
-				["name"] = "Petite vermine illusoire",
-				["clock"] = "05:10:05",
-			}, -- [21]
-			{
-				["elapsed"] = 22.00699999999961,
-				["type"] = 0,
-				["name"] = "Petit gardien illusoire",
-				["clock"] = "05:09:10",
-			}, -- [22]
-			{
-				["elapsed"] = 16.00500000000102,
-				["type"] = 0,
-				["name"] = "Petit gardien illusoire",
-				["clock"] = "05:08:14",
-			}, -- [23]
-			{
-				["elapsed"] = 10.01400000000103,
-				["type"] = 0,
-				["name"] = "Grand pourfendeur illusoire",
-				["clock"] = "05:07:46",
-			}, -- [24]
-			{
-				["elapsed"] = 1.300000000001091,
-				["type"] = 0,
-				["name"] = "Rampelorgne des catacombes",
-				["clock"] = "04:51:46",
-			}, -- [25]
-			{
-				["elapsed"] = 3.367000000000189,
-				["type"] = 0,
-				["name"] = "Rampelorgne des catacombes",
-				["clock"] = "04:51:41",
-			}, -- [26]
-			{
-				["elapsed"] = 1.137999999999011,
-				["type"] = 0,
-				["name"] = "Rampelorgne des catacombes",
-				["clock"] = "04:51:37",
-			}, -- [27]
-			{
-				["elapsed"] = 9.355999999999767,
-				["type"] = 0,
-				["name"] = "Rampelorgne des catacombes",
-				["clock"] = "04:51:16",
-			}, -- [28]
-			{
-				["elapsed"] = 2.516999999999825,
-				["type"] = 0,
-				["name"] = "Ténèbres dévorantes",
-				["clock"] = "04:50:57",
-			}, -- [29]
-			{
-				["elapsed"] = 1.165000000000873,
-				["type"] = 0,
-				["name"] = "Brûle-mèche ciruléen",
-				["clock"] = "04:50:23",
-			}, -- [30]
-		},
 		["totals_grupo"] = {
-			6172128.689037, -- [1]
+			6811933.702839, -- [1]
 			412675.4128379999, -- [2]
 			{
 				0.07161299999999998, -- [1]
-				[0] = 45.49220000000001,
+				[0] = 45.49499900000001,
 				["alternatepower"] = 0,
 				[3] = 0,
 				[6] = 0,
@@ -30877,38 +30515,222 @@ _detalhes_database = {
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["debuff_uptime"] = 0,
 				["cooldowns_defensive"] = 11.051093,
-				["interrupt"] = 13.062668,
 				["dispell"] = 25.075055,
+				["interrupt"] = 13.062668,
+				["debuff_uptime"] = 0,
 				["cc_break"] = 69.07697800000001,
 				["dead"] = 0,
 			}, -- [4]
 		},
+		["overall_refreshed"] = true,
 		["frags"] = {
 		},
-		["data_fim"] = "05:25:26",
+		["hasSaved"] = true,
+		["segments_added"] = {
+			{
+				["elapsed"] = 9.914999999993597,
+				["type"] = 0,
+				["name"] = "Chauve-souris des grottes gelées",
+				["clock"] = "20:59:42",
+			}, -- [1]
+			{
+				["elapsed"] = 1.496000000013737,
+				["type"] = 0,
+				["name"] = "Grutush le Pilleur",
+				["clock"] = "20:59:20",
+			}, -- [2]
+			{
+				["elapsed"] = 21.01000000000022,
+				["type"] = 0,
+				["name"] = "Petit gardien illusoire",
+				["clock"] = "05:25:05",
+			}, -- [3]
+			{
+				["elapsed"] = 43.00600000000122,
+				["type"] = 0,
+				["name"] = "Petite vermine illusoire",
+				["clock"] = "05:24:14",
+			}, -- [4]
+			{
+				["elapsed"] = 18.0010000000002,
+				["type"] = 0,
+				["name"] = "Petit gardien illusoire",
+				["clock"] = "05:23:31",
+			}, -- [5]
+			{
+				["elapsed"] = 20.003999999999,
+				["type"] = 0,
+				["name"] = "Petit lance-bananes illusoire",
+				["clock"] = "05:22:49",
+			}, -- [6]
+			{
+				["elapsed"] = 30.003999999999,
+				["type"] = 0,
+				["name"] = "Petit mystique illusoire",
+				["clock"] = "05:22:10",
+			}, -- [7]
+			{
+				["elapsed"] = 25.00500000000102,
+				["type"] = 0,
+				["name"] = "Grand lance-bananes illusoire",
+				["clock"] = "05:21:34",
+			}, -- [8]
+			{
+				["elapsed"] = 22.01000000000022,
+				["type"] = 0,
+				["name"] = "Petit pourfendeur illusoire",
+				["clock"] = "05:21:05",
+			}, -- [9]
+			{
+				["elapsed"] = 22.0049999999992,
+				["type"] = 0,
+				["name"] = "Petit fourrageur illusoire",
+				["clock"] = "05:20:06",
+			}, -- [10]
+			{
+				["elapsed"] = 45.00799999999981,
+				["type"] = 0,
+				["name"] = "Grand fourrageur illusoire",
+				["clock"] = "05:19:16",
+			}, -- [11]
+			{
+				["elapsed"] = 33.0010000000002,
+				["type"] = 0,
+				["name"] = "Petit éventreur illusoire",
+				["clock"] = "05:18:36",
+			}, -- [12]
+			{
+				["elapsed"] = 26.0059999999994,
+				["type"] = 0,
+				["name"] = "Grand éventreur illusoire",
+				["clock"] = "05:18:06",
+			}, -- [13]
+			{
+				["elapsed"] = 14.00799999999981,
+				["type"] = 0,
+				["name"] = "Grand mystique illusoire",
+				["clock"] = "05:17:15",
+			}, -- [14]
+			{
+				["elapsed"] = 52.00900000000002,
+				["type"] = 0,
+				["name"] = "Petit gardien illusoire",
+				["clock"] = "05:16:15",
+			}, -- [15]
+			{
+				["elapsed"] = 37.01399999999921,
+				["type"] = 0,
+				["name"] = "Grand mystique illusoire",
+				["clock"] = "05:15:11",
+			}, -- [16]
+			{
+				["elapsed"] = 19,
+				["type"] = 0,
+				["name"] = "Petite vermine illusoire",
+				["clock"] = "05:14:31",
+			}, -- [17]
+			{
+				["elapsed"] = 18.00200000000041,
+				["type"] = 0,
+				["name"] = "Petite vermine illusoire",
+				["clock"] = "05:13:45",
+			}, -- [18]
+			{
+				["elapsed"] = 16.00199999999859,
+				["type"] = 0,
+				["name"] = "Petit pourfendeur illusoire",
+				["clock"] = "05:13:11",
+			}, -- [19]
+			{
+				["elapsed"] = 14.0109999999986,
+				["type"] = 0,
+				["name"] = "Petite vermine illusoire",
+				["clock"] = "05:12:30",
+			}, -- [20]
+			{
+				["elapsed"] = 24.00200000000041,
+				["type"] = 0,
+				["name"] = "Petit pourfendeur illusoire",
+				["clock"] = "05:12:00",
+			}, -- [21]
+			{
+				["elapsed"] = 19,
+				["type"] = 0,
+				["name"] = "Immense pourfendeur illusoire",
+				["clock"] = "05:11:10",
+			}, -- [22]
+			{
+				["elapsed"] = 37.00200000000041,
+				["type"] = 0,
+				["name"] = "Petite vermine illusoire",
+				["clock"] = "05:10:05",
+			}, -- [23]
+			{
+				["elapsed"] = 22.00699999999961,
+				["type"] = 0,
+				["name"] = "Petit gardien illusoire",
+				["clock"] = "05:09:10",
+			}, -- [24]
+			{
+				["elapsed"] = 16.00500000000102,
+				["type"] = 0,
+				["name"] = "Petit gardien illusoire",
+				["clock"] = "05:08:14",
+			}, -- [25]
+			{
+				["elapsed"] = 10.01400000000103,
+				["type"] = 0,
+				["name"] = "Grand pourfendeur illusoire",
+				["clock"] = "05:07:46",
+			}, -- [26]
+			{
+				["elapsed"] = 1.300000000001091,
+				["type"] = 0,
+				["name"] = "Rampelorgne des catacombes",
+				["clock"] = "04:51:46",
+			}, -- [27]
+			{
+				["elapsed"] = 3.367000000000189,
+				["type"] = 0,
+				["name"] = "Rampelorgne des catacombes",
+				["clock"] = "04:51:41",
+			}, -- [28]
+			{
+				["elapsed"] = 1.137999999999011,
+				["type"] = 0,
+				["name"] = "Rampelorgne des catacombes",
+				["clock"] = "04:51:37",
+			}, -- [29]
+			{
+				["elapsed"] = 9.355999999999767,
+				["type"] = 0,
+				["name"] = "Rampelorgne des catacombes",
+				["clock"] = "04:51:16",
+			}, -- [30]
+		},
+		["data_fim"] = "20:59:51",
 		["overall_enemy_name"] = "-- x -- x --",
 		["CombatSkillCache"] = {
-		},
-		["cleu_timeline"] = {
-		},
-		["start_time"] = 13351.58999999999,
-		["TimeData"] = {
 		},
 		["PhaseData"] = {
 			{
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
+			["damage_section"] = {
+			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
-			["damage_section"] = {
-			},
 			["damage"] = {
 			},
+		},
+		["start_time"] = 69404.14899999998,
+		["TimeData"] = {
+		},
+		["cleu_timeline"] = {
 		},
 	},
 	["local_instances_config"] = {
@@ -31020,10 +30842,10 @@ _detalhes_database = {
 		}, -- [3]
 	},
 	["character_data"] = {
-		["logons"] = 53,
+		["logons"] = 57,
 	},
 	["nick_tag_cache"] = {
-		["last_version"] = 12,
+		["nextreset"] = 1611084751,
 		["Mizoojin"] = {
 			"Mizoojin", -- [1]
 			"", -- [2]
@@ -31047,7 +30869,7 @@ _detalhes_database = {
 			}, -- [6]
 			7, -- [7]
 		},
-		["nextreset"] = 1609785923,
+		["last_version"] = 12,
 	},
 	["announce_cooldowns"] = {
 		["enabled"] = false,
