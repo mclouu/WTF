@@ -1,13 +1,15 @@
 
 TargetCharms_Options = {
 	["ReadyCharm"] = {
-		["draggable"] = true,
-		["alphaVal"] = 0.5,
-		["barscale"] = 0.9999999403953552,
 		["enabled"] = true,
+		["barscale"] = 0.9999999403953552,
 		["text"] = "Ready?",
-		["partyOnly"] = true,
 		["width"] = 60,
+		["partyOnly"] = true,
+		["X"] = 933,
+		["alphaVal"] = 0.5,
+		["draggable"] = true,
+		["Y"] = 740,
 	},
 	["Name"] = "Atec",
 	["Version"] = "1.6.2",

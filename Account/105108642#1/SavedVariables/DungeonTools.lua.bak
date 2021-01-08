@@ -1,8 +1,8 @@
 
 DungeonToolsDB = {
 	["profileKeys"] = {
-		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
 		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
 		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 	},
 	["global"] = {
@@ -20,27 +20,27 @@ DungeonToolsDB = {
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
-						["riftOffsets"] = {
-							[4] = {
-							},
+						["pulls"] = {
+							{
+								["color"] = "ff3eff",
+							}, -- [1]
 						},
 						["currentDungeonIdx"] = 29,
 						["teeming"] = false,
 						["selection"] = {
 							1, -- [1]
 						},
-						["pulls"] = {
-							{
-								["color"] = "ff3eff",
-							}, -- [1]
+						["riftOffsets"] = {
+							[4] = {
+							},
 						},
 					},
+					["difficulty"] = 10,
 					["mdi"] = {
 						["freeholdJoined"] = false,
-						["beguiling"] = 1,
 						["freehold"] = 1,
+						["beguiling"] = 1,
 					},
-					["difficulty"] = 10,
 				}, -- [1]
 			},
 		},

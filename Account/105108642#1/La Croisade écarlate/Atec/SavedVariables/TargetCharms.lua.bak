@@ -1,13 +1,15 @@
 
 TargetCharms_Options = {
 	["ReadyCharm"] = {
+		["enabled"] = true,
+		["barscale"] = 0.9999999403953552,
+		["text"] = "Ready?",
+		["width"] = 60,
+		["partyOnly"] = true,
+		["X"] = 933,
+		["Y"] = 740,
 		["draggable"] = true,
 		["alphaVal"] = 0.5,
-		["barscale"] = 0.9999999403953552,
-		["partyOnly"] = true,
-		["text"] = "Ready?",
-		["enabled"] = true,
-		["width"] = 60,
 	},
 	["Name"] = "Atec",
 	["FlareCharms"] = {

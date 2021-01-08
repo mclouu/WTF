@@ -25,3 +25,8 @@ VER 3 0100000000000007 "SC" "236163"
 /stopcasting
 /cast Charge sauvage
 END
+VER 3 0100000000000009 "soloar beam" "252188"
+#showtooltip Rayon solaire
+/cast Enchevêtrement de masse
+/cast Rayon solaire
+END

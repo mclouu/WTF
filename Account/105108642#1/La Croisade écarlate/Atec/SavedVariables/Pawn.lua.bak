@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0409,
+	["LastVersion"] = 2.041,
 	["LastPlayerFullName"] = "Atec-La Croisade écarlate",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -10,9 +10,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:181666::::::::53:269::53:3:7192:6652:7193:2:28:807:9:53:::|h[Heaume en peau de cadavre]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 139990,
-			["Level"] = 50,
-			["Link"] = "|cffa335ee|Hitem:139990::::::::48:268::27:4:3394:41:1472:3528::::|h[Pendentif d'inspecteur]|h|r",
+			["ID"] = 181703,
+			["Level"] = 120,
+			["Link"] = "|cff0070dd|Hitem:181703::::::::57:268::53:2:7192:6652:2:28:807:9:56:::|h[Collier du carillon céleste]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 178763,
@@ -26,9 +26,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:178744::::::::55:270::17:3:7217:6771:6652:2:28:747:9:55:::|h[Pourpoint récemment embaumé]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 181678,
-			["Level"] = 96,
-			["Link"] = "|cff0070dd|Hitem:181678::::::::52:269::53:3:7192:6652:7193:2:28:807:9:52:::|h[Ceinture en peau de cadavre]|h|r",
+			["ID"] = 181587,
+			["Level"] = 126,
+			["Link"] = "|cff0070dd|Hitem:181587::::::::57:268::53:3:7192:6652:7193:2:28:807:9:57:::|h[Ceinture de porte-âme]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 134649,
@@ -36,9 +36,9 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:134649::::::::53:268::7:2:1723:1691:2:9:53:28:2035:::|h[Pantalon de bleu de l’éclair de feu]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 172235,
-			["Level"] = 100,
-			["Link"] = "|cff1eff00|Hitem:172235::::::::50:269::13:1:6883:2:29:32:30:40:::|h[Bottines en cuir désolé]|h|r",
+			["ID"] = 134648,
+			["Level"] = 128,
+			["Link"] = "|cff0070dd|Hitem:134648::::::::57:268::7:3:1723:1724:1680:2:9:56:28:2035:::|h[Bottes de bleu de la prestelame]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 178741,
@@ -46,21 +46,21 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:178741::::::::55:270::17:4:7217:6771:6652:7194:2:28:747:9:54:::|h[Crispins de monstruosité ressuscitée]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 134675,
-			["Level"] = 108,
-			["Link"] = "|cff1eff00|Hitem:134675::::::::54:269::7:2:1723:1710:2:9:54:28:2035:::|h[Gants de bleu de l’aurore]|h|r",
+			["ID"] = 181580,
+			["Level"] = 126,
+			["Link"] = "|cff0070dd|Hitem:181580::::::::57:268::53:2:7192:6652:2:28:807:9:57:::|h[Gants de porte-âme]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 175704,
-			["Level"] = 90,
+			["ID"] = 181702,
+			["Level"] = 126,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff1eff00|Hitem:175704::::::::51:269::11:1:6707:2:28:1319:9:51:::|h[Bague en argent réverbérante]|h|r",
+			["Link"] = "|cff0070dd|Hitem:181702::::::::57:268::53:3:7192:6652:7194:2:28:807:9:57:::|h[Chevalière du gardien sanctifié]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 175704,
-			["Level"] = 90,
+			["ID"] = 181721,
+			["Level"] = 126,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff1eff00|Hitem:175704::::::::52:269::11:1:6707:2:28:1319:9:51:::|h[Bague en argent réverbérante]|h|r",
+			["Link"] = "|cff0070dd|Hitem:181721::::::::57:268::53:3:7192:6652:7194:2:28:807:9:57:::|h[Chevalière de vaillance de l’ascendant]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 181503,
@@ -80,15 +80,16 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:181638::::::::54:270::53:2:7192:6652:2:28:807:9:54:::|h[Drapé forge-tripe]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 134674,
-			["Level"] = 108,
-			["Link"] = "|cff1eff00|Hitem:134674::::::::54:269::7:2:1723:1720:2:9:54:28:2035:::|h[Bâton d'armes de recrue de l’impatient]|h|r",
+			["ID"] = 181637,
+			["Level"] = 126,
+			["AlsoFitsIn"] = 17,
+			["Link"] = "|cff0070dd|Hitem:181637::::::::57:270::53:2:7192:6652:2:28:807:9:57:::|h[Marteau du devenir]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 176336,
-			["Level"] = 92,
+			["ID"] = 181637,
+			["Level"] = 126,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cff0070dd|Hitem:176336::::::::51:269::11:2:6707:6901:2:9:50:28:1318:::|h[Poigne guidenote]|h|r",
+			["Link"] = "|cff0070dd|Hitem:181637::::::::57:268::53:2:7192:6652:2:28:807:9:57:::|h[Marteau du devenir]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,

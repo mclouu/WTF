@@ -13,6 +13,13 @@ X: 22
 Y: -6
 W: 235
 H: 700
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: CENTER
+X: 265
+Y: -13
+W: 128
+H: 64
 Frame: CompactRaidFrameManager
 FrameLevel: 1
 Anchor: TOPLEFT
@@ -34,13 +41,6 @@ X: -11
 Y: 9
 W: 858
 H: 660
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: CENTER
-X: 265
-Y: -13
-W: 307
-H: 230
 Frame: LiteBagInventory
 FrameLevel: 1
 Anchor: RIGHT

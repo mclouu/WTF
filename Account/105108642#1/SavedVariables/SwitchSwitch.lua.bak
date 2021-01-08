@@ -1,0 +1,10 @@
+
+SwitchSwitchProfiles = {
+	["Version"] = "1.68",
+	["Profiles"] = {
+		[11] = {
+			[102] = {
+			},
+		},
+	},
+}

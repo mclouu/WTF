@@ -1,0 +1,19 @@
+
+Gladius2DB = {
+	["profileKeys"] = {
+		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+	},
+	["profiles"] = {
+		["Kotlin - La Croisade écarlate"] = {
+			["tagsVersion"] = 4,
+			["locked"] = true,
+			["y"] = {
+				["arena1"] = 611,
+			},
+			["x"] = {
+				["arena1"] = 46.99998474121094,
+			},
+			["auraVersion"] = 1,
+		},
+	},
+}

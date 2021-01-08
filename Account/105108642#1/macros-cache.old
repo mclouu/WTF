@@ -25,6 +25,9 @@ VER 3 0000000000000041 "Decursive" "INV_MISC_QUESTIONMARK"
 /stopcasting
 /cast [@mouseover,nomod,exists] Détoxification;  [@mouseover,exists,mod:ctrl] Détoxification; [@mouseover,exists,mod:shift] Détoxification
 END
+VER 3 000000000000004F "eonar" "236151"
+/click ExtraActionButton1
+END
 VER 3 0000000000000048 "error lua on" "INV_MISC_QUESTIONMARK"
 /console scriptErrors 1
 END

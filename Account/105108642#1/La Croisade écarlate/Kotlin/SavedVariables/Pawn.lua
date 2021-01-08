@@ -5,9 +5,9 @@ PawnOptions = {
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 180106,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:180106::::::::60:102::23:5:6807:6652:7194:1498:6646:1:28:749:::|h[Ventaille d’afflux vicieux]|h|r",
+			["ID"] = 179768,
+			["Level"] = 190,
+			["Link"] = "|cffa335ee|Hitem:179768::::::::60:102::11:3:7200:1507:6646:1:28:1707:::|h[Cimier cœur-de-chêne]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 183040,
@@ -15,20 +15,20 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:183040::::::::60:102::3:5:7189:6652:7193:1472:6646:1:28:751:::|h[Charme de l’hiver éternel]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 178779,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:178779::::::::60:102::23:4:6807:43:1498:6646:1:28:749:::|h[Protège-épaules de froidure éternelle]|h|r",
+			["ID"] = 179770,
+			["Level"] = 190,
+			["Link"] = "|cffa335ee|Hitem:179770::::::::60:102::11:3:7200:1507:6646:1:28:1707:::|h[Mantelet cœur-de-chêne]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
 			["ID"] = 179765,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:179765::::::::60:102::14:3:7199:1501:6646:1:28:807:::|h[Tunique cœur-de-chêne]|h|r",
+			["Level"] = 190,
+			["Link"] = "|cffa335ee|Hitem:179765:6216:::::::60:102::14:3:7200:1507:6646:1:28:807:::|h[Tunique cœur-de-chêne]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 179771,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:179771::::::::60:102::11:3:7199:1501:6646:1:28:1707:::|h[Ceinture cœur-de-chêne]|h|r",
+			["Level"] = 190,
+			["Link"] = "|cffa335ee|Hitem:179771::::::::60:102::11:3:7200:1507:6646:1:28:1707:::|h[Ceinture cœur-de-chêne]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 172318,
@@ -36,14 +36,14 @@ PawnOptions = {
 			["Link"] = "|cffff8000|Hitem:172318::::::::60:105::63:5:7107:6648:6649:6717:1507::::|h[Équilibre en toute chose]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 178731,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:178731::::::::60:102::23:4:6807:42:1498:6646:1:28:749:::|h[Souliers cousus de viscères]|h|r",
+			["ID"] = 179766,
+			["Level"] = 190,
+			["Link"] = "|cffa335ee|Hitem:179766::::::::60:102::11:3:7200:1507:6646:1:28:1707:::|h[Housseaux cœur-de-chêne]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 184657,
-			["Level"] = 183,
-			["Link"] = "|cffa335ee|Hitem:184657::::::::60:102:::2:6652:6935:1:28:2125:::|h[Garde-bras de l’assaillant invisible]|h|r",
+			["ID"] = 179772,
+			["Level"] = 190,
+			["Link"] = "|cffa335ee|Hitem:179772::::::::60:102::11:3:7200:1507:6646:1:28:1707:::|h[Brassards cœur-de-chêne]|h|r",
 		}, -- [9]
 		{
 			["ID"] = 178757,
@@ -75,9 +75,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:184052::::::::60:104::14:3:6789:1498:6646:1:28:783:::|h[Médaillon de l’aspirant impénitent]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 184758,
-			["Level"] = 171,
-			["Link"] = "|cff0070dd|Hitem:184758::::::::60:102::11::1:28:1707:::|h[Drapé d’objectif indéchiffrable]|h|r",
+			["ID"] = 183034,
+			["Level"] = 200,
+			["Link"] = "|cffa335ee|Hitem:183034::::::::60:102::3:4:7189:6652:1472:6646::::|h[Capuchon d’aile de chauve-souris]|h|r",
 		}, -- [15]
 		{
 			["ID"] = 178829,

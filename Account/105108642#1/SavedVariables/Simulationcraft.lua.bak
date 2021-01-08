@@ -1,14 +1,14 @@
 
 SimulationCraftDB = {
 	["profileKeys"] = {
-		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
 		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
 		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 	},
 	["profiles"] = {
-		["Kotlin - Ysondre"] = {
-		},
 		["Kotlin - La Croisade écarlate"] = {
+		},
+		["Kotlin - Ysondre"] = {
 		},
 		["Atec - La Croisade écarlate"] = {
 		},

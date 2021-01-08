@@ -8,34 +8,34 @@ OneRing_Config = {
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
-			["RingScale"] = 0.7000000476837158,
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
+			},
 			["RingAtMouse"] = true,
+			["RingScale"] = 0.7000000476837158,
 			["Bindings"] = {
 				["SpecMenu"] = "CTRL-NUMPAD2",
 				["Jouet"] = "CTRL-NUMPAD5",
 				["Sp"] = "CTRL-NUMPAD4",
 				["Pet"] = "CTRL-NUMPAD3",
 				["Monture"] = "CTRL-NUMPAD1",
-			},
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
 			},
 		},
 		["Clou"] = {
 			["RingAtMouse"] = true,
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
-			},
 			["Bindings"] = {
-				["mount"] = "CTRL-NUMPAD1",
-				["Sp"] = "CTRL-NUMPAD4",
-				["SpecMenu"] = "CTRL-NUMPAD2",
 				["Jouet"] = "CTRL-NUMPAD5",
 				["sp"] = "CTRL-NUMPAD4",
+				["SpecMenu"] = "CTRL-NUMPAD2",
+				["mount"] = "CTRL-NUMPAD1",
+				["Sp"] = "CTRL-NUMPAD4",
 				["Pet"] = "CTRL-NUMPAD3",
 				["Monture"] = "CTRL-NUMPAD1",
 			},
 			["RingScale"] = 0.7000000476837158,
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
+			},
 		},
 	},
 	["PersistentStorage"] = {
@@ -254,28 +254,8 @@ OneRing_Config = {
 			},
 			["Jouet"] = {
 				["save"] = true,
+				["limit"] = "Atec-LaCroisadeécarlate",
 				["name"] = "Jouet",
-				["limit"] = "Atec-LaCroisadeécarlate",
-			},
-			["Sp"] = {
-				{
-					"specset", -- [1]
-					2, -- [2]
-					["sliceToken"] = "ABuekH4Z7arP",
-				}, -- [1]
-				{
-					"specset", -- [1]
-					1, -- [2]
-					["sliceToken"] = "ABuekH4Z7arO",
-				}, -- [2]
-				{
-					"specset", -- [1]
-					3, -- [2]
-					["sliceToken"] = "ABuekH4Z7arI",
-				}, -- [3]
-				["save"] = true,
-				["name"] = "Spé",
-				["limit"] = "Atec-LaCroisadeécarlate",
 			},
 			["sp"] = {
 				{
@@ -298,9 +278,29 @@ OneRing_Config = {
 					4, -- [2]
 					["sliceToken"] = "ABuekKq6o=i",
 				}, -- [4]
-				["limit"] = "Kotlin-LaCroisadeécarlate",
-				["save"] = true,
 				["name"] = "spé",
+				["save"] = true,
+				["limit"] = "Kotlin-LaCroisadeécarlate",
+			},
+			["Sp"] = {
+				{
+					"specset", -- [1]
+					2, -- [2]
+					["sliceToken"] = "ABuekH4Z7arP",
+				}, -- [1]
+				{
+					"specset", -- [1]
+					1, -- [2]
+					["sliceToken"] = "ABuekH4Z7arO",
+				}, -- [2]
+				{
+					"specset", -- [1]
+					3, -- [2]
+					["sliceToken"] = "ABuekH4Z7arI",
+				}, -- [3]
+				["save"] = true,
+				["limit"] = "Atec-LaCroisadeécarlate",
+				["name"] = "Spé",
 			},
 			["Monture"] = {
 				{

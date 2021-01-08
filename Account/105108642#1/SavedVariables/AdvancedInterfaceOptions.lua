@@ -8,10 +8,10 @@ AdvancedInterfaceOptionsSaved = {
 	["CharVars"] = {
 	},
 	["AccountVars"] = {
-		["floatingCombatTextCombatHealing"] = "1",
+		["floatingCombatTextCombatState"] = "0",
 		["floatingCombatTextCombatDamage"] = "1",
 		["floatingCombatTextFloatMode"] = "1",
-		["floatingCombatTextCombatState"] = "0",
+		["floatingCombatTextCombatHealing"] = "1",
 	},
 	["EnforceSettings"] = false,
 }
