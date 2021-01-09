@@ -26,16 +26,6 @@ WQTUDB = {
 					},
 				},
 			},
-			[1609844400] = {
-				["La Croisade écarlate"] = {
-					["Kotlin"] = {
-						["rewards"] = {
-							["anima"] = 3,
-						},
-						["faction"] = "Horde",
-					},
-				},
-			},
 			[1610017200] = {
 				["La Croisade écarlate"] = {
 					["Kotlin"] = {
@@ -53,6 +43,16 @@ WQTUDB = {
 					},
 				},
 			},
+			[1609844400] = {
+				["La Croisade écarlate"] = {
+					["Kotlin"] = {
+						["rewards"] = {
+							["anima"] = 3,
+						},
+						["faction"] = "Horde",
+					},
+				},
+			},
 			[1609153200] = {
 				["La Croisade écarlate"] = {
 					["Kotlin"] = {
@@ -65,21 +65,22 @@ WQTUDB = {
 					},
 				},
 			},
-			[1609758000] = {
+			[1609930800] = {
 				["La Croisade écarlate"] = {
-					["Kotlin"] = {
+					["Atec"] = {
 						["rewards"] = {
-							["currency;1533"] = 17,
-							["currency;1226"] = 385,
+							["anima"] = 4,
+							["currency;1877"] = 2,
+							["gold"] = 3987360,
 						},
 						["faction"] = "Horde",
 					},
-					["Atec"] = {
-						["rewards"] = {
-							["currency;1877"] = 2,
-							["gold"] = 7138670,
-						},
+					["Kotlin"] = {
 						["faction"] = "Horde",
+						["rewards"] = {
+							["currency;1533"] = 6,
+							["anima"] = 7,
+						},
 					},
 				},
 			},
@@ -104,22 +105,21 @@ WQTUDB = {
 					},
 				},
 			},
-			[1609930800] = {
+			[1609758000] = {
 				["La Croisade écarlate"] = {
-					["Atec"] = {
+					["Kotlin"] = {
 						["rewards"] = {
-							["anima"] = 4,
-							["currency;1877"] = 2,
-							["gold"] = 3987360,
+							["currency;1533"] = 17,
+							["currency;1226"] = 385,
 						},
 						["faction"] = "Horde",
 					},
-					["Kotlin"] = {
-						["faction"] = "Horde",
+					["Atec"] = {
 						["rewards"] = {
-							["currency;1533"] = 6,
-							["anima"] = 7,
+							["currency;1877"] = 2,
+							["gold"] = 7138670,
 						},
+						["faction"] = "Horde",
 					},
 				},
 			},

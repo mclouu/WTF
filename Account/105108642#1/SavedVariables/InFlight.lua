@@ -7,6 +7,14 @@ InFlightDB = {
 				["name"] = "Sanctuaire du Fou",
 				[2395] = 120,
 			},
+			[2515] = {
+				["name"] = "Donjon de la Domination",
+				[2511] = 29,
+			},
+			[2517] = {
+				["name"] = "Ménagerie du Maître",
+				[2395] = 119,
+			},
 			[2518] = {
 				["name"] = "Colline de l’Hypogée",
 				[2587] = 189,
@@ -44,27 +52,14 @@ InFlightDB = {
 				["name"] = "Bastille abandonnée",
 				[2564] = 40,
 			},
-			[2564] = {
-				[2398] = 25,
-				["name"] = "Théâtre de la Souffrance",
-				[2395] = 77,
-			},
 			[2569] = {
+				[2558] = 49,
 				[2564] = 34,
 				["name"] = "Guet de la Peste",
-				[2558] = 49,
-			},
-			[2584] = {
-				["name"] = "Bassin Tombe-Lueur",
-				[2587] = 30,
 			},
 			[2585] = {
 				["name"] = "Tirna Vaal",
 				[2587] = 44,
-			},
-			[2517] = {
-				["name"] = "Ménagerie du Maître",
-				[2395] = 119,
 			},
 			[2588] = {
 				["name"] = "Terracine",
@@ -85,10 +80,10 @@ InFlightDB = {
 				[2564] = 78,
 				["name"] = "Oribos",
 				[2514] = 55,
-				[2519] = 63,
+				[2680] = 138,
 				[2518] = 91,
 				[2520] = 119,
-				[2680] = 138,
+				[2519] = 63,
 			},
 			[2398] = {
 				[2561] = 40,
@@ -96,6 +91,10 @@ InFlightDB = {
 				[2564] = 23,
 				[2558] = 32,
 				[2519] = 126,
+			},
+			[2584] = {
+				["name"] = "Bassin Tombe-Lueur",
+				[2587] = 30,
 			},
 			[2587] = {
 				[2588] = 26,
@@ -112,27 +111,28 @@ InFlightDB = {
 				["name"] = "Sombrehavre",
 				[2537] = 42,
 			},
-			[2515] = {
-				["name"] = "Donjon de la Domination",
-				[2511] = 29,
+			[2564] = {
+				[2398] = 25,
+				["name"] = "Théâtre de la Souffrance",
+				[2395] = 77,
 			},
 		},
 	},
 	["upload"] = 1610913265,
-	["dbinit"] = 827,
 	["profileKeys"] = {
-		["Kotlin - La Croisade écarlate"] = "Default",
 		["Nylaria - La Croisade écarlate"] = "Default",
+		["Kotlin - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
 	},
+	["dbinit"] = 827,
 	["profiles"] = {
 		["Default"] = {
 			["border"] = "Blizzard Dialog Gold",
 			["countup"] = false,
 			["texture"] = "Solid",
-			["inline"] = true,
-			["height"] = 11,
 			["width"] = 225,
+			["height"] = 11,
+			["inline"] = true,
 			["fill"] = false,
 		},
 	},

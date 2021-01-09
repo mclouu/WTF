@@ -26,6 +26,23 @@ MADB = {
 						-140.0000610351563, -- [5]
 					},
 				},
+				["MiniMapMailFrame"] = {
+					["orgPos"] = {
+						"CENTER", -- [1]
+						"Minimap", -- [2]
+						"CENTER", -- [3]
+						84.49999237060547, -- [4]
+						37.45156860351563, -- [5]
+					},
+					["name"] = "MiniMapMailFrame",
+					["pos"] = {
+						"CENTER", -- [1]
+						"Minimap", -- [2]
+						"CENTER", -- [3]
+						75.49993896484375, -- [4]
+						88.45156860351562, -- [5]
+					},
+				},
 				["OrderHallCommandBar"] = {
 					["hidden"] = true,
 					["name"] = "OrderHallCommandBar",

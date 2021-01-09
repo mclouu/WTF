@@ -26,25 +26,6 @@ WQTUDB = {
 					},
 				},
 			},
-			[1609930800] = {
-				["La Croisade écarlate"] = {
-					["Atec"] = {
-						["faction"] = "Horde",
-						["rewards"] = {
-							["currency;1877"] = 2,
-							["anima"] = 4,
-							["gold"] = 3987360,
-						},
-					},
-					["Kotlin"] = {
-						["rewards"] = {
-							["currency;1533"] = 6,
-							["anima"] = 7,
-						},
-						["faction"] = "Horde",
-					},
-				},
-			},
 			[1609844400] = {
 				["La Croisade écarlate"] = {
 					["Kotlin"] = {
@@ -55,13 +36,13 @@ WQTUDB = {
 					},
 				},
 			},
-			[1609326000] = {
+			[1610103600] = {
 				["La Croisade écarlate"] = {
 					["Kotlin"] = {
-						["rewards"] = {
-							["anima"] = 1,
-						},
 						["faction"] = "Horde",
+						["rewards"] = {
+							["currency;1806"] = 175,
+						},
 					},
 				},
 			},
@@ -80,6 +61,52 @@ WQTUDB = {
 							["currency;1877"] = 2,
 							["gold"] = 7138670,
 						},
+					},
+				},
+			},
+			[1610017200] = {
+				["La Croisade écarlate"] = {
+					["Kotlin"] = {
+						["rewards"] = {
+							["gold"] = 257400,
+							["anima"] = 3,
+							["currency;1767"] = 140,
+						},
+						["faction"] = "Horde",
+					},
+					["Atec"] = {
+						["faction"] = "Horde",
+						["rewards"] = {
+						},
+					},
+				},
+			},
+			[1609326000] = {
+				["La Croisade écarlate"] = {
+					["Kotlin"] = {
+						["rewards"] = {
+							["anima"] = 1,
+						},
+						["faction"] = "Horde",
+					},
+				},
+			},
+			[1609930800] = {
+				["La Croisade écarlate"] = {
+					["Atec"] = {
+						["faction"] = "Horde",
+						["rewards"] = {
+							["currency;1877"] = 2,
+							["anima"] = 4,
+							["gold"] = 3987360,
+						},
+					},
+					["Kotlin"] = {
+						["rewards"] = {
+							["currency;1533"] = 6,
+							["anima"] = 7,
+						},
+						["faction"] = "Horde",
 					},
 				},
 			},
@@ -103,23 +130,6 @@ WQTUDB = {
 							["gold"] = 2857200,
 						},
 						["faction"] = "Horde",
-					},
-				},
-			},
-			[1610017200] = {
-				["La Croisade écarlate"] = {
-					["Kotlin"] = {
-						["rewards"] = {
-							["gold"] = 257400,
-							["anima"] = 3,
-							["currency;1767"] = 140,
-						},
-						["faction"] = "Horde",
-					},
-					["Atec"] = {
-						["faction"] = "Horde",
-						["rewards"] = {
-						},
 					},
 				},
 			},

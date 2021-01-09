@@ -26,11 +26,11 @@ BWQDB = {
 				},
 				["list"] = {
 				},
-				["pin"] = {
-				},
 				["external"] = {
 					["TomTom"] = {
 					},
+				},
+				["pin"] = {
 				},
 				["general"] = {
 					["sortBy"] = 6,

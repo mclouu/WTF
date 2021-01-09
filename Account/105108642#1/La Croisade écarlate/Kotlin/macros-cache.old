@@ -12,16 +12,21 @@ VER 3 0100000000000004 "cuire" "132722"
 /way Tornheim 46.8, 50.8
 /way Tornheim 47.3, 55.2
 END
-VER 3 0100000000000003 "MO" "236216"
-#showtooltip Éclat solaire
-/cast [@mouseover,exists,harm]Éclat solaire ;Éclat solaire
-END
 VER 3 0100000000000005 "MO" "136096"
 #showtooltip Éclat lunaire
 /cast [@mouseover,exists,harm]Éclat lunaire ;Éclat lunaire
+END
+VER 3 0100000000000003 "MO" "236216"
+#showtooltip Éclat solaire
+/cast [@mouseover,exists,harm]Éclat solaire ;Éclat solaire
 END
 VER 3 0100000000000007 "SC" "236163"
 #showtooltip Charge sauvage
 /stopcasting
 /cast Charge sauvage
+END
+VER 3 0100000000000009 "soloar beam" "252188"
+#showtooltip Rayon solaire
+/cast Enchevêtrement de masse
+/cast Rayon solaire
 END

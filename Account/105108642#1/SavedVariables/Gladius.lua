@@ -81,6 +81,30 @@ Gladius2DB = {
 			},
 		},
 		["Default"] = {
+			["classIconCrop"] = true,
+			["tagsVersion"] = 4,
+			["locked"] = true,
+			["y"] = {
+				["arena1"] = 513.9998611748197,
+			},
+			["x"] = {
+				["arena1"] = 1142.000895923389,
+			},
+			["announcements"] = {
+				["trinket"] = true,
+			},
+			["frameScale"] = 0.8,
+			["castBarHeight"] = 15,
+			["clickAttributes"] = {
+				["Right"] = {
+					["macro"] = "/cast |cff71d5ff|Hspell:102359:0|h[Enchevêtrement de masse]|h|r\n/cast |cff71d5ff|Hspell:78675:0|h[Rayon solaire]|h|r",
+					["action"] = "macro",
+				},
+			},
+			["classIconShowSpec"] = true,
+			["auraVersion"] = 1,
+			["barWidth"] = 170,
+			["backgroundPadding"] = 1,
 			["tags"] = {
 				["maxhealth"] = {
 					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nend",
@@ -155,65 +179,21 @@ Gladius2DB = {
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 			},
-			["classIconCrop"] = true,
-			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1118.001188534516,
-			},
-			["clickAttributes"] = {
-				["Gauche"] = {
-					["macro"] = "",
-					["button"] = "1",
-					["action"] = "target",
-					["modifier"] = "",
-				},
-				["ctrl-Droite"] = {
-					["macro"] = "Cyclone",
-					["button"] = "2",
-					["action"] = "target",
-					["modifier"] = "ctrl-",
-				},
-				["Droite"] = {
-					["macro"] = "/cast Enchevêtrement de masse\n/cast Rayon solaire",
-					["button"] = "2",
-					["action"] = "target",
-					["modifier"] = "",
-				},
-			},
-			["announcements"] = {
-				["trinket"] = true,
-			},
-			["frameScale"] = 0.8,
-			["auraVersion"] = 1,
-			["y"] = {
-				["arena1"] = 527.9999102115617,
-			},
-			["castBarHeight"] = 15,
-			["barWidth"] = 170,
-			["classIconShowSpec"] = true,
-			["backgroundPadding"] = 1,
 		},
 		["Kotlin - La Croisade écarlate"] = {
-			["classIconCrop"] = true,
-			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 527.9999102115617,
-			},
-			["x"] = {
-				["arena1"] = 1118.001188534516,
-			},
+			["castBarHeight"] = 15,
 			["clickAttributes"] = {
-				["Droite"] = {
-					["button"] = "2",
-					["macro"] = "/cast Enchevêtrement de masse\n/cast Rayon solaire",
-					["action"] = "target",
-					["modifier"] = "",
-				},
 				["ctrl-Droite"] = {
 					["button"] = "2",
 					["macro"] = "Cyclone",
 					["action"] = "target",
 					["modifier"] = "ctrl-",
+				},
+				["Droite"] = {
+					["button"] = "2",
+					["macro"] = "/cast Enchevêtrement de masse\n/cast Rayon solaire",
+					["action"] = "target",
+					["modifier"] = "",
 				},
 				["Gauche"] = {
 					["button"] = "1",
@@ -222,10 +202,7 @@ Gladius2DB = {
 					["modifier"] = "",
 				},
 			},
-			["announcements"] = {
-				["trinket"] = true,
-			},
-			["frameScale"] = 0.8,
+			["auraVersion"] = 1,
 			["tags"] = {
 				["maxhealth"] = {
 					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nend",
@@ -300,11 +277,21 @@ Gladius2DB = {
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 			},
-			["castBarHeight"] = 15,
-			["barWidth"] = 170,
+			["frameScale"] = 0.8,
+			["y"] = {
+				["arena1"] = 527.9999102115617,
+			},
 			["classIconShowSpec"] = true,
-			["auraVersion"] = 1,
+			["announcements"] = {
+				["trinket"] = true,
+			},
+			["classIconCrop"] = true,
 			["backgroundPadding"] = 1,
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1118.001188534516,
+			},
+			["barWidth"] = 170,
 		},
 	},
 }

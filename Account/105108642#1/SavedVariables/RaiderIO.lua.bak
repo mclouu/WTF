@@ -1,7 +1,40 @@
 
 RaiderIO_Config = {
+	["useEnglishAbbreviations"] = false,
+	["enableKeystoneTooltips"] = true,
+	["disableScoreColors"] = false,
+	["showMainBestScore"] = true,
+	["allowClientToControlCombatLog"] = true,
+	["showRaiderIOProfile"] = true,
+	["showMainsScore"] = true,
+	["enableCombatLogTracking"] = false,
+	["showSimpleScoreColors"] = false,
+	["enableWhoMessages"] = true,
+	["hidePersonalRaiderIOProfile"] = true,
+	["inverseProfileModifier"] = false,
+	["enableLFGDropdown"] = true,
+	["enableGuildTooltips"] = true,
+	["showScoreModifier"] = false,
+	["mplusHeadlineMode"] = 1,
+	["enableLFGTooltips"] = true,
+	["enableFriendsTooltips"] = true,
+	["showRoleIcons"] = true,
+	["positionProfileAuto"] = true,
+	["showRaidEncountersInProfile"] = false,
+	["showDropDownCopyURL"] = true,
+	["showAverageScore"] = true,
+	["enableProfileModifier"] = true,
+	["enableClientEnhancements"] = true,
+	["enableUnitTooltips"] = true,
+	["lockProfile"] = false,
+	["showScoreInCombat"] = false,
+	["enableWhoTooltips"] = true,
+	["showClientGuildBest"] = true,
 }
 RaiderIO_LastCharacter = "eu-Kotlin-la-croisade-écarlate"
 RaiderIO_MissingCharacters = {
+	["eu-Orcaïne-les-clairvoyants"] = true,
+	["eu-Melwën-les-clairvoyants"] = true,
+	["eu-Bluepaw-kirin-tor"] = true,
 }
 RaiderIO_CachedRuns = nil

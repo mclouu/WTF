@@ -9,7 +9,7 @@ DBM_AllSavedOptions = {
 		["RangeFrameRadarY"] = -100,
 		["DontRestoreIcons"] = false,
 		["DontShowNameplateIcons"] = false,
-		["CoreSavedRevision"] = 20210108022347,
+		["CoreSavedRevision"] = 20210108023218,
 		["RangeFrameX"] = 10.00009346008301,
 		["RangeFrameY"] = -63.00008773803711,
 		["FilterInterruptNoteName"] = false,
@@ -100,7 +100,7 @@ DBM_AllSavedOptions = {
 		["EventSoundMusic"] = "None",
 		["SpecialWarningSound2"] = 15391,
 		["DisableSFX"] = false,
-		["GUIX"] = -36.9999885559082,
+		["AutologBosses"] = false,
 		["SpecialWarningFlashDura4"] = 0.7,
 		["LatencyThreshold"] = 250,
 		["InfoFrameX"] = -227.0000305175781,
@@ -109,7 +109,28 @@ DBM_AllSavedOptions = {
 			0, -- [2]
 			0, -- [3]
 		},
-		["InfoFrameFontSize"] = 12,
+		["WarningColors"] = {
+			{
+				["b"] = 0.9411764705882353,
+				["g"] = 0.8,
+				["r"] = 0.4117647058823529,
+			}, -- [1]
+			{
+				["b"] = 0,
+				["g"] = 0.9490196078431372,
+				["r"] = 0.9490196078431372,
+			}, -- [2]
+			{
+				["b"] = 0,
+				["g"] = 0.5019607843137255,
+				["r"] = 1,
+			}, -- [3]
+			{
+				["b"] = 0.1019607843137255,
+				["g"] = 0.1019607843137255,
+				["r"] = 1,
+			}, -- [4]
+		},
 		["SpecialWarningFlashAlph2"] = 0.3,
 		["SWarningAlphabetical"] = true,
 		["ShowGuildMessages"] = true,
@@ -119,12 +140,12 @@ DBM_AllSavedOptions = {
 		["DontPlaySpecialWarningSound"] = false,
 		["ModelSoundValue"] = "Short",
 		["SpecialWarningFlash5"] = true,
-		["RangeFrameSound2"] = "none",
+		["SpecialWarningFlash2"] = true,
 		["RaidWarningSound"] = 11742,
 		["RangeFrameRadarPoint"] = "CENTER",
-		["DontShowInfoFrame"] = false,
+		["SpecialWarningY"] = 75,
 		["GUIHeight"] = 600,
-		["SpecialWarningFlash2"] = true,
+		["RangeFrameSound2"] = "none",
 		["RangeFrameUpdates"] = "Average",
 		["MovieFilter2"] = "OnlyFight",
 		["RoleSpecAlert"] = true,
@@ -167,11 +188,11 @@ DBM_AllSavedOptions = {
 			0, -- [2]
 			1, -- [3]
 		},
-		["DontShowUserTimers"] = false,
 		["CountdownVoice3"] = "Smooth",
-		["DisableStatusWhisper"] = false,
-		["WarningDuration2"] = 1.5,
+		["RecordOnlyBosses"] = false,
 		["AutoRespond"] = true,
+		["WarningDuration2"] = 1.5,
+		["DisableStatusWhisper"] = false,
 		["EventDungMusicMythicFilter"] = true,
 		["GUIY"] = -23.99997329711914,
 		["RangeFrameFrames"] = "radar",
@@ -192,7 +213,7 @@ DBM_AllSavedOptions = {
 		["SpecialWarningFontStyle"] = "THICKOUTLINE",
 		["DontShowSpecialWarningFlash"] = false,
 		["InfoFrameLines"] = 0,
-		["RecordOnlyBosses"] = false,
+		["DontShowUserTimers"] = false,
 		["WorldBossNearAlert"] = false,
 		["DontShowBossAnnounces"] = false,
 		["BadIDAlert"] = false,
@@ -207,36 +228,15 @@ DBM_AllSavedOptions = {
 		["AdvancedAutologBosses"] = false,
 		["HideTooltips"] = false,
 		["SpecialWarningFlash3"] = true,
-		["SpecialWarningY"] = 75,
+		["DontShowInfoFrame"] = false,
 		["Enabled"] = true,
 		["SpecialWarningSound4"] = 9278,
 		["GUIWidth"] = 800,
 		["FilterVoidFormSay"] = true,
 		["DontShowSpecialWarningText"] = false,
-		["WarningColors"] = {
-			{
-				["b"] = 0.9411764705882353,
-				["g"] = 0.8,
-				["r"] = 0.4117647058823529,
-			}, -- [1]
-			{
-				["b"] = 0,
-				["g"] = 0.9490196078431372,
-				["r"] = 0.9490196078431372,
-			}, -- [2]
-			{
-				["b"] = 0,
-				["g"] = 0.5019607843137255,
-				["r"] = 1,
-			}, -- [3]
-			{
-				["b"] = 0.1019607843137255,
-				["g"] = 0.1019607843137255,
-				["r"] = 1,
-			}, -- [4]
-		},
+		["InfoFrameFontSize"] = 12,
 		["SpecialWarningSound3"] = "Interface\\AddOns\\DBM-Core\\sounds\\AirHorn.ogg",
-		["AutologBosses"] = false,
+		["GUIX"] = -36.9999885559082,
 		["StripServerName"] = true,
 		["SpecialWarningSound"] = 8174,
 		["ForumsMessageShown"] = false,

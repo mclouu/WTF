@@ -9,10 +9,10 @@ BrokerPlayedTimeDB = {
 				["level"] = 46,
 			},
 			["Kotlin"] = {
-				["timePlayed"] = 3585976,
+				["timePlayed"] = 3617423,
 				["class"] = "DRUID",
 				["level"] = 60,
-				["timeUpdated"] = 1610086377,
+				["timeUpdated"] = 1610119233,
 			},
 			["Atec"] = {
 				["timePlayed"] = 2129410,

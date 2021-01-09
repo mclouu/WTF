@@ -7,43 +7,11 @@ DungeonToolsDB = {
 	},
 	["global"] = {
 		["anchorTo"] = "LEFT",
-		["nonFullscreenScale"] = 1,
+		["anchorFrom"] = "LEFT",
+		["Imported"] = true,
 		["MDI"] = {
 		},
 		["maximized"] = false,
-		["presets"] = {
-			[29] = {
-				{
-					["objects"] = {
-					},
-					["week"] = 4,
-					["value"] = {
-						["currentPull"] = 1,
-						["currentSublevel"] = 1,
-						["pulls"] = {
-							{
-								["color"] = "ff3eff",
-							}, -- [1]
-						},
-						["currentDungeonIdx"] = 29,
-						["teeming"] = false,
-						["selection"] = {
-							1, -- [1]
-						},
-						["riftOffsets"] = {
-							[4] = {
-							},
-						},
-					},
-					["difficulty"] = 10,
-					["mdi"] = {
-						["freeholdJoined"] = false,
-						["freehold"] = 1,
-						["beguiling"] = 1,
-					},
-				}, -- [1]
-			},
-		},
 		["colorPaletteInfo"] = {
 			["customPaletteValues"] = {
 				{
@@ -108,9 +76,42 @@ DungeonToolsDB = {
 				}, -- [12]
 			},
 		},
-		["version"] = 116,
+		["presets"] = {
+			[29] = {
+				{
+					["difficulty"] = 10,
+					["week"] = 4,
+					["value"] = {
+						["currentPull"] = 1,
+						["currentSublevel"] = 1,
+						["pulls"] = {
+							{
+								["color"] = "ff3eff",
+							}, -- [1]
+						},
+						["currentDungeonIdx"] = 29,
+						["teeming"] = false,
+						["selection"] = {
+							1, -- [1]
+						},
+						["riftOffsets"] = {
+							[4] = {
+							},
+						},
+					},
+					["objects"] = {
+					},
+					["mdi"] = {
+						["freehold"] = 1,
+						["beguiling"] = 1,
+						["freeholdJoined"] = false,
+					},
+				}, -- [1]
+			},
+		},
+		["version"] = 1113,
 		["xoffset"] = 98.00003814697266,
-		["anchorFrom"] = "LEFT",
+		["nonFullscreenScale"] = 1,
 		["yoffset"] = 34.50002288818359,
 	},
 }

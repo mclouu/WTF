@@ -8,11 +8,8 @@ OneRing_Config = {
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
-			},
-			["RingAtMouse"] = true,
 			["RingScale"] = 0.7000000476837158,
+			["RingAtMouse"] = true,
 			["Bindings"] = {
 				["SpecMenu"] = "CTRL-NUMPAD2",
 				["Jouet"] = "CTRL-NUMPAD5",
@@ -20,9 +17,15 @@ OneRing_Config = {
 				["Pet"] = "CTRL-NUMPAD3",
 				["Monture"] = "CTRL-NUMPAD1",
 			},
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
+			},
 		},
 		["Clou"] = {
 			["RingAtMouse"] = true,
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
+			},
 			["Bindings"] = {
 				["Jouet"] = "CTRL-NUMPAD5",
 				["sp"] = "CTRL-NUMPAD4",
@@ -33,9 +36,6 @@ OneRing_Config = {
 				["Monture"] = "CTRL-NUMPAD1",
 			},
 			["RingScale"] = 0.7000000476837158,
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
-			},
 		},
 	},
 	["PersistentStorage"] = {
