@@ -1,6 +1,11 @@
 VER 3 0100000000000006 "aaa" "136103"
 /cast Convoquer les esprits(Faë nocturnes)
 END
+VER 3 010000000000000A "berserk" "236149"
+#showtooltip Berserk
+/cast Berserk
+/cast Berserker(Raciale)
+END
 VER 3 0100000000000008 "Berserker" "136060"
 #showtooltip Alignement céleste
 /cast Alignement céleste

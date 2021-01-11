@@ -283,4 +283,4 @@ VUHDO_GLOBAL_ICONS = {
 	["Mosaic"] = "Interface\\AddOns\\VuhDo\\Images\\cluster",
 	["341684"] = 971281,
 }
-VUHDO_GI_SCAN_IDX = 113551
+VUHDO_GI_SCAN_IDX = 100801

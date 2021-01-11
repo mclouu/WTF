@@ -36,6 +36,16 @@ WQTUDB = {
 					},
 				},
 			},
+			[1610276400] = {
+				["La Croisade écarlate"] = {
+					["Atec"] = {
+						["faction"] = "Horde",
+						["rewards"] = {
+							["gold"] = 2012400,
+						},
+					},
+				},
+			},
 			[1610103600] = {
 				["La Croisade écarlate"] = {
 					["Kotlin"] = {
@@ -121,13 +131,10 @@ WQTUDB = {
 					},
 				},
 			},
-			[1609153200] = {
+			[1610190000] = {
 				["La Croisade écarlate"] = {
 					["Kotlin"] = {
 						["rewards"] = {
-							["currency;1806"] = 175,
-							["anima"] = 3,
-							["gold"] = 2857200,
 						},
 						["faction"] = "Horde",
 					},

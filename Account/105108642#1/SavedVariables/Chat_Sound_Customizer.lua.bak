@@ -3,11 +3,11 @@ ChatSoundCustomizerDB = {
 	["namespaces"] = {
 		["ZoneChannel"] = {
 		},
-		["Newcomer"] = {
-		},
 		["IgnoreList"] = {
 		},
 		["LDB"] = {
+		},
+		["Newcomer"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -19,6 +19,9 @@ ChatSoundCustomizerDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["sounds"] = {
+				["CHAT_MSG_GUILD"] = "CSC Sound 11",
+			},
 		},
 	},
 }

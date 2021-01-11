@@ -27,14 +27,13 @@ BasicMinimapSV = {
 				0.4862734377384186, -- [2]
 				0.03921560198068619, -- [3]
 			},
-			["mapBtn"] = "RightButton",
+			["lock"] = true,
 			["classcolor"] = true,
 			["coordPrecision"] = "%.1f, %.1f",
 			["size"] = 155,
-			["calendarBtn"] = "None",
 			["radius"] = 7,
 			["zoneTextConfig"] = {
-				["colorArena"] = {
+				["colorContested"] = {
 					0.9999977946281433, -- [1]
 					0.4862734377384186, -- [2]
 					0.03921560198068619, -- [3]
@@ -55,7 +54,7 @@ BasicMinimapSV = {
 					0.03921560198068619, -- [3]
 				},
 				["classcolor"] = true,
-				["colorContested"] = {
+				["colorArena"] = {
 					0.9999977946281433, -- [1]
 					0.4862734377384186, -- [2]
 					0.03921560198068619, -- [3]
@@ -69,8 +68,8 @@ BasicMinimapSV = {
 			["position"] = {
 				"TOPRIGHT", -- [1]
 				"TOPRIGHT", -- [2]
-				-2.999920845031738, -- [3]
-				-17.99994468688965, -- [4]
+				-6.999846458435059, -- [3]
+				-16.99994087219238, -- [4]
 			},
 		},
 	},

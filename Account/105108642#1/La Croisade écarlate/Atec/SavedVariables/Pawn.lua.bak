@@ -15,9 +15,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:181703::::::::57:268::53:2:7192:6652:2:28:807:9:56:::|h[Collier du carillon céleste]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 178763,
-			["Level"] = 104,
-			["Link"] = "|cff0070dd|Hitem:178763::::::::52:270::17:3:7217:6771:6652:2:28:747:9:52:::|h[Spallières de sème-tendons malodorantes]|h|r",
+			["ID"] = 181418,
+			["Level"] = 132,
+			["Link"] = "|cff0070dd|Hitem:181418::::::::58:268::53:2:7192:6652:2:28:807:9:58:::|h[Garde-épaules de soigneur runique]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
@@ -31,9 +31,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:181587::::::::57:268::53:3:7192:6652:7193:2:28:807:9:57:::|h[Ceinture de porte-âme]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 134649,
-			["Level"] = 102,
-			["Link"] = "|cff1eff00|Hitem:134649::::::::53:268::7:2:1723:1691:2:9:53:28:2035:::|h[Pantalon de bleu de l’éclair de feu]|h|r",
+			["ID"] = 181417,
+			["Level"] = 126,
+			["Link"] = "|cff0070dd|Hitem:181417::::::::58:268::53:2:7192:6652:2:28:807:9:57:::|h[Pantalon de soigneur runique]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 134648,
@@ -51,10 +51,10 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:181580::::::::57:268::53:2:7192:6652:2:28:807:9:57:::|h[Gants de porte-âme]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 181702,
-			["Level"] = 126,
+			["ID"] = 175713,
+			["Level"] = 132,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff0070dd|Hitem:181702::::::::57:268::53:3:7192:6652:7194:2:28:807:9:57:::|h[Chevalière du gardien sanctifié]|h|r",
+			["Link"] = "|cff0070dd|Hitem:175713::::::::58:268::53:2:7192:6652:2:9:58:28:807:::|h[Jonc branchardon]|h|r",
 		}, -- [11]
 		{
 			["ID"] = 181721,
