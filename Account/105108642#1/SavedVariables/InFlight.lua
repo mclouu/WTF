@@ -7,6 +7,10 @@ InFlightDB = {
 				["name"] = "Sanctuaire du Fou",
 				[2395] = 120,
 			},
+			[2513] = {
+				["name"] = "Porte Antique",
+				[2517] = 33,
+			},
 			[2515] = {
 				["name"] = "Donjon de la Domination",
 				[2511] = 29,
@@ -17,8 +21,9 @@ InFlightDB = {
 				[2569] = 201,
 			},
 			[2518] = {
-				["name"] = "Colline de l’Hypogée",
 				[2587] = 189,
+				["name"] = "Colline de l’Hypogée",
+				[2537] = 30,
 			},
 			[2519] = {
 				[2587] = 176,
@@ -59,16 +64,17 @@ InFlightDB = {
 				[2558] = 49,
 			},
 			[2585] = {
-				["name"] = "Tirna Vaal",
 				[2587] = 44,
+				["name"] = "Tirna Vaal",
+				[2590] = 40,
 			},
 			[2588] = {
 				["name"] = "Terracine",
 				[2589] = 48,
 			},
-			[2513] = {
-				["name"] = "Porte Antique",
-				[2517] = 33,
+			[2590] = {
+				["name"] = "Camp de réfugiés",
+				[2395] = 104,
 			},
 			[2395] = {
 				[2398] = 69,
@@ -86,18 +92,19 @@ InFlightDB = {
 				[2564] = 78,
 				["name"] = "Oribos",
 				[2514] = 55,
-				[2519] = 63,
+				[2680] = 138,
 				[2518] = 91,
 				[2520] = 119,
-				[2680] = 138,
+				[2519] = 63,
 			},
 			[2398] = {
 				[2561] = 40,
 				["name"] = "Redoute Lugubre",
+				[2395] = 69,
 				[2564] = 23,
 				[2558] = 32,
-				[2519] = 126,
 				[2585] = 137,
+				[2519] = 126,
 			},
 			[2584] = {
 				["name"] = "Bassin Tombe-Lueur",
@@ -109,8 +116,8 @@ InFlightDB = {
 				[2395] = 106,
 				[2585] = 42,
 				[2558] = 182,
-				[2564] = 180,
 				[2584] = 29,
+				[2564] = 180,
 			},
 			[1756] = {
 				[1758] = 127,
@@ -127,20 +134,19 @@ InFlightDB = {
 		},
 	},
 	["upload"] = 1610913265,
-	["dbinit"] = 827,
 	["profileKeys"] = {
-		["Kotlin - La Croisade écarlate"] = "Default",
 		["Nylaria - La Croisade écarlate"] = "Default",
+		["Kotlin - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
 	},
+	["dbinit"] = 827,
 	["profiles"] = {
 		["Default"] = {
 			["border"] = "Blizzard Dialog Gold",
-			["countup"] = false,
 			["texture"] = "Solid",
-			["inline"] = true,
-			["height"] = 11,
 			["width"] = 225,
+			["height"] = 11,
+			["inline"] = true,
 			["fill"] = false,
 		},
 	},

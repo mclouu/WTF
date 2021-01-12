@@ -34,13 +34,6 @@ X: -182
 Y: -140
 W: 200
 H: 135
-Frame: LiteBagInventory
-FrameLevel: 1
-Anchor: RIGHT
-X: -124
-Y: -6
-W: 444
-H: 593
 Frame: TipTac
 FrameLevel: 1
 Anchor: BOTTOMRIGHT
@@ -62,3 +55,10 @@ X: -11
 Y: 9
 W: 858
 H: 660
+Frame: LiteBagInventory
+FrameLevel: 1
+Anchor: RIGHT
+X: -124
+Y: -6
+W: 444
+H: 593

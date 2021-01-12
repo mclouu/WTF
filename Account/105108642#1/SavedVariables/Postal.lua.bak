@@ -3,7 +3,7 @@ Postal3DB = {
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
-				"Atec|La Croisade écarlate|Horde|58|MONK", -- [1]
+				"Atec|La Croisade écarlate|Horde|59|MONK", -- [1]
 				"Coven|La Croisade écarlate|Alliance|45|WARLOCK", -- [2]
 				"Kotlin|La Croisade écarlate|Horde|60|DRUID", -- [3]
 				"Kotlin|Ysondre|Horde|45|PRIEST", -- [4]

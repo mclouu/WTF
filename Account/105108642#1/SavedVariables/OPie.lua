@@ -8,6 +8,7 @@ OneRing_Config = {
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
+			["RingAtMouse"] = true,
 			["Bindings"] = {
 				["SpecMenu"] = "CTRL-NUMPAD2",
 				["Jouet"] = "CTRL-NUMPAD5",
@@ -15,18 +16,12 @@ OneRing_Config = {
 				["Pet"] = "CTRL-NUMPAD3",
 				["Monture"] = "CTRL-NUMPAD1",
 			},
-			["RingAtMouse"] = true,
 			["RotationTokens"] = {
 				["OPCTAt"] = "OPCHSh",
 			},
 			["RingScale"] = 0.7000000476837158,
 		},
 		["Clou"] = {
-			["RingAtMouse"] = true,
-			["RingScale"] = 0.7000000476837158,
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
-			},
 			["Bindings"] = {
 				["mount"] = "CTRL-NUMPAD1",
 				["Sp"] = "CTRL-NUMPAD4",
@@ -35,6 +30,11 @@ OneRing_Config = {
 				["sp"] = "CTRL-NUMPAD4",
 				["Pet"] = "CTRL-NUMPAD3",
 				["Monture"] = "CTRL-NUMPAD1",
+			},
+			["RingAtMouse"] = true,
+			["RingScale"] = 0.7000000476837158,
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
 			},
 		},
 	},
@@ -92,8 +92,8 @@ OneRing_Config = {
 			},
 			["mount"] = {
 				{
-					["sliceToken"] = "ABuekJM58Be",
 					["id"] = 150544,
+					["sliceToken"] = "ABuekJM58Be",
 				}, -- [1]
 				{
 					"mount", -- [1]
@@ -150,8 +150,8 @@ OneRing_Config = {
 					284, -- [2]
 					["sliceToken"] = "ABuekKe1KPX",
 				}, -- [12]
-				["name"] = "mount",
 				["save"] = true,
+				["name"] = "mount",
 				["limit"] = "Kotlin-LaCroisadeécarlate",
 			},
 			["Pet"] = {
@@ -245,16 +245,16 @@ OneRing_Config = {
 					"BattlePet-0-00000D80C03A", -- [2]
 					["sliceToken"] = "ABuekHxmpyev",
 				}, -- [18]
+				["name"] = "Pet",
 				["save"] = true,
 				["limit"] = "Atec-LaCroisadeécarlate",
-				["name"] = "Pet",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
 			},
 			["Jouet"] = {
-				["save"] = true,
 				["limit"] = "Atec-LaCroisadeécarlate",
+				["save"] = true,
 				["name"] = "Jouet",
 			},
 			["sp"] = {
@@ -278,8 +278,8 @@ OneRing_Config = {
 					4, -- [2]
 					["sliceToken"] = "ABuekKq6o=i",
 				}, -- [4]
-				["name"] = "spé",
 				["save"] = true,
+				["name"] = "spé",
 				["limit"] = "Kotlin-LaCroisadeécarlate",
 			},
 			["Sp"] = {
@@ -298,8 +298,8 @@ OneRing_Config = {
 					3, -- [2]
 					["sliceToken"] = "ABuekH4Z7arI",
 				}, -- [3]
-				["save"] = true,
 				["limit"] = "Atec-LaCroisadeécarlate",
+				["save"] = true,
 				["name"] = "Spé",
 			},
 			["Monture"] = {
@@ -428,9 +428,9 @@ OneRing_Config = {
 					203, -- [2]
 					["sliceToken"] = "ABuekH4Z7awz",
 				}, -- [25]
+				["name"] = "Monture",
 				["save"] = true,
 				["limit"] = "Atec-LaCroisadeécarlate",
-				["name"] = "Monture",
 			},
 		},
 	},

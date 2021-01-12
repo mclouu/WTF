@@ -18,10 +18,12 @@ _detalhes_global = {
 		[170482] = "Trancheur fauchépine",
 		[163316] = "Saccageur gorm",
 		[176113] = "Traqueur sculpté",
+		[127231] = "Décimateur garothi",
 		[170483] = "Esprit de marche-mort atal'ai",
 		[124928] = "Grenade à impulsion",
 		[117250] = "Broyeur infernal",
 		[122369] = "Ingénieur en chef Ishkar",
+		[89865] = "Mrrgrl le Saccage-Marée",
 		[173044] = "Préposé aux sutures <Portail de l'atelier>",
 		[115715] = "Inconnu",
 		[117251] = "Infernal des Flammes infernales",
@@ -31,16 +33,18 @@ _detalhes_global = {
 		[73742] = "Tourelle batteuse",
 		[127233] = "Tisseur de flammes",
 		[111621] = "Exécutrice de la Garde crépusculaire",
-		[164857] = "Spriggan torsoin",
+		[92682] = "Ecumeur de l’embouchure de Hel",
+		[161274] = "Aristocrate du quartier",
 		[174071] = "Gargon vicieux",
 		[54923] = "Gardien infini",
 		[85516] = "Ravageur de Falaise-Balafre",
 		[55563] = "Eclat gelé",
-		[169977] = "Gorm vorace",
-		[176120] = "Ecorcheur d’âmes dépravé",
+		[111622] = "Chronomate des Arcanes",
+		[120836] = "Echo d'âme distordue",
 		[156157] = "Ascendant cœur-algide",
 		[170490] = "Grand prêtre atal'ai",
 		[13319] = "Commandant Duffy",
+		[127235] = "Démolisseur garothi",
 		[13447] = "Caporal Noreg Foudrepique",
 		[166396] = "Tirailleur noble",
 		[166908] = "Malifis",
@@ -52,7 +56,7 @@ _detalhes_global = {
 		[166398] = "Forgeur d'âme Rhovus",
 		[92685] = "Capitaine Brvet",
 		[159233] = "Assemblage stèle du vice",
-		[123398] = "Annihilateur garothi",
+		[164864] = "Eclaireuse élue",
 		[124166] = "Tourment de Khaz'goroth",
 		[105739] = "Sanaar",
 		[101900] = "Hurleur sinistre",
@@ -82,10 +86,10 @@ _detalhes_global = {
 		[164873] = "Cerf runique noble-bois",
 		[72983] = "Casse-crâne corrompu",
 		[172040] = "Mastodonte sombre",
-		[168457] = "Gargon de la Muraille",
+		[102672] = "Nythendra",
 		[168969] = "Gelée jaillissante",
 		[120588] = "Gueule d'acier de Rive-Mare",
-		[88084] = "Ecumeur glissefiel",
+		[172041] = "Disciple déchu",
 		[30283] = "Marcheur de peste",
 		[72728] = "Hache sanglante kor’kronne",
 		[166411] = "Usurpateur désavoué",
@@ -113,7 +117,7 @@ _detalhes_global = {
 		[168975] = "Agonie amalgamée",
 		[166928] = "Rejeton de bile décrépit",
 		[124686] = "Pièges !",
-		[163857] = "Fidèle peste-liée",
+		[172047] = "Boggart changeant",
 		[80409] = "Markog Aba’dir",
 		[165905] = "Fils d'Hakkar",
 		[172048] = "Boggart rôdetourbe",
@@ -132,22 +136,22 @@ _detalhes_global = {
 		[165909] = "Ombre malveillante",
 		[105749] = "Chasseur d'âmes de l'embouchure de Hel",
 		[172052] = "Imploratrice désavouée",
-		[157720] = "Destructeur fongique",
+		[174100] = "Garde-vice nathriane",
 		[91417] = "Ouvrier mörgestran",
 		[87834] = "Ouvrier de Fer",
 		[172053] = "Garde-griffe désavoué",
 		[60561] = "Lien à la terre",
-		[157721] = "Mutilateur de champignons",
-		[170518] = "Démolisseur antrelige",
+		[105494] = "Drake corrompu",
+		[105750] = "Prêtre noyé",
 		[172054] = "Magistrate désavouée",
 		[102679] = "Ysondre",
 		[165912] = "Mâche-prairie en maraude",
 		[162329] = "Xav l'Invaincu",
 		[166936] = "Franc-archer œil-perçant",
-		[172055] = "Aspirante désavouée",
+		[167960] = "Inconnu",
 		[172567] = "Feuillemort de Xantuth",
 		[165913] = "Paroissien spectral <Vïolence-Stormscale>",
-		[90139] = "Inquisiteur Ernstenbok",
+		[114709] = "Pourriture fétide",
 		[110870] = "Apothicaire Faldren",
 		[173080] = "Mort errante",
 		[157212] = "Erudite assurée",
@@ -155,7 +159,7 @@ _detalhes_global = {
 		[167962] = "Fraise de dentiste abandonnée",
 		[30285] = "Oeil de Taldaram",
 		[168986] = "Raptor squelette",
-		[161308] = "Fléau infini",
+		[169498] = "Bombe de peste",
 		[13257] = "Murgot Forge-Profonde",
 		[167963] = "Client décapité",
 		[102681] = "Taerar",
@@ -168,7 +172,7 @@ _detalhes_global = {
 		[167965] = "Lubrificateur",
 		[102682] = "Explosion d’ombre",
 		[166942] = "Oeil de Zolramus",
-		[167966] = "Vase expérimentale",
+		[112664] = "Arquepuits <Acolyte céleste>",
 		[24207] = "Armée des morts <Lecørse-LesSentinelles>",
 		[28366] = "Tour-canon de Joug-d’Hiver",
 		[165919] = "Maraudeur squelette",
@@ -179,8 +183,8 @@ _detalhes_global = {
 		[165408] = "Halkias",
 		[170527] = "Ombre vengeresse",
 		[162849] = "Morguliax",
-		[71715] = "Fidèle d’Orgrimmar",
-		[168992] = "Sectateur ressuscité",
+		[112665] = "Protecteur du palais Sacrenuit",
+		[164897] = "Créature des brumes",
 		[157731] = "Charognard brûlé",
 		[122135] = "Shatug",
 		[97821] = "Féal gangremorgue",
@@ -207,13 +211,14 @@ _detalhes_global = {
 		[63508] = "Xuen <Мнимик-ЧерныйШрам>",
 		[78116] = "Elémentaire d’eau <Néllys-ConfrérieduThorium>",
 		[27791] = "Inconnu",
-		[173604] = "Antiquaire sinistre",
+		[165414] = "Oblitérateur dépravé",
 		[123929] = "Démolisseur garothi",
 		[166438] = "Plasma colossal",
 		[171557] = "Ombre de Bargast <Bargast>",
 		[165415] = "Bedeau diligent",
 		[106526] = "Dame Rivantas",
 		[120603] = "Echo zélé",
+		[88099] = "Crochelame sel-œil",
 		[156203] = "Incinérateur stygien",
 		[80677] = "Compagnon de Fer",
 		[97825] = "Fendeur gangremorgue",
@@ -225,13 +230,13 @@ _detalhes_global = {
 		[173609] = "Conservateur nathrian",
 		[72744] = "Casse-crâne kor’kron",
 		[171562] = "Fléau du Noir bourbier",
-		[176170] = "Myrmidon antrelige",
+		[112671] = "Mage de bataille de la Garde crépusculaire",
 		[80423] = "Soigne-bête sire-tonnerre",
 		[172076] = "Captif drust coeur-de-chêne",
 		[158256] = "Plume-des-nuées corrompu",
-		[124445] = "Le Paraxis",
+		[95780] = "Guhruhlruhlruh",
 		[71466] = "Mastodonte de fer",
-		[172077] = "Essence vengeresse",
+		[159792] = "Souffrance figée",
 		[172589] = "Factionnaire lichelige",
 		[173613] = "Officier du registre nathriane",
 		[149555] = "Abomination <Bayme-Ravencrest>",
@@ -249,18 +254,19 @@ _detalhes_global = {
 		[72236] = "Doute incarné",
 		[30416] = "Elémentaire de feu lié",
 		[163892] = "Visquegriffe putréfié",
-		[111651] = "Degren",
+		[123680] = "Gardien noir Aedis",
+		[174130] = "Antrignon hystérique",
 		[112675] = "Sentinelle de la Garde crépusculaire",
 		[27281] = "Canaliste rituel",
 		[174131] = "Malignon",
 		[54938] = "Archevêque Benedictus",
 		[114467] = "Inconnu",
 		[176179] = "Rampant chancreux",
-		[172596] = "Acolyte nécrotique",
+		[164406] = "Hurlaile",
 		[165430] = "Apparition malveillante",
 		[112676] = "Invocatrice dimensionnelle noble",
 		[162872] = "Xantuth le Chancreux",
-		[159289] = "Jeune plume-des-nuées",
+		[114468] = "Orbitiste de la Garde crépusculaire",
 		[164920] = "Tranchâmes drust",
 		[111653] = "Miasu",
 		[162873] = "Azmogal",
@@ -274,10 +280,10 @@ _detalhes_global = {
 		[165946] = "Mordretha, l'impératrice immortelle",
 		[166970] = "Seigneur Stavros",
 		[175672] = "Armes antreforgées",
-		[96298] = "Défenseur conjuré",
+		[167994] = "Conscrit ossifié",
 		[172601] = "Sorcier nécrotique",
 		[166971] = "Castellan Niklaus",
-		[94507] = "Ambréclat enragé",
+		[139842] = "Ravasaure ressuscité <Totos-Gilneas>",
 		[173114] = "Putriciole envahissante",
 		[175162] = "Ancien défenses-de-sang",
 		[91948] = "Geir",
@@ -286,14 +292,14 @@ _detalhes_global = {
 		[164926] = "Elagueur drust",
 		[19668] = "Ombrefiel <Harrami-Ravencrest>",
 		[171581] = "Béhémoth calciné",
-		[96300] = "Défenseur des Titans",
+		[167998] = "Gardien du portail",
 		[14187] = "Athramanis",
 		[157761] = "Volion étalon",
 		[166463] = "Death Aura",
-		[162880] = "Maîtresse Dyrax",
+		[14283] = "Hibou foudrepique",
 		[114472] = "Hautelame de la Garde crépusculaire",
 		[156226] = "Lieur cœur-algide",
-		[171583] = "Hébétement",
+		[71475] = "Freux Orteil de Pierre",
 		[172607] = "Feuillemort de Xantuth",
 		[164929] = "Villageoise tirnenn",
 		[14763] = "Maréchal de Dun Baldar sud",
@@ -304,11 +310,11 @@ _detalhes_global = {
 		[172609] = "Feuillemort de Xantuth",
 		[173633] = "Archiviste nathriane",
 		[97326] = "Hartli la Chapardeuse",
-		[109867] = "Mâcheroc fjara",
+		[73012] = "Tirailleur klaxxi",
 		[114474] = "Hautelame de la Garde crépusculaire",
 		[168003] = "Ascendant cœur-algide renforcé",
 		[71477] = "Mélancolie incarnée",
-		[168004] = "Consulaire impériale renforcée",
+		[104493] = "Cobra cracheur",
 		[54686] = "Foreur des ombres",
 		[167493] = "Tir",
 		[168005] = "Traînard âme-morte renforcé",
@@ -329,7 +335,7 @@ _detalhes_global = {
 		[71480] = "Sun Cœur de Douceur",
 		[163915] = "Nid de petits",
 		[164427] = "Guerrier réanimé <Amarth>",
-		[173641] = "Gargon nathrian",
+		[30419] = "Elémentaire d'eau lié",
 		[106032] = "Maître de guerre de la Garde crépusculaire",
 		[111151] = "Siphonneur de minuit",
 		[99122] = "Captif flétri",
@@ -344,22 +350,22 @@ _detalhes_global = {
 		[156241] = "Gardien monstrueux",
 		[14188] = "Dirk Lembrouille",
 		[73530] = "Grunt gueule-de-dragon",
-		[94261] = "Casse-roc mord-pierre",
+		[106546] = "Inconnu <Anomalie arcanique>",
 		[156242] = "Rôdeur animé",
-		[166480] = "Traqueur de gelée vivante",
+		[158290] = "Tezulat l'Annihilateur",
 		[155219] = "Cracheur gormelin",
 		[101684] = "Dératiseur ciruléen",
 		[175695] = "Braise stygienne",
 		[156244] = "Automate ailée",
-		[152661] = "Protecteur antrelige",
-		[174672] = "Garde-bouclier du Primat",
+		[169041] = "Belligérante Karnek",
+		[170577] = "Phalarden noctechant",
 		[155221] = "Soigneuse faëillue",
 		[156245] = "Grand automate",
 		[169042] = "Belligérante Brahn",
 		[153174] = "Guetteurs de mort",
 		[174161] = "Dame Viciendiaire",
 		[101685] = "Dératiseur ciruléen",
-		[175697] = "Vétéran antrelige",
+		[126767] = "Seigneur des bêtes massepoing",
 		[30740] = "Champion de l'expédition de la Bravoure",
 		[173138] = "Voltigeur antrelige",
 		[170067] = "Terogriffe aile-sauvage",
@@ -368,17 +374,18 @@ _detalhes_global = {
 		[161878] = "Trancheur fauchépine",
 		[101686] = "Dératiseur ciruléen",
 		[85562] = "Dardemort glissant",
-		[163414] = "Disciple morbide",
+		[167509] = "Chercheur désavoué",
 		[165974] = "Limier du creuset",
 		[175700] = "Eviscérateur antrelige",
 		[168022] = "Tentacule visqueux",
 		[125745] = "Conquérant vengeur",
 		[170070] = "Garde-tanière mantelume",
-		[160345] = "Inquisiteur caustique",
+		[172630] = "Gogan le Perceur",
 		[173142] = "Festoyeur de l'effroi",
-		[111413] = "Sombre dévoreur",
-		[165976] = "Amalgame tourmenté",
+		[103223] = "Hertha Grimdottir",
+		[99384] = "Inconnu <Buveur de mana drogbar>",
 		[175702] = "Néophyte antrelige",
+		[173655] = "Matriarche voile-de-brume",
 		[97593] = "Mynta Serre-Stridente",
 		[169049] = "Traqueur en manque d'anima",
 		[165978] = "Rat de l'Antre charognard",
@@ -389,7 +396,7 @@ _detalhes_global = {
 		[174169] = "Détresse psychique",
 		[30549] = "Baron Vaillefendre",
 		[114998] = "Aargoss",
-		[173146] = "Ravageur ailé",
+		[169051] = "Patriarche en manque d'anima",
 		[172635] = "Ver-éclat stygien",
 		[169052] = "Matriarche en manque d'anima",
 		[165469] = "Massacreur nathrian",
@@ -398,22 +405,23 @@ _detalhes_global = {
 		[175707] = "Instructeur antrelige",
 		[165470] = "Exécuteur nathrian",
 		[80192] = "Chauve-souris des grottes gelées",
-		[161376] = "Vétéran échine-d'acier",
+		[165471] = "Duelliste nathrian",
 		[165983] = "Messager antrelige",
-		[165472] = "Siphonneuse nathriane",
+		[123702] = "Rampante corrompue",
+		[104251] = "Factionnaire de la Garde crépusculaire",
 		[172639] = "Stygie suintante",
 		[165473] = "Alpha défenses-de-sang",
 		[174175] = "Vive-pierre loyal",
 		[166497] = "Fontaine d'anima",
 		[168033] = "Moniale déchue <Jestún-Taerar>",
-		[164450] = "Marchande Xy'exa",
+		[156260] = "Ecorcheuse d'âmes dépravée",
 		[165474] = "Assassin nathrian",
 		[10990] = "Bélier d'Alterac",
 		[164451] = "Dessia la Décapiteuse",
 		[140393] = "Vrille de sang",
 		[105532] = "Molosse de Hel",
 		[174689] = "Déprédateur possédé",
-		[163429] = "Poussiéreux desséché",
+		[167524] = "Valinor",
 		[112955] = "Wyrm ombrécaille",
 		[165989] = "Rampant d'ébène",
 		[167525] = "Mortanis",
@@ -423,7 +431,7 @@ _detalhes_global = {
 		[174692] = "Assaillant noirépine",
 		[167526] = "Nurgash Fangeformé",
 		[169062] = "Tranchant d'annihilation",
-		[169574] = "Rapiéceur vif-garrot",
+		[165479] = "Massacreuse de la cour",
 		[28695] = "Golem en fusion",
 		[165992] = "Déchiqueteur d'âme antrelige",
 		[111933] = "Jeune araignée venimeuse",
@@ -435,7 +443,7 @@ _detalhes_global = {
 		[175720] = "Chasseur de runes",
 		[113214] = "Brouillard humide",
 		[125755] = "Envahisseuse gangreflamme",
-		[175721] = "Graveur de runes",
+		[106304] = "Feu follet corrompu",
 		[13358] = "Franc-archer foudrepique",
 		[123452] = "Gangreseigneur",
 		[167532] = "Relent le Briseur",
@@ -447,7 +455,7 @@ _detalhes_global = {
 		[167533] = "Aurore la Résolue",
 		[110656] = "Arcaniste Lylandre",
 		[128060] = "Prêtresse du délire",
-		[87366] = "Tuyau d’échappement du haut-fourneau",
+		[39596] = "Garde d'eau submergeant",
 		[167022] = "Etripeur suture-guerre",
 		[167534] = "Rek l'Endurcie",
 		[159856] = "Nuisible virulent",
@@ -455,7 +463,7 @@ _detalhes_global = {
 		[28312] = "Engin de siège de Joug-d’Hiver",
 		[125757] = "Envahisseur gangreflamme",
 		[157809] = "Invocateur noir antrelige",
-		[155250] = "Thanatoratrice",
+		[167535] = "Ferrailleuse élue",
 		[164464] = "Xira la Sournoise",
 		[157810] = "Porte-trépas antrelige",
 		[167536] = "Harugia la Sanguinaire",
@@ -473,6 +481,7 @@ _detalhes_global = {
 		[76877] = "Gruul",
 		[163960] = "Rôde-soif vorace",
 		[28825] = "Cyclone",
+		[127809] = "Module de réorigination",
 		[175734] = "Braise stygienne <Incinérateur stygien>",
 		[163961] = "Acarus envahissant",
 		[54699] = "Sabre-de-nuit distordu par le temps",
@@ -482,7 +491,7 @@ _detalhes_global = {
 		[127810] = "Démon écumant",
 		[157820] = "Lieur de flamme magmatique",
 		[174712] = "Rat de l'Antre charognard",
-		[71504] = "Ingé-siège Boîte-Noire",
+		[108359] = "Scorpide instable",
 		[168058] = "Plume imprégnée",
 		[72784] = "Mitrailleur kor’kron",
 		[98890] = "Roupille",
@@ -502,13 +511,14 @@ _detalhes_global = {
 		[163457] = "Avant-garde désavoué",
 		[135816] = "Démon abject <Picene-Ravencrest>",
 		[152708] = "Chercheur antrelige",
-		[54701] = "Chasseresse distordue par le temps",
+		[161410] = "Maître de siège Traxon",
 		[105547] = "Rauren",
+		[106059] = "Ombre dimensionnelle",
 		[163458] = "Fustigatrice désavouée",
 		[111178] = "Gardécaille sashj’tar",
 		[174208] = "Exécutrice de la cour",
 		[163459] = "Soigneur désavoué",
-		[96590] = "Gourbière le Cogneur",
+		[168578] = "Fongimancien",
 		[72276] = "Amalgame de corruption",
 		[97102] = "Bo’xon",
 		[113738] = "Mage lunaire de la Garde crépusculaire",
@@ -519,6 +529,7 @@ _detalhes_global = {
 		[170628] = "Cri horrifiant",
 		[169605] = "Collecteur antrelige",
 		[103758] = "Etraeus, l'augure stellaire",
+		[104270] = "Assemblage gardien",
 		[173189] = "Oeil-de-faucon nathrian",
 		[157833] = "Borr-Geth",
 		[171142] = "Animé prodigieux",
@@ -548,7 +559,7 @@ _detalhes_global = {
 		[27676] = "Défenseur de Ruissargent",
 		[115535] = "Assassin rôdeur",
 		[167566] = "Assassin aile-morne",
-		[71770] = "Lamefer kor'kron",
+		[155793] = "Squelette",
 		[169102] = "Agonix",
 		[168591] = "Chiropteffroi vorace",
 		[165008] = "Architecte Halen",
@@ -649,7 +660,7 @@ _detalhes_global = {
 		[168109] = "Ritualiste antrelige renforcé",
 		[110944] = "Gardien Thor’el",
 		[161455] = "Tisseuse d'effroi drust",
-		[27936] = "Soldat de citrouille <Okbeamer-Ravencrest>",
+		[170157] = "Forgerune stygien",
 		[79208] = "Massacreur rochenoire",
 		[171181] = "Lamebec territorial",
 		[163503] = "Plonge-éther",
@@ -658,7 +669,7 @@ _detalhes_global = {
 		[72810] = "Bâton d’eau résonnante",
 		[105826] = "Messager du Cauchemar",
 		[122718] = "Troupier de choc gangrelame <Général Erodus>",
-		[127069] = "Tourelle cristalline",
+		[168111] = "Conservatrice impériale renforcée",
 		[162993] = "Garde possédée",
 		[169136] = "Spriggan en maraude",
 		[170160] = "Inconnu <Mécanicienne lige-ténèbres>",
@@ -730,6 +741,7 @@ _detalhes_global = {
 		[170692] = "Krala",
 		[167109] = "Avant-garde squelette",
 		[114539] = "Mande-récif kvaldir",
+		[164038] = "Inconnu",
 		[164550] = "Inconnu",
 		[169157] = "Tadboue",
 		[103534] = "Brise-vœux frémissant",
@@ -765,7 +777,7 @@ _detalhes_global = {
 		[161488] = "Surveillante malsorgue",
 		[170190] = "Inconnu",
 		[28580] = "Mande-ciel en acier durci",
-		[28836] = "Formerune forge-foudre",
+		[136407] = "Garde-courroux <Picene-Ravencrest>",
 		[166608] = "Mueh'zala",
 		[112497] = "Maia la Blanche",
 		[164049] = "Siphonneur de rage",
@@ -801,13 +813,14 @@ _detalhes_global = {
 		[77182] = "Inconnu",
 		[55107] = "Forestier du Crépuscule",
 		[122739] = "Croiseur de la Légion",
-		[168153] = "Pesteroc",
+		[98425] = "Amalgame instable",
 		[123507] = "Familier arcanique agité",
 		[165594] = "Embusqué cœur-algide",
 		[95866] = "Buveur de mana drogbar",
+		[109943] = "Ana-Mouz",
 		[175833] = "Parasite grouillant",
-		[168155] = "Peste-liée",
-		[165084] = "Animé vestigial",
+		[98426] = "Limon instable",
+		[123508] = "Panthara dévore-mana",
 		[165597] = "Soldat recousu",
 		[160479] = "Brise-ligne peau-d'acier",
 		[164575] = "Katia",
@@ -828,6 +841,7 @@ _detalhes_global = {
 		[159460] = "Horreur veuve-nuit",
 		[111227] = "Gangretisseuse Pharamere",
 		[112251] = "Vase putride",
+		[168676] = "Rogne-os alpha",
 		[174307] = "Andromède, héraut des désavoués",
 		[73349] = "Initié tourmenté",
 		[114811] = "Naïade corallienne kvaldir",
@@ -840,7 +854,7 @@ _detalhes_global = {
 		[166120] = "Défenseur lié par le Vide",
 		[156395] = "Chiropteffroi affamé",
 		[105343] = "Abomination de l'effroi",
-		[170728] = "Conquérant antrelige",
+		[73095] = "Ingénieur Boîte-Noire",
 		[55111] = "Nervi du Crépuscule",
 		[114813] = "Sorcière des marées kvaldir",
 		[168681] = "Hellionne désavouée",
@@ -854,11 +868,12 @@ _detalhes_global = {
 		[112255] = "Bourberax",
 		[164589] = "Graine sauvage régénératrice",
 		[55112] = "Cogneur du Crépuscule",
+		[98435] = "Suinteux instable",
 		[160495] = "Lieur d'âme dément",
 		[170733] = "Putriciole gavée",
 		[171245] = "Molosse de Hel sauvage",
 		[168174] = "Goule des cendres abandonnée",
-		[126333] = "Ritualiste gangreveille",
+		[73098] = "Surveillant kor’kron",
 		[28584] = "Tempête-de-feu déchaînée",
 		[94085] = "Brûle-mèche ciruléen",
 		[111489] = "Flagorneuse loyaliste",
@@ -875,23 +890,23 @@ _detalhes_global = {
 		[164084] = "Manifestation de la rage",
 		[165108] = "Clone illusoire",
 		[111747] = "Noble gangrelige",
-		[166644] = "Artificier Xy'mox",
-		[92040] = "Fenri",
+		[170739] = "Avant-garde fanemorgue",
+		[100230] = "Arnie « Dans l'mille »",
 		[168692] = "Ouvrière osséine",
 		[109188] = "Cobaye flétri",
-		[162038] = "Danse-brume régalien",
+		[121985] = "Inconnu",
 		[170740] = "Maître tissombre",
 		[175347] = "Calcification",
-		[123521] = "Grand vizir Jarasum",
+		[169205] = "Fleur gloutonne",
 		[27881] = "Catapulte de Joug-d’Hiver",
 		[162039] = "Oppresseuse malfaisante",
 		[91529] = "Glimar Poing-de-Fer",
 		[100231] = "Dargok Tonneruine",
 		[16150] = "Cavalier spectral",
-		[125569] = "Assistante des failles",
+		[165111] = "Malegriffe drust",
 		[162040] = "Surveillant suprême",
 		[126337] = "Ingénieur putride",
-		[97928] = "Corapace apprivoisé",
+		[28585] = "Scorie",
 		[123522] = "Grand Éveilleur Aargon",
 		[171255] = "Echo d'Aella",
 		[100232] = "Ryal Rôde-l'Aube",
@@ -928,7 +943,7 @@ _detalhes_global = {
 		[155908] = "Nécrorateur",
 		[102796] = "Sirène Naz’jul",
 		[99213] = "Erasmus Lamelune",
-		[174336] = "Surveillante des Chenils",
+		[162051] = "Goule frénétique",
 		[100237] = "Chasseur de ligne tellurique",
 		[151814] = "Ombre âme-morte",
 		[93071] = "Mystique parle-os",
@@ -950,7 +965,7 @@ _detalhes_global = {
 		[3127] = "Scorpide queue-venin",
 		[71831] = "Grand fourrageur illusoire",
 		[108942] = "Festoyeur flétri",
-		[130185] = "Ingénieur en chef Ishkar",
+		[162058] = "Ventunax",
 		[127114] = "Lieur d'âme érédar",
 		[29931] = "Rhinocéros drakkari",
 		[162059] = "Kin-Tara",
@@ -965,7 +980,7 @@ _detalhes_global = {
 		[169227] = "Envahisseur chancreux",
 		[162061] = "Déva",
 		[175882] = "Voltigeur antrelige",
-		[58959] = "Fizrik <Tankrad-LesClairvoyants>",
+		[105617] = "Porte-chaos érédar",
 		[163086] = "Sac à gaz rance",
 		[168717] = "Justicière désavouée",
 		[169229] = "Profanatrice fanemorgue",
@@ -991,16 +1006,17 @@ _detalhes_global = {
 		[165138] = "Sac à chancre",
 		[173840] = "Fidèle peste-liée",
 		[128142] = "Engeance du Vide <Hunllef-Draenor>",
-		[71068] = "Grand tisse-ambre illusoire",
+		[87448] = "Ouvrier de Fer",
 		[113554] = "Anomalie astrale <Sage sacrenuit>",
 		[153878] = "Archer antrelige",
+		[105876] = "Rejeton enchanté",
 		[26669] = "Sauvage ymirjar",
 		[26861] = "Roi Ymiron",
 		[153879] = "Ombre âme-morte",
 		[71069] = "Grand mystique illusoire",
 		[112531] = "Leleyna",
 		[168724] = "Tisse-peur congestionnée",
-		[114323] = "Guarm",
+		[158999] = "Geôlier éternel",
 		[175891] = "Ame tourmentée",
 		[160535] = "Vagabonde des cendres",
 		[72350] = "Grunt d’élite gueule-de-dragon",
@@ -1023,12 +1039,12 @@ _detalhes_global = {
 		[72352] = "Traqueur d’ébène gueule-de-dragon",
 		[138530] = "Gouttelette volatile",
 		[102297] = "Boisbrouf lourd",
-		[26670] = "Chasseur de chair ymirjar",
+		[106648] = "Drake aile-tempête",
 		[168731] = "Rôdeur fourrure-cuivrée",
 		[72353] = "Jette-flamme gueule-de-dragon",
-		[151329] = "Veilleur Skoldus",
+		[98203] = "Ivanyr",
 		[116119] = "Energiseuse gangrenuit",
-		[108185] = "Rampelorgne froidécaille",
+		[67235] = "Inconnu <Catalvia-KirinTor>",
 		[171805] = "Scribe chercheuse",
 		[72354] = "Broie-les-os gueule-de-dragon",
 		[151331] = "Sentinelle pénitentiaire",
@@ -1036,7 +1052,7 @@ _detalhes_global = {
 		[169759] = "Présence flétrissante",
 		[71075] = "Inconnu",
 		[125590] = "Gangregarde antoréen",
-		[151333] = "Eclat de sentinelle",
+		[163618] = "Nécromancien de Zolramus",
 		[29742] = "Nœud de serpents <Salamandar>",
 		[71076] = "Petit mystique illusoire",
 		[163619] = "Sculpteur d'os de Zolramus",
@@ -1048,9 +1064,9 @@ _detalhes_global = {
 		[108188] = "Lieur d’arc impérial",
 		[163621] = "Broyaux",
 		[113307] = "Chronâme en peine",
-		[58965] = "Laz'arad",
+		[105629] = "Pillard langue-de-wyrm",
 		[105885] = "Carcasse efflanquée",
-		[163622] = "Morceaux de Broyaux",
+		[98207] = "Nal’tira",
 		[111004] = "Gelée putréfiée",
 		[71078] = "Petite vermine illusoire",
 		[163623] = "Restes de Crache-Vérole",
@@ -1058,7 +1074,7 @@ _detalhes_global = {
 		[113052] = "Gardeffroi",
 		[173349] = "Modeleur de gelée",
 		[77477] = "Marak la Sanglante",
-		[122778] = "Annihilateur",
+		[98208] = "Conseiller Vandros",
 		[152875] = "Ecraseur massif",
 		[71079] = "Petit gardien illusoire",
 		[126618] = "Pterreurdactyle assoiffé de sang",
@@ -1067,8 +1083,9 @@ _detalhes_global = {
 		[30319] = "Invocateur noir du Crépuscule",
 		[81318] = "Sergent d’artillerie de Fer",
 		[26672] = "Loup de la toundra assoiffé de sang",
-		[168747] = "Croc-venin",
+		[111007] = "Randril",
 		[103841] = "Plume-Obscure",
+		[124828] = "Argus l'Annihilateur",
 		[159023] = "Fléau infini",
 		[98979] = "Charognard farouche",
 		[160048] = "Restes arrosés de peste",
@@ -1099,11 +1116,11 @@ _detalhes_global = {
 		[162103] = "Exécuteur Tarvold",
 		[168246] = "Arbalétrier réanimé <Amarth>",
 		[169270] = "Cauchemar perturbé",
-		[165687] = "Brûleur empreint de Lumière",
+		[113572] = "Buveur d’âmes farouche",
 		[76973] = "Hans’gar",
 		[171318] = "Ritualiste morbide",
-		[74158] = "Mitrailleur kor’kron",
-		[169271] = "Portail de faille explosive",
+		[160569] = "Volion aile-vive",
+		[165176] = "Buveur de sang orgueilleux",
 		[168248] = "Valinor <Valinor>",
 		[160570] = "Alpha fumant",
 		[72367] = "Chaman des marées gueule-de-dragon",
@@ -1113,6 +1130,7 @@ _detalhes_global = {
 		[166714] = "Dévastateur Maroth",
 		[30385] = "Volontaire du Crépuscule",
 		[77231] = "Massacreuse Sorka",
+		[122532] = "Braise de Taeshalach",
 		[73904] = "Sentinelle kor’kronne",
 		[112039] = "Jeune araignée hurlante",
 		[175930] = "Nécrolieur antrelige",
@@ -1130,7 +1148,7 @@ _detalhes_global = {
 		[113321] = "Assoiffé harassé",
 		[166721] = "Massacreur Asorius",
 		[171328] = "Garde-œuf gorm",
-		[102828] = "Brise-sable sashj’tar",
+		[98733] = "Démon flétri",
 		[29874] = "Séditieux drakkari",
 		[170818] = "Soigneur de graine sauvage",
 		[157510] = "Sycorex",
@@ -1147,8 +1165,9 @@ _detalhes_global = {
 		[166728] = "Festoyeur colossal",
 		[159050] = "Animé incontrôlé",
 		[160074] = "Trancheur gorm",
+		[160075] = "Baveur gorm",
 		[111022] = "Le démon intérieur",
-		[165706] = "Concrétion de fatalité",
+		[107439] = "Gaveur sel-œil",
 		[160076] = "Fouisseur gorm",
 		[173385] = "Ossements incontrôlables",
 		[163660] = "Guerrier piqueracine",
@@ -1157,19 +1176,20 @@ _detalhes_global = {
 		[99762] = "Porte-trépas de la Légion",
 		[71865] = "Garrosh Hurlenfer",
 		[104881] = "Sorcelame Aluriel",
-		[97203] = "Tenpak Totem-de-Flammes",
-		[167246] = "Traumatisme déchaîné <Atec>",
+		[105393] = "Il'gynoth",
+		[171341] = "Jeune lamebec",
 		[84151] = "Rylak de la gorge",
 		[80312] = "Grutush le Pilleur",
 		[105906] = "Oeil d'Il'gynoth",
 		[171342] = "Jeune cerf runique",
 		[161105] = "Schmitd l'Indomptable",
 		[93110] = "Gardienne du caveau",
-		[99765] = "Crapaud langue-de-wyrm",
+		[105651] = "Voyant sacreffroi",
+		[91575] = "Ecorcheur d’âmes kvaldir",
 		[135002] = "Tyran démoniaque <Диграти-Гордунни>",
 		[92599] = "Alpha traquesang",
 		[162133] = "Général Kaal",
-		[67262] = "Bruce",
+		[163157] = "Amarth",
 		[92600] = "Traquesang",
 		[169812] = "Sentinelle convertie",
 		[166741] = "Karaage",
@@ -1193,26 +1213,28 @@ _detalhes_global = {
 		[93371] = "Mordvigbjörn",
 		[73152] = "Garde de la réserve",
 		[26550] = "Cherchemort écorche-dragon",
-		[127155] = "Démon ur'zul invoqué <Lieur d'âme érédar>",
+		[106680] = "Echo d'Élisande",
 		[169819] = "Flagellant vorace",
 		[99770] = "Sorcière des profondeurs sashj’tar",
-		[125364] = "Le Paraxis",
+		[92604] = "Championne Elodie",
 		[126900] = "Instructrice Tarahna",
 		[164702] = "Appétit sanglant",
+		[107449] = "Inquisiteur observateur",
 		[167263] = "Tariesh",
 		[164705] = "Gelée pestilentielle",
 		[132969] = "Katy Siffletimbre <Adrîa-KirinTor>",
+		[105915] = "Récupérateur sacrenuit",
 		[114361] = "Hymdall",
 		[169825] = "Chien suture-de-guerre",
 		[99773] = "Ver de sang <Suprapoupet-KirinTor>",
 		[104636] = "Cénarius",
 		[164707] = "Gelée figée",
 		[158053] = "Mère pou de cadavre",
-		[170850] = "Cornesang déchaîné",
+		[101821] = "Invocateur dimensionnel sacrenuit",
 		[158054] = "Wyrm en manque d'anima",
 		[109500] = "Jak",
 		[165222] = "Soigne-os de Zolramus",
-		[107965] = "Mangeroche du canyon",
+		[170853] = "Grand cerf des hautes-terres",
 		[175972] = "Monolithe stygien",
 		[92609] = "Pisteur Jack",
 		[109501] = "Ténébreuse",
@@ -1224,7 +1246,7 @@ _detalhes_global = {
 		[169832] = "Oeil de damnation",
 		[126138] = "Infernal gangresiège",
 		[97729] = "Apparition perturbée",
-		[73415] = "Ichor d’Y’Shaarj",
+		[171368] = "Serviteur squelette",
 		[34924] = "Haut-commandant Halford Verroctone",
 		[175976] = "Carcasse chancelante",
 		[92611] = "Embusqué croc-dague",
@@ -1237,12 +1259,13 @@ _detalhes_global = {
 		[54632] = "Brute sans-visage",
 		[169836] = "Terreur envahissante",
 		[162158] = "Prisonnier affamé",
-		[170860] = "Ragevolée sauvage",
+		[105921] = "Sorcépée sacrenuit",
 		[99267] = "Scion sacrenuit",
 		[166766] = "Péchés du passé",
 		[92613] = "Prêtresse Liza",
 		[169838] = "Flagellant bourgeonnant",
 		[159601] = "Traqueuse du ciel vive-pierre",
+		[98756] = "Anomalie arcanique",
 		[165232] = "Assemblage sans âme",
 		[28920] = "Géant forge-foudre",
 		[99524] = "Gardienne Selentia",
@@ -1251,7 +1274,7 @@ _detalhes_global = {
 		[113089] = "Gardien contaminé",
 		[54633] = "Tisseur d’ombre sans-visage",
 		[171376] = "Rondier en chef Javlo",
-		[111554] = "Entourloupeur du Brasier infernal",
+		[107459] = "Jeune araignée venimeuse",
 		[115905] = "Ame gangrenée",
 		[168306] = "Phaluisant territorial",
 		[113090] = "Gardienne de portail corrompue",
@@ -1262,6 +1285,7 @@ _detalhes_global = {
 		[157558] = "Terreur croissante",
 		[156023] = "Masse d'âmes miniature",
 		[98503] = "Grrvrgull le Conquérant",
+		[98759] = "Crochet-de-mana vicieux",
 		[157560] = "Inquiétude figée",
 		[171381] = "Décadieuse",
 		[16126] = "Cavalier tenace",
@@ -1285,51 +1309,94 @@ _detalhes_global = {
 		[175992] = "Domestique dévoué",
 		[72656] = "Mine à pointes",
 		[101577] = "Briseur de tanzanite",
+		[54544] = "Echo de Tyrande",
 		[26554] = "Voyant écorche-dragon",
+		[122366] = "Varimathras",
+		[165313] = "Guetteuse désavouée",
 		[111047] = "Regard ténébreux",
-		[157054] = "Aspirant fourbe",
+		[111303] = "Sage sacrenuit",
+		[167943] = "Ame convertie",
+		[91384] = "Molosse de Hel",
+		[164847] = "Chien de meute du réquisitionneur",
+		[104247] = "Arcaniste de la Garde crépusculaire",
+		[58959] = "Fizrik <Tankrad-LesClairvoyants>",
 		[71889] = "Systèmes de défense instables",
+		[102263] = "Skorpyron",
+		[158642] = "Chair âme-pourrie",
 		[27386] = "Esprit revanchard",
+		[150958] = "Garde antrelige",
 		[110024] = "Mal’Dreth le Corrupteur",
+		[114538] = "Fauche-esprit kvaldir",
+		[71415] = "Petit lance-bananes illusoire",
+		[168620] = "Traqueur des ombres affamé",
+		[109154] = "Inconnu",
 		[169341] = "Vétéran âme-nouée",
+		[106087] = "Elerethe Ranfarouche",
+		[157340] = "Squelette <Nécrorateur>",
+		[123223] = "Inconnu",
 		[159104] = "Lame d'effroi de la Domination",
 		[167806] = "Vice animé",
 		[168318] = "Goliath désavoué",
+		[170476] = "Chasseresse possédée",
+		[171919] = "Tortionnaire d'Ayeleth",
 		[173949] = "Soldat nathriane",
+		[125692] = "Imonar le Chasseur d'âmes",
+		[91874] = "Lamorage",
 		[159105] = "Collectionneur Kash",
+		[95072] = "Elémentaire de terre supérieur <Thursdaynext-Ravencrest>",
 		[160129] = "Volion apprivoisé",
 		[160641] = "Ritualiste téméraire",
+		[105299] = "Elémentaire résurgent",
 		[78801] = "Acide-dorsal sombréclat",
+		[71433] = "Inconnu",
 		[162689] = "Docteur Sutur",
 		[159106] = "Afflige-âme de la Domination",
 		[108490] = "Guetteur sniffepépite",
+		[100497] = "Ursoc",
 		[164737] = "Inconnu",
+		[165255] = "Collecteur renégat",
 		[157571] = "Couve-flamme antrelige",
 		[101580] = "Glisseuse de tanzanite",
+		[112973] = "Tisserand de la Garde crépusculaire",
 		[171392] = "Larve vorace",
 		[34802] = "Lanceur de glaive",
 		[168321] = "Alpha charognard",
 		[172928] = "Stygie solidifiée",
+		[165763] = "Occultiste infâme",
 		[165762] = "Infuseuse d'âme",
+		[95061] = "Elémentaire de feu supérieur <Thursdaynext-Ravencrest>",
 		[162691] = "Chancros",
 		[71380] = "Mogu de pierre animé",
 		[108491] = "Sous-chef sniffepépite",
+		[159909] = "Méfiance de Nikolon",
+		[169271] = "Portail de faille explosive",
 		[165251] = "Inconnu <Mandebrume>",
-		[165763] = "Occultiste infâme",
+		[173953] = "Gargon loyal",
 		[166275] = "Façonneur voile-de-brume",
 		[170882] = "Magus des os",
 		[26555] = "Butor du Fléau",
+		[169848] = "Rôdeur chancreux",
 		[26683] = "Worgen frénétique",
+		[172193] = "Découpeur chancreux",
+		[167119] = "Ame en peine appelée",
 		[165764] = "Vainqueur pierre-lié",
 		[166276] = "Gardien voile-de-brume",
 		[162693] = "Nalthor le Lieur-de-Givre",
+		[29307] = "Colosse drakkari",
 		[100302] = "Puck",
 		[168324] = "Wurtzog Puise-Ame",
 		[160646] = "Acolyte déchue Erisne",
+		[165253] = "Garde-glas Varaboss",
 		[72661] = "Zèle",
+		[159612] = "Léonide",
+		[155824] = "Création chancelante",
+		[71393] = "Ritualiste de l’ombre mogu",
+		[28579] = "Berserker en acier durci",
+		[73342] = "Soigne-bassin déchu",
 		[172932] = "Inconnu <Stygie bouillonnante>",
 		[173444] = "Caramain",
 		[169861] = "Ickor Aigrechair",
+		[72770] = "Sombre long-voyant kor’kron",
 		[99791] = "Ettin de Koralune",
 		[71382] = "Urne mortuaire",
 		[100303] = "Zénobia",
@@ -1338,71 +1405,77 @@ _detalhes_global = {
 		[173445] = "Sindrel",
 		[72662] = "Vanité",
 		[166279] = "Brynkros",
+		[170199] = "Spectre soumis",
+		[113597] = "Adjudicatrice de la Garde crépusculaire",
+		[102351] = "Wyrm de mana",
 		[164232] = "Manifestation de la haine",
+		[175811] = "Rat de l'Antre goulu",
 		[173446] = "Hargitas",
 		[169863] = "Inconnu <Despote Leprutis>",
+		[55559] = "Elémentaire cristallin",
 		[99792] = "Plaie-des-Elfes",
 		[159114] = "Travailleur dévoué",
-		[175544] = "Rogne-os alpha",
+		[169574] = "Rapiéceur vif-garrot",
+		[108489] = "Charognard sniffepépite",
 		[54511] = "Geist distordu par le temps",
-		[167119] = "Ame en peine appelée",
-		[122366] = "Varimathras",
-		[102263] = "Skorpyron",
-		[29307] = "Colosse drakkari",
-		[72451] = "Sombre chaman kor’kron",
-		[164847] = "Chien de meute du réquisitionneur",
-		[169175] = "Skell la Spoliatrice",
+		[156559] = "Guerrier fervent",
+		[97793] = "Flamécaille",
+		[168843] = "Klotos",
+		[26684] = "Furbolg vorace",
+		[98421] = "Kottr Vondyr",
+		[100864] = "Cora'kar",
+		[111206] = "Worg sabrecroc",
 		[29819] = "Lancier drakkari",
 		[173448] = "Dragost",
-		[111303] = "Sage sacrenuit",
-		[111206] = "Worg sabrecroc",
-		[92789] = "Porteffroi sombrefiel",
-		[114538] = "Fauche-esprit kvaldir",
-		[157340] = "Squelette <Nécrorateur>",
-		[168620] = "Traqueur des ombres affamé",
-		[170853] = "Grand cerf des hautes-terres",
-		[72562] = "Totem d’éclair de poison <Sombre chamane kor’kronne>",
-		[76906] = "Conducteur Thogar",
-		[71415] = "Petit lance-bananes illusoire",
-		[123223] = "Inconnu",
-		[170476] = "Chasseresse possédée",
-		[103396] = "Faille ténébreuse",
+		[105611] = "Horreur inconcevable",
+		[54512] = "Sentinelle distordue par le temps",
+		[108030] = "Bretteur ivre de sang",
+		[99584] = "Chasseur de mages vorace",
+		[101581] = "Fouisseur de tanzanite",
+		[96590] = "Gourbière le Cogneur",
+		[176252] = "Surveillant du creuset",
+		[157872] = "Entrave-chair élu",
+		[165737] = "Statue stèle du vice",
+		[81315] = "Fine gâchette de Fer",
+		[73415] = "Ichor d’Y’Shaarj",
+		[157584] = "Maître forgeflamme",
+		[114534] = "Molosse de Hel",
 		[168331] = "Vétéran os-fêlé",
-		[168843] = "Klotos",
+		[98770] = "Gangrelame garde-courroux",
 		[165260] = "Inconnu",
-		[125692] = "Imonar le Chasseur d'âmes",
-		[154014] = "Cabaliste emprisonné",
-		[71409] = "Commandant Zak’tar",
+		[72658] = "Orgueil amalgamé",
+		[167117] = "Larve gueule-épine",
+		[137578] = "Inconnu <[*] Décharge de plasma>",
 		[71385] = "Bombardier sri’thik",
 		[176010] = "Ravisseur stygien",
-		[157584] = "Maître forgeflamme",
+		[151128] = "Seigneur des verrous",
 		[160654] = "Fardeau de Danysia",
-		[71433] = "Inconnu",
+		[127155] = "Démon ur'zul invoqué <Lieur d'âme érédar>",
 		[157583] = "Gardien de la forge",
-		[156559] = "Guerrier fervent",
-		[168837] = "Camouflin",
-		[111446] = "Maître de guerre de la Garde crépusculaire",
-		[100497] = "Ursoc",
-		[95061] = "Elémentaire de feu supérieur <Thursdaynext-Ravencrest>",
+		[159911] = "Désespoir de Nikolon",
+		[109498] = "Xaander",
+		[126231] = "Corrupteur affolé",
+		[175697] = "Vétéran antrelige",
+		[29791] = "Esprit rhinocéros <Gal'darah>",
 		[168845] = "Astronos",
-		[93401] = "Urgev l’Ecorcheur",
+		[173641] = "Gargon nathrian",
 		[103378] = "Faille infectieuse",
-		[105299] = "Elémentaire résurgent",
+		[174672] = "Garde-bouclier du Primat",
 		[170893] = "Hurleur aile-écorchée",
 		[124227] = "Kéraptéron volant",
-		[114534] = "Molosse de Hel",
-		[73185] = "Mushan domestique enragé",
+		[167253] = "Massacreur masqué",
+		[107965] = "Mangeroche du canyon",
 		[164751] = "Bannière de guerre vicieuse <Champion Maddux>",
-		[171919] = "Tortionnaire d'Ayeleth",
+		[173146] = "Ravageur ailé",
 		[169870] = "Khan",
 		[166287] = "Ombre flétrissante",
-		[112973] = "Tisserand de la Garde crépusculaire",
-		[123702] = "Rampante corrompue",
-		[28579] = "Berserker en acier durci",
-		[122212] = "Dame Dacidion",
+		[123191] = "Gangrechien",
+		[34775] = "Démolisseur",
+		[169043] = "Belligérant Mélia",
+		[168266] = "Garde d'os morbide",
 		[156562] = "Sentinelle sombre",
-		[109498] = "Xaander",
-		[164477] = "Hroth le Lieur-de-mort",
+		[28923] = "Loken",
+		[104592] = "Tentacule cauchemardesque",
 		[166288] = "Mangeur d'âmes",
 		[158610] = "Garde du Vide envahisseur",
 		[104147] = "Grizzly du Cauchemar",
@@ -1411,755 +1484,755 @@ _detalhes_global = {
 		[29308] = "Prince Taldaram",
 		[165265] = "Duelliste honoré",
 		[105427] = "Totem Fureur-du-ciel <Доставашка-Гордунни>",
-		[113512] = "Vase putride",
-		[95174] = "Charmecendre folfurie",
-		[55559] = "Elémentaire cristallin",
-		[171341] = "Jeune lamebec",
+		[73541] = "Louveteau kor’kron",
+		[54701] = "Chasseresse distordue par le temps",
+		[164836] = "Assemblage ouvrier",
+		[152661] = "Protecteur antrelige",
 		[168337] = "Moldovaak",
 		[156564] = "Gardien vorace",
 		[165266] = "Courtisane noble",
 		[169873] = "Messager antrelige",
 		[99541] = "Furtif ressuscité",
-		[162994] = "Gardienne possédée",
+		[175721] = "Graveur de runes",
 		[71388] = "Kunchong figé dans l’ambre",
 		[176016] = "Valse de sang",
 		[164243] = "Siphonneuse de haine",
 		[168850] = "Jeune tisse-peur <Cocon de tisse-peur>",
 		[101077] = "Sekhan",
-		[114532] = "Lieur d’âme parle-os",
+		[155216] = "Gardien faëillu",
 		[81114] = "Travailleur gronnlin",
-		[97793] = "Flamécaille",
-		[159909] = "Méfiance de Nikolon",
-		[167253] = "Massacreur masqué",
+		[168418] = "Inquisitrice désavouée",
+		[122104] = "Hasabel la Garde-portail",
+		[105468] = "Ancien du Cauchemar",
 		[26685] = "Jormungar massif",
 		[168851] = "Cocon de tisse-peur",
-		[81117] = "Karnor le Cruel",
+		[30287] = "Geist pilleur",
 		[169875] = "Ame enchaînée",
-		[100864] = "Cora'kar",
-		[170488] = "Fils d'Hakkar",
-		[162697] = "Haassert",
+		[162994] = "Gardienne possédée",
+		[30278] = "Lanceur de sorts ahn'kahar",
+		[125756] = "Conquérante vengeresse",
 		[112595] = "Archimage shal’dorei",
-		[151128] = "Seigneur des verrous",
+		[96298] = "Défenseur conjuré",
 		[168852] = "Aspirant vulnérable",
-		[108030] = "Bretteur ivre de sang",
-		[99584] = "Chasseur de mages vorace",
-		[161410] = "Maître de siège Traxon",
-		[104592] = "Tentacule cauchemardesque",
-		[126558] = "Gangregarde antoréen",
-		[163862] = "Défenseur aux innombrables yeux",
+		[72357] = "Lieutenant Krugruk",
+		[124207] = "Négateur gangrechargé",
+		[111413] = "Sombre dévoreur",
+		[159757] = "Acolyte de nécromancie",
+		[173024] = "Traqueur des ombres sombre-croc",
+		[29820] = "Chasseur de dieu drakkari",
 		[73949] = "Commandant Na’kaz",
 		[168853] = "Aspirante vulnérable",
 		[165270] = "Arcaniste royale",
-		[156260] = "Ecorcheuse d'âmes dépravée",
-		[60849] = "Statue du Serpent de jade",
+		[91458] = "Corvursidé vicieux",
+		[163363] = "Zappeur fauchépine",
 		[170901] = "Secutor Ancreste",
-		[100058] = "Arcaniste Kel’danath",
+		[67262] = "Bruce",
 		[112596] = "Gardien de la Garde crépusculaire",
 		[168342] = "Crâne-fêlé errant",
-		[172193] = "Découpeur chancreux",
-		[125771] = "Serre de la Légion",
+		[126764] = "Ravageur ligelame",
+		[165271] = "Destructeur de la Légion de pierre",
 		[173973] = "Pisteuse nathriane",
 		[154010] = "Prisonnier croupissant",
-		[163157] = "Amarth",
+		[165687] = "Brûleur empreint de Lumière",
 		[122578] = "Kin'garoth",
-		[161890] = "Charognard chair-balafrée",
+		[72451] = "Sombre chaman kor’kron",
 		[114900] = "Tentacule d’ancrage",
 		[168855] = "Marche-mort putréfié",
-		[107100] = "Observateur <Thy-Alonsus>",
+		[71392] = "Phylactère de ritualiste de l’ombre",
 		[137119] = "Taloc",
 		[154011] = "Prisonnier armé",
 		[87515] = "Lieur de flammes de Fer",
 		[87771] = "Ouvrière de l’atelier des scories",
-		[171419] = "Oeil de Vyraz",
-		[54512] = "Sentinelle distordue par le temps",
+		[72929] = "Maître de l’ambre sra’thik",
+		[166299] = "Soigneuse voile-de-brume",
 		[29309] = "Ancien Nadox",
-		[169050] = "Hurleur en manque d'anima",
-		[71392] = "Phylactère de ritualiste de l’ombre",
+		[163128] = "Ensorceleur de Zolramus",
+		[162060] = "Oryphrione",
 		[72927] = "Kovok",
-		[172630] = "Gogan le Perceur",
-		[114360] = "Hyrja",
-		[167947] = "Chasseur d'âmes du Tremaculum",
-		[106304] = "Feu follet corrompu",
 		[163229] = "Poussière-Hurlante",
+		[112678] = "Naturaliste shal’dorei",
+		[76865] = "Seigneur des bêtes Darmac",
+		[88101] = "Chaman des marées sel-œil",
+		[154016] = "Soigne-âme fuyarde",
 		[173464] = "Deplina",
 		[161691] = "Voras",
-		[175811] = "Rat de l'Antre goulu",
-		[103223] = "Hertha Grimdottir",
+		[73185] = "Mushan domestique enragé",
+		[170234] = "Bannière oppressante <Xav l'Invaincu>",
 		[167322] = "Entraveur antrelige",
 		[167834] = "Phaëlle l'Affligeuse",
-		[123451] = "Gangregarde",
-		[166301] = "Traqueur voile-de-brume",
+		[71644] = "Corruption vivante",
+		[126197] = "Basilic gangrecroc",
 		[96986] = "Cavibrisse ciruléen",
 		[161692] = "Goinfre enragé",
-		[166299] = "Soigneuse voile-de-brume",
+		[154014] = "Cabaliste emprisonné",
 		[73184] = "Yéti affamé",
 		[167323] = "Fin tireur antrelige",
 		[176025] = "Ombre tourmentée",
 		[26686] = "Rhino féroce",
-		[170577] = "Phalarden noctechant",
+		[71481] = "Chagrin incarné",
 		[173466] = "Fara",
-		[72768] = "Loup de guerre kor’kron",
+		[28094] = "Démolisseur de Joug-d’Hiver",
 		[158110] = "Plume-des-nuées en manque d'anima",
 		[95707] = "Torok Totem-de-Sang",
-		[71393] = "Ritualiste de l’ombre mogu",
-		[30278] = "Lanceur de sorts ahn'kahar",
-		[168844] = "Lakésis",
-		[104154] = "Gul'dan",
-		[170199] = "Spectre soumis",
+		[100058] = "Arcaniste Kel’danath",
+		[163429] = "Poussiéreux desséché",
+		[155225] = "Chantebois faëillu",
+		[172596] = "Acolyte nécrotique",
+		[166467] = "Exterbius",
 		[157599] = "Acolyte désavouée",
-		[154016] = "Soigne-âme fuyarde",
+		[166301] = "Traqueur voile-de-brume",
 		[166813] = "Traqueur de clone d'ombre",
-		[168266] = "Garde d'os morbide",
+		[122581] = "Sillage de feu",
 		[176027] = "Réceptacle désespéré",
-		[72770] = "Sombre long-voyant kor’kron",
-		[122211] = "Vulcanar",
-		[164836] = "Assemblage ouvrier",
-		[97220] = "Arru",
+		[97203] = "Tenpak Totem-de-Flammes",
+		[173362] = "Traqueur de squelette visqueux F",
+		[151818] = "Difformité âme-morte",
+		[96300] = "Défenseur des Titans",
 		[166302] = "Moissonneur de cadavres",
 		[158624] = "Inconnu",
-		[28094] = "Démolisseur de Joug-d’Hiver",
-		[155216] = "Gardien faëillu",
+		[104154] = "Gul'dan",
+		[169265] = "Bestiole grouillante",
 		[164255] = "Globgrog",
-		[111225] = "Mage du chaos Beleron",
+		[172061] = "Fonceur poil-doré",
 		[173469] = "Kullan",
-		[14283] = "Hibou foudrepique",
+		[163894] = "Brise-échine chancreux",
 		[154018] = "Marteleur fuyard",
-		[122104] = "Hasabel la Garde-portail",
+		[175579] = "Gardienne faë <Midrial-KirinTor>",
 		[171422] = "Grand suppresseur Laguas",
 		[98268] = "Tarben",
 		[160161] = "Créature des brumes",
 		[172958] = "Stygie bouillonnante",
 		[152995] = "Veilleur des âmes",
-		[119767] = "Punisseur brutal",
+		[28926] = "Etincelle d'Ionar",
 		[166304] = "Aiguillonneur voile-de-brume",
-		[105468] = "Ancien du Cauchemar",
+		[164567] = "Ingra Maloch",
 		[71395] = "Golem d’anima modifié",
-		[106680] = "Echo d'Élisande",
-		[162051] = "Goule frénétique",
+		[151127] = "Seigneur du tourment",
+		[14465] = "Etendard de bataille de l'Alliance <Decapitatëd-Outland>",
 		[29310] = "Jedoga Cherchelombre",
 		[96989] = "Rat des catacombes",
-		[168418] = "Inquisitrice désavouée",
+		[159794] = "Haine croissante",
 		[154020] = "Rôdeur maudit fuyard",
-		[124207] = "Négateur gangrechargé",
+		[168844] = "Lakésis",
 		[175519] = "Pustule écumante",
-		[100948] = "Perce-os de Jandvik",
+		[71829] = "Grand éventreur illusoire",
 		[164258] = "Poussière tournoyante",
 		[29822] = "Tisseur de flammes drakkari",
 		[59764] = "Totem de marée de soins <Доставашка-Гордунни>",
-		[168578] = "Fongimancien",
-		[71481] = "Chagrin incarné",
+		[117421] = "Punisseur brutal",
+		[172077] = "Essence vengeresse",
 		[87520] = "Scorie animée",
-		[123921] = "Inconnu",
-		[167960] = "Inconnu",
-		[173024] = "Traqueur des ombres sombre-croc",
-		[123508] = "Panthara dévore-mana",
+		[99765] = "Crapaud langue-de-wyrm",
+		[87780] = "Brute de l’atelier des scories",
+		[126776] = "Démon écumant",
+		[121975] = "Aggramar",
 		[101085] = "Piège à ours",
-		[102303] = "Lieutenant Strathmar",
-		[163122] = "Guerrier os-vermoulu",
+		[168747] = "Croc-venin",
+		[167151] = "Guetteur fragile",
 		[158629] = "Souvenir amer",
 		[167331] = "Ombre naissante",
-		[29305] = "Moorabi",
+		[172192] = "Chasseresse masquée",
 		[26687] = "Gortok Pâle-Sabot",
-		[155793] = "Squelette",
-		[91458] = "Corvursidé vicieux",
-		[34775] = "Démolisseur",
+		[72787] = "Lame des Cent marches",
+		[16061] = "Instructeur Razuvious",
+		[168074] = "Moniale déchue <Grundy-Hellfire>",
 		[103645] = "Imploratrice des marées sashj'tar",
 		[158630] = "Souvenir insoutenable",
 		[71397] = "Prêtre d’ambre zar’thik",
 		[112603] = "Soigne-bosquet des terrasses",
 		[164261] = "Destructeur affamé",
-		[30419] = "Elémentaire d'eau lié",
+		[166480] = "Traqueur de gelée vivante",
 		[54646] = "Limon corrompu",
-		[28585] = "Scorie",
-		[16125] = "Chevalier de la mort tenace",
-		[123532] = "Gardienne noire",
+		[16063] = "Sire Zeliek",
+		[112804] = "Ombrécaille apprivoisé",
+		[72131] = "Maître-lame aveugle",
 		[122585] = "Charge détonante <Kin'garoth>",
-		[101398] = "Démon psychique <Жемобород-Гордунни>",
-		[170580] = "Capitaine de siège",
-		[71529] = "Thok le Sanguinaire",
-		[157096] = "Animé violent",
+		[173640] = "Molosse d'ombre obéissant",
+		[127192] = "Constelleur désigné",
+		[164450] = "Marchande Xy'exa",
+		[161191] = "Résident du Calice",
 		[169893] = "Sombre orateur néfaste",
-		[158985] = "Rempart vivant",
+		[109670] = "Défenseur chronarque",
 		[175012] = "Ikras le Dévoreur",
 		[71398] = "Grouillant zar’thik <Prêtre d’ambre zar’thik>",
-		[173953] = "Gargon loyal",
-		[95780] = "Guhruhlruhlruh",
+		[165472] = "Siphonneuse nathriane",
+		[161376] = "Vétéran échine-d'acier",
 		[168870] = "Contrôleur de danse",
-		[100230] = "Arnie « Dans l'mille »",
-		[163363] = "Zappeur fauchépine",
-		[125199] = "Traque-faille conquérant",
-		[158165] = "Costel",
-		[151127] = "Seigneur du tourment",
-		[163520] = "Chef d'escouade désavoué",
-		[169206] = "Hydre dévorante",
-		[115753] = "Gardien helarjar",
+		[97928] = "Corapace apprivoisé",
+		[173016] = "Collecteur de corps",
+		[94261] = "Casse-roc mord-pierre",
+		[168361] = "Frelon du marais",
+		[174336] = "Surveillante des Chenils",
+		[166873] = "Chercheuse désavouée",
+		[168992] = "Sectateur ressuscité",
+		[29304] = "Slad'ran",
 		[153003] = "Fragment d'âme",
-		[169205] = "Fleur gloutonne",
-		[73767] = "Déchiqueteur kor’kron",
+		[169432] = "Nymphe peau-de-mue",
+		[175860] = "Ombre vorace",
 		[162729] = "Soldat recousu",
-		[91874] = "Lamorage",
+		[171431] = "Suppresseur Vellon",
 		[104415] = "Anomalie chronomatique",
 		[100576] = "Miasme",
 		[29311] = "Héraut Volazj",
 		[157099] = "Censeur impérial",
-		[87719] = "Haleur ogron",
-		[171431] = "Suppresseur Vellon",
+		[176120] = "Ecorcheur d’âmes dépravé",
+		[127069] = "Tourelle cristalline",
 		[73191] = "Défenseur aqueux",
 		[171432] = "Suppresseur Hersi",
-		[163128] = "Ensorceleur de Zolramus",
+		[161308] = "Fléau infini",
 		[164266] = "Domina Lamevenin",
 		[111070] = "Fragment d’âme d’Azzinoth",
-		[76865] = "Seigneur des bêtes Darmac",
+		[161195] = "Résident du Calice",
 		[107487] = "Starbuck",
-		[174100] = "Garde-vice nathriane",
-		[166612] = "Dévastateur antrelige",
+		[151333] = "Eclat de sentinelle",
+		[152612] = "Subjugateur Klontzas",
 		[171433] = "Suppresseur Cer",
-		[91575] = "Ecorcheur d’âmes kvaldir",
+		[130192] = "Démolisseur massif",
 		[164267] = "Margrave Stradama",
-		[168361] = "Frelon du marais",
-		[163618] = "Nécromancien de Zolramus",
-		[71067] = "Grande vermine illusoire",
+		[16127] = "Jeune recrue spectrale",
+		[158752] = "Inconnu",
+		[159289] = "Jeune plume-des-nuées",
 		[154030] = "Rat de l'Antre surdimensionné",
-		[105419] = "Basilic redoutable <Крисмаз-Гордунни>",
+		[105952] = "Ame en peine de mana flétrie",
 		[150959] = "Intercepteur antrelige",
-		[159911] = "Désespoir de Nikolon",
-		[111485] = "Sorcécu de la Garde crépusculaire",
-		[172970] = "Molosse d'ombre vorace",
-		[173362] = "Traqueur de squelette visqueux F",
-		[164783] = "Chair suture-guerre",
 		[156561] = "Défenseur automatisé",
-		[172604] = "Garde squelette animé",
-		[28923] = "Loken",
+		[174197] = "Ritualiste du champ de bataille",
+		[172970] = "Molosse d'ombre vorace",
+		[97220] = "Arru",
+		[54432] = "Murozond",
+		[169977] = "Gorm vorace",
+		[105682] = "Destructeur gangregarde",
+		[172479] = "Dissident nécromantique",
 		[171947] = "Scinde-âme enrôlée",
-		[152644] = "Dériveur âme-morte",
+		[95290] = "Belliciste totem-fétide",
 		[156591] = "Brutaliseur peau-d'acier",
-		[152517] = "Vole-vie âme-morte",
+		[125197] = "Subjugateur gangreflamme",
 		[165805] = "Ombre de Kael'thas",
-		[169051] = "Patriarche en manque d'anima",
+		[74009] = "Inconnu",
 		[122333] = "Général Erodus",
-		[114468] = "Orbitiste de la Garde crépusculaire",
+		[168878] = "Ronge-peste piégé",
 		[171948] = "Fanelame enrôlé",
-		[81315] = "Fine gâchette de Fer",
+		[169206] = "Hydre dévorante",
 		[111072] = "Pulsauron",
 		[173484] = "Manifestation conjurée",
 		[173996] = "Saccageur amalgame-os",
 		[166318] = "Bourbeur violent",
-		[101581] = "Fouisseur de tanzanite",
-		[73098] = "Surveillant kor’kron",
-		[125547] = "Rampante corrompue",
-		[29304] = "Slad'ran",
-		[168878] = "Ronge-peste piégé",
-		[159794] = "Haine croissante",
+		[167111] = "Corne-cerf gueule-épine",
+		[76974] = "Franzok",
+		[158165] = "Costel",
+		[111329] = "Matrone Hagatha",
+		[164783] = "Chair suture-guerre",
+		[92040] = "Fenri",
 		[165807] = "Champ d’anima",
-		[164363] = "Inconnu",
+		[107100] = "Observateur <Thy-Alonsus>",
 		[73194] = "Scorpion de fer kor’kron",
-		[159792] = "Souffrance figée",
+		[94507] = "Ambréclat enragé",
 		[159665] = "Souvenir angoissé",
-		[163894] = "Brise-échine chancreux",
-		[54544] = "Echo de Tyrande",
+		[120764] = "Echo de Khazaduum",
+		[78832] = "Homme d’armes grom’kar",
 		[153011] = "Lieur Baritas",
 		[103395] = "Faille cauchemardesque",
-		[169432] = "Nymphe peau-de-mue",
+		[168718] = "Veilleur désavoué",
 		[170927] = "Limon éruptif",
 		[10467] = "Totem de vague de mana <Доставашка-Гордунни>",
-		[106349] = "Assemblage cherche-sort endommagé",
+		[165911] = "Création loyale",
 		[164273] = "Ritualiste morbide",
 		[152500] = "Amalgame âme-morte",
-		[54590] = "Arcurion",
-		[167955] = "Cadet sanguin",
-		[72131] = "Maître-lame aveugle",
+		[166869] = "Goliath sombre",
+		[160474] = "Charognard chair-cousue",
+		[105699] = "Sabre-de-mana",
 		[73195] = "Geôlier kor'kron",
 		[150965] = "Entraveur antrelige",
 		[94182] = "Mâchonne",
-		[152656] = "Traqueur âme-morte",
+		[87719] = "Haleur ogron",
 		[156596] = "Rogne-os horrifique",
-		[168111] = "Conservatrice impériale renforcée",
+		[166612] = "Dévastateur antrelige",
 		[169905] = "Seigneur de guerre ressuscité",
 		[170417] = "Stygie animée",
-		[165737] = "Statue stèle du vice",
-		[173016] = "Collecteur de corps",
+		[166589] = "Inconnu <Tirailleur noble>",
+		[114360] = "Hyrja",
 		[159668] = "Reflet malveillant |2 Atec",
-		[104493] = "Cobra cracheur",
-		[28368] = "Nécromancien ymirjar",
+		[122773] = "Décimateur",
+		[111225] = "Mage du chaos Beleron",
 		[173489] = "Abomination recousue",
-		[125756] = "Conquérante vengeresse",
-		[126776] = "Démon écumant",
-		[157754] = "Mécanicienne lige-ténèbres",
+		[126333] = "Ritualiste gangreveille",
+		[111485] = "Sorcécu de la Garde crépusculaire",
+		[74158] = "Mitrailleur kor’kron",
 		[73452] = "Héraut d’Y’Shaarj",
-		[117421] = "Punisseur brutal",
-		[30287] = "Geist pilleur",
+		[87366] = "Tuyau d’échappement du haut-fourneau",
+		[98167] = "Tentacule du Vide <Больвглазах-Гордунни>",
 		[111075] = "Chaotoïde",
 		[153015] = "Inconnu <Lieur Baritas>",
-		[80400] = "Gardienne de l’assemblée de Fer",
-		[100998] = "Myrmidon sashj'tar",
+		[158991] = "Champion de l'Alliance",
+		[112740] = "Ombre spirituelle",
 		[31104] = "Guetteur ahn'kahar",
 		[71405] = "Manieur de vent set’thik",
-		[92682] = "Ecumeur de l’embouchure de Hel",
-		[103685] = "Tichondrius",
-		[158155] = "Gorduk",
-		[166873] = "Chercheuse désavouée",
-		[165414] = "Oblitérateur dépravé",
-		[157883] = "Sylvar possédé",
-		[170932] = "Gardien plume-des-nuées",
-		[113572] = "Buveur d’âmes farouche",
-		[158290] = "Tezulat l'Annihilateur",
-		[175579] = "Gardienne faë <Midrial-KirinTor>",
-		[102886] = "Ettin des collines",
+		[108185] = "Rampelorgne froidécaille",
 		[156636] = "Tisse-peur en maraude",
-		[164897] = "Créature des brumes",
-		[71062] = "Grand pourfendeur illusoire",
-		[95310] = "Harpie sorcebois",
-		[97091] = "Grogneur peau-sombre",
-		[95290] = "Belliciste totem-fétide",
-		[126767] = "Seigneur des bêtes massepoing",
+		[160781] = "Mangeur d'âmes charognard",
+		[161206] = "Chiropteffroi carnassier",
+		[109075] = "Flagellant parasite",
+		[98205] = "Corstilax",
+		[170932] = "Gardien plume-des-nuées",
+		[91459] = "Brute naga",
+		[71420] = "Kunchong affamé <Kaz’tik le Manipulateur>",
+		[171419] = "Oeil de Vyraz",
+		[102886] = "Ettin des collines",
+		[161207] = "Jeune chiropteffroi",
+		[28368] = "Nécromancien ymirjar",
+		[161279] = "Aspirant à l'entraînement",
+		[169175] = "Skell la Spoliatrice",
+		[167941] = "Intercepteur antrelige",
+		[165084] = "Animé vestigial",
+		[73767] = "Déchiqueteur kor’kron",
 		[172981] = "Kyrian suturé",
-		[71830] = "Petit éventreur illusoire",
+		[167966] = "Vase expérimentale",
 		[125921] = "Démon jacassant",
 		[72942] = "Porte-drapeau gueule-de-dragon",
 		[162744] = "Inconnu",
-		[29264] = "Esprit du loup",
+		[161016] = "Catapulteur Jarlax",
 		[159673] = "Horreur de la Rapiècerie",
-		[152612] = "Subjugateur Klontzas",
-		[112678] = "Naturaliste shal’dorei",
-		[164567] = "Ingra Maloch",
-		[97591] = "Embusquée ailevile",
-		[172041] = "Disciple déchu",
-		[29680] = "Vipère de Slad'ran",
-		[54432] = "Murozond",
-		[71979] = "Porteguerre kor’kron",
-		[165483] = "Hiérarque de la cour",
+		[168153] = "Pesteroc",
+		[161881] = "Echine-d'acier blessé",
+		[101784] = "Infiltrateur sacrenuit",
+		[161388] = "Décapeuse nécromantique",
+		[170518] = "Démolisseur antrelige",
+		[160345] = "Inquisiteur caustique",
+		[157721] = "Mutilateur de champignons",
+		[164362] = "Morceau gélatineux <Traqueur de gelée vivante>",
+		[168155] = "Peste-liée",
 		[152508] = "Sismide obscur",
-		[81362] = "Goren de Mur-de-Givre",
+		[16125] = "Chevalier de la mort tenace",
 		[169912] = "Masque enragé",
 		[72943] = "Proto-drake gueule-de-dragon",
-		[171745] = "Peste gélifiée",
+		[162236] = "Voras",
 		[171448] = "Maître chasseur effroyable",
 		[171960] = "Ailes invoquées <Xavyann-LesSentinelles>",
-		[34944] = "Canon du donjon",
-		[34793] = "Catapulte",
-		[28547] = "Vortex tempétueux",
-		[169913] = "Petit traque-rune",
-		[122367] = "Amiral Svirax",
-		[71152] = "Skeer le Cherche-sang",
-		[71408] = "Kun Da",
-		[166869] = "Goliath sombre",
-		[71832] = "Petit fourrageur illusoire",
 		[73967] = "Niuzao <Humpenhilde-Antonidas>",
-		[165094] = "Traqueur de la clairière",
-		[172085] = "Estrik Drina",
+		[158161] = "Garde du Vide envahisseur",
+		[161211] = "Gargon dompté",
+		[169913] = "Petit traque-rune",
+		[164815] = "Siphonneuse de Zolramus",
+		[71152] = "Skeer le Cherche-sang",
+		[175544] = "Rogne-os alpha",
+		[152644] = "Dériveur âme-morte",
+		[80400] = "Gardienne de l’assemblée de Fer",
+		[100998] = "Myrmidon sashj'tar",
+		[103685] = "Tichondrius",
+		[72945] = "Broie-les-os gueule-de-dragon",
 		[101609] = "Ollie",
-		[30418] = "Elémentaire d'air lié",
-		[98653] = "Basilic épine-de-mana",
-		[71644] = "Corruption vivante",
+		[163857] = "Fidèle peste-liée",
+		[166644] = "Artificier Xy'mox",
+		[164857] = "Spriggan torsoin",
 		[26690] = "Guerrier ymirjar",
 		[168891] = "Ronge-peste piégé",
-		[98188] = "Egyl l’Endurci",
+		[125771] = "Serre de la Légion",
 		[169915] = "Traque-rune",
-		[167117] = "Larve gueule-épine",
+		[105746] = "Berserker helarjar",
 		[71153] = "Hisek le Gardien de l’essaim",
 		[171451] = "Altère-âme Céro",
-		[69792] = "Melissae-KirinTor <Melissae-KirinTor>",
+		[170087] = "Bête chancreuse",
 		[71921] = "Sombre-Croc",
 		[113127] = "Serre-du-ciel aile-à-pic",
-		[101784] = "Infiltrateur sacrenuit",
-		[123520] = "Grande consule Vélara",
-		[72945] = "Broie-les-os gueule-de-dragon",
-		[105494] = "Drake corrompu",
-		[111750] = "Collaboratrice gangrenuit",
-		[126207] = "Vil vandale",
+		[71062] = "Grand pourfendeur illusoire",
+		[72768] = "Loup de guerre kor’kron",
+		[105705] = "Energie liée",
+		[28547] = "Vortex tempétueux",
+		[170860] = "Ragevolée sauvage",
+		[170488] = "Fils d'Hakkar",
 		[110824] = "Griffe-des-marées",
-		[168074] = "Moniale déchue <Grundy-Hellfire>",
-		[110727] = "Astrix",
-		[78832] = "Homme d’armes grom’kar",
-		[74009] = "Inconnu",
+		[71830] = "Petit éventreur illusoire",
+		[29264] = "Esprit du loup",
+		[174012] = "Exécutrice Ophélia",
+		[71712] = "Rejeton du désespoir <Désespoir incarné>",
 		[71154] = "Ka’roz la Sauterelle",
-		[112665] = "Protecteur du palais Sacrenuit",
-		[156560] = "Candidate fourvoyée",
-		[167943] = "Ame convertie",
+		[71161] = "Kil’ruk le Saccageur des vents",
+		[111750] = "Collaboratrice gangrenuit",
+		[105451] = "Totem de réplique <Lysannâ-Antonidas>",
 		[113128] = "Furtif flétri",
 		[165311] = "Sombrelame désavouée",
-		[72787] = "Lame des Cent marches",
-		[71829] = "Grand éventreur illusoire",
+		[127723] = "Imperator Deconix",
+		[105706] = "Prêtresse de misère",
 		[28546] = "Ionar",
-		[72986] = "Shanna Pfutincelle",
-		[114922] = "Sombre séraphin",
-		[71420] = "Kunchong affamé <Kaz’tik le Manipulateur>",
+		[176177] = "Invocateur noir chancreux",
+		[29680] = "Vipère de Slad'ran",
+		[143622] = "Diablotin sauvage <Picene-Ravencrest>",
 		[111081] = "Fulminant",
 		[165312] = "Phalynx désavoué",
 		[165824] = "Nar'zudah",
-		[29713] = "Etrangleuse de Slad'ran",
+		[110063] = "Bête <Highflux-Dethecus>",
 		[71155] = "Korven le Premier",
 		[171455] = "Gargon de la Muraille",
-		[158991] = "Champion de l'Alliance",
-		[172479] = "Dissident nécromantique",
+		[171745] = "Peste gélifiée",
+		[71923] = "Griffesang",
 		[172991] = "Tranchâmes drust",
-		[165313] = "Guetteuse désavouée",
+		[173503] = "Acolyte studieux",
 		[93166] = "Tiptog le Perdu",
 		[72947] = "Démolisseur kor’kron",
-		[98167] = "Tentacule du Vide <Больвглазах-Гордунни>",
-		[96215] = "Tord-runes gangremorgue",
-		[99214] = "Ver de siège",
-		[123906] = "Annihilateur garothi",
-		[29826] = "Homme-médecine drakkari",
-		[120764] = "Echo de Khazaduum",
-		[111071] = "Pulsauron",
-		[164362] = "Morceau gélatineux <Traqueur de gelée vivante>",
+		[111620] = "Exécuteur de la Garde crépusculaire",
+		[169458] = "Hecutis",
+		[122367] = "Amiral Svirax",
+		[110727] = "Astrix",
+		[152517] = "Vole-vie âme-morte",
+		[71832] = "Petit fourrageur illusoire",
+		[165094] = "Traqueur de la clairière",
+		[71543] = "Immerseus",
 		[71156] = "Kaz’tik le Manipulateur",
-		[162058] = "Ventunax",
-		[173503] = "Acolyte studieux",
+		[58965] = "Laz'arad",
+		[123521] = "Grand vizir Jarasum",
 		[168386] = "Traqueur de squelette visqueux D",
 		[30338] = "Grouillant ahn'kahar",
 		[165315] = "Hoplite sombre-féal",
-		[161388] = "Décapeuse nécromantique",
+		[71067] = "Grande vermine illusoire",
 		[109803] = "Carapateur entaillurique",
-		[120836] = "Echo d'âme distordue",
-		[123533] = "Tarneth",
-		[91795] = "Matriarche aile-tempête",
+		[98188] = "Egyl l’Endurci",
+		[127230] = "Annihilateur garothi",
+		[123520] = "Grande consule Vélara",
 		[26691] = "Féticheur ymirjar",
 		[164804] = "Dromane Oulfarran",
-		[174012] = "Exécutrice Ophélia",
-		[114568] = "Serviteur putréfié",
-		[105746] = "Berserker helarjar",
+		[85748] = "Marteleur de Fer",
+		[126207] = "Vil vandale",
+		[158155] = "Gorduk",
 		[71157] = "Xaril l’Esprit empoisonné",
 		[159174] = "Sculpte-tombe monumental",
 		[167876] = "Inquisiteur Sigor",
-		[111370] = "Créature des ombres",
-		[173640] = "Molosse d'ombre obéissant",
-		[124164] = "Tourment de Golganneth",
+		[26670] = "Chasseur de chair ymirjar",
+		[16163] = "Cavalier de la mort",
+		[88084] = "Ecumeur glissefiel",
 		[169924] = "Vétéran garde-de-pierre",
 		[101614] = "Rongeur",
-		[168943] = "Traqueur patte-d'or",
-		[71454] = "Malkorok",
-		[164864] = "Eclaireuse élue",
+		[173604] = "Antiquaire sinistre",
+		[72986] = "Shanna Pfutincelle",
+		[163891] = "Gelée putremoelle",
 		[114923] = "Squelette éclat-d’os",
-		[99088] = "Ancienne gardienne",
-		[158161] = "Garde du Vide envahisseur",
+		[29713] = "Etrangleuse de Slad'ran",
+		[111370] = "Créature des ombres",
 		[169925] = "Serveur maugréant",
 		[111852] = "Rothos",
 		[71158] = "Rik’kal le Disséqueur",
 		[71414] = "Grand lance-bananes illusoire",
-		[164815] = "Siphonneuse de Zolramus",
-		[16163] = "Cavalier de la mort",
-		[167941] = "Intercepteur antrelige",
+		[164477] = "Hroth le Lieur-de-mort",
+		[172485] = "Cinglant",
+		[28836] = "Formerune forge-foudre",
 		[173509] = "Chien de moelle animé",
 		[165831] = "Collecteur cruel",
-		[170234] = "Bannière oppressante <Xav l'Invaincu>",
+		[99214] = "Ver de siège",
 		[170950] = "Batteur purotin",
 		[77557] = "Amiral Gar’an",
-		[102672] = "Nythendra",
+		[123906] = "Annihilateur garothi",
 		[168391] = "Traqueur de squelette visqueux C",
-		[88087] = "Inconnu",
-		[80411] = "Tireur d’élite de Fer",
+		[71068] = "Grand tisse-ambre illusoire",
+		[76906] = "Conducteur Thogar",
 		[169927] = "Boucher putride",
-		[169458] = "Hecutis",
-		[167923] = "Restes malades",
+		[69792] = "Melissae-KirinTor <Melissae-KirinTor>",
+		[125545] = "Diablotin flamboyant",
 		[159178] = "Vespéricole redoutable",
 		[108526] = "Ouvrière mörgestran",
-		[87448] = "Ouvrier de Fer",
+		[91795] = "Matriarche aile-tempête",
 		[109038] = "Solariste Tel’arn",
-		[172485] = "Cinglant",
-		[143622] = "Diablotin sauvage <Picene-Ravencrest>",
+		[114568] = "Serviteur putréfié",
+		[99088] = "Ancienne gardienne",
 		[101616] = "Violette",
-		[71712] = "Rejeton du désespoir <Désespoir incarné>",
-		[85748] = "Marteleur de Fer",
+		[124164] = "Tourment de Golganneth",
+		[59262] = "Porte des démons",
 		[176071] = "Carcasse gravée de runes",
 		[168393] = "Crache-peste",
-		[170739] = "Avant-garde fanemorgue",
+		[168943] = "Traqueur patte-d'or",
 		[173512] = "Péchés du passé",
-		[161016] = "Catapulteur Jarlax",
-		[168949] = "Soldat squelette ressuscité",
+		[71454] = "Malkorok",
+		[162711] = "Urfin mortel",
 		[71160] = "Iyyokuk le Lucide",
-		[165111] = "Malegriffe drust",
-		[109075] = "Flagellant parasite",
+		[112655] = "Acolyte céleste",
+		[170728] = "Conquérant antrelige",
 		[168394] = "Morceau gélatineux <Traqueur de squelette visqueux C>",
-		[88089] = "Inconnu",
-		[114957] = "Vagnhild",
+		[88087] = "Inconnu",
+		[123398] = "Annihilateur garothi",
 		[125931] = "Filou haineux",
-		[175860] = "Ombre vorace",
+		[167923] = "Restes malades",
 		[81398] = "Jeune goren de Mur-de-Givre",
-		[71161] = "Kil’ruk le Saccageur des vents",
+		[162038] = "Danse-brume régalien",
 		[176073] = "Voltigeur antrelige",
 		[26692] = "Harponneur ymirjar",
 		[168907] = "Tentacule visqueux",
 		[78583] = "Tourelle de domination <Amiral Gar’an>",
-		[67235] = "Inconnu <Catalvia-KirinTor>",
-		[167535] = "Ferrailleuse élue",
+		[114922] = "Sombre séraphin",
+		[122212] = "Dame Dacidion",
 		[116206] = "Garde-courroux gangrâme",
 		[91892] = "Thane Irglov l’Impitoyable",
-		[127723] = "Imperator Deconix",
+		[85711] = "Technicien aquatique",
 		[168396] = "Crache-peste",
 		[109040] = "Arcaniste Tel’arn",
-		[174070] = "Surveillante des Chenils",
+		[168949] = "Soldat squelette ressuscité",
 		[153552] = "Ame en peine larmoyante",
-		[110063] = "Bête <Highflux-Dethecus>",
-		[155225] = "Chantebois faëillu",
+		[157754] = "Mécanicienne lige-ténèbres",
+		[88089] = "Inconnu",
 		[98035] = "Traqueffroi <Диграти-Гордунни>",
-		[119052] = "Bannière de guerre <Àrês-Ravencrest>",
+		[80411] = "Tireur d’élite de Fer",
 		[110832] = "Gorgroth",
-		[176177] = "Invocateur noir chancreux",
+		[29826] = "Homme-médecine drakkari",
 		[127724] = "Pyromancienne fanatique",
-		[108359] = "Scorpide instable",
+		[114957] = "Vagnhild",
 		[158160] = "Eventreur du Vide bouillonnant",
 		[162767] = "Pesticide",
 		[91893] = "Erling le Foudre-né",
-		[161279] = "Aspirant à l'entraînement",
+		[174070] = "Surveillante des Chenils",
 		[168398] = "Morceau gélatineux <Traqueur de squelette visqueux D>",
 		[109041] = "Naturaliste Tel’arn",
-		[160781] = "Mangeur d'âmes charognard",
+		[119052] = "Bannière de guerre <Àrês-Ravencrest>",
 		[125933] = "Rasaile écumante",
 		[72954] = "Garde d’honneur kor’thik",
 		[166863] = "Enquêtrice désavouée",
-		[173051] = "Suppresseur Xelors",
+		[125569] = "Assistante des failles",
 		[110577] = "Oreth le Vil",
-		[72357] = "Lieutenant Krugruk",
-		[59262] = "Porte des démons",
+		[90139] = "Inquisiteur Ernstenbok",
+		[101398] = "Démon psychique <Жемобород-Гордунни>",
 		[127725] = "Troupier de choc gangrelame",
-		[161881] = "Echine-d'acier blessé",
+		[173051] = "Suppresseur Xelors",
 		[158162] = "Suinteux vil",
-		[112655] = "Acolyte céleste",
+		[123532] = "Gardienne noire",
 		[91894] = "Cuyler le Trotteur",
-		[167509] = "Chercheur désavoué",
-		[151818] = "Difformité âme-morte",
+		[34944] = "Canon du donjon",
+		[122211] = "Vulcanar",
 		[173007] = "Traqueur des ombres ricaneur",
-		[166467] = "Exterbius",
-		[54555] = "Serviteur gelé",
+		[123533] = "Tarneth",
+		[158259] = "Marz",
 		[162258] = "Hurletrombe vorace",
-		[125197] = "Subjugateur gangreflamme",
-		[114709] = "Pourriture fétide",
+		[71409] = "Commandant Zak’tar",
+		[114323] = "Guarm",
 		[73723] = "Jun Wei",
 		[114929] = "Défenseur de la Garde crépusculaire",
-		[163415] = "Glouton enragé",
-		[159757] = "Acolyte de nécromancie",
-		[162060] = "Oryphrione",
-		[39596] = "Garde d'eau submergeant",
+		[71715] = "Fidèle d’Orgrimmar",
+		[54555] = "Serviteur gelé",
+		[158985] = "Rempart vivant",
+		[125547] = "Rampante corrompue",
 		[166866] = "Régisseuse trompée",
 		[91895] = "Asger Fille-de-Jarl",
-		[176173] = "Zograthos",
+		[105704] = "Manifestation arcanique",
 		[30276] = "Tisseuse ahn'kahar",
-		[164622] = "Flaellin vorace",
-		[167151] = "Guetteur fragile",
-		[130192] = "Démolisseur massif",
+		[123921] = "Inconnu",
+		[165483] = "Hiérarque de la cour",
+		[168457] = "Gargon de la Muraille",
 		[61056] = "Elémentaire de terre primordial <Vitaminico-DunModr>",
 		[166867] = "Magistrate convertie",
-		[168718] = "Veilleur désavoué",
+		[98206] = "Général Xakal",
 		[73724] = "Zu Yin",
 		[26693] = "Skadi le Brutal",
-		[129050] = "Gangregarde antoréen",
-		[172047] = "Boggart changeant",
-		[168627] = "Lieur de peste",
+		[105703] = "Wyrm de mana",
+		[164622] = "Flaellin vorace",
+		[171597] = "Vestige squelettique",
 		[115954] = "Valthis Ama’ran",
-		[168977] = "Thaumaturge antrelige",
+		[129050] = "Gangregarde antoréen",
 		[159190] = "Synode",
 		[92152] = "Typhon d’Eau-Pâle",
-		[71923] = "Griffesang",
-		[105451] = "Totem de réplique <Lysannâ-Antonidas>",
-		[158999] = "Geôlier éternel",
+		[112709] = "Garde de la Promenade",
+		[109867] = "Mâcheroc fjara",
+		[168977] = "Thaumaturge antrelige",
 		[125936] = "Molosse ardent",
-		[165910] = "Boggart branche-noueuse",
+		[163862] = "Défenseur aux innombrables yeux",
 		[101878] = "Inquisiteur gangrâme",
-		[76974] = "Franzok",
+		[71529] = "Thok le Sanguinaire",
 		[73725] = "Xiang Lin",
-		[165911] = "Création loyale",
-		[164406] = "Hurlaile",
+		[157720] = "Destructeur fongique",
+		[72655] = "Fragment d’orgueil",
+		[71979] = "Porteguerre kor’kron",
+		[165910] = "Boggart branche-noueuse",
+		[111860] = "Bo’lan le Marqué",
+		[98653] = "Basilic épine-de-mana",
+		[159192] = "Plume-des-nuées à grandes ailes",
+		[155250] = "Thanatoratrice",
+		[34793] = "Catapulte",
+		[171583] = "Hébétement",
 		[71474] = "Désespoir incarné",
 		[167704] = "Sentinelle du Tremaculum",
-		[111860] = "Bo’lan le Marqué",
-		[174130] = "Antrignon hystérique",
-		[159192] = "Plume-des-nuées à grandes ailes",
-		[169498] = "Bombe de peste",
-		[136407] = "Garde-courroux <Picene-Ravencrest>",
-		[158752] = "Inconnu",
-		[73095] = "Ingénieur Boîte-Noire",
-		[16127] = "Jeune recrue spectrale",
 		[72958] = "Chaman des marées gueule-de-dragon",
-		[73012] = "Tirailleur klaxxi",
-		[96853] = "Le Roi des bougies",
-		[162236] = "Voras",
+		[167246] = "Traumatisme déchaîné <Atec>",
+		[126558] = "Gangregarde antoréen",
+		[97591] = "Embusquée ailevile",
 		[114932] = "Monstruosité fondesel",
 		[164824] = "Protecteur élu",
 		[169431] = "Larve peau-de-mue",
-		[119866] = "Echo fanatique",
+		[168098] = "Agent cœur-algide renforcé",
 		[91386] = "Guarm",
 		[166872] = "Phalynx ombreux",
-		[170087] = "Bête chancreuse",
-		[171597] = "Vestige squelettique",
-		[112804] = "Ombrécaille apprivoisé",
-		[111007] = "Randril",
+		[151329] = "Veilleur Skoldus",
+		[98728] = "Bile acide",
+		[170580] = "Capitaine de siège",
+		[54123] = "Echo de Sylvanas",
 		[165337] = "Garde-chair massif",
 		[125938] = "Infernal incendiaire",
-		[87521] = "Sculpte-scories de Fer",
+		[111651] = "Degren",
 		[29573] = "Elémentaire drakkari",
 		[167385] = "Briseur d'os poil-de-pin",
-		[157576] = "Inconnu",
-		[91459] = "Brute naga",
+		[167955] = "Cadet sanguin",
+		[124445] = "Le Paraxis",
 		[29829] = "Trembleterre drakkari",
 		[169433] = "Peau-de-mue dévorante",
 		[157660] = "Transcendée désavouée",
-		[160474] = "Charognard chair-cousue",
-		[117412] = "Trappeur gangrenuit",
+		[163415] = "Glouton enragé",
+		[98732] = "Rat pestiféré",
 		[167386] = "Suppôt poil-de-pin",
 		[167898] = "Manifestation de l'envie <Inquisiteur Sigor>",
 		[30277] = "Briseur ahn'kahar",
-		[16145] = "Capitaine des chevaliers de la mort",
-		[112664] = "Arquepuits <Acolyte céleste>",
-		[112671] = "Mage de bataille de la Garde crépusculaire",
-		[176252] = "Surveillant du creuset",
+		[172055] = "Aspirante désavouée",
+		[29305] = "Moorabi",
+		[117412] = "Trappeur gangrenuit",
+		[29306] = "Gal'darah",
 		[166875] = "Traqueur du caveau sombre",
-		[12050] = "Défenseur foudrepique",
-		[157872] = "Entrave-chair élu",
+		[176173] = "Zograthos",
+		[102828] = "Brise-sable sashj’tar",
 		[26694] = "Chaman du crépuscule ymirjar",
 		[173018] = "Archer élu",
-		[14465] = "Etendard de bataille de l'Alliance <Decapitatëd-Outland>",
-		[107459] = "Jeune araignée venimeuse",
+		[71504] = "Ingé-siège Boîte-Noire",
+		[176170] = "Myrmidon antrelige",
 		[103673] = "Regard-noir <Cachavacha-LosErrantes>",
 		[103929] = "Brise-vague sashj’tar",
-		[26684] = "Furbolg vorace",
-		[163891] = "Gelée putremoelle",
-		[16061] = "Instructeur Razuvious",
-		[169265] = "Bestiole grouillante",
-		[126231] = "Corrupteur affolé",
-		[3425] = "Rôdeur des savanes",
+		[163122] = "Guerrier os-vermoulu",
+		[100948] = "Perce-os de Jandvik",
+		[157883] = "Sylvar possédé",
+		[115753] = "Gardien helarjar",
+		[165976] = "Amalgame tourmenté",
+		[163414] = "Disciple morbide",
 		[105721] = "Inconnu",
-		[139842] = "Ravasaure ressuscité <Totos-Gilneas>",
+		[167611] = "Eviscératrice vive-pierre",
 		[13797] = "Montagnard Souffleboum",
 		[98299] = "Bodash l’amasseur",
 		[98555] = "Traînard flétri",
-		[118678] = "Rôdeur gangre-lié",
+		[165175] = "Inconnu",
 		[127732] = "Clobex",
-		[105393] = "Il'gynoth",
-		[72929] = "Maître de l’ambre sra’thik",
+		[172085] = "Estrik Drina",
+		[152656] = "Traqueur âme-morte",
+		[157096] = "Animé violent",
+		[106349] = "Assemblage cherche-sort endommagé",
+		[163622] = "Morceaux de Broyaux",
 		[27228] = "Vers jormungar <Jormungar massif>",
-		[71475] = "Freux Orteil de Pierre",
-		[92604] = "Championne Elodie",
-		[174197] = "Ritualiste du champ de bataille",
 		[72194] = "Démolisseur de Hurlenfer",
-		[122773] = "Décimateur",
-		[16065] = "Dame Blaumeux",
+		[96215] = "Tord-runes gangremorgue",
+		[12050] = "Défenseur foudrepique",
 		[158177] = "Flagellant du Vide",
-		[166589] = "Inconnu <Tirailleur noble>",
-		[158259] = "Marz",
-		[16064] = "Thane Korth'azz",
-		[167998] = "Gardien du portail",
-		[155824] = "Création chancelante",
-		[99384] = "Inconnu <Buveur de mana drogbar>",
-		[170157] = "Forgerune stygien",
-		[73541] = "Louveteau kor’kron",
-		[161859] = "Inconnu",
-		[167524] = "Valinor",
-		[168512] = "Cristal des fantasmes",
-		[126764] = "Ravageur ligelame",
-		[167111] = "Corne-cerf gueule-épine",
-		[101116] = "Invocatrice dimensionnelle Thwen",
-		[29820] = "Chasseur de dieu drakkari",
-		[158179] = "Vyrm le Vorace",
-		[112740] = "Ombre spirituelle",
-		[72903] = "Maître de siège kor’kron",
-		[16063] = "Sire Zeliek",
-		[111329] = "Matrone Hagatha",
-		[29830] = "Mojo vivant",
-		[162711] = "Urfin mortel",
-		[54507] = "Bête du Fléau distordue par le temps",
-		[99581] = "Furie garde-courroux",
+		[16065] = "Dame Blaumeux",
+		[87521] = "Sculpte-scories de Fer",
+		[172604] = "Garde squelette animé",
+		[168627] = "Lieur de peste",
+		[157576] = "Inconnu",
 		[166144] = "Machiniste",
+		[162880] = "Maîtresse Dyrax",
+		[118678] = "Rôdeur gangre-lié",
+		[30418] = "Elémentaire d'air lié",
+		[104246] = "Vigile de la Garde crépusculaire",
+		[130185] = "Ingénieur en chef Ishkar",
+		[161859] = "Inconnu",
+		[119767] = "Punisseur brutal",
+		[101116] = "Invocatrice dimensionnelle Thwen",
+		[168512] = "Cristal des fantasmes",
+		[158179] = "Vyrm le Vorace",
+		[96853] = "Le Roi des bougies",
+		[122778] = "Annihilateur",
+		[72903] = "Maître de siège kor’kron",
+		[168004] = "Consulaire impériale renforcée",
+		[29830] = "Mojo vivant",
+		[54507] = "Bête du Fléau distordue par le temps",
+		[16064] = "Thane Korth'azz",
+		[99581] = "Furie garde-courroux",
+		[54590] = "Arcurion",
 		[10982] = "Vermine blanche-moustache",
 		[114996] = "Marqué",
 		[92415] = "Dragonnet drake-tempête",
-		[72655] = "Fragment d’orgueil",
+		[113512] = "Vase putride",
 		[72452] = "Loup redoutable kor’kron",
 		[157669] = "Avant-garde peau-d'acier",
 		[72964] = "Goro’dan",
-		[105611] = "Horreur inconcevable",
-		[106648] = "Drake aile-tempête",
-		[101821] = "Invocateur dimensionnel sacrenuit",
+		[113866] = "Pourfendeur de palourdes sel-œil",
+		[81362] = "Goren de Mur-de-Givre",
+		[114532] = "Lieur d’âme parle-os",
 		[156134] = "Destrier ignoble",
 		[173026] = "Soldat d'infanterie élu",
 		[99070] = "Course-récif sashj'tar",
 		[165860] = "Garde antrelige",
-		[166735] = "Gardien dérangé",
+		[164363] = "Inconnu",
 		[116218] = "Punisseur gangrenuit",
-		[28926] = "Etincelle d'Ionar",
-		[167994] = "Conscrit ossifié",
+		[125364] = "Le Paraxis",
+		[102303] = "Lieutenant Strathmar",
 		[168420] = "Champion désavoué",
-		[169041] = "Belligérante Karnek",
+		[125199] = "Traque-faille conquérant",
 		[165349] = "Chasse-cadavres animé",
-		[169043] = "Belligérant Mélia",
-		[73342] = "Soigne-bassin déchu",
-		[123191] = "Gangrechien",
-		[112709] = "Garde de la Promenade",
+		[119866] = "Echo fanatique",
+		[13396] = "Mineur de Gouffrefer",
+		[95174] = "Charmecendre folfurie",
 		[71378] = "Gardien quilen",
-		[54123] = "Echo de Sylvanas",
+		[97091] = "Grogneur peau-sombre",
+		[81117] = "Karnor le Cruel",
 		[164838] = "Cuir-Fauve",
-		[72658] = "Orgueil amalgamé",
-		[172061] = "Fonceur poil-doré",
-		[29791] = "Esprit rhinocéros <Gal'darah>",
+		[169050] = "Hurleur en manque d'anima",
+		[27936] = "Soldat de citrouille <Okbeamer-Ravencrest>",
+		[123451] = "Gangregarde",
 		[108029] = "Corsaire pilleuse",
-		[137578] = "Inconnu <[*] Décharge de plasma>",
-		[165471] = "Duelliste nathrian",
-		[171368] = "Serviteur squelette",
+		[111554] = "Entourloupeur du Brasier infernal",
+		[161890] = "Charognard chair-balafrée",
+		[3425] = "Rôdeur des savanes",
 		[168934] = "Esprit enragé",
-		[136402] = "Inconnu <Picene-Ravencrest>",
-		[167611] = "Eviscératrice vive-pierre",
-		[105750] = "Prêtre noyé",
-		[165479] = "Massacreuse de la cour",
 		[71383] = "Hurleguerre kor’thik",
-		[168098] = "Agent cœur-algide renforcé",
-		[98421] = "Kottr Vondyr",
+		[166735] = "Gardien dérangé",
+		[157054] = "Aspirant fourbe",
+		[170850] = "Cornesang déchaîné",
+		[165706] = "Concrétion de fatalité",
+		[164967] = "Professeur Ickus",
+		[71770] = "Lamefer kor'kron",
 		[164840] = "Capitaine Marjanic",
 		[169447] = "Inconnu <Afflige-âme de la Domination>",
-		[164967] = "Professeur Ickus",
+		[95310] = "Harpie sorcebois",
 		[111869] = "Chasseuse de ligne tellurique",
 		[170983] = "Belligérant vive-pierre",
-		[160569] = "Volion aile-vive",
-		[108489] = "Charognard sniffepépite",
-		[100943] = "Totem de mur terrestre <Cameltøtèm-Ragnaros>",
+		[163520] = "Chef d'escouade désavoué",
+		[105419] = "Basilic redoutable <Крисмаз-Гордунни>",
+		[16145] = "Capitaine des chevaliers de la mort",
 		[109054] = "Shal’an",
 		[72455] = "Surveillant Komak",
 		[72412] = "Grunt kor’kron",
 		[105676] = "Victime entoilée",
 		[175079] = "Ombre malveillante <Tissombre Zéris>",
+		[100943] = "Totem de mur terrestre <Cameltøtèm-Ragnaros>",
+		[162697] = "Haassert",
 		[163186] = "Sécréteur gorm",
-		[109670] = "Défenseur chronarque",
-		[85711] = "Technicien aquatique",
 		[160747] = "Ritualiste lumefronde",
-		[172192] = "Chasseresse masquée",
-		[29306] = "Gal'darah",
+		[167947] = "Chasseur d'âmes du Tremaculum",
+		[136402] = "Inconnu <Picene-Ravencrest>",
 		[111870] = "Assistant élémentaire",
-		[125545] = "Diablotin flamboyant",
-		[71543] = "Immerseus",
+		[60849] = "Statue du Serpent de jade",
+		[111563] = "Vigile de la Garde crépusculaire",
 		[112638] = "Défenseur astral",
 		[30279] = "Rampante des profondeurs",
 		[160748] = "Défenseur possédé",
 		[72456] = "Korgra la Vipère",
-		[95072] = "Elémentaire de terre supérieur <Thursdaynext-Ravencrest>",
+		[115692] = "Collaboratrice gangrenuit",
 		[170474] = "Assassin de la couvée <Traqueur assassin>",
-		[159612] = "Léonide",
-		[169848] = "Rôdeur chancreux",
+		[93401] = "Urgev l’Ecorcheur",
+		[117971] = "Commandant Zarthak",
 		[13318] = "Commandant Mortimer",
 		[26696] = "Berserker ymirjar",
-		[91384] = "Molosse de Hel",
 		[157572] = "Mandefeu antrelige",
 		[162692] = "Amarth",
+		[168837] = "Camouflin",
 		[111871] = "Chercheur de ligne tellurique",
-		[117971] = "Commandant Zarthak",
+		[111446] = "Maître de guerre de la Garde crépusculaire",
 		[167404] = "Champion déterminé <Oeil de Zolramus>",
-		[87780] = "Brute de l’atelier des scories",
+		[156560] = "Candidate fourvoyée",
 		[172523] = "Maître-chien Vasanok",
 		[164845] = "Réquisitionneur élu",
 		[165357] = "Inconnu",
 		[62982] = "Torve-esprit <Orbmi-Silvermoon>",
 		[54920] = "Suppresseur infini",
-		[13396] = "Mineur de Gouffrefer",
+		[71408] = "Kun Da",
 		[171500] = "Cadavre traînant",
-		[106087] = "Elerethe Ranfarouche",
-		[162727] = "Globesang",
-		[150958] = "Garde antrelige",
+		[111071] = "Pulsauron",
+		[72562] = "Totem d’éclair de poison <Sombre chamane kor’kronne>",
+		[103396] = "Faille ténébreuse",
 		[99075] = "Imploratrice des tempêtes sashj’tar",
-		[158642] = "Chair âme-pourrie",
+		[162727] = "Globesang",
 		[111872] = "Chercheuse de ligne tellurique",
 		[162799] = "Espion possédé",
+		[92789] = "Porteffroi sombrefiel",
 		[115691] = "Magus gangrenuit",
 		[168886] = "Virulax Tissechancre",
-		[115692] = "Collaboratrice gangrenuit",
 		[168942] = "Nécrorateur",
 		[173549] = "Echo de chevaucheur de taureau",
 		[157634] = "Massacreur forgeflamme",
@@ -2186,6 +2259,7 @@ _detalhes_global = {
 		[212726] = "Cénarius",
 		[198392] = "Ursoc",
 		[192249] = 7,
+		[298461] = 2,
 		[327130] = "Façonneur de chair",
 		[271841] = "Massacreuse impériale",
 		[345561] = "Azules",
@@ -2215,6 +2289,7 @@ _detalhes_global = {
 		[115078] = 10,
 		[343527] = 2,
 		[59079] = "Cherchemort écorche-dragon",
+		[35018] = 3,
 		[60103] = 7,
 		[335338] = "Grand chambellan",
 		[306670] = "[*] Émanation d’âme",
@@ -2228,7 +2303,7 @@ _detalhes_global = {
 		[333294] = "Sombre orateur néfaste",
 		[48585] = "Esprit revanchard",
 		[321009] = "Kin-Tara",
-		[28902] = "Apôtre du Crépuscule",
+		[323057] = "Ingra Maloch",
 		[14516] = "Trogg de Gouffrefer",
 		[271864] = "Taloc",
 		[314867] = 5,
@@ -2265,7 +2340,7 @@ _detalhes_global = {
 		[329217] = "Professeur Ickus",
 		[347647] = 10,
 		[59082] = "Voyant écorche-dragon",
-		[213771] = 11,
+		[148243] = "Grunt gueule-de-dragon",
 		[292359] = 11,
 		[208652] = 3,
 		[81297] = 2,
@@ -2293,6 +2368,7 @@ _detalhes_global = {
 		[13877] = 4,
 		[206610] = "Anomalie chronomatique",
 		[199443] = 2,
+		[48333] = 5,
 		[245518] = "Diima, mère de l'Obscurité",
 		[321041] = "Rebut répugnant",
 		[271896] = 4,
@@ -2334,7 +2410,7 @@ _detalhes_global = {
 		[323107] = "Restes suintants",
 		[2782] = 11,
 		[321061] = "Millificent Tempête-de-Mana",
-		[209693] = 12,
+		[263725] = 8,
 		[323110] = "Restes suintants",
 		[189216] = "[*] Lames rebondissantes",
 		[47568] = 6,
@@ -2363,7 +2439,7 @@ _detalhes_global = {
 		[273977] = 6,
 		[280121] = 10,
 		[316981] = "Xav l'Invaincu",
-		[73630] = 2,
+		[269883] = 10,
 		[331316] = "Dokigg le Brutalisateur",
 		[323126] = "Statue stèle du vice",
 		[325174] = "Totem de lien d'esprit <Shøckzyy-Antonidas>",
@@ -2377,7 +2453,7 @@ _detalhes_global = {
 		[115098] = 10,
 		[331320] = "Dokigg le Brutalisateur",
 		[327225] = 2,
-		[323130] = "[*] Limon coagulant",
+		[331321] = "[*] Piège à clous",
 		[269889] = 3,
 		[88990] = 9,
 		[159535] = 10,
@@ -2419,7 +2495,7 @@ _detalhes_global = {
 		[77220] = 9,
 		[171830] = 3,
 		[6940] = 2,
-		[258860] = 12,
+		[250669] = "Argus l'Annihilateur",
 		[265815] = 9,
 		[317009] = "Marklýft-Ragnaros",
 		[122783] = 10,
@@ -2464,7 +2540,7 @@ _detalhes_global = {
 		[93095] = 3,
 		[325218] = 10,
 		[343648] = 11,
-		[329314] = 11,
+		[345696] = 11,
 		[223034] = "Arcaniste Tel’arn",
 		[243512] = 7,
 		[196414] = 9,
@@ -2476,6 +2552,7 @@ _detalhes_global = {
 		[325223] = "Aiguillonneur voile-de-brume",
 		[39897] = 5,
 		[121253] = 10,
+		[210750] = "[*] Effondrement de faille",
 		[325224] = "Aiguillonneur voile-de-brume",
 		[171843] = 3,
 		[337511] = 4,
@@ -2486,7 +2563,7 @@ _detalhes_global = {
 		[269937] = 2,
 		[329322] = "Tyran suprême Zérios",
 		[314988] = 3,
-		[35546] = 4,
+		[60119] = 11,
 		[280177] = "Azèlia-ConseildesOmbres",
 		[122278] = "Myronmonk-Ragnaros",
 		[335467] = 5,
@@ -2520,6 +2597,7 @@ _detalhes_global = {
 		[341623] = "Dame Inerva Sombreveine",
 		[66] = 8,
 		[100780] = 10,
+		[203592] = "Rat pestiféré",
 		[294526] = "Diable âme-morte",
 		[323195] = "Oryphrione",
 		[341625] = "Dame Inerva Sombreveine",
@@ -2549,11 +2627,12 @@ _detalhes_global = {
 		[272013] = "Chien de l'enfer vicieux <Suareel-Blackmoore>",
 		[132951] = 1,
 		[23920] = 1,
+		[225100] = "Assemblage gardien",
 		[337542] = 12,
 		[331399] = "Margrave Stradama",
 		[317065] = 8,
 		[204623] = 3,
-		[148310] = "Démolisseur kor’kron",
+		[329352] = 11,
 		[323209] = "Statue stèle du vice",
 		[325257] = "Grande déléguée Beryllia",
 		[272016] = "Cabaliste emprisonné",
@@ -2568,6 +2647,7 @@ _detalhes_global = {
 		[345739] = 2,
 		[227151] = 4,
 		[325262] = "Grande déléguée Beryllia",
+		[253772] = 11,
 		[347788] = 5,
 		[319120] = "[*] Bile putride",
 		[209746] = 11,
@@ -2576,7 +2656,7 @@ _detalhes_global = {
 		[225105] = "Archimage shal’dorei",
 		[300693] = 8,
 		[116] = 8,
-		[51421] = "Tour-canon de Joug-d’Hiver",
+		[329362] = "Hurlaile",
 		[118] = 8,
 		[250703] = "Purificateur alimenté par la corruption",
 		[274074] = 6,
@@ -2611,7 +2691,7 @@ _detalhes_global = {
 		[329377] = "Créature des brumes",
 		[276136] = 2,
 		[325283] = 5,
-		[327331] = "Soigneur désavoué",
+		[172] = 9,
 		[80313] = 11,
 		[323236] = "Grand chambellan",
 		[276138] = 2,
@@ -2628,13 +2708,13 @@ _detalhes_global = {
 		[49376] = 11,
 		[325289] = "Диграти-Гордунни",
 		[331433] = 10,
-		[126389] = 1,
+		[59103] = "Lanceur de sorts ahn'kahar",
 		[261977] = 10,
 		[263858] = "Canerstich <Liluzi-Ravencrest>",
 		[343721] = "Gaelbranth-Ravencrest",
 		[228190] = "Gul'dan",
 		[333485] = "Crache-Vérole",
-		[294578] = 11,
+		[343724] = "Бигбумс-Корольлич",
 		[345772] = "Gardienne faë <Sajukkar-Archimonde>",
 		[47585] = 5,
 		[341677] = 4,
@@ -2647,7 +2727,7 @@ _detalhes_global = {
 		[50401] = 6,
 		[323250] = "Dromane Oulfarran",
 		[333489] = "Amarth",
-		[85948] = 6,
+		[261981] = 11,
 		[331442] = 10,
 		[325299] = 9,
 		[302774] = 10,
@@ -2655,9 +2735,9 @@ _detalhes_global = {
 		[15290] = 5,
 		[61408] = 8,
 		[115129] = 10,
-		[142189] = "Grand tisse-ambre illusoire",
+		[267964] = "VinikFazag <Suareel-Blackmoore>",
 		[335540] = "Démon tenace",
-		[335541] = 3,
+		[221028] = "Gelée putréfiée",
 		[331446] = 10,
 		[300730] = 4,
 		[347829] = 1,
@@ -2672,9 +2752,9 @@ _detalhes_global = {
 		[345788] = "Deplina",
 		[175982] = "Sculpte-scories de Fer",
 		[331455] = 3,
-		[114108] = 11,
+		[162672] = "Sabot-de-fer têtu",
 		[333504] = 4,
-		[294597] = 3,
+		[5246] = 1,
 		[345791] = "Fara",
 		[125883] = 10,
 		[244583] = "Shatug",
@@ -2695,7 +2775,7 @@ _detalhes_global = {
 		[258920] = 12,
 		[339654] = 3,
 		[246634] = "[*] Explosion de l'Apocalypse",
-		[175987] = "Ouvrière de l’atelier des scories",
+		[116670] = 10,
 		[258921] = 12,
 		[59107] = "Broyeur d'os",
 		[294607] = "[*] Bassin de mort",
@@ -2721,7 +2801,7 @@ _detalhes_global = {
 		[256879] = "Destrier ignoble",
 		[319190] = 4,
 		[7870] = "Domwyn",
-		[300761] = 11,
+		[267997] = "Démon abject <Picene-Ravencrest>",
 		[498] = 2,
 		[339669] = 2,
 		[300762] = 8,
@@ -2743,6 +2823,7 @@ _detalhes_global = {
 		[242551] = 3,
 		[341728] = "Dame Viciendiaire",
 		[102342] = 11,
+		[313060] = 12,
 		[688] = 9,
 		[217979] = 9,
 		[341730] = "Dame Viciendiaire",
@@ -2780,7 +2861,7 @@ _detalhes_global = {
 		[256893] = 2,
 		[208771] = 5,
 		[69070] = 3,
-		[102346] = 1,
+		[245631] = "Flamme de Taeshalach",
 		[222082] = "Amalgame du Cauchemar",
 		[339697] = 11,
 		[208772] = 5,
@@ -2797,14 +2878,14 @@ _detalhes_global = {
 		[32246] = 3,
 		[272126] = 6,
 		[331511] = 10,
-		[327416] = "Goliath désavoué",
+		[245634] = "[*] Sabre tournoyant",
 		[222085] = "Amalgame du Cauchemar",
 		[331512] = 10,
 		[1064] = 7,
 		[222086] = "Amalgame du Cauchemar",
 		[51690] = 4,
 		[210824] = 8,
-		[1160] = 1,
+		[272131] = "Oeil de Gul'dan <Suareel-Blackmoore>",
 		[107980] = "Thrall",
 		[300801] = 12,
 		[229255] = "Odyn",
@@ -2818,7 +2899,7 @@ _detalhes_global = {
 		[202636] = 11,
 		[59114] = "Geist pilleur",
 		[327426] = "Visage démoli",
-		[246663] = "Brise-monde garothi",
+		[205708] = 8,
 		[247687] = "Imonar le Chasseur d'âmes",
 		[319236] = 6,
 		[331523] = 12,
@@ -2876,7 +2957,7 @@ _detalhes_global = {
 		[339738] = "Maclaun-Sanguino",
 		[222103] = "Amalgame du Cauchemar",
 		[331548] = "0U.AF-0U.AF",
-		[300832] = 4,
+		[268068] = 2,
 		[144289] = "Brise-terre Haromm",
 		[222104] = "Amalgame du Cauchemar",
 		[183197] = "Soigneuse faëillue",
@@ -2893,7 +2974,7 @@ _detalhes_global = {
 		[208796] = 12,
 		[317221] = 2,
 		[323365] = "[*] Ténèbres tenaces",
-		[327461] = "Rondier Thonar",
+		[23034] = 1,
 		[329509] = "Ombre de Kael'thas",
 		[251800] = "Démon écumant",
 		[341796] = "Altimor le Veneur",
@@ -2981,12 +3062,13 @@ _detalhes_global = {
 		[335693] = 4,
 		[189364] = 5,
 		[199603] = 4,
-		[335694] = "Porte-trépas antrelige",
+		[327503] = "Seigneur Stavros",
 		[156601] = "Marak la Sanglante",
 		[278359] = 8,
 		[7328] = 2,
 		[298837] = 8,
 		[345936] = "Hurlaile",
+		[210868] = "Sorcépée sacrenuit",
 		[146364] = 1,
 		[313174] = 3,
 		[7744] = 9,
@@ -3015,7 +3097,7 @@ _detalhes_global = {
 		[248757] = "Clobex",
 		[266087] = 9,
 		[245686] = 1,
-		[132036] = 3,
+		[288613] = 3,
 		[321379] = 5,
 		[274281] = 11,
 		[257974] = "Amiral Svirax",
@@ -3064,7 +3146,7 @@ _detalhes_global = {
 		[329592] = 7,
 		[255937] = 2,
 		[331641] = 10,
-		[203720] = 12,
+		[244675] = "Aggramar",
 		[343928] = 12,
 		[331642] = 10,
 		[190411] = "Tasarus-Ravencrest",
@@ -3106,13 +3188,13 @@ _detalhes_global = {
 		[341900] = "Hiérarque de la cour",
 		[143322] = 11,
 		[153561] = "Velron-LosErrantes",
-		[333711] = "Raptor squelette",
+		[244686] = "Aggramar",
 		[305043] = 8,
 		[266136] = 9,
 		[341903] = "Hiérarque de la cour",
 		[270232] = 8,
 		[228305] = "Osclave ancien",
-		[254926] = "Kin'garoth",
+		[329618] = "Dame Inerva Sombreveine",
 		[206804] = 12,
 		[325523] = "Sombrelame dépravé",
 		[323476] = 11,
@@ -3139,7 +3221,7 @@ _detalhes_global = {
 		[337819] = 12,
 		[327581] = "Crache-peste",
 		[145377] = "Flaque contaminée",
-		[236502] = 7,
+		[244693] = "Aggramar",
 		[288675] = 7,
 		[325535] = "Maître-chien dépravé",
 		[311201] = 6,
@@ -3242,6 +3324,7 @@ _detalhes_global = {
 		[270290] = "[*] Tempête de sang",
 		[315341] = 4,
 		[224239] = 2,
+		[346059] = 11,
 		[102401] = 11,
 		[346060] = 6,
 		[199667] = "Attaen-Outland",
@@ -3252,15 +3335,16 @@ _detalhes_global = {
 		[35079] = 3,
 		[341969] = "Crache-vase chancreux",
 		[153595] = 8,
+		[211956] = "Pillard langue-de-wyrm",
 		[123904] = 10,
 		[323542] = "Inconnu",
 		[325590] = "Occultiste infâme",
 		[319447] = "Censeur impérial",
 		[190456] = 1,
 		[344021] = 10,
-		[307162] = 11,
+		[323544] = "Fils d'Hakkar",
 		[244722] = "Amiral Svirax",
-		[156669] = "Amiral Gar’an",
+		[246770] = "Tourment de Golganneth",
 		[307163] = 5,
 		[339928] = 3,
 		[59141] = "Ragevapeur caustique",
@@ -3314,8 +3398,8 @@ _detalhes_global = {
 		[229376] = 8,
 		[323569] = "Fils d'Hakkar",
 		[333808] = "Professeur Ickus",
-		[229377] = 5,
-		[228354] = 8,
+		[270329] = 3,
+		[244736] = "Aggramar",
 		[323573] = "[*] Résidu",
 		[344051] = 10,
 		[307192] = 2,
@@ -3327,8 +3411,9 @@ _detalhes_global = {
 		[323576] = "Cerf runique noble-bois",
 		[195592] = 7,
 		[335863] = "Bestiole grouillante",
-		[296956] = "Veilleur des âmes",
+		[321529] = "Evocc-ChamberofAspects",
 		[321530] = 3,
+		[211975] = "Pillard langue-de-wyrm",
 		[102924] = "Assassin du Crépuscule",
 		[59913] = 3,
 		[270338] = 3,
@@ -3349,9 +3434,10 @@ _detalhes_global = {
 		[224266] = 2,
 		[249863] = "Tourment de Norgannon",
 		[333827] = "Aurore la Résolue",
-		[229386] = 3,
+		[344066] = 12,
 		[344067] = 2,
 		[1449] = 8,
+		[245769] = "Aggramar",
 		[55563] = "Trembleterre drakkari",
 		[231435] = 2,
 		[325640] = 9,
@@ -3395,6 +3481,7 @@ _detalhes_global = {
 		[327710] = 5,
 		[230423] = "[*] Barrage tourbillonnant",
 		[257044] = 3,
+		[211994] = "Pillard langue-de-wyrm",
 		[335903] = 7,
 		[325665] = "Infuseuse d'âme",
 		[335904] = 7,
@@ -3403,7 +3490,7 @@ _detalhes_global = {
 		[342048] = "Xira la Sournoise",
 		[86040] = 9,
 		[246807] = 2,
-		[292903] = "Garde antrelige renforcé",
+		[342049] = 3,
 		[2818] = 4,
 		[148516] = "Jun Wei",
 		[337956] = 5,
@@ -3419,18 +3506,18 @@ _detalhes_global = {
 		[337960] = 6,
 		[274480] = "Ravasaure ressuscité <Totos-Gilneas>",
 		[317483] = 1,
-		[319531] = "Kul'tharok",
+		[335913] = 10,
 		[329770] = "Artificier Xy'mox",
 		[331818] = "Domina Lamevenin",
 		[194594] = 3,
 		[317485] = 1,
 		[272435] = "Sombredogue <Artylum-Varimathras>",
-		[340011] = "Officier du registre nathriane",
-		[225311] = 2,
+		[323629] = "[*] Brume rafraîchissante",
+		[208929] = "Tentacule du corrupteur",
 		[153640] = 8,
 		[329774] = "Destructeur affamé",
-		[47633] = 6,
-		[248861] = "Le Paraxis",
+		[157736] = 9,
+		[317488] = 1,
 		[72221] = 9,
 		[317489] = 1,
 		[272439] = "Ur'zul <Artylum-Varimathras>",
@@ -3438,11 +3525,11 @@ _detalhes_global = {
 		[297013] = "Inconnu <Lieur Baritas>",
 		[340016] = "Mythresh, Serres des Cieux",
 		[244767] = "F'harg",
-		[59408] = "Canaliste rituel",
+		[3714] = 6,
 		[333875] = "Nécrorateur",
 		[340019] = "Antiquaire sinistre",
 		[297017] = "Veilleur des âmes",
-		[307256] = 11,
+		[340020] = 8,
 		[118297] = "Elémentaire de feu primordial",
 		[337973] = 6,
 		[323639] = 12,
@@ -3458,7 +3545,7 @@ _detalhes_global = {
 		[344121] = 3,
 		[329787] = "Lieur cœur-algide",
 		[340026] = "Mythresh, Serres des Cieux",
-		[203817] = "Champignon corrompu",
+		[212008] = "Pillard langue-de-wyrm",
 		[297024] = "Lieur Baritas",
 		[315454] = "Guetteur désavoué",
 		[270404] = "Flagellant faëillu",
@@ -3479,21 +3566,21 @@ _detalhes_global = {
 		[344130] = 5,
 		[329796] = 11,
 		[325701] = "Collectrice dépravée",
-		[323654] = 4,
+		[145461] = "Ritualiste de l’ombre mogu",
 		[205870] = "Léthon",
 		[331846] = "0U.AF-0U.AF",
 		[183345] = "Lieur Baritas",
 		[297035] = 3,
 		[331847] = "0U.AF-0U.AF",
-		[57619] = "Démolisseur de Joug-d’Hiver <Tvebak-Ragnaros>",
+		[329800] = 11,
 		[176179] = 6,
 		[59155] = "Géant forge-foudre",
 		[329802] = 11,
 		[331850] = 4,
 		[208944] = "Elisande",
 		[297039] = 1,
-		[146488] = "Tourelle antiaérienne <Hachiirama-Elune>",
-		[6660] = "Ligelame de Vyraz",
+		[309326] = 10,
+		[262228] = 1,
 		[288849] = 6,
 		[6788] = 5,
 		[329805] = 7,
@@ -3502,7 +3589,7 @@ _detalhes_global = {
 		[205875] = "[*] Heurtoir",
 		[325713] = "Dame Inerva Sombreveine",
 		[116768] = 10,
-		[272472] = 10,
+		[209971] = "Elisande",
 		[245807] = "Annihilateur garothi",
 		[132157] = 5,
 		[340049] = 11,
@@ -3522,7 +3609,7 @@ _detalhes_global = {
 		[143423] = "Sun Cœur de Douceur",
 		[245811] = "Annihilateur garothi",
 		[340057] = "Surveillante des Chenils",
-		[344153] = 2,
+		[143424] = "Sun Cœur de Douceur",
 		[194618] = 6,
 		[344154] = 2,
 		[197690] = "Garrett-Outland",
@@ -3547,13 +3634,14 @@ _detalhes_global = {
 		[323687] = "Marchande Xy'exa",
 		[11976] = "Champion chanteguerre",
 		[319592] = "Echelon",
-		[329831] = "Tírad-LesSentinelles",
+		[338022] = "Soldat recousu",
 		[313450] = 10,
 		[115750] = 2,
 		[313451] = 10,
+		[211007] = "Récupératrice sacrenuit",
 		[42777] = 7,
 		[327786] = 11,
-		[132169] = "Garrett-Outland",
+		[329834] = "Racine d'extinction",
 		[323692] = 2,
 		[333931] = "Croc-de-Mort",
 		[61463] = "Oeil de Taldaram",
@@ -3592,6 +3680,7 @@ _detalhes_global = {
 		[340094] = 4,
 		[5221] = 11,
 		[185422] = 4,
+		[254022] = "Aggramar",
 		[290951] = 5,
 		[327811] = "Général Kaal",
 		[315525] = 2,
@@ -3602,14 +3691,15 @@ _detalhes_global = {
 		[329862] = "Traînard âme-morte",
 		[225356] = "Brouillard humide",
 		[88625] = 5,
-		[130092] = 1,
+		[12169] = "Défenseur foudrepique",
+		[221261] = "Arcaniste Naran",
 		[274575] = 5,
 		[325769] = "Dame Inerva Sombreveine",
 		[319626] = "Kul'tharok",
 		[280719] = 4,
-		[270481] = "Tyran démoniaque <Диграти-Гордунни>",
+		[336009] = 5,
 		[319628] = "Phalynx désavoué",
-		[188499] = 12,
+		[61467] = 6,
 		[333964] = 7,
 		[6789] = 9,
 		[250956] = 1,
@@ -3617,10 +3707,10 @@ _detalhes_global = {
 		[206930] = 6,
 		[227408] = 5,
 		[342158] = 11,
-		[204883] = 5,
+		[188501] = 12,
 		[329872] = 12,
 		[206931] = 6,
-		[202836] = 6,
+		[323730] = "Nalthor le Lieur-de-Givre",
 		[311444] = 11,
 		[51485] = 7,
 		[323732] = "Marchande Xy'exa",
@@ -3632,14 +3722,14 @@ _detalhes_global = {
 		[253008] = 3,
 		[319639] = "Kul'tharok",
 		[311449] = 9,
-		[331927] = "Fraise de dentiste abandonnée",
-		[155741] = 7,
+		[178266] = 10,
+		[114738] = 7,
 		[333976] = 11,
 		[280735] = 1,
 		[243795] = 1,
 		[59165] = "Sentinelle forge-foudre",
 		[221270] = "Infernal incendiaire",
-		[197721] = 11,
+		[246867] = 2,
 		[323739] = "Chef d'escouade désavouée",
 		[325787] = 1,
 		[323740] = "Chef d'escouade désavoué",
@@ -3669,9 +3759,9 @@ _detalhes_global = {
 		[319654] = "Kryxis le Vorace",
 		[323750] = "[*] Gaz abominable",
 		[244825] = "F'harg",
-		[344228] = 5,
+		[311464] = 5,
 		[325799] = "Maître-chien dépravé",
-		[336038] = 5,
+		[311465] = 5,
 		[325800] = 2,
 		[311466] = 5,
 		[346278] = 12,
@@ -3681,15 +3771,15 @@ _detalhes_global = {
 		[59167] = "Revenant furie-des-tempêtes",
 		[245851] = "Gangrechien",
 		[148583] = "Xiang Lin",
-		[327851] = "Cumulus-LesClairvoyants",
+		[311469] = 5,
 		[212064] = "Traque-ombre antrelige",
 		[336043] = 3,
 		[53792] = "Général Bjarngrim",
 		[317614] = 6,
-		[311471] = 5,
+		[336044] = 3,
 		[193635] = "Inconnu <Iivii-Ysondre>",
 		[278708] = 2,
-		[325807] = "Mueh'zala",
+		[342189] = "Vive-pierre loyal",
 		[321712] = 8,
 		[145514] = "Jun Wei",
 		[311474] = 12,
@@ -3702,17 +3792,17 @@ _detalhes_global = {
 		[323764] = 11,
 		[311478] = 12,
 		[156779] = 3,
-		[15498] = "Géomètre de Gouffrefer",
+		[340147] = 2,
 		[54049] = "Flaafenn <Golyofeju-Ragnaros>",
 		[311479] = 11,
 		[227427] = "Gul'dan",
-		[245857] = "Gangregarde antoréen",
+		[311480] = 12,
 		[311481] = 12,
 		[210022] = "Elisande",
 		[97340] = 4,
 		[8395] = 5,
 		[311483] = 3,
-		[193641] = 4,
+		[329913] = "Traque-ombre antrelige",
 		[59169] = "Vortex tempétueux",
 		[311484] = 3,
 		[51490] = 7,
@@ -3724,35 +3814,35 @@ _detalhes_global = {
 		[199786] = 8,
 		[311487] = 3,
 		[329917] = "Fongimancien",
-		[311488] = 3,
+		[245861] = "[*] Lacération incendiaire",
 		[280772] = "Musaka-Outland",
-		[331966] = "Inconnu",
+		[315584] = 4,
 		[311489] = 3,
 		[280773] = 1,
-		[340158] = 10,
+		[315585] = 4,
 		[311490] = 3,
 		[41252] = 2,
 		[311491] = 3,
 		[272584] = "Gouttelette volatile",
 		[194669] = 11,
 		[334017] = "Spectre soumis",
-		[336065] = 7,
+		[311492] = 3,
 		[280776] = 1,
 		[293063] = "Sentinelle pénitentiaire",
 		[311493] = 3,
 		[272586] = "Gouttelette volatile",
 		[340162] = 4,
 		[311494] = 3,
-		[135286] = 11,
+		[311495] = 3,
 		[346307] = "Engeance de pou de cadavre",
 		[54819] = "Elémentaire drakkari",
 		[311496] = 3,
 		[311497] = 3,
-		[311498] = 3,
+		[245866] = "Démolisseur massif",
 		[311499] = 3,
 		[323786] = "Magistrate kyriane sombre",
 		[203888] = "Léthon",
-		[278736] = 12,
+		[327882] = "Pesteroc",
 		[297166] = "Tourmenteur de Boulette",
 		[26004] = 3,
 		[129597] = 10,
@@ -3761,7 +3851,7 @@ _detalhes_global = {
 		[342219] = "Gargon nathrian",
 		[217200] = 3,
 		[232559] = 11,
-		[262359] = 8,
+		[327887] = "Artificier Xy'mox",
 		[323792] = "Anima amalgamé",
 		[253037] = "Troupier de choc gangrelame",
 		[245870] = "Garde funeste antoréen",
@@ -3775,10 +3865,10 @@ _detalhes_global = {
 		[52773] = "Réparateur forge-foudre",
 		[253039] = "Troupier de choc gangrelame",
 		[206965] = "Etraeus, l'augure stellaire",
-		[319702] = "Echelon",
-		[329941] = 7,
+		[7814] = "Elertai",
+		[201846] = 7,
 		[194679] = 6,
-		[244849] = "[*] Gelée caustique",
+		[118337] = 7,
 		[319703] = "Echelon",
 		[246897] = "Décimateur",
 		[206966] = 12,
@@ -3788,30 +3878,32 @@ _detalhes_global = {
 		[321754] = "Nalthor le Lieur-de-Givre",
 		[323802] = 12,
 		[59173] = "Brise-siège en titane",
-		[321755] = "Nalthor le Lieur-de-Givre",
+		[338137] = "Graine d'hydre",
 		[51750] = "Roi Ymiron",
 		[270562] = 2,
 		[211064] = 3,
-		[203897] = "Ombre spirituelle",
+		[317661] = "Plonge-éther",
 		[148608] = 8,
 		[585] = 5,
 		[589] = 5,
 		[338140] = 10,
 		[331997] = "Oryphrione",
-		[195707] = 1,
+		[55078] = 6,
 		[338141] = 10,
+		[340189] = "Matriarche voile-de-brume",
 		[135299] = 3,
 		[210042] = 12,
 		[633] = 2,
-		[319713] = "Kryxis le Vorace",
+		[155777] = 11,
 		[173183] = 7,
+		[340191] = "[*] Radiance régénératrice",
 		[10444] = 7,
 		[313571] = 8,
-		[117828] = 9,
+		[323810] = "Général Kaal",
 		[42792] = 8,
-		[270569] = 9,
+		[196733] = 10,
 		[173184] = 7,
-		[340193] = 2,
+		[223354] = 7,
 		[224378] = "Acolyte céleste",
 		[327907] = 4,
 		[321764] = "Spriggan lieur d'écorce",
@@ -3821,32 +3913,34 @@ _detalhes_global = {
 		[327909] = 4,
 		[334053] = "Oryphrione",
 		[291051] = 2,
-		[143494] = "Général Nazgrim",
+		[225404] = "Ombrécaille apprivoisé",
 		[329959] = 11,
 		[342246] = 8,
 		[107079] = "Ayling-Alleria",
 		[342247] = 8,
 		[329961] = 11,
-		[342248] = "Haleur de pâtée nauséabond",
+		[228477] = 12,
 		[325867] = 10,
 		[321772] = "Dromane Oulfarran",
 		[228478] = 12,
-		[247932] = "Explosion de shrapnel",
+		[323821] = "Général Kaal",
 		[342251] = "Gargon loyal",
-		[305392] = 6,
+		[853] = 2,
 		[278772] = "Vrille de sang",
 		[173190] = "[*] Frappe écrasante",
-		[278773] = "[*] Ravage plasmique",
-		[334063] = 12,
-		[305395] = 2,
+		[143498] = "Flaque de sha",
+		[325872] = "Oblitérateur dépravé",
+		[329968] = 11,
 		[323825] = "Faille aspirante <Mordretha, l'impératrice immortelle>",
+		[209027] = "Vigile de la Garde crépusculaire",
 		[329969] = 11,
-		[188550] = 11,
+		[340208] = "Matriarche voile-de-brume",
+		[196741] = 10,
 		[173192] = "[*] Éboulement",
 		[321780] = "Nécromancien de Zolramus",
 		[340210] = 10,
 		[325876] = "Oblitérateur dépravé",
-		[245888] = "Championne antoréenne",
+		[319733] = "Echelon",
 		[340211] = 12,
 		[325877] = "Ombre de Kael'thas",
 		[210053] = 11,
@@ -3872,7 +3966,7 @@ _detalhes_global = {
 		[340219] = 12,
 		[334076] = "Nécrorateur",
 		[109132] = 10,
-		[212105] = 12,
+		[325886] = 1,
 		[336126] = 11,
 		[321792] = 9,
 		[212106] = 12,
@@ -3881,6 +3975,7 @@ _detalhes_global = {
 		[59178] = "Avant-garde en titane",
 		[221322] = 6,
 		[43308] = 3,
+		[209036] = "Factionnaire de la Garde crépusculaire",
 		[22424] = "Scorie",
 		[323845] = "Général Kaal",
 		[329989] = "Gargon massif",
@@ -3895,9 +3990,9 @@ _detalhes_global = {
 		[342281] = "Dame Inerva Sombreveine",
 		[264467] = 9,
 		[323852] = "Paroissien spectral <Lylo-Outland>",
-		[342282] = "Dame Inerva Sombreveine",
+		[114255] = 5,
 		[336139] = 10,
-		[210065] = 11,
+		[1706] = 5,
 		[1714] = 9,
 		[321807] = "Sculpteur d'os de Zolramus",
 		[247949] = "Pièges !",
@@ -3930,7 +4025,7 @@ _detalhes_global = {
 		[143523] = "Flaque contaminée",
 		[59182] = "Tempête-de-feu déchaînée",
 		[198813] = 12,
-		[143524] = "[*] Résidu purifié",
+		[319780] = "Globgrog",
 		[321828] = "Mandebrume",
 		[260247] = 3,
 		[2948] = 8,
@@ -3939,7 +4034,7 @@ _detalhes_global = {
 		[32409] = "[*] Mot de l’ombre : Mort",
 		[342310] = "Artificier Xy'mox",
 		[336167] = 5,
-		[190625] = 11,
+		[247962] = "Pièges !",
 		[321834] = "Mandebrume",
 		[260249] = 3,
 		[59183] = "Tempête-de-feu déchaînée",
@@ -3950,7 +4045,7 @@ _detalhes_global = {
 		[342314] = "Gloy-Zenedar",
 		[196770] = 6,
 		[321837] = "Clone illusoire",
-		[274739] = 3,
+		[61999] = 6,
 		[274740] = 3,
 		[19483] = "Infernal <Tribs-Ysondre>",
 		[222368] = 1,
@@ -3963,12 +4058,12 @@ _detalhes_global = {
 		[51505] = 7,
 		[199845] = 5,
 		[72286] = 5,
-		[228514] = "Helya",
+		[334131] = 7,
 		[332084] = "Lubrificateur",
 		[330037] = "Frelon du marais",
 		[253088] = 2,
 		[245921] = "[*] Armée spectrale de Norgannon",
-		[330038] = 3,
+		[214181] = "Vase putride",
 		[47666] = 5,
 		[336182] = 11,
 		[268607] = 11,
@@ -3981,7 +4076,7 @@ _detalhes_global = {
 		[66657] = 11,
 		[124506] = 10,
 		[313663] = 9,
-		[55090] = 6,
+		[244901] = "Inconnu",
 		[270661] = 10,
 		[199851] = 1,
 		[336190] = 12,
@@ -3990,7 +4085,8 @@ _detalhes_global = {
 		[268616] = 5,
 		[159921] = "Dos-de-cristal sombréclat",
 		[42292] = 4,
-		[195757] = 6,
+		[211115] = "Ombre dimensionnelle",
+		[244903] = "Flamme de Taeshalach",
 		[213163] = 6,
 		[252071] = 11,
 		[5672] = "Totem guérisseur <Mindi-Naxxramas>",
@@ -4019,18 +4115,20 @@ _detalhes_global = {
 		[59444] = "Moorabi",
 		[340305] = "Gonfle-gosier voile-de-brume",
 		[330067] = 3,
+		[244912] = "Braise de Taeshalach",
 		[297304] = "Rondier Thonar",
 		[207029] = 12,
 		[330069] = "[*] Peste concentrée",
+		[211125] = "Ombre dimensionnelle",
 		[203958] = 11,
 		[305497] = 11,
-		[198839] = "Totem de mur terrestre <Snoups-Hyjal>",
+		[119905] = 9,
 		[48438] = 11,
 		[72807] = 6,
-		[146622] = 6,
+		[228532] = 12,
 		[340311] = "Gonfle-gosier voile-de-brume",
 		[336217] = 7,
-		[264546] = 2,
+		[297310] = "Guetteurs de mort",
 		[223414] = "[*] Entraves parasites",
 		[142528] = "Xaril l’Esprit empoisonné",
 		[319836] = 8,
@@ -4051,10 +4149,11 @@ _detalhes_global = {
 		[319843] = "Vétéran échine-d'acier",
 		[321891] = "Vulpin illusoire <Mandebrume>",
 		[348512] = 3,
-		[167105] = 1,
+		[232633] = 5,
 		[211132] = "Oeil de Gul'dan surpuissant",
 		[53047] = "Sentinelle forge-foudre",
 		[321893] = "Vulpin illusoire <Mandebrume>",
+		[190655] = 11,
 		[321894] = "Nalthor le Lieur-de-Givre",
 		[340324] = "[*] Ichor sanguin",
 		[55095] = 6,
@@ -4078,6 +4177,7 @@ _detalhes_global = {
 		[315763] = 9,
 		[326002] = 10,
 		[328050] = 7,
+		[257214] = "Khaz'goroth",
 		[260286] = 3,
 		[342386] = 11,
 		[334196] = 7,
@@ -4173,7 +4273,7 @@ _detalhes_global = {
 		[321956] = "Nalthor le Lieur-de-Givre",
 		[205021] = "Риндорму-Гордунни",
 		[332196] = "Client décapité",
-		[342435] = 7,
+		[67195] = "Lanceur de glaive <Thaldrin-Aggramar>",
 		[143589] = "Général Nazgrim",
 		[338340] = 7,
 		[264622] = 9,
@@ -4297,7 +4397,7 @@ _detalhes_global = {
 		[338406] = "Suppresseur Xelors",
 		[317929] = 2,
 		[98440] = 4,
-		[66188] = 6,
+		[322025] = 1,
 		[324073] = 4,
 		[313835] = 4,
 		[243963] = "Varimathras",
@@ -4305,13 +4405,14 @@ _detalhes_global = {
 		[328170] = "Sentinelle de la chambre",
 		[313836] = 4,
 		[59975] = "Héraut Volazj",
-		[158982] = "Goren de Mur-de-Givre",
+		[224510] = "Mage de bataille de la Garde crépusculaire",
 		[313837] = 4,
 		[346602] = 10,
 		[224511] = "Mage de bataille de la Garde crépusculaire",
 		[143625] = 6,
 		[324079] = "Mordretha, l'impératrice immortelle",
 		[317936] = "Soigneur désavoué",
+		[211202] = "Anomalie arcanique",
 		[328176] = "Tempétueux fongique",
 		[334320] = 9,
 		[328177] = "Tempétueux fongique",
@@ -4346,6 +4447,7 @@ _detalhes_global = {
 		[201995] = 6,
 		[155921] = "Conducteur Thogar",
 		[248070] = "Imonar le Chasseur d'âmes",
+		[344575] = 7,
 		[59978] = "Héraut Volazj",
 		[216331] = 2,
 		[336387] = 11,
@@ -4387,6 +4489,7 @@ _detalhes_global = {
 		[328212] = "[*] Échardes de glace",
 		[221460] = "Mage du chaos Beleron",
 		[55629] = 5,
+		[257296] = "Argus l'Annihilateur",
 		[209174] = "Elisande",
 		[264735] = 3,
 		[328216] = 10,
@@ -4499,7 +4602,9 @@ _detalhes_global = {
 		[334406] = 1,
 		[320072] = "Géant de chair putréfié",
 		[145718] = "[*] Bombe coup de vent",
+		[204079] = 2,
 		[33110] = 5,
+		[231724] = 2,
 		[227629] = "Odyn",
 		[187698] = 3,
 		[102560] = 11,
@@ -4551,7 +4656,7 @@ _detalhes_global = {
 		[268904] = 12,
 		[328289] = "Veilleur désavoué",
 		[101542] = 4,
-		[326242] = "Globgrog",
+		[334433] = 7,
 		[165185] = 12,
 		[224570] = "Protecteur du palais Sacrenuit",
 		[88744] = 7,
@@ -4586,7 +4691,7 @@ _detalhes_global = {
 		[154953] = 4,
 		[332400] = 2,
 		[142667] = "Kunchong affamé <Kaz’tik le Manipulateur>",
-		[328305] = 4,
+		[320114] = "Xav l'Invaincu",
 		[340592] = 3,
 		[146763] = "Jette-flamme gueule-de-dragon",
 		[328306] = 4,
@@ -4596,362 +4701,462 @@ _detalhes_global = {
 		[146764] = "Jette-flamme gueule-de-dragon",
 		[336499] = "Mandebrume",
 		[281210] = 6,
+		[300800] = 2,
+		[194627] = 11,
+		[325360] = "Grande déléguée Beryllia",
 		[259391] = 3,
+		[244033] = "Aggramar",
 		[146765] = "[*] Flèches enflammées",
+		[345553] = "Maître d'hôtel vive-pierre",
 		[322167] = 9,
+		[186305] = 3,
 		[326263] = "Tred'ova",
 		[320120] = "Paceran le Virulent",
+		[340160] = "Matriarche voile-de-brume",
 		[332407] = 2,
+		[198097] = 4,
 		[246082] = "[*] Portail surpuissant : Rancora",
 		[322169] = "Vestige de doute",
+		[345552] = "Rulkros",
+		[211000] = "Sorcépée sacrenuit",
+		[211079] = "Récupérateur sacrenuit",
 		[322170] = 9,
 		[340600] = 4,
 		[212295] = 9,
+		[305000] = 11,
+		[326099] = 10,
 		[340601] = 4,
 		[8921] = 11,
+		[183752] = 12,
 		[330363] = 2,
 		[324220] = 8,
 		[334459] = 11,
 		[320125] = 7,
 		[330364] = 2,
+		[211995] = "Pillard langue-de-wyrm",
 		[334460] = 11,
+		[254384] = "F'harg",
 		[259395] = 8,
+		[345550] = 5,
+		[211999] = "Pillard langue-de-wyrm",
 		[336509] = 5,
 		[330366] = 2,
+		[257299] = "Argus l'Annihilateur",
 		[326271] = "Artificier Xy'mox",
+		[232877] = 10,
 		[330367] = 7,
 		[145746] = "Bâton d’eau résonnante",
 		[334463] = 9,
 		[123051] = "Torve-esprit <Thalui-Alonsus>",
 		[330368] = 7,
+		[345549] = 11,
+		[126436] = 10,
 		[320130] = 11,
+		[346565] = 3,
 		[324226] = 11,
 		[77489] = "Miri-Anachronos",
 		[328322] = "Démon de pierre immortel <Echelon>",
+		[115178] = 10,
 		[59994] = 8,
+		[12323] = 1,
+		[85739] = 1,
 		[259398] = 3,
+		[290608] = 2,
+		[246014] = "Aggramar",
+		[231843] = 2,
 		[214348] = "Elerethe Ranfarouche",
+		[335308] = "Gardien des profondeurs",
 		[54107] = "Démolisseur de Joug-d’Hiver <Tvebak-Ragnaros>",
 		[328325] = 7,
 		[330373] = 2,
+		[142073] = 10,
+		[61684] = "Хати <Деневин-Гордунни>",
 		[23600] = "Brise-siège en titane",
+		[186270] = 3,
 		[340613] = 11,
 		[32175] = 7,
+		[246157] = "[*] Portail surpuissant : Nathreza",
+		[290500] = "Полюбэ-Ревущийфьорд",
 		[244042] = "Varimathras",
+		[329470] = "Inconnu",
+		[345545] = 12,
 		[330376] = 7,
+		[249224] = "Assistante des failles",
 		[326281] = "Tred'ova",
+		[252729] = "Constelleur désigné",
+		[102547] = 11,
 		[58971] = "Tisseur de flammes drakkari",
+		[216338] = 8,
 		[328330] = "Justicière désavouée",
 		[197969] = "Ursoc",
+		[59331] = "Skadi le Brutal",
+		[198533] = "Statue du Serpent de jade <Atec>",
 		[320140] = 7,
+		[306636] = 10,
 		[145752] = "Mine à pointes",
 		[36702] = 3,
 		[328332] = "Justicière désavouée",
 		[330380] = 2,
+		[268899] = 4,
 		[334476] = "Docteur Sutur",
 		[311951] = "Poulette-KirinTor",
+		[269776] = 6,
+		[274062] = 10,
+		[342675] = "Magus des os",
 		[19505] = "Droozhem <Kørpse-TwistingNether>",
+		[56786] = "[*] Infection volatile",
+		[204157] = 12,
+		[197942] = "Ursoc",
 		[320144] = "Millificent Tempête-de-Mana",
+		[272156] = "Terreur du Vide <Suareel-Blackmoore>",
 		[340622] = "Rat de taille inhabituelle",
+		[47468] = "Spinemuncher",
 		[320145] = "Millificent Tempête-de-Mana",
+		[123040] = 5,
 		[340623] = "Rat de taille inhabituelle",
+		[321390] = 8,
 		[143707] = "[*] Horion explosif",
 		[21169] = 7,
 		[58972] = "Tisseur de flammes drakkari",
 		[285335] = "Eclaireur cœur-algide",
 		[328338] = "Tireur d'élite venimeux",
+		[101033] = 7,
 		[59996] = 6,
+		[345540] = 5,
+		[315957] = 11,
+		[54109] = "Engin de siège de Joug-d’Hiver <Smellyflame-Draenor>",
+		[326075] = "Infuseuse d'âme",
+		[320966] = "Kin-Tara",
+		[182104] = 2,
 		[338579] = 10,
 		[340627] = "Rat de taille inhabituelle",
-		[342675] = "Magus des os",
+		[318102] = "Xav l'Invaincu",
+		[59106] = "Tisseuse ahn'kahar",
+		[58966] = "Chevaucheur de combat drakkari",
+		[254695] = "Braise de Taeshalach",
 		[334485] = "Ventunax",
 		[328342] = "Croc-venin",
 		[247121] = 12,
 		[307865] = 1,
 		[32176] = 7,
 		[328343] = "Croc-venin <Tireur d'élite venimeux>",
+		[5405] = 8,
 		[340630] = "[*] Nécrose",
+		[326242] = "Globgrog",
+		[66235] = 2,
+		[148762] = "Commandant Zak’tar",
 		[340631] = "Rat d'égout",
 		[334488] = "Docteur Sutur",
+		[104318] = "Diablotin sauvage",
+		[341441] = "Gargon massif",
 		[244051] = "Shatug",
+		[206572] = 1,
 		[320155] = "[*] Piège téléporteur",
+		[262652] = 7,
+		[254760] = "Shatug",
 		[200025] = 2,
+		[317103] = 10,
+		[243431] = "Aggramar",
+		[324149] = "Картедрин-ЧерныйШрам",
+		[331620] = 10,
 		[221527] = 12,
+		[330403] = "Pesteroc",
 		[307871] = "Zalkiin-Ravencrest",
+		[243435] = 10,
 		[225623] = 3,
+		[224515] = "Invocatrice dimensionnelle noble",
 		[54878] = "Elémentaire drakkari",
 		[334493] = "Phaluisant sylvestre",
 		[344732] = 1,
+		[237287] = 4,
+		[51421] = "Tour-canon de Joug-d’Hiver",
+		[264689] = 9,
 		[328351] = 7,
+		[253061] = "Constelleur désigné",
 		[97462] = 1,
+		[210688] = "Ame en peine de mana flétrie",
+		[202497] = 11,
+		[98204] = 8,
 		[340639] = 2,
 		[334496] = 7,
+		[236299] = 8,
+		[1160] = 1,
+		[105421] = 2,
+		[41425] = 8,
 		[147811] = "Thrall",
+		[144113] = "Grand fourrageur illusoire",
 		[316068] = "Croque-terre crasseux",
-		[330403] = "Pesteroc",
+		[66198] = 6,
+		[341435] = "Gargon vicieux",
+		[322212] = "Vestige de doute",
 		[324260] = 8,
+		[190784] = 2,
 		[2823] = 4,
 		[330404] = "Pesteroc",
+		[271811] = "Broyeur de sang <Taloc>",
 		[326309] = "[*] Acide de décomposition",
 		[344739] = "Esprit de marche-mort atal'ai",
+		[33891] = 11,
 		[203102] = "Ysondre",
+		[345698] = 2,
+		[10326] = 2,
 		[346788] = "Vétéran garde-de-pierre",
 		[2983] = 4,
 		[334502] = 6,
 		[320168] = "Millificent Tempête-de-Mana",
 		[24242] = 11,
-		[219485] = 1,
-		[272131] = "Oeil de Gul'dan <Suareel-Blackmoore>",
-		[10326] = 2,
+		[332455] = 7,
+		[254244] = "Imonar le Chasseur d'âmes",
+		[317349] = 1,
 		[346790] = "Vétéran garde-de-pierre",
 		[340647] = "Assistant sculpté",
-		[328891] = 8,
+		[155530] = "Gruul",
 		[320170] = "Amarth",
-		[272156] = "Terreur du Vide <Suareel-Blackmoore>",
+		[329172] = "Statue stèle du vice",
 		[58975] = "Golem drakkari",
 		[334505] = 2,
 		[320171] = "Amarth",
-		[272172] = "Shivarra <Suareel-Blackmoore>",
-		[279608] = 8,
-		[143424] = "Sun Cœur de Douceur",
-		[342997] = 9,
+		[29722] = 9,
+		[49106] = "Berserker ymirjar",
+		[316859] = "Maître d'hôtel vive-pierre",
+		[296454] = "Traqueur âme-morte",
 		[281265] = 5,
-		[267964] = "VinikFazag <Suareel-Blackmoore>",
-		[255654] = 1,
+		[254224] = 5,
+		[142266] = 7,
 		[114871] = "Атомныймолот-ЧерныйШрам",
 		[53600] = 2,
-		[329470] = "Inconnu",
-		[226512] = "[*] Ichor sanguin",
+		[8212] = 1,
+		[249210] = "Diablotin flamboyant",
 		[336556] = "Créature des brumes",
-		[307160] = 12,
+		[255200] = 10,
 		[145769] = "Amalgame de corruption",
-		[41301] = 11,
+		[108446] = "Диграти-Гордунни",
 		[344748] = "Torve-esprit <Duangchan-Ysondre>",
-		[33891] = 11,
-		[345553] = "Maître d'hôtel vive-pierre",
+		[211793] = 6,
+		[145230] = "Ritualiste de l’ombre mogu",
 		[326319] = "Moissonneur drust",
-		[204859] = "Ursoc",
+		[201447] = 10,
 		[338606] = "Préposé à l'équarrissage <Portail de l'atelier>",
 		[40546] = "Lancier drakkari",
 		[334511] = 6,
-		[332002] = "Stygie animée",
-		[212431] = 3,
+		[17195] = "Elémentaire de feu lié",
+		[59842] = "Slad'ran",
 		[207203] = 6,
-		[345552] = "Rulkros",
+		[347572] = 10,
 		[344751] = "Inconnu <Hatshepsut-Hyjal>",
 		[330417] = "Soldat du bourbier",
-		[322025] = 1,
+		[49759] = "[*] Téléportation",
 		[85692] = "Garde funeste",
 		[344752] = "Flagellant du Vide <Hatshepsut-Hyjal>",
 		[346800] = "Seigneur Stavros",
+		[146180] = "Esprit de sage tisse-brume",
 		[208770] = 12,
-		[308078] = 3,
 		[320180] = "Paceran le Virulent",
-		[334131] = 7,
-		[338784] = 9,
-		[261981] = 11,
+		[317931] = 11,
+		[101545] = 10,
+		[327093] = 6,
 		[147820] = "Chaman des marées gueule-de-dragon",
-		[197062] = 4,
+		[256735] = 4,
 		[332468] = 1,
 		[342707] = 3,
-		[345550] = 5,
-		[329316] = 1,
+		[258399] = "Argus l'Annihilateur",
+		[5277] = 4,
 		[332469] = 1,
-		[311468] = 5,
-		[115178] = 10,
+		[34026] = 3,
+		[8599] = "Broyeur d'os",
 		[132463] = "Myronmonk-Ragnaros",
 		[332470] = 1,
 		[208230] = "Tichondrius",
-		[345549] = 11,
+		[37978] = "Sentinelle forge-foudre",
 		[330423] = "Tempétueux fongique",
 		[332471] = 1,
-		[335706] = 2,
+		[344663] = 11,
 		[213350] = 11,
-		[158599] = "Amiral Gar’an",
-		[292362] = 11,
-		[84714] = 8,
-		[290608] = 2,
+		[213209] = 5,
+		[268062] = 2,
+		[19236] = 5,
+		[59840] = "Slad'ran",
 		[218470] = "[*] Chaos contrôlé",
 		[58977] = "Golem drakkari",
 		[59233] = "[*] Marque de la bête",
-		[305000] = 11,
-		[138130] = 10,
-		[46968] = 1,
+		[342321] = "Dame Inerva Sombreveine",
+		[117405] = 3,
+		[318038] = 7,
 		[334522] = "Destructeur affamé",
-		[335308] = "Gardien des profondeurs",
+		[23214] = 2,
 		[322236] = "Apparition malveillante",
-		[142073] = 10,
+		[55276] = "Gal'darah",
 		[334523] = "Destructeur affamé",
 		[73920] = 7,
 		[338619] = "Destructeur affamé",
-		[280398] = 5,
+		[28902] = "Apôtre du Crépuscule",
 		[62305] = "Jule <Vïolence-Stormscale>",
-		[246152] = 3,
+		[325041] = 5,
 		[202090] = 10,
-		[257410] = 6,
+		[306611] = 2,
 		[118459] = "Гончая недр",
 		[221544] = 10,
 		[27827] = 5,
-		[268062] = 2,
-		[145818] = "Fragment d’orgueil",
+		[308646] = 11,
+		[253661] = 10,
 		[209258] = 12,
 		[346813] = "Sentinelle de la tour",
 		[244070] = "Varimathras",
 		[285381] = 11,
 		[73921] = 7,
-		[345545] = 12,
-		[220543] = 5,
-		[186270] = 3,
+		[252637] = "Démon écumant",
+		[66188] = 6,
+		[208086] = 1,
 		[271048] = 3,
-		[236299] = 8,
+		[236502] = 7,
 		[316099] = 9,
 		[334529] = "Jeune cerf runique",
 		[271049] = 3,
 		[197997] = 7,
 		[119996] = 10,
 		[334530] = "Jeune cerf runique",
-		[205708] = 8,
-		[59331] = "Skadi le Brutal",
+		[338636] = "Préposé à l'équarrissage <Portail de l'atelier>",
+		[329321] = "Gargon vicieux",
 		[244072] = "F'harg",
 		[89792] = "Pip'tul <Anhkara>",
 		[229738] = "Elisande",
 		[355] = 1,
 		[324293] = "Maraudeur squelette",
-		[204157] = 12,
+		[330038] = 3,
 		[209261] = 12,
-		[306636] = 10,
-		[49759] = "[*] Téléportation",
+		[145706] = "Bombardier sri’thik",
+		[160065] = "Акир <Гарцрог-СвежевательДуш>",
 		[245097] = "F'harg",
-		[269776] = 6,
+		[86659] = 2,
 		[330438] = "Guetteurs de mort",
-		[190784] = 2,
+		[93825] = 2,
 		[334534] = "Scribe chercheuse",
 		[320200] = "Docteur Sutur",
 		[379] = 7,
-		[224515] = "Invocatrice dimensionnelle noble",
+		[108968] = 5,
 		[334535] = "Lamebec territorial",
-		[198533] = "Statue du Serpent de jade <Atec>",
+		[91797] = "Blightthief <Bayme-Ravencrest>",
 		[314058] = 3,
-		[145786] = "Prêtre d’ambre zar’thik",
-		[213858] = 1,
-		[290500] = "Полюбэ-Ревущийфьорд",
-		[318102] = "Xav l'Invaincu",
+		[32747] = 12,
+		[65917] = 12,
+		[212704] = 3,
+		[100784] = 10,
 		[101568] = 6,
 		[253290] = "Mine entropique",
 		[229741] = "Elisande",
-		[268899] = 4,
-		[264689] = 9,
+		[306606] = 12,
+		[162675] = "Sabot-de-fer têtu",
 		[334538] = "Tyran suprême Zérios",
 		[271058] = 2,
-		[197942] = "Ursoc",
-		[345540] = 5,
-		[113860] = 9,
+		[311967] = 2,
+		[48181] = 9,
+		[197509] = "Ver de sang <Mimes-KirinTor>",
 		[336587] = 3,
-		[182104] = 2,
-		[59106] = "Tisseuse ahn'kahar",
-		[320966] = "Kin-Tara",
+		[300809] = 2,
+		[55106] = "Moorabi",
+		[226512] = "[*] Ichor sanguin",
 		[336588] = 5,
-		[338636] = "Préposé à l'équarrissage <Portail de l'atelier>",
-		[268905] = 12,
-		[187707] = 3,
+		[109248] = 3,
+		[244892] = "Amiral Svirax",
+		[144103] = 10,
 		[147833] = 1,
-		[66235] = 2,
+		[67452] = "Canon du donjon",
 		[199027] = 4,
 		[334542] = "Tyran suprême Zérios",
 		[328399] = 7,
-		[101033] = 7,
+		[263707] = 1,
 		[203123] = "Medïcate-DerMithrilorden",
-		[262652] = 7,
+		[199483] = 3,
 		[328400] = "Inconnu",
-		[324141] = "[*] Sombre trait",
+		[328282] = 2,
 		[223601] = "Vase putride",
-		[123040] = 5,
+		[15572] = "Mineur de Gouffrefer",
 		[75973] = 4,
-		[243435] = 10,
+		[30455] = 8,
 		[58980] = "Homme-médecine drakkari",
-		[104318] = "Diablotin sauvage",
+		[218845] = 3,
 		[465] = 2,
 		[148859] = 5,
 		[324307] = "Anima amalgamé",
-		[341441] = "Gargon massif",
-		[206572] = 1,
+		[201939] = 5,
+		[328331] = "Justicière désavouée",
 		[475] = 8,
 		[203125] = "Emeriss",
-		[236321] = 1,
+		[340702] = "Fidèle peste-liée",
 		[336595] = 1,
-		[98204] = 8,
-		[319276] = 11,
+		[320208] = "Création du docteur Sutur",
+		[205179] = 9,
 		[342739] = "Peste-lié gargantuesque",
-		[216338] = 8,
+		[311054] = 10,
 		[346835] = 11,
-		[196413] = 7,
-		[187708] = 3,
+		[133] = 8,
+		[314791] = 8,
 		[328406] = 7,
 		[63844] = 2,
-		[145230] = "Ritualiste de l’ombre mogu",
-		[322274] = "Siphonneuse de Zolramus",
+		[145629] = 6,
+		[196771] = 6,
 		[160124] = "Core Hound",
 		[210294] = 2,
 		[113858] = 9,
-		[23036] = 4,
+		[277035] = "Marteleur fuyard",
 		[271071] = 11,
-		[107203] = 8,
-		[237287] = 4,
-		[85673] = 2,
-		[55249] = "Gal'darah",
-		[162672] = "Sabot-de-fer têtu",
+		[314074] = 2,
+		[224125] = 7,
+		[337315] = 2,
+		[341422] = "Exécuteur nathrian",
+		[162530] = 10,
 		[307932] = 8,
 		[146815] = "Etincelle instable",
 		[546] = 7,
 		[330458] = "Sentinelle pénitentiaire",
-		[5277] = 4,
-		[326046] = "Corne-cerf gueule-épine",
-		[224510] = "Mage de bataille de la Garde crépusculaire",
-		[236282] = 1,
+		[227034] = 11,
+		[274739] = 3,
+		[15284] = "Commandant Mortimer",
+		[316836] = "Maître d'hôtel vive-pierre",
 		[340698] = 11,
-		[202497] = 11,
+		[228514] = "Helya",
 		[320221] = 11,
 		[123586] = 10,
 		[586] = 5,
-		[334568] = "Thrall",
-		[274062] = 10,
-		[144113] = "Grand fourrageur illusoire",
+		[86392] = 4,
+		[245463] = "Aggramar",
+		[214342] = 10,
 		[332509] = "Millificent Tempête-de-Mana",
 		[253300] = "Brise-monde garothi",
-		[32612] = 8,
+		[91800] = "Goule ressuscitée",
 		[330462] = "Lieur Baritas",
-		[341435] = "Gargon vicieux",
+		[2637] = 11,
 		[334558] = "Maître chasseur effroyable",
 		[320224] = 3,
-		[41425] = 8,
-		[340702] = "Fidèle peste-liée",
-		[271811] = "Broyeur de sang <Taloc>",
-		[205179] = 9,
-		[59103] = "Lanceur de sorts ahn'kahar",
-		[77762] = 7,
+		[277179] = 8,
+		[113860] = 9,
+		[1604] = "Garde antrelige",
+		[642] = 2,
+		[290213] = 11,
+		[1022] = 2,
 		[342751] = "Peste-lié gargantuesque",
 		[336608] = 10,
-		[68298] = 5,
-		[203045] = "[*] Sol contaminé",
+		[322274] = "Siphonneuse de Zolramus",
+		[220543] = 5,
 		[342752] = "Archiviste nathriane",
 		[205180] = 9,
 		[198013] = 12,
 		[324323] = "Maraudeur squelette",
 		[686] = 9,
 		[336610] = 10,
-		[54109] = "Engin de siège de Joug-d’Hiver <Smellyflame-Draenor>",
-		[146180] = "Esprit de sage tisse-brume",
+		[325024] = "Gargon vicieux",
+		[34896] = 10,
 		[334563] = "Maître chasseur effroyable",
 		[53351] = 3,
 		[330468] = "Kryxis le Vorace",
-		[105421] = 2,
-		[66198] = 6,
+		[317792] = "Magus de la mort",
+		[181113] = "Assassin aile-morne",
 		[320230] = "Marchande Xy'exa",
-		[326075] = "Infuseuse d'âme",
-		[207167] = 6,
-		[316859] = "Maître d'hôtel vive-pierre",
-		[46924] = 1,
-		[86659] = 2,
+		[59482] = "Gardien ahn'kahar",
+		[85948] = 6,
+		[338670] = 7,
+		[115310] = 10,
+		[341404] = "Orbe d'anima",
 		[207230] = 6,
 		[120517] = 5,
 		[320232] = "Marchande Xy'exa",
@@ -4960,765 +5165,765 @@ _detalhes_global = {
 		[334567] = "Maître chasseur effroyable",
 		[279278] = "Amalgame âme-morte",
 		[774] = 11,
-		[64844] = 5,
-		[249210] = "Diablotin flamboyant",
-		[596] = 5,
-		[54729] = 6,
-		[254224] = 5,
+		[207167] = 6,
+		[334568] = "Thrall",
+		[185052] = 7,
+		[190625] = 11,
+		[325021] = "Traqueur voile-de-brume",
 		[59239] = "Sauvage ymirjar",
-		[642] = 2,
-		[61684] = "Хати <Деневин-Гордунни>",
-		[29722] = 9,
-		[201447] = 10,
-		[334579] = "Limon glissant",
-		[93825] = 2,
-		[347572] = 10,
+		[156000] = 6,
+		[102346] = 1,
+		[212327] = 9,
+		[249211] = "Rampante corrompue",
+		[81269] = 11,
+		[342770] = "Antiquaire sinistre",
+		[16870] = 11,
 		[342762] = 10,
 		[180612] = 6,
-		[8599] = "Broyeur d'os",
-		[91778] = "Spinemuncher",
-		[226005] = "Ombrécaille apprivoisé",
+		[64977] = 3,
+		[346871] = 1,
+		[342282] = "Dame Inerva Sombreveine",
 		[328429] = "Tentacule visqueux",
 		[330477] = "Guetteurs de mort",
-		[245121] = "Mine entropique",
-		[320114] = "Xav l'Invaincu",
-		[327093] = 6,
-		[256735] = 4,
-		[108968] = 5,
+		[108978] = 8,
+		[8690] = 2,
+		[257410] = 6,
+		[218838] = "[*] Eclipse arcanique",
+		[345495] = "Pustule écumante <Nonobstant-Dalaran>",
 		[191876] = 12,
-		[277185] = 1,
+		[126389] = 1,
 		[330479] = "Gueule de l'Antre",
 		[227712] = "Odyn",
-		[55106] = "Moorabi",
+		[108396] = 9,
 		[328432] = "Tentacule visqueux",
-		[328462] = "Astronos",
-		[146227] = "Vanité",
+		[1680] = 1,
+		[2061] = 5,
 		[50025] = "Catapulte de Joug-d’Hiver <Leafern-ArgentDawn>",
-		[328254] = "Démon tenace",
-		[317349] = 1,
+		[245458] = "Aggramar",
+		[327515] = "Frelon du marais",
 		[58984] = 4,
-		[208086] = 1,
+		[322968] = "Malegriffe drust",
 		[328434] = "Klotos",
 		[59752] = "Мнимик-ЧерныйШрам",
-		[59840] = "Slad'ran",
-		[206803] = 12,
-		[59842] = "Slad'ran",
-		[172] = 9,
-		[145629] = 6,
-		[342770] = "Antiquaire sinistre",
-		[244532] = "Brise-monde garothi",
+		[181089] = 11,
+		[250007] = "[*] Grenade à impulsion surpuissante",
+		[142539] = "Prêtre d’ambre zar’thik",
+		[276141] = 2,
+		[328002] = "Moissonneur pestilentiel",
+		[334579] = "Limon glissant",
+		[246152] = 3,
 		[346866] = "Vive-pierre loyal",
-		[55276] = "Gal'darah",
+		[198030] = 12,
 		[15580] = "Séditieux drakkari",
 		[328437] = "Artificier Xy'mox",
 		[330485] = 12,
-		[325041] = 5,
-		[195975] = 6,
+		[339415] = "Xav l'Invaincu",
+		[245121] = "Mine entropique",
 		[127176] = 11,
 		[297722] = 2,
-		[306611] = 2,
+		[54729] = 6,
 		[32182] = 7,
 		[320248] = "Paceran le Virulent",
-		[59482] = "Gardien ahn'kahar",
+		[295689] = 3,
 		[170379] = 7,
 		[204167] = 6,
 		[271103] = 6,
-		[311967] = 2,
+		[341395] = "Exécutrice Ophélia",
 		[332536] = 2,
 		[67280] = "Suzerain Agmar",
-		[252637] = "Démon écumant",
-		[346871] = 1,
-		[67195] = "Lanceur de glaive <Thaldrin-Aggramar>",
+		[325361] = "Artificier Xy'mox",
+		[58729] = "Guide spirituel taunka",
+		[337299] = 8,
 		[59241] = "Chasseur de chair ymirjar",
 		[271105] = 2,
-		[34896] = 10,
+		[198838] = 7,
 		[60009] = 7,
 		[342777] = "Antiquaire sinistre",
 		[209288] = "Horreur inconcevable",
-		[342789] = 11,
-		[333523] = "Xira la Sournoise",
-		[55104] = "Moorabi",
-		[48702] = "Fanatique écorche-dragon",
-		[163201] = 1,
-		[8212] = 1,
-		[327515] = "Frelon du marais",
+		[325012] = 2,
+		[305008] = 2,
+		[329107] = "Graine d'extinction",
+		[215288] = "Elerethe Ranfarouche",
+		[145716] = "Bombardier sri’thik",
+		[1953] = 8,
+		[331644] = 10,
 		[201098] = 10,
 		[19128] = "Drek'Thar",
 		[332541] = 2,
 		[138642] = 5,
-		[197003] = 4,
-		[213209] = 5,
-		[317792] = "Magus de la mort",
-		[1604] = "Garde antrelige",
+		[336637] = 10,
+		[124009] = "Xuen <Eeyoree-Stormscale>",
+		[256388] = "Module de réorigination",
+		[329666] = 3,
 		[336638] = 10,
 		[322304] = "Margrave Stradama",
 		[137619] = 4,
-		[30455] = 8,
+		[93339] = 11,
 		[279302] = 6,
 		[330496] = "Thanatoratrice",
-		[65917] = 12,
+		[346549] = 10,
 		[224649] = "Horreur corruptrice",
 		[279303] = 6,
 		[210315] = "[*] Ronces du Cauchemar",
-		[212704] = 3,
-		[205146] = 9,
+		[305496] = 11,
+		[145818] = "Fragment d’orgueil",
 		[205196] = "Traqueffroi <Oliaws-TwistingNether>",
-		[306606] = 12,
+		[114282] = 11,
 		[60010] = 7,
 		[5487] = 11,
 		[336642] = 1,
-		[115310] = 10,
+		[205523] = 10,
 		[145812] = "Manieur de vent set’thik",
-		[197995] = 7,
+		[55093] = "Etrangleuse de Slad'ran",
 		[271115] = 11,
 		[330500] = "Thanatoratrice",
-		[216251] = 7,
-		[108238] = 11,
-		[295689] = 3,
+		[341390] = "Exécutrice Ophélia",
+		[257415] = 12,
+		[143765] = "Kaz’tik le Manipulateur",
 		[218508] = "Arcaniste Tel’arn",
 		[227723] = 2,
-		[16870] = 11,
-		[327503] = "Seigneur Stavros",
+		[259220] = "Javelineur cœur-algide renforcé",
+		[124507] = 10,
 		[206222] = "Gul'dan",
 		[332550] = "Ame enchaînée",
-		[285452] = 7,
+		[342789] = 11,
 		[209294] = "Xavius",
-		[249224] = "Assistante des failles",
+		[194481] = 8,
 		[244106] = "Brise-monde garothi",
-		[250030] = "[*] Force vitale",
-		[210323] = 2,
-		[144103] = 10,
-		[67452] = "Canon du donjon",
+		[319957] = 1,
+		[149209] = "[*] Toucher corrompu",
+		[246739] = "Tourment de Golganneth",
+		[256393] = "Module de réorigination",
 		[326409] = "Eclat d'Halkias",
 		[67796] = "Engin de siège",
-		[205191] = 2,
+		[17057] = 11,
 		[299789] = 10,
 		[51052] = 6,
 		[328458] = "Lakésis",
-		[19236] = 5,
+		[320277] = "Sathel le Maudit",
 		[25912] = 2,
 		[257418] = 10,
 		[287504] = 10,
-		[319957] = 1,
+		[193938] = "Limon instable",
 		[203153] = "Ysondre",
 		[342794] = "Surveillante des Chenils",
 		[205201] = 6,
-		[325361] = "Artificier Xy'mox",
-		[142539] = "Prêtre d’ambre zar’thik",
+		[294578] = 11,
+		[148138] = "Ingénieur Boîte-Noire",
 		[334604] = 11,
 		[67797] = "Engin de siège",
-		[218845] = 3,
-		[116841] = "Цугвант-Борейскаятундра",
+		[208685] = "Tentacule du dominateur",
+		[325885] = "Z'rali",
 		[27576] = 4,
-		[246157] = "[*] Portail surpuissant : Nathreza",
+		[328462] = "Astronos",
 		[289555] = 7,
-		[121536] = "Miri-Anachronos",
-		[338621] = "Destructeur affamé",
+		[256396] = "Module de réorigination",
+		[264546] = 2,
 		[320272] = "Sathel le Maudit",
 		[20153] = "Infernal <Tribs-Ysondre>",
 		[324368] = "Azules",
-		[294533] = "Diable âme-morte",
-		[346565] = 3,
-		[338525] = 11,
-		[251836] = 11,
-		[314791] = 8,
-		[139068] = 2,
+		[340193] = 2,
+		[340355] = "[*] Infection rapide",
+		[52924] = 2,
+		[131347] = 12,
+		[327942] = 7,
+		[6572] = 1,
 		[330513] = "[*] Champignon funeste",
 		[324370] = "Azules",
 		[59244] = "Chasseur de chair ymirjar",
 		[328466] = "Astronos",
-		[281178] = 2,
+		[341385] = 5,
 		[215443] = "Elerethe Ranfarouche",
 		[191894] = 10,
 		[250255] = "Imonar le Chasseur d'âmes",
 		[210324] = "Moogoeswack-Kazzak",
-		[311464] = 5,
+		[59835] = "Loken",
 		[269083] = 3,
-		[320277] = "Sathel le Maudit",
-		[345980] = 3,
-		[337315] = 2,
+		[61548] = "Berserker ymirjar",
+		[117679] = 11,
+		[123986] = 10,
 		[285466] = 7,
 		[320278] = "Sathel le Maudit",
-		[34026] = 3,
-		[308646] = 11,
-		[227034] = 11,
-		[162530] = 10,
+		[323138] = "Ingra Maloch",
+		[55090] = 6,
+		[124503] = 10,
+		[139068] = 2,
 		[330518] = 12,
-		[342321] = "Dame Inerva Sombreveine",
-		[316836] = "Maître d'hôtel vive-pierre",
-		[296454] = "Traqueur âme-morte",
-		[86392] = 4,
+		[342250] = "Gargon loyal",
+		[6201] = 9,
+		[66655] = "Canon de la canonnière de la Horde <Lredor-Stormscale>",
+		[335694] = "Porte-trépas antrelige",
 		[340758] = "Artificier Xy'mox",
 		[334615] = "Rondier en chef Javlo",
-		[133] = 8,
-		[318038] = 7,
-		[216389] = "Sorcelame Aluriel",
+		[6795] = 11,
+		[1079] = 11,
+		[340584] = 4,
 		[285470] = 12,
 		[2120] = 8,
-		[2637] = 11,
-		[327276] = 10,
+		[345667] = 10,
+		[272172] = "Shivarra <Suareel-Blackmoore>",
 		[326426] = "Eclat d'Halkias",
-		[12051] = 8,
-		[290213] = 11,
-		[131900] = 3,
+		[145692] = "Hurleguerre kor’thik",
+		[305395] = 2,
+		[226713] = "Feu follet corrompu",
 		[285472] = 6,
 		[328475] = "Embusqué de la couvée",
 		[26297] = 11,
 		[97493] = 1,
-		[64977] = 3,
+		[334625] = "Déva",
 		[221591] = "Danselastre du Crépuscule",
-		[325024] = "Gargon vicieux",
+		[344232] = 2,
 		[62061] = 5,
 		[257427] = 3,
-		[319780] = "Globgrog",
+		[277187] = 2,
 		[202138] = 12,
 		[324382] = 10,
-		[188592] = 7,
-		[244892] = "Amiral Svirax",
-		[55078] = 6,
-		[80354] = 8,
-		[108211] = 4,
-		[119905] = 9,
-		[341404] = "Orbe d'anima",
-		[48181] = 9,
+		[312767] = 5,
+		[320293] = "Sathel le Maudit",
+		[203651] = 11,
+		[8143] = 7,
+		[245888] = "Championne antoréenne",
+		[196528] = 6,
+		[268552] = 3,
+		[168657] = 4,
 		[342814] = 3,
-		[185052] = 7,
+		[335234] = 1,
 		[2584] = 3,
 		[248214] = "Kin'garoth",
-		[325886] = 1,
-		[325021] = "Traqueur voile-de-brume",
-		[226713] = "Feu follet corrompu",
+		[59824] = "Gal'darah",
+		[306565] = 11,
+		[330529] = 10,
 		[324386] = 7,
-		[334625] = "Déva",
+		[326434] = 11,
 		[21562] = 5,
 		[330530] = 10,
-		[344874] = "Echelon",
+		[142759] = "Etincelle de vie",
 		[342817] = 12,
-		[108978] = 8,
+		[32297] = 5,
 		[105174] = 9,
-		[203155] = 3,
-		[346549] = 10,
-		[320293] = "Sathel le Maudit",
+		[117418] = 10,
+		[210048] = "Ichor cauchemardesque",
+		[90328] = "Pouette <Lachtuce-KirinTor>",
 		[289577] = 5,
 		[22842] = 11,
-		[331321] = "[*] Piège à clous",
-		[329913] = "Traque-ombre antrelige",
-		[53048] = "Formerune forge-foudre",
-		[328282] = 2,
+		[244849] = "[*] Gelée caustique",
+		[259396] = 3,
+		[316802] = 8,
+		[306563] = 11,
 		[326438] = "Eclat d'Halkias",
 		[213405] = 12,
-		[196771] = 6,
-		[327240] = "Création loyale",
-		[8690] = 2,
-		[317931] = 11,
+		[327893] = 8,
+		[336036] = 8,
+		[143274] = "Skeer le Cherche-sang",
+		[193359] = 4,
 		[121557] = 5,
 		[137639] = 10,
 		[326440] = "Eclat d'Halkias",
 		[312106] = 10,
-		[218838] = "[*] Eclipse arcanique",
+		[114158] = 2,
 		[324393] = "Niuzao <Humpenhilde-Antonidas>",
 		[326441] = "Eclat d'Halkias",
-		[84342] = 3,
+		[327427] = "Visage démoli",
 		[330537] = "[*] Miasme glouton",
 		[58991] = "Rhinocéros drakkari",
 		[59247] = "Féticheur ymirjar",
-		[214181] = "Vase putride",
-		[97463] = 1,
+		[329579] = 7,
+		[188550] = 11,
 		[60015] = 9,
-		[323804] = "Magistrate kyriane sombre",
+		[35546] = 4,
 		[320300] = "Sathel le Maudit",
 		[185763] = 4,
-		[2061] = 5,
+		[118635] = 10,
 		[61295] = 7,
-		[328492] = 10,
+		[344874] = "Echelon",
 		[338731] = "Oryphrione",
-		[61999] = 6,
-		[225047] = "Soigne-bosquet des terrasses",
-		[322968] = "Malegriffe drust",
+		[64044] = 5,
+		[329941] = 7,
+		[114113] = 11,
 		[210337] = "[*] Ronces du Cauchemar",
 		[93402] = 11,
 		[326446] = 11,
 		[328494] = "[*] Anima touché par le vice",
-		[114158] = 2,
-		[228532] = 12,
-		[323057] = "Ingra Maloch",
-		[263863] = "Oden <Boltevan-Archimonde>",
+		[67441] = "Démolisseur",
+		[130092] = 1,
+		[121411] = 4,
+		[281178] = 2,
 		[202147] = 1,
-		[339341] = 11,
-		[17057] = 11,
+		[212680] = 3,
+		[289433] = 10,
 		[28730] = 8,
-		[343724] = "Бигбумс-Корольлич",
+		[143494] = "Général Nazgrim",
 		[332592] = 2,
-		[3714] = 6,
+		[213115] = 1,
 		[328497] = "[*] Danse macabre",
 		[210339] = 2,
 		[58992] = "Rhinocéros drakkari",
 		[326450] = "Maître-chien dépravé",
-		[196911] = 4,
-		[288613] = 3,
+		[50990] = 4,
+		[275841] = 4,
 		[60016] = 9,
 		[285496] = 8,
-		[341395] = "Exécutrice Ophélia",
-		[334653] = "Tique gloutonne",
-		[337299] = 8,
+		[271045] = 3,
+		[85673] = 2,
+		[55342] = 8,
 		[204197] = 5,
-		[317223] = 2,
+		[326462] = 11,
 		[66271] = 4,
-		[228050] = 2,
+		[194249] = 5,
 		[142765] = "Inconnu",
 		[328501] = "Ronge-peste piégé",
 		[322358] = "Professeur Ickus",
 		[340788] = "Artificier Xy'mox",
-		[1079] = 11,
+		[222010] = "Solariste Tel’arn",
 		[221604] = "Danselastre du Crépuscule",
-		[329107] = "Graine d'extinction",
-		[231843] = 2,
+		[246663] = "Brise-monde garothi",
+		[332598] = 1,
 		[326455] = "Ombre de Kael'thas",
-		[147897] = "Expert en démolition",
+		[59179] = "Foudroyeur en titane",
 		[330551] = 8,
 		[244130] = "Shatug",
 		[326456] = "Ombre de Kael'thas",
 		[221605] = "Gul'dan",
-		[206677] = "Krosus",
+		[329455] = "Destructeur affamé",
 		[124121] = 10,
-		[213124] = "[*] Flaque venimeuse",
-		[212327] = 9,
+		[311498] = 3,
+		[142238] = "Grand mystique illusoire",
 		[259489] = 3,
 		[58993] = "Mojo vivant",
 		[77535] = 6,
-		[123986] = 10,
-		[58729] = "Guide spirituel taunka",
+		[203896] = "Ombre spirituelle",
+		[203124] = "Léthon",
 		[316220] = 4,
-		[114255] = 5,
-		[221554] = "Courtisan déterminé",
-		[49143] = 6,
+		[27285] = 9,
+		[121536] = "Miri-Anachronos",
+		[275837] = 1,
 		[308030] = "Massacreur forgeflamme",
-		[292463] = 11,
+		[596] = 5,
 		[328508] = 4,
 		[330556] = 8,
-		[224170] = 3,
+		[16827] = "Хати <Деневин-Гордунни>",
 		[249252] = "Assistante des failles",
-		[205523] = 10,
+		[344900] = 1,
 		[259491] = 3,
 		[332605] = "Maléficieuse houdou atal'ai",
-		[326462] = 11,
+		[334653] = "Tique gloutonne",
 		[156080] = 6,
-		[319733] = "Echelon",
-		[341390] = "Exécutrice Ophélia",
-		[181089] = 11,
-		[185313] = 4,
-		[300809] = 2,
+		[116680] = 10,
+		[197003] = 4,
+		[73325] = 5,
+		[67439] = 1,
+		[142775] = "Etincelle de vie",
 		[332607] = "Maléficieuse houdou atal'ai",
-		[5246] = 1,
+		[311488] = 3,
 		[279366] = 11,
 		[330560] = 8,
 		[332608] = "Maléficieuse houdou atal'ai",
-		[149209] = "[*] Toucher corrompu",
-		[66655] = "Canon de la canonnière de la Horde <Lredor-Stormscale>",
-		[300728] = 9,
+		[45242] = 5,
+		[198839] = "Totem de mur terrestre <Snoups-Hyjal>",
+		[202156] = "Bile acide",
 		[58994] = "Mojo vivant",
-		[327887] = "Artificier Xy'mox",
+		[52921] = "Loken",
 		[164273] = 3,
 		[330562] = "Ancien capitaine",
 		[60018] = 1,
+		[204883] = 5,
 		[188389] = 7,
-		[116670] = 10,
 		[36213] = "Elémentaire de terre primordial <Fordögame-Ragnaros>",
-		[324164] = 6,
-		[198589] = 12,
-		[265888] = 3,
-		[198067] = 7,
+		[116841] = "Цугвант-Борейскаятундра",
+		[215458] = "Sorcelame Aluriel",
+		[97463] = 1,
+		[327704] = 9,
 		[332612] = "Maléficieuse houdou atal'ai",
 		[326469] = "[*] Tourment : Chaleur de la forge des Âmes",
-		[144290] = "Brise-terre Haromm",
+		[138640] = 1,
 		[330565] = "Ancien capitaine",
 		[332613] = 1,
-		[52924] = 2,
-		[344900] = 1,
-		[271197] = 10,
+		[21343] = 11,
+		[320327] = "[*] Onde explosive déplacée",
+		[223306] = 2,
 		[248233] = "Imonar le Chasseur d'âmes",
-		[113746] = 10,
+		[125355] = 10,
 		[32315] = "Géant forge-foudre",
 		[24252] = 3,
 		[324424] = "Mordretha, l'impératrice immortelle",
-		[116095] = 10,
+		[180545] = 10,
 		[205231] = "Regard-noir <Jeannemloud-Hyjal>",
-		[341385] = 5,
+		[303953] = 10,
 		[340807] = "Artificier Xy'mox",
 		[334664] = "Jeune lamebec",
-		[149207] = "Corruption rémanente",
+		[344909] = "[*] Cœur brisé d’Al’ar",
 		[330569] = "Mort errante",
 		[332617] = "Professeur Ickus",
-		[197871] = 5,
-		[198590] = 9,
+		[326040] = "Péchés du passé",
+		[339629] = "Acarus vorace",
 		[198065] = 8,
 		[60019] = 1,
 		[342857] = 12,
-		[59835] = "Loken",
-		[32747] = 12,
-		[294422] = 3,
+		[219235] = "Spore toxique",
+		[58460] = "Suzerain Agmar",
+		[345453] = 5,
 		[187827] = 12,
-		[268528] = "Werione-Ragnaros",
-		[155794] = "Massacreuse Sorka",
-		[6201] = 9,
-		[247962] = "Pièges !",
+		[109964] = 5,
+		[316244] = "Lutin pierre-lié",
+		[5225] = 11,
+		[322015] = 2,
 		[344907] = 1,
-		[118699] = 9,
-		[143498] = "Flaque de sha",
-		[338137] = "Graine d'hydre",
-		[303953] = 10,
+		[327851] = "Cumulus-LesClairvoyants",
+		[192611] = 12,
+		[331401] = "Général Kaal",
+		[147897] = "Expert en démolition",
 		[330574] = "Mort errante",
-		[317661] = "Plonge-éther",
-		[228477] = 12,
-		[344909] = "[*] Cœur brisé d’Al’ar",
-		[225404] = "Ombrécaille apprivoisé",
-		[327893] = 8,
-		[214342] = 10,
+		[196941] = 2,
+		[271197] = 10,
+		[320336] = "Mage os-vermoulu",
+		[329919] = "Fureur de Bwonsamdi",
+		[344917] = 5,
+		[141578] = "Inconnu",
 		[344910] = 1,
 		[189877] = 11,
-		[331537] = "Totem d'emprise de l'ombre <Kelros-ConseildesOmbres>",
-		[263806] = 7,
+		[59628] = 4,
+		[249262] = "Assistante des failles",
 		[320338] = 12,
 		[202164] = 1,
 		[58996] = "Vipère de Slad'ran",
 		[59252] = "Chaman du crépuscule ymirjar",
-		[345638] = 9,
+		[292463] = 11,
 		[198069] = 5,
 		[60020] = "[*] Nuage givrant",
-		[196941] = 2,
+		[113724] = 8,
 		[271194] = 4,
-		[213115] = 1,
-		[342874] = "Artificier Xy'mox",
+		[98021] = "Totem de lien d'esprit <Shøckzyy-Antonidas>",
+		[236777] = 3,
 		[204213] = 5,
 		[53365] = 6,
-		[22568] = "Hihetetlen-Outland",
-		[216339] = 8,
-		[1464] = 1,
+		[320147] = "Millificent Tempête-de-Mana",
+		[191840] = 10,
+		[271729] = "Taloc",
 		[328533] = "Défenseur aux innombrables yeux",
 		[202166] = 1,
-		[23034] = 1,
-		[201846] = 7,
+		[302445] = 12,
+		[324970] = 2,
 		[344916] = 5,
-		[168657] = 4,
-		[335234] = 1,
+		[295694] = 11,
+		[271728] = "Taloc",
 		[342869] = "Esprit enragé",
-		[344917] = 5,
-		[55093] = "Etrangleuse de Slad'ran",
-		[306565] = 11,
-		[324449] = "Mordretha, l'impératrice immortelle",
-		[329919] = "Fureur de Bwonsamdi",
-		[244899] = "Noura, mère des Flammes",
-		[60116] = 7,
-		[289639] = 5,
-		[332642] = 1,
+		[48246] = "Brasero de flammes",
+		[270246] = "Elémentaire flamboyant",
+		[247923] = "Imonar le Chasseur d'âmes",
+		[322921] = "[*] Lance de l’Archonte",
+		[293025] = 4,
+		[338784] = 9,
+		[324968] = 12,
+		[101546] = 10,
+		[322232] = "Margrave Stradama",
 		[202168] = "Looney-Hellscream",
 		[85222] = 2,
 		[342872] = 7,
-		[316802] = 8,
+		[289639] = 5,
 		[330586] = "Boucher putride",
 		[215479] = 10,
 		[342873] = 7,
 		[112867] = 9,
-		[306563] = 11,
+		[323710] = 6,
 		[324444] = "Oryphrione",
-		[98021] = "Totem de lien d'esprit <Shøckzyy-Antonidas>",
-		[315585] = 4,
-		[195007] = 2,
+		[342874] = "Artificier Xy'mox",
+		[339301] = 4,
+		[333728] = "Soldat squelette ressuscité",
 		[207289] = 6,
 		[342875] = 7,
 		[46199] = 2,
 		[19134] = "Broyeur d'os",
-		[12169] = "Défenseur foudrepique",
+		[197626] = 11,
 		[171454] = 3,
 		[197051] = 4,
 		[330590] = "[*] Miasme glouton",
-		[340355] = "[*] Infection rapide",
-		[50990] = 4,
+		[145861] = "Vanité",
+		[110310] = 11,
 		[129250] = 5,
-		[124503] = 10,
-		[203896] = "Ombre spirituelle",
-		[248230] = "Brise-monde garothi",
-		[340147] = 2,
+		[202137] = 12,
+		[5384] = 3,
+		[272582] = "[*] Sang statique",
+		[331618] = "Xav l'Invaincu",
 		[330592] = "Sac à gaz rance",
-		[190909] = 8,
-		[118635] = 10,
+		[324449] = "Mordretha, l'impératrice immortelle",
+		[329060] = 8,
 		[328545] = "[*] Déchirure dimensionnelle",
 		[346975] = 4,
-		[315584] = 4,
+		[245629] = "Noura, mère des Flammes",
 		[59254] = "Nécromancien ymirjar",
-		[336044] = 3,
+		[294597] = 3,
 		[157122] = 2,
-		[70890] = 6,
+		[332642] = 1,
 		[342881] = 7,
 		[328547] = 4,
 		[346977] = 11,
-		[44153] = 4,
+		[254176] = "Sœur du fouet",
 		[171457] = 3,
-		[67441] = "Démolisseur",
+		[258860] = 12,
 		[22718] = 10,
 		[316262] = 5,
-		[342189] = "Vive-pierre loyal",
+		[96103] = "Eatmyblade-Doomhammer",
 		[320358] = "Docteur Sutur",
 		[338788] = 2,
-		[162243] = 12,
-		[110310] = 11,
+		[195007] = 2,
+		[46968] = 1,
 		[205246] = 9,
-		[264878] = 3,
-		[59179] = "Foudroyeur en titane",
+		[195975] = 6,
+		[1044] = 2,
 		[318312] = "Disciple morbide",
-		[212680] = 3,
-		[145716] = "Bombardier sri’thik",
+		[277185] = 1,
+		[305045] = 4,
 		[344939] = 10,
-		[92232] = 5,
-		[277179] = 8,
+		[205191] = 2,
+		[88263] = 2,
 		[230844] = 11,
-		[275841] = 4,
-		[982] = 3,
-		[23922] = 1,
+		[183998] = 2,
+		[17] = 5,
+		[254926] = "Kin'garoth",
 		[322410] = "Gelée figée",
-		[115357] = 7,
+		[206920] = "Tentacule cauchemardesque",
 		[155078] = "Gruul",
-		[320208] = "Création du docteur Sutur",
+		[218807] = "Arcaniste Tel’arn",
 		[322411] = 2,
 		[324459] = "Globgrog",
 		[232893] = 12,
 		[129253] = 5,
-		[194249] = 5,
+		[339538] = 2,
 		[340842] = "Cristal des fantasmes",
-		[155080] = "Gruul",
+		[248254] = "Imonar le Chasseur d'âmes",
 		[320365] = "Docteur Sutur",
-		[311123] = 10,
-		[328365] = "Tireur d'élite venimeux",
-		[233433] = "Totem de réplique <Vitaminico-DunModr>",
+		[88423] = 11,
+		[248252] = "Imonar le Chasseur d'âmes",
+		[142189] = "Grand tisse-ambre illusoire",
 		[320366] = "Docteur Sutur",
-		[293142] = 1,
-		[311480] = 12,
-		[85739] = 1,
-		[329455] = "Destructeur affamé",
+		[265888] = 3,
+		[188499] = 12,
+		[155080] = "Gruul",
+		[204598] = 12,
 		[19647] = "Droozhem <Kørpse-TwistingNether>",
-		[145240] = "Ritualiste de l’ombre mogu",
-		[323138] = "Ingra Maloch",
-		[198838] = 7,
+		[145331] = "Garrosh Hurlenfer",
+		[115767] = 1,
+		[331514] = 10,
 		[346989] = "Inconnu",
-		[275837] = 1,
-		[50613] = 6,
-		[1044] = 2,
+		[170347] = 7,
+		[246208] = "Rampante corrompue",
+		[214712] = "Cénarius",
 		[330608] = "Sac à gaz rance",
 		[332656] = 1,
-		[6795] = 11,
+		[173757] = "Gardien faëillu",
 		[271224] = "Taloc",
 		[322418] = "Sentinelle de la chambre",
-		[329362] = "Hurlaile",
-		[183752] = 12,
+		[311123] = 10,
+		[275335] = 1,
 		[127207] = 11,
-		[311469] = 5,
-		[67439] = 1,
-		[322232] = "Margrave Stradama",
-		[329666] = 3,
+		[279362] = "Lizard <Dynzu-Frostwhisper>",
+		[248255] = "Imonar le Chasseur d'âmes",
+		[202425] = 11,
+		[328365] = "Tireur d'élite venimeux",
 		[281465] = 2,
-		[45242] = 5,
-		[315957] = 11,
-		[246208] = "Rampante corrompue",
+		[163212] = 10,
+		[340860] = "Racine d'extinction",
+		[197062] = 4,
 		[157131] = 2,
-		[52921] = "Loken",
+		[347480] = 10,
 		[334708] = "Ombre de Bargast <Bargast>",
-		[332672] = "Marche-mort atal'ai",
-		[54649] = 10,
-		[336036] = 8,
-		[194481] = 8,
-		[324417] = "Général Kaal",
+		[54643] = 4,
+		[234946] = 5,
+		[288853] = 6,
+		[334713] = "Traqueffroi <Диграти-Гордунни>",
+		[251570] = "Argus l'Annihilateur",
 		[330614] = "Sac à gaz rance",
-		[322429] = "Sentinelle de la chambre",
-		[196528] = 6,
+		[327416] = "Goliath désavoué",
+		[311471] = 5,
 		[320376] = "Création du docteur Sutur",
 		[281469] = 5,
-		[211037] = "Sentinelle de la Garde crépusculaire",
-		[21343] = 11,
+		[3716] = "Sargorg",
+		[301952] = "Chantebois faëillu",
 		[336759] = "Mandebrume",
-		[326171] = "Mueh'zala",
-		[219235] = "Spore toxique",
-		[57640] = 4,
-		[34861] = 5,
+		[271895] = "Taloc",
+		[188089] = 7,
+		[244000] = "Hasabel la Garde-portail",
+		[146622] = 6,
 		[226757] = 8,
-		[244163] = "F'harg",
-		[334713] = "Traqueffroi <Диграти-Гордунни>",
+		[34428] = 1,
+		[212423] = "Furtif ressuscité <Кельверет-СвежевательДуш>",
 		[59513] = "Prince Taldaram",
-		[190925] = 3,
+		[332671] = "Marche-mort atal'ai",
 		[60025] = 5,
-		[277187] = 2,
-		[61549] = "Berserker ymirjar",
-		[339415] = "Xav l'Invaincu",
+		[148560] = "Proto-drake gueule-de-dragon",
+		[138425] = 5,
+		[132169] = "Garrett-Outland",
 		[113899] = "Porte des démons <Jeannemloud-Hyjal>",
 		[61305] = 8,
 		[254403] = "Shatug",
-		[66289] = 1,
+		[322429] = "Sentinelle de la chambre",
 		[332668] = "Kullan",
-		[301952] = "Chantebois faëillu",
+		[310143] = 9,
 		[344955] = 6,
-		[60119] = 11,
-		[340860] = "Racine d'extinction",
-		[345453] = 5,
-		[340584] = 4,
+		[315496] = 4,
+		[308096] = "Maître forgeflamme",
+		[43265] = 6,
+		[107574] = "Àrês-Ravencrest",
 		[322431] = 5,
 		[120043] = 7,
 		[216521] = 10,
-		[246739] = "Tourment de Golganneth",
-		[16827] = "Хати <Деневин-Гордунни>",
-		[332671] = "Marche-mort atal'ai",
-		[1953] = 8,
+		[326538] = "Péchés du passé",
+		[344153] = 2,
+		[308098] = "[*] Inferno fracassant",
+		[45181] = 4,
 		[328576] = 4,
 		[322433] = "Sentinelle de la chambre",
-		[275335] = 1,
-		[1022] = 2,
+		[332672] = "Marche-mort atal'ai",
+		[5374] = 4,
 		[33917] = 11,
-		[293025] = 4,
-		[192611] = 12,
-		[321768] = 8,
-		[276187] = 4,
-		[347008] = "Kowlshak",
-		[256456] = 11,
-		[43900] = 10,
-		[270070] = 4,
-		[2645] = 7,
-		[322015] = 2,
-		[114282] = 11,
-		[61562] = "Invocateur noir du Crépuscule",
 		[324490] = "Globgrog",
-		[256455] = 1,
-		[113724] = 8,
-		[197916] = 10,
+		[15407] = 5,
+		[155323] = 11,
+		[244400] = "Brise-monde garothi",
+		[347008] = "Kowlshak",
 		[84721] = 8,
-		[253087] = 10,
-		[221028] = "Gelée putréfiée",
-		[271729] = "Taloc",
+		[43900] = 10,
+		[334729] = 6,
+		[345638] = 9,
+		[292942] = "Tortionnaire d'Ayeleth",
+		[59828] = "Gal'darah",
+		[61562] = "Invocateur noir du Crépuscule",
+		[326377] = 2,
+		[256455] = 1,
+		[52022] = "Général Bjarngrim",
+		[7384] = 1,
+		[144853] = "Gardien quilen",
+		[50613] = 6,
+		[270070] = 4,
+		[59259] = "Berserker en acier durci",
 		[31935] = 2,
 		[332678] = "Marche-mort atal'ai",
-		[302445] = 12,
-		[324970] = 2,
-		[327814] = "Général Kaal",
+		[143459] = "[*] Résidu de sha",
+		[290133] = 10,
+		[278249] = 12,
 		[340870] = "Tranchant d'annihilation",
 		[49020] = 6,
 		[312202] = 6,
 		[57723] = 12,
 		[207311] = 6,
 		[108271] = 7,
-		[271728] = "Taloc",
-		[148582] = "Xiang Lin",
+		[59979] = "[*] Frisson",
+		[162488] = 3,
 		[340872] = "Tranchant d'annihilation",
-		[334729] = 6,
-		[344754] = "Inconnu <Hatshepsut-Hyjal>",
+		[212431] = 3,
+		[290132] = 10,
 		[338825] = 11,
-		[322921] = "[*] Lance de l’Archonte",
-		[155777] = 11,
-		[6673] = 1,
+		[325442] = "Vainqueur pierre-lié",
+		[307443] = 8,
+		[178963] = 12,
 		[297871] = 2,
-		[324968] = 12,
-		[336009] = 5,
-		[45181] = 4,
-		[59628] = 4,
-		[210342] = "Cénarius",
+		[319685] = "Kryxis le Vorace",
+		[288305] = 11,
+		[6673] = 1,
+		[191634] = 7,
+		[56862] = "Elémentaire d'eau lié",
 		[342923] = "Hurlaile",
-		[276141] = 2,
-		[339301] = 4,
-		[125355] = 10,
+		[300728] = 9,
+		[8512] = 7,
+		[335180] = 6,
 		[204242] = 2,
-		[212084] = 12,
-		[343713] = 6,
-		[202137] = 12,
+		[174773] = "Tuyau d’échappement du haut-fourneau",
+		[55582] = "Homme-médecine drakkari",
+		[147554] = "[*] Sang d’Y’Shaarj",
 		[257484] = "Shatug",
-		[199852] = 1,
-		[146253] = "Esprit de marche-vent sans nom",
+		[282449] = 4,
+		[58967] = "Chevaucheur de combat drakkari",
 		[162264] = 12,
-		[329579] = 7,
-		[131347] = 12,
+		[213124] = "[*] Flaque venimeuse",
+		[209584] = 10,
 		[57724] = 3,
 		[223697] = "Rothos",
-		[329060] = 8,
+		[257485] = "F'harg",
 		[328593] = "Grande déléguée Beryllia",
 		[322450] = "Tred'ova",
 		[118000] = "Sheitan-Madmortem",
-		[219049] = "Naturaliste Tel’arn",
-		[323710] = 6,
-		[309326] = 10,
-		[31884] = "Атомныймолот-ЧерныйШрам",
-		[96103] = "Eatmyblade-Doomhammer",
+		[321349] = "Spriggan torsoin",
+		[198590] = 9,
+		[298318] = 10,
+		[59571] = 4,
+		[330652] = 11,
 		[96499] = 5,
-		[15487] = 5,
+		[194006] = "[*] Flaque de limon",
 		[81141] = 6,
-		[149801] = 2,
+		[244395] = "Brise-monde garothi",
 		[45182] = 4,
 		[314262] = 2,
 		[207317] = 6,
 		[285594] = 10,
 		[312215] = 9,
-		[215458] = "Sorcelame Aluriel",
+		[132168] = 1,
 		[332693] = "Maléficieuse houdou atal'ai",
-		[252623] = "[*] Lien d'énergie gangrenée",
+		[187464] = 5,
 		[127216] = 6,
 		[198103] = 7,
-		[339706] = "Echo de chevaucheur de taureau",
+		[46628] = 3,
 		[249297] = "Tarneth",
-		[114113] = 11,
-		[273321] = 5,
-		[183998] = 2,
+		[342938] = 9,
+		[347462] = 12,
+		[294517] = "Charognard âme-morte",
 		[334743] = "[*] Sombre récital",
 		[312218] = 10,
 		[214486] = "Etraeus, l'augure stellaire",
-		[223306] = 2,
-		[208685] = "Tentacule du dominateur",
-		[334749] = "Moissonneur de cadavres",
+		[15498] = "Géomètre de Gouffrefer",
+		[228012] = "Hymdall",
+		[135286] = 11,
 		[210391] = 2,
 		[186842] = 8,
-		[61467] = 6,
-		[246851] = 3,
+		[338005] = "Bedeau diligent",
+		[2484] = 7,
 		[127729] = 10,
 		[60029] = "Jedoga Cherchelombre",
-		[279362] = "Lizard <Dynzu-Frostwhisper>",
-		[88423] = 11,
-		[330529] = 10,
-		[267171] = 9,
-		[342938] = 9,
-		[203124] = "Léthon",
-		[330652] = 11,
-		[247923] = "Imonar le Chasseur d'âmes",
-		[334748] = "Moissonneur de cadavres",
-		[124659] = 10,
-		[330653] = 11,
-		[59467] = "Ancien Nadox",
 		[69369] = 11,
-		[329834] = "Racine d'extinction",
-		[338036] = 7,
-		[231895] = 2,
-		[198819] = 1,
-		[204598] = 12,
-		[347037] = 4,
-		[227096] = "Le démon intérieur",
-		[173757] = "Gardien faëillu",
-		[338022] = "Soldat recousu",
-		[157153] = 7,
-		[221172] = "Fulminant",
+		[331510] = "Belligérant inflexible",
+		[320839] = "Siphonneuse de Zolramus",
+		[267171] = 9,
+		[334747] = "Moissonneur de cadavres",
+		[31707] = "Water Elemental <Prolymorph-Ragnaros>",
+		[322461] = 5,
+		[149801] = 2,
+		[334748] = "Moissonneur de cadavres",
+		[332401] = 2,
+		[330653] = 11,
+		[245532] = "Diima, mère de l'Obscurité",
+		[334749] = "Moissonneur de cadavres",
 		[224729] = 1,
-		[268877] = 3,
+		[59638] = 8,
+		[231895] = 2,
+		[47633] = 6,
+		[198109] = "Ursoc",
+		[347037] = 4,
+		[210228] = "Jeune araignée venimeuse",
+		[206896] = "D'zorykx le Trappeur",
+		[203817] = "Champignon corrompu",
+		[157153] = 7,
+		[345804] = 5,
+		[124659] = 10,
+		[11426] = 8,
 		[2649] = "Oden <Boltevan-Archimonde>",
 		[34433] = 5,
-		[202425] = 11,
-		[245629] = "Noura, mère des Flammes",
-		[198109] = "Ursoc",
+		[294701] = 1,
+		[255654] = 1,
+		[273321] = 5,
 		[60030] = "Jedoga Cherchelombre",
-		[8143] = 7,
+		[204744] = "[*] Chitine toxique",
 		[344993] = "Gargon vicieux",
-		[605] = 5,
-		[347480] = 10,
-		[3716] = "Sargorg",
+		[319539] = "Kul'tharok",
+		[339632] = 10,
+		[59246] = "Féticheur ymirjar",
 		[2825] = 7,
 		[22722] = 4,
-		[11426] = 8,
-		[6572] = 1,
-		[295694] = 11,
+		[75002] = "Rôdeur animé",
+		[331966] = "Inconnu",
+		[15286] = 5,
 		[330661] = 11,
-		[331618] = "Xav l'Invaincu",
+		[340011] = "Officier du registre nathriane",
 		[334757] = "Bargast",
-		[164812] = 11,
+		[132158] = 11,
 		[198111] = 8,
 		[324519] = 7,
 		[64382] = 1,
@@ -5728,811 +5933,811 @@ _detalhes_global = {
 		[204255] = 12,
 		[90361] = "Хати",
 		[330664] = 7,
-		[333728] = "Soldat squelette ressuscité",
-		[18499] = "Rawtanic-Outland",
-		[141578] = "Inconnu",
+		[5394] = 7,
+		[323130] = "[*] Limon coagulant",
+		[195627] = 4,
 		[347047] = 5,
 		[324522] = 7,
 		[187874] = 7,
-		[214712] = "Cénarius",
+		[18499] = "Rawtanic-Outland",
 		[330666] = 11,
 		[324523] = 8,
-		[188089] = 7,
-		[271895] = "Taloc",
-		[165961] = 11,
-		[245866] = "Démolisseur massif",
-		[145331] = "Garrosh Hurlenfer",
+		[210984] = "Horreur cauchemardesque",
+		[121839] = 6,
+		[337984] = 7,
+		[248861] = "Le Paraxis",
+		[339553] = "Deplina",
 		[61567] = "Adoratrice du Crépuscule",
 		[330668] = 11,
-		[107574] = "Àrês-Ravencrest",
+		[199844] = 8,
 		[108280] = 7,
 		[125174] = 10,
 		[109304] = 3,
-		[148560] = "Proto-drake gueule-de-dragon",
+		[341308] = "Vainqueur pierre-lié",
 		[326574] = "Docteur Sutur",
 		[336813] = "Mandebrume",
 		[214497] = "Faille cauchemardesque",
 		[324527] = "Globgrog",
-		[213123] = "Jeune araignée venimeuse",
+		[58981] = "Homme-médecine drakkari",
 		[250333] = "Noura, mère des Flammes",
 		[330671] = 8,
 		[3561] = 8,
-		[30146] = 9,
-		[270449] = "[*] Décharge de plasma",
+		[316337] = 2,
+		[343355] = 5,
 		[265144] = "Miri-Anachronos",
 		[57984] = "Elémentaire de feu primordial <Heinrich-Silvermoon>",
-		[187464] = 5,
+		[196980] = 4,
 		[250334] = "Diima, mère de l'Obscurité",
 		[330673] = 11,
-		[326377] = 2,
+		[329314] = 11,
 		[187878] = 7,
-		[259396] = 3,
+		[324427] = "Oryphrione",
 		[338865] = "Traqueur d'âmes V'lara",
 		[60032] = "Jedoga Cherchelombre",
-		[342961] = "Marchande Xy'exa",
+		[30146] = 9,
 		[250335] = "Diima, mère de l'Obscurité",
 		[330675] = 8,
-		[310984] = 6,
-		[331514] = 10,
+		[323497] = 5,
+		[228127] = "Helya",
 		[61568] = "Adoratrice du Crépuscule",
-		[15407] = 5,
-		[155323] = 11,
+		[319521] = "Kul'tharok",
+		[147916] = "Expert en démolition",
 		[200166] = "Okbeamer-Ravencrest",
 		[304056] = 10,
 		[322486] = "Villageoise tirnenn",
-		[244400] = "Brise-monde garothi",
+		[209973] = "Elisande",
 		[204262] = 7,
-		[118522] = 7,
-		[313088] = 6,
+		[199337] = "Piège à ours",
+		[329757] = "Destrier ignoble",
 		[158188] = "Land-Nordrassil",
-		[101546] = 10,
+		[186406] = 10,
 		[48258] = "Svala Tristetombe",
-		[96231] = 2,
+		[244761] = "Annihilateur",
 		[324536] = 9,
 		[49026] = "Loup de la toundra assoiffé de sang",
-		[59828] = "Gal'darah",
+		[341304] = "Chevaucheuse de gargon nathriane",
 		[115450] = 10,
-		[193359] = 4,
+		[344228] = 5,
 		[334776] = 2,
 		[225765] = 10,
-		[338005] = "Bedeau diligent",
-		[7384] = 1,
+		[263863] = "Oden <Boltevan-Archimonde>",
+		[218148] = "Solariste Tel’arn",
 		[59265] = "Worgen frénétique",
-		[290134] = 2,
+		[292903] = "Garde antrelige renforcé",
 		[198121] = 8,
 		[223718] = "[*] Gelée détonante",
 		[257506] = 4,
 		[143856] = "[*] Chaleur extrême",
 		[330683] = 12,
 		[324540] = 9,
-		[205202] = 2,
-		[59638] = 8,
+		[115546] = 10,
+		[316958] = 2,
 		[322493] = "Mage os-vermoulu",
-		[338004] = "Bedeau diligent",
-		[290133] = 10,
+		[197871] = 5,
+		[195617] = 6,
 		[345019] = 1,
 		[265157] = 3,
-		[308098] = "[*] Inferno fracassant",
+		[42724] = "Saccageur en acier durci",
 		[204266] = 7,
 		[94462] = 2,
-		[271045] = 3,
-		[162488] = 3,
-		[290132] = 10,
-		[59979] = "[*] Frisson",
-		[55582] = "Homme-médecine drakkari",
-		[65081] = 5,
-		[143274] = "Skeer le Cherche-sang",
-		[145861] = "Vanité",
-		[44744] = 5,
-		[311495] = 3,
-		[1706] = 5,
+		[222238] = 5,
+		[257045] = 3,
+		[147321] = "[*] Vortex",
+		[323385] = 6,
+		[320823] = "Millificent Tempête-de-Mana",
+		[321105] = "Chiropteffroi vorace",
+		[323608] = "Mordretha, l'impératrice immortelle",
+		[279868] = 1,
+		[204263] = 5,
+		[207267] = 6,
+		[195292] = 6,
 		[336832] = 8,
-		[337984] = 7,
-		[335180] = 6,
-		[174773] = "Tuyau d’échappement du haut-fourneau",
+		[247456] = 12,
+		[262359] = 8,
+		[139546] = 4,
 		[94463] = 11,
-		[145218] = "Mogu de pierre animé",
-		[5374] = 4,
-		[333506] = 4,
-		[289433] = 10,
-		[48246] = "Brasero de flammes",
-		[209584] = 10,
-		[114942] = "Totem de marée de soins <Доставашка-Гордунни>",
+		[206879] = "Xavius",
+		[198688] = 4,
+		[50977] = 6,
+		[336097] = 3,
+		[146227] = "Vanité",
+		[247455] = 12,
+		[191587] = 6,
 		[61570] = "Apôtre du Crépuscule",
 		[22724] = 3,
-		[210228] = "Jeune araignée venimeuse",
+		[200175] = 12,
 		[200174] = 5,
-		[298318] = 10,
+		[148522] = "Chaman des marées gueule-de-dragon",
 		[330693] = "Rebut répugnant",
 		[63106] = 9,
-		[59571] = 4,
-		[10060] = 5,
+		[52098] = "Général Bjarngrim",
+		[209693] = 12,
 		[5938] = 4,
-		[244395] = "Brise-monde garothi",
-		[200175] = 12,
+		[59104] = "Lanceur de sorts ahn'kahar",
+		[142838] = "Inconnu",
 		[48260] = "Gortok Pâle-Sabot",
 		[56707] = "Marcheur de peste",
-		[331510] = "Belligérant inflexible",
+		[196742] = 10,
 		[49028] = 6,
-		[12323] = 1,
-		[272582] = "[*] Sang statique",
-		[59246] = "Féticheur ymirjar",
+		[114942] = "Totem de marée de soins <Доставашка-Гордунни>",
+		[333241] = "Cornesang déchaîné",
+		[271671] = 11,
 		[334792] = "Altimor le Veneur",
-		[244000] = "Hasabel la Garde-portail",
+		[155794] = "Massacreuse Sorka",
 		[330697] = "Horreur infectieuse",
 		[211439] = "Le démon intérieur",
 		[59267] = "Gortok Pâle-Sabot",
-		[347462] = 12,
+		[323943] = "Déva",
 		[322507] = 10,
-		[331866] = 12,
-		[339] = 11,
+		[345701] = 5,
+		[337516] = 3,
 		[328651] = "Tireur d'élite venimeux",
 		[202225] = 1,
-		[228012] = "Hymdall",
-		[17] = 5,
+		[126489] = 4,
+		[193456] = 12,
 		[18501] = "Travailleur gronnlin",
 		[82691] = "Méncr-Blackhand",
-		[138640] = 1,
+		[145240] = "Ritualiste de l’ombre mogu",
 		[6770] = 4,
 		[320462] = "Gardien de porte de Zolramus",
-		[338142] = 11,
-		[8512] = 7,
+		[12042] = 8,
+		[22568] = "Hihetetlen-Outland",
 		[334797] = "Bargast",
 		[63619] = "Ombrefiel <Harrami-Ravencrest>",
-		[340646] = "Assistant sculpté",
-		[320839] = "Siphonneuse de Zolramus",
+		[323552] = "Grande adjudicatrice Alize",
+		[49143] = 6,
 		[326607] = "Saccageuse vive-pierre",
-		[31707] = "Water Elemental <Prolymorph-Ragnaros>",
+		[332002] = "Stygie animée",
 		[48517] = 11,
-		[32295] = 8,
+		[315443] = 6,
 		[204275] = "Skorpyron",
 		[20549] = 11,
-		[321349] = "Spriggan torsoin",
-		[321433] = 8,
-		[199545] = 2,
-		[213888] = 8,
-		[262228] = 1,
-		[46628] = 3,
+		[324909] = "Elagueur drust",
+		[300761] = 11,
+		[257542] = 8,
+		[253595] = 6,
+		[307256] = 11,
+		[288075] = 1,
 		[59268] = "Gortok Pâle-Sabot",
-		[145461] = "Ritualiste de l’ombre mogu",
-		[143459] = "[*] Résidu de sha",
-		[147916] = "Expert en démolition",
-		[138425] = 5,
+		[61549] = "Berserker ymirjar",
+		[319243] = 6,
+		[1066] = 11,
+		[330703] = "Crache-vase chancreux",
 		[336850] = 12,
-		[170679] = "Karnor le Cruel",
-		[225601] = 3,
-		[132158] = 11,
+		[205472] = 8,
+		[270335] = 3,
+		[49184] = 6,
 		[328660] = "Gelée jaillissante",
-		[180545] = 10,
-		[244057] = "F'harg",
+		[225047] = "Soigne-bosquet des terrasses",
+		[225800] = "Archimage shal’dorei",
 		[54149] = 2,
-		[88263] = 2,
-		[98008] = 7,
-		[323385] = 6,
-		[20243] = 1,
+		[25914] = 2,
+		[59154] = "Géant forge-foudre",
+		[219049] = "Naturaliste Tel’arn",
+		[245764] = 4,
 		[328662] = "Inconnu",
-		[339632] = 10,
+		[326952] = "Plume imprégnée",
 		[47750] = 5,
-		[200183] = 5,
-		[210984] = "Horreur cauchemardesque",
-		[48518] = 11,
-		[52098] = "Général Bjarngrim",
-		[8178] = 7,
+		[342997] = 9,
+		[213888] = 8,
+		[330711] = "Hurlaile",
+		[61461] = "Porte-givre",
+		[269279] = 3,
 		[328664] = "Mage réanimé <Amarth>",
 		[330712] = "Hurlaile",
-		[15286] = 5,
+		[49170] = "Chaman du crépuscule ymirjar",
 		[108291] = 11,
-		[204766] = "Scorpide cristallin",
-		[319539] = "Kul'tharok",
-		[12555] = "Général Bjarngrim",
+		[58501] = 5,
+		[342961] = "Marchande Xy'exa",
+		[335143] = "Soigne-os de Zolramus",
 		[8676] = 4,
 		[345048] = 11,
-		[331319] = "Dokigg le Brutalisateur",
-		[315443] = 6,
+		[339237] = "Halkias",
+		[17962] = 9,
 		[334810] = "Mueh'zala",
-		[328667] = "Mage os-vermoulu",
+		[287712] = "Gimlix-ArgentDawn",
 		[338906] = 3,
 		[72968] = 4,
-		[288495] = 12,
+		[212258] = "Gul'dan",
 		[263140] = 3,
-		[330716] = "Gardien du portail",
-		[323943] = "Déva",
+		[338907] = 3,
+		[144290] = "Brise-terre Haromm",
 		[142849] = "Malkorok",
 		[320478] = "Intercepteur antrelige renforcé",
 		[265189] = 3,
-		[142838] = "Inconnu",
+		[218780] = "[*] Explosion de plasma",
 		[245237] = "Brise-monde garothi",
-		[341308] = "Vainqueur pierre-lié",
-		[234946] = 5,
-		[197626] = 11,
-		[326623] = "Saccageuse vive-pierre",
+		[296978] = "Fragment d'âme",
+		[347625] = 5,
+		[54216] = 3,
+		[343005] = "Hurlaile",
 		[320480] = "Intercepteur antrelige",
 		[64901] = 5,
-		[343355] = 5,
-		[317882] = "[*] Suie gênante",
-		[254176] = "Sœur du fouet",
+		[229377] = 5,
+		[233433] = "Totem de réplique <Vitaminico-DunModr>",
+		[179872] = 3,
 		[330720] = "Gardien du portail",
-		[157128] = 2,
+		[333091] = "Embusqué cœur-algide",
 		[142851] = "Malkorok",
 		[336864] = 11,
-		[290754] = 11,
+		[145523] = "Statue de pierre",
 		[85256] = 2,
-		[342049] = 3,
-		[127169] = 8,
+		[203795] = 12,
+		[3411] = 1,
 		[29893] = 9,
-		[59104] = "Lanceur de sorts ahn'kahar",
+		[212997] = "Tichondrius",
 		[277481] = "Prisonnier armé",
 		[336866] = 11,
-		[206920] = "Tentacule cauchemardesque",
-		[199337] = "Piège à ours",
-		[147362] = 3,
-		[257045] = 3,
+		[326623] = "Saccageuse vive-pierre",
+		[845] = 1,
+		[193641] = 4,
+		[330730] = 10,
 		[107270] = 10,
-		[295967] = 11,
+		[339232] = 8,
 		[108294] = 11,
 		[225787] = 10,
 		[330725] = "Gardien du portail",
-		[341304] = "Chevaucheuse de gargon nathriane",
-		[222238] = 5,
+		[342995] = 5,
+		[112042] = "Zhar'phog <Inconnu>",
 		[94472] = 5,
-		[208929] = "Tentacule du corrupteur",
-		[336097] = 3,
+		[326171] = "Mueh'zala",
+		[204292] = "Skorpyron",
 		[343013] = 12,
-		[222240] = 2,
-		[115546] = 10,
+		[335706] = 2,
+		[265202] = 5,
 		[195072] = 12,
 		[326632] = "Eviscératrice vive-pierre",
 		[336871] = 11,
 		[198144] = 8,
-		[157736] = 9,
+		[781] = 3,
 		[192001] = 5,
 		[336872] = 2,
 		[330729] = 9,
-		[339528] = "Dragost",
-		[288853] = 6,
-		[186406] = 10,
-		[330730] = 10,
+		[194310] = 6,
+		[325130] = 8,
+		[323546] = 11,
+		[297966] = "Gueule de l'Antre",
 		[17735] = "Thangrave",
 		[183811] = 2,
 		[336874] = 10,
 		[44425] = 8,
-		[209973] = "Elisande",
-		[126489] = 4,
-		[319209] = 11,
-		[198688] = 4,
+		[210065] = 11,
+		[120954] = 10,
+		[48265] = 6,
+		[143524] = "[*] Résidu purifié",
 		[324589] = "Marche-Mort <[*] Manifestation de la mort>",
 		[326637] = "Eviscératrice vive-pierre",
-		[279868] = 1,
-		[344066] = 12,
+		[343022] = "Hurlaile",
+		[294602] = 11,
 		[101641] = 8,
 		[326638] = "Eviscératrice vive-pierre",
-		[61461] = "Porte-givre",
+		[317491] = 1,
 		[214529] = "Cénarius",
-		[331527] = "Dame Inerva Sombreveine",
-		[194310] = 6,
-		[48265] = 6,
-		[204744] = "[*] Chitine toxique",
-		[322465] = "Tred'ova",
-		[343022] = "Hurlaile",
-		[247456] = 12,
+		[294422] = 3,
+		[345693] = 2,
+		[209410] = "Arcaniste de la Garde crépusculaire",
+		[198149] = 8,
+		[132467] = 10,
+		[155145] = 2,
+		[81751] = 5,
 		[206339] = "Gul'dan",
-		[147321] = "[*] Vortex",
+		[270332] = 3,
 		[200196] = 5,
-		[296978] = "Fragment d'âme",
+		[23922] = 1,
 		[202244] = 11,
-		[59180] = "Foudroyeur en titane",
-		[204292] = "Skorpyron",
-		[34428] = 1,
+		[144904] = "Gardien quilen",
+		[326642] = "Eviscératrice vive-pierre",
+		[335130] = 11,
 		[206340] = "Gul'dan",
-		[316337] = 2,
-		[337516] = 3,
-		[339553] = "Deplina",
-		[247455] = 12,
+		[278288] = 1,
+		[88335] = 10,
+		[258018] = "Noura, mère des Flammes",
+		[335129] = "Altimor le Veneur",
 		[97547] = 11,
 		[326644] = "Eviscératrice vive-pierre",
 		[221699] = 6,
-		[245532] = "Diima, mère de l'Obscurité",
-		[320823] = "Millificent Tempête-de-Mana",
+		[34322] = "Oublié",
+		[263806] = 7,
 		[142861] = "Malkorok",
 		[263165] = 5,
-		[202246] = 11,
+		[322550] = "Tred'ova",
 		[101643] = 10,
-		[148515] = "Jun Wei",
+		[211958] = "Pillard langue-de-wyrm",
 		[336885] = 6,
-		[325324] = "Artificier Xy'mox",
+		[294173] = "Veilleur Skoldus",
 		[190984] = 11,
-		[278288] = 1,
+		[224772] = 3,
 		[201223] = 3,
-		[254472] = 2,
+		[263642] = 12,
 		[48778] = 6,
 		[228868] = "Sorcière des marées kvaldir",
 		[295932] = "Veilleur Skoldus",
-		[273992] = 1,
+		[57619] = "Démolisseur de Joug-d’Hiver <Tvebak-Ragnaros>",
 		[215558] = 11,
 		[200200] = 5,
-		[203795] = 12,
+		[271374] = 2,
 		[322554] = "Exécuteur Tarvold",
 		[8613] = 3,
 		[59273] = "Furbolg vorace",
-		[345390] = 4,
+		[345020] = 1,
 		[297982] = "Gueule de l'Antre",
-		[88335] = 10,
-		[49170] = "Chaman du crépuscule ymirjar",
-		[35346] = "filip",
-		[324609] = "Tirailleur noble",
-		[330703] = "Crache-vase chancreux",
-		[259495] = 3,
+		[227988] = 1,
+		[145937] = "Hache sanglante kor’kronne",
+		[278350] = 9,
+		[302362] = 4,
+		[212492] = "Sorcelame Aluriel",
+		[341678] = 4,
 		[336891] = 10,
 		[322557] = "Tranchâmes drust",
-		[30151] = "ЗурилФаран  <Диграти-Гордунни>",
+		[333523] = "Xira la Sournoise",
 		[124682] = 10,
-		[225803] = "[*] Magie scellée",
+		[324609] = "Tirailleur noble",
 		[330749] = 12,
 		[227847] = 1,
 		[326654] = "Indri la Chante-sylve",
-		[198149] = 8,
-		[271374] = 2,
+		[317882] = "[*] Suie gênante",
+		[330716] = "Gardien du portail",
 		[291843] = 6,
-		[246840] = "[*] Dévastateur",
+		[162322] = "Gruul",
 		[320512] = "Visquegriffe putréfié",
-		[191634] = 7,
+		[295945] = "[*] Pièges à rats",
 		[324608] = "Oryphrione",
 		[228872] = "Helya",
-		[55567] = "Trembleterre drakkari",
+		[305392] = 6,
 		[330752] = 8,
 		[332800] = 2,
 		[257541] = 8,
 		[135700] = 11,
-		[333100] = 8,
+		[262115] = 1,
 		[332801] = 2,
-		[25914] = 2,
+		[167105] = 1,
 		[295942] = "Veilleur Skoldus",
 		[322563] = "Tred'ova",
 		[267274] = 3,
-		[257542] = 8,
+		[30151] = "ЗурилФаран  <Диграти-Гордунни>",
 		[328707] = "Sectateur ressuscité",
-		[317488] = 1,
-		[162322] = "Gruul",
+		[320141] = "Milhouse Tempête-de-Mana",
+		[203277] = 8,
 		[204301] = 2,
 		[336899] = 3,
 		[198158] = 8,
 		[332804] = 2,
 		[334852] = "Hecutis",
-		[295945] = "[*] Pièges à rats",
-		[253595] = 6,
+		[225803] = "[*] Magie scellée",
+		[296956] = "Veilleur des âmes",
 		[332805] = 2,
 		[228875] = "Sombre séraphin",
 		[279564] = 8,
 		[322567] = "Exécuteur Tarvold",
 		[248329] = "Le Paraxis",
-		[59154] = "Géant forge-foudre",
+		[321768] = 8,
 		[225804] = "Tisserand de la Garde crépusculaire",
-		[270329] = 3,
-		[329976] = "Consulaire impériale renforcée",
+		[345361] = 3,
+		[343313] = "Hargitas",
 		[212494] = "Sorcelame Aluriel",
-		[225800] = "Archimage shal’dorei",
+		[48518] = 11,
 		[322569] = "Tranchâmes drust",
-		[206641] = "Trilliax",
-		[195292] = 6,
+		[118699] = 9,
+		[333790] = "Esprit enragé",
 		[271376] = 2,
-		[205472] = 8,
+		[245391] = "Aggramar",
 		[59019] = "Cobra cracheur",
 		[155158] = 8,
 		[254474] = 2,
-		[270332] = 3,
+		[319715] = "Kryxis le Vorace",
 		[256522] = 4,
-		[270335] = 3,
+		[336065] = 7,
 		[279569] = 3,
-		[20577] = 4,
-		[212258] = "Gul'dan",
-		[203028] = "Ysondre",
+		[202223] = "Bile acide",
+		[294165] = "Garde antrelige renforcé",
+		[58973] = "Chasseur de dieu drakkari",
 		[61579] = "Assemblage forge-foudre",
-		[139546] = 4,
+		[149146] = "Mine rampante",
 		[308239] = 10,
-		[338907] = 3,
+		[143385] = "Ingé-siège Boîte-Noire",
 		[225807] = "[*] Piliers de la nuit",
 		[273428] = 1,
-		[77505] = 7,
-		[326952] = "Plume imprégnée",
-		[77758] = 11,
-		[320142] = "Milhouse Tempête-de-Mana",
+		[15487] = 5,
+		[308498] = 3,
+		[322281] = "Hoplite sombre-féal",
+		[1766] = "Trikwe-KirinTor",
 		[324623] = "Inconnu <Tirailleur noble>",
-		[343005] = "Hurlaile",
+		[59180] = "Foudroyeur en titane",
 		[209426] = 12,
 		[56716] = "Porte-givre",
-		[278350] = 9,
-		[323546] = 11,
+		[322465] = "Tred'ova",
+		[108292] = 11,
 		[320529] = "Virulax Tissechancre",
-		[339237] = "Halkias",
+		[172567] = "Grunt de Mur-de-Givre",
 		[141851] = 1,
-		[334058] = 5,
+		[270827] = 11,
 		[225809] = "Sage sacrenuit",
 		[144923] = "Mogu de pierre animé",
 		[59020] = "Cobra cracheur",
-		[326642] = "Eviscératrice vive-pierre",
+		[34914] = 5,
 		[246287] = 5,
-		[342995] = 5,
-		[218780] = "[*] Explosion de plasma",
-		[128783] = 9,
-		[328673] = "Z'rali",
-		[265202] = 5,
-		[203285] = 8,
-		[102417] = 11,
-		[330711] = "Hurlaile",
-		[143385] = "Ingé-siège Boîte-Noire",
-		[141853] = 8,
-		[15589] = "Drek'Thar",
-		[179872] = 3,
-		[333091] = "Embusqué cœur-algide",
-		[203286] = 8,
-		[17481] = 6,
-		[323544] = "Fils d'Hakkar",
-		[307187] = 10,
-		[23881] = 1,
-		[201764] = 7,
-		[295963] = 3,
-		[121839] = 6,
+		[59788] = 2,
 		[28679] = "Gothik le Moissonneur",
-		[294701] = 1,
+		[128783] = 9,
+		[271636] = "Broyeur de sang <Taloc>",
+		[331748] = "Gardien voile-de-brume",
+		[203285] = 8,
+		[132404] = 1,
+		[206677] = "Krosus",
+		[307194] = 7,
+		[215572] = 1,
+		[15589] = "Drek'Thar",
+		[23881] = 1,
+		[23241] = 7,
+		[203286] = 8,
+		[59530] = "Golem en fusion",
+		[86949] = 8,
+		[336826] = 3,
+		[324631] = 10,
+		[59148] = "Mande-ciel en acier durci",
+		[295963] = 3,
+		[223539] = "[*] Vase abominable",
+		[323393] = "Grand chambellan",
+		[144922] = "Mogu de pierre animé",
 		[254481] = 11,
-		[145288] = "Golem d’anima modifié",
-		[339232] = 8,
-		[347625] = 5,
-		[328729] = "Sectateur ressuscité",
-		[845] = 1,
+		[325225] = "Dame Inerva Sombreveine",
+		[147296] = "Garrosh Hurlenfer",
+		[343727] = "Ombrefiel <Raidmaxx-Frostwolf>",
+		[295965] = 2,
+		[58978] = "Lancier drakkari",
 		[59021] = "Constricteur inflexible",
 		[155166] = 6,
-		[145937] = "Hache sanglante kor’kronne",
-		[17962] = 9,
-		[12042] = 8,
-		[295969] = 3,
-		[328731] = "Inconnu",
-		[326494] = 2,
-		[204263] = 5,
-		[333241] = "Cornesang déchaîné",
-		[61581] = "Formerune forge-foudre",
-		[107428] = 10,
-		[141857] = 8,
-		[59148] = "Mande-ciel en acier durci",
+		[84751] = 11,
+		[308742] = 11,
+		[123725] = 10,
+		[285646] = 11,
+		[295967] = 11,
 		[209433] = "[*] Singularité chronique",
+		[114852] = 2,
+		[17481] = 6,
+		[61581] = "Formerune forge-foudre",
+		[55604] = "Jeune recrue tenace",
+		[141857] = 8,
+		[295969] = 3,
+		[320542] = "Virulax Tissechancre",
 		[68377] = 11,
-		[34322] = "Oublié",
-		[58978] = "Lancier drakkari",
-		[342250] = "Gargon loyal",
+		[126554] = 3,
+		[264130] = "Picene-Ravencrest",
+		[330674] = 8,
 		[19658] = "Bruulum <Anhkara>",
 		[207386] = 11,
-		[195627] = 4,
+		[330657] = 11,
 		[295971] = 3,
-		[265258] = 5,
+		[219788] = 6,
 		[341022] = "Fidèle peste-liée",
 		[49039] = 6,
-		[30153] = "ЗурилФаран  <Диграти-Гордунни>",
+		[337989] = 6,
 		[330784] = "Ritualiste du champ de bataille",
-		[144922] = "Mogu de pierre animé",
-		[196980] = 4,
-		[328737] = 4,
-		[321529] = "Evocc-ChamberofAspects",
-		[345122] = 5,
-		[81751] = 5,
-		[285646] = 11,
-		[330786] = "Ickor Aigrechair",
-		[128275] = 1,
-		[60302] = 3,
-		[345121] = 4,
-		[228127] = "Helya",
-		[88746] = 2,
-		[335130] = 11,
-		[328740] = "Sectateur ressuscité",
-		[11366] = 8,
-		[332836] = "Boucher putride",
-		[334884] = "Ame lacérée",
-		[267685] = 7,
-		[338871] = "Traqueur d'âmes V'lara",
-		[271296] = "Taloc",
-		[335129] = "Altimor le Veneur",
+		[107428] = 10,
 		[199552] = 12,
-		[113942] = 9,
+		[328737] = 4,
+		[185099] = 10,
+		[330786] = "Ickor Aigrechair",
+		[106830] = 11,
+		[328740] = "Sectateur ressuscité",
+		[265258] = 5,
+		[128275] = 1,
+		[30153] = "ЗурилФаран  <Диграти-Гордунни>",
+		[345121] = 4,
+		[108503] = 9,
+		[97341] = 8,
+		[115989] = 6,
+		[345122] = 5,
+		[11366] = 8,
 		[22858] = "Lancier drakkari",
-		[294173] = "Veilleur Skoldus",
-		[126554] = 3,
-		[336826] = 3,
-		[97560] = 10,
-		[34914] = 5,
-		[330674] = 8,
-		[227988] = 1,
-		[66529] = "Canon de la canonnière de la Horde <Meepmeepo-Kilrogg>",
-		[205644] = "Tréant <Bwéno-CultedelaRivenoire>",
+		[334884] = "Ame lacérée",
+		[321226] = "Amarth",
+		[332836] = "Boucher putride",
+		[210738] = 6,
+		[271625] = 3,
+		[59306] = "Roi Ymiron",
+		[333505] = 4,
+		[338804] = 12,
+		[221521] = "Courtisan déterminé",
+		[343295] = 6,
+		[343995] = "Hurlaile",
+		[113942] = 9,
+		[57770] = 2,
+		[321368] = "Nalthor le Lieur-de-Givre",
+		[320519] = "Brise-échine chancreux",
+		[115181] = 10,
+		[196440] = 5,
 		[117014] = 7,
 		[117526] = 3,
 		[236060] = 8,
 		[334889] = "[*] Hurlement pétrifiant",
-		[302362] = 4,
-		[330657] = 11,
-		[55604] = "Jeune recrue tenace",
-		[221521] = "Courtisan déterminé",
-		[328748] = 10,
-		[77575] = 6,
+		[344225] = 5,
+		[191837] = 10,
+		[308270] = 11,
+		[144328] = "Brise-terre Haromm",
+		[60302] = 3,
+		[247159] = "Brise-monde garothi",
 		[324652] = "Globgrog",
-		[323798] = 6,
-		[205345] = "Velron-LosErrantes",
+		[326389] = "Echelon",
+		[328748] = 10,
 		[206369] = "Xavius",
-		[126649] = 6,
-		[59530] = "Golem en fusion",
+		[157128] = 2,
+		[61583] = "Formerune forge-foudre",
 		[295985] = "Sentinelle pénitentiaire",
 		[202274] = 10,
-		[114852] = 2,
+		[245786] = 11,
 		[334893] = "[*] Éclats de pierre",
 		[246301] = "Destructeur gangrimprégné",
-		[308742] = 11,
-		[336803] = "Inconnu",
-		[136471] = 1,
-		[228388] = "Géant putréfiâme",
-		[326389] = "Echelon",
-		[345361] = 3,
-		[343313] = "Hargitas",
+		[112869] = 9,
+		[222241] = 8,
+		[126664] = 1,
+		[343290] = 5,
+		[209443] = "Xavius",
+		[225511] = "Assoiffé harassé",
+		[323414] = "Grand chambellan",
 		[41106] = "Général Bjarngrim",
-		[204166] = 1,
-		[176180] = 12,
+		[294143] = 3,
+		[256542] = "Argus l'Annihilateur",
 		[334896] = 6,
 		[225825] = "Sage sacrenuit",
 		[265273] = 9,
-		[327876] = 10,
-		[344225] = 5,
+		[143768] = "Kaz’tik le Manipulateur",
+		[205448] = 5,
 		[205348] = "[*] Orbe de destruction",
-		[97341] = 8,
+		[59305] = "Roi Ymiron",
 		[324659] = "Manifestation fuyante",
-		[324662] = "Kin-Tara",
+		[44151] = 8,
 		[295991] = "Sentinelle pénitentiaire",
-		[294165] = "Garde antrelige renforcé",
-		[338804] = 12,
+		[324371] = 3,
+		[328757] = 3,
 		[334899] = "Tireur d'élite venimeux",
 		[328756] = "Ingra Maloch",
-		[149146] = "Mine rampante",
-		[328757] = 3,
-		[61583] = "Formerune forge-foudre",
-		[152108] = 9,
+		[343287] = "Archiviste nathriane",
+		[279608] = 8,
+		[214662] = "Skorpyron",
+		[279611] = 6,
 		[23243] = 8,
 		[267325] = 3,
-		[308498] = 3,
+		[152108] = 9,
 		[246305] = "Destructeur gangrimprégné",
 		[157228] = 11,
 		[267326] = 3,
 		[48018] = 9,
-		[279611] = 6,
-		[1766] = "Trikwe-KirinTor",
+		[145735] = "Amalgame de corruption",
+		[343737] = "Yu'lon <Atec>",
 		[267327] = 3,
 		[326712] = "Acolyte noire",
 		[41107] = "Général Bjarngrim",
-		[320571] = "Ensorceleur de Zolramus",
-		[115994] = 6,
 		[324667] = "Globgrog",
+		[115994] = 6,
+		[327619] = "Valseur venthyr",
 		[295997] = 4,
-		[313056] = 8,
-		[329425] = "Massacreur forgeflamme",
+		[254383] = "Shatug",
+		[326629] = "Docteur Sutur",
 		[8679] = 4,
-		[295998] = 4,
+		[320571] = "Ensorceleur de Zolramus",
 		[330810] = "Ame enchaînée",
 		[267330] = 3,
-		[297292] = "Rondier Thonar",
-		[247159] = "Brise-monde garothi",
-		[144328] = "Brise-terre Haromm",
+		[228128] = 9,
+		[334909] = "[*] Atmosphère oppressante",
+		[320359] = "Docteur Sutur",
 		[252451] = "Imonar le Chasseur d'âmes",
 		[302143] = 12,
 		[320573] = "Ensorceleur de Zolramus",
-		[271636] = "Broyeur de sang <Taloc>",
-		[195630] = 10,
+		[221490] = "Long-voyante astrale",
+		[212520] = 1,
 		[339400] = 3,
 		[320574] = "[*] Puits d’ombre",
-		[323414] = "Grand chambellan",
+		[307046] = 12,
 		[260643] = 1,
-		[334909] = "[*] Atmosphère oppressante",
+		[204330] = "Доставашка-Гордунни",
 		[254500] = "Imperator Deconix",
 		[230951] = "Ame gangrenée",
-		[254383] = "Shatug",
-		[327619] = "Valseur venthyr",
+		[245157] = 11,
+		[306423] = 10,
 		[64657] = 2,
 		[207400] = 7,
-		[207573] = "Ysondre",
+		[2580] = 3,
 		[204331] = 7,
 		[246310] = "Destructeur gangrimprégné",
 		[330816] = "Ickor Aigrechair",
-		[228128] = 9,
-		[245157] = 11,
-		[320580] = "Amarth",
+		[345727] = 10,
+		[321442] = 7,
+		[341902] = "Ritualiste du champ de bataille",
 		[144947] = "Garrosh Hurlenfer",
 		[332865] = "Globgrog",
 		[334913] = "Mueh'zala",
 		[254502] = "Imperator Deconix",
 		[189998] = 3,
-		[320576] = "Virulax Tissechancre",
-		[87840] = 3,
 		[30283] = 9,
-		[144334] = "[*] Tombe de fer",
-		[225511] = "Assoiffé harassé",
-		[336045] = 1,
-		[320359] = "Docteur Sutur",
-		[189999] = 10,
-		[312321] = 9,
-		[143924] = 10,
-		[307046] = 12,
-		[243241] = 5,
-		[123725] = 10,
+		[87840] = 3,
+		[320580] = "Amarth",
 		[227514] = "Guarm",
-		[320519] = "Brise-échine chancreux",
-		[48020] = 9,
-		[343963] = 3,
+		[347376] = "Contrôleur de danse",
+		[336045] = 1,
+		[312321] = 9,
+		[189999] = 10,
+		[47755] = 5,
+		[213243] = 12,
+		[196100] = 9,
+		[243241] = 5,
+		[211501] = "Rejeton enchanté",
+		[199721] = 6,
+		[61451] = 8,
+		[295998] = 4,
+		[64658] = 4,
 		[334918] = "Brute insatiable",
 		[48276] = "Svala Tristetombe",
-		[321442] = 7,
+		[321401] = "Tique gloutonne",
 		[332871] = "Grand tortionnaire Darithos",
 		[334919] = "[*] Hurlement pétrifiant",
 		[148022] = 8,
-		[196099] = 9,
-		[199721] = 6,
-		[2580] = 3,
-		[288756] = 8,
-		[119582] = 10,
-		[219788] = 6,
+		[6196] = 7,
+		[148135] = 10,
+		[93985] = 11,
+		[320752] = 7,
+		[204336] = 7,
+		[244122] = "Brise-monde garothi",
 		[334921] = "Brute insatiable",
 		[246315] = "Le Paraxis",
 		[59795] = "Ionar",
-		[205636] = 11,
+		[147966] = "Inconnu",
 		[326731] = 2,
-		[64658] = 4,
-		[47755] = 5,
+		[335805] = "[*] Bastion de l’Archonte",
+		[320465] = "Maître de siège Traxon",
 		[236077] = 1,
 		[44949] = "Attaen-Outland",
-		[204336] = 7,
+		[283167] = 10,
 		[53652] = "Атомныймолот-ЧерныйШрам",
-		[244122] = "Brise-monde garothi",
+		[115313] = 10,
 		[326733] = 2,
 		[336972] = 11,
-		[106830] = 11,
-		[148135] = 10,
-		[61451] = 8,
-		[142906] = "Malkorok",
-		[206607] = "Anomalie chronomatique",
-		[79140] = 4,
+		[2643] = 3,
+		[184689] = 2,
+		[408] = 4,
+		[143924] = 10,
 		[334926] = "Ronge-peste piégé",
+		[79140] = 4,
+		[142906] = "Malkorok",
 		[296019] = "Seigneur des verrous",
-		[59465] = "Ancien Nadox",
-		[228597] = 8,
+		[188035] = 10,
+		[13338] = "Invocateur noir du Crépuscule",
 		[245294] = "Décimateur",
 		[254509] = "Imperator Deconix",
 		[347214] = 1,
-		[272432] = "Garde-courroux <Moondagger-Zenedar>",
-		[271625] = 3,
-		[59306] = "Roi Ymiron",
-		[147966] = "Inconnu",
-		[195125] = 3,
-		[335805] = "[*] Bastion de l’Archonte",
-		[320596] = "Chancros",
-		[206388] = "Etraeus, l'augure stellaire",
-		[343295] = 6,
-		[35735] = "Elémentaire d'eau lié",
+		[322796] = "Général Kaal",
+		[245098] = "Shatug",
+		[335082] = 1,
 		[296023] = "Seigneur des verrous",
-		[283167] = 10,
-		[57770] = 2,
-		[2643] = 3,
-		[184689] = 2,
-		[223021] = "[*] Peste putride",
-		[213243] = 12,
+		[195125] = 3,
+		[5740] = 9,
+		[57610] = "Tourelle de siège de Joug-d’Hiver <Zooton-Emeriss>",
+		[206388] = "Etraeus, l'augure stellaire",
+		[48020] = 9,
+		[35735] = "Elémentaire d'eau lié",
+		[320596] = "Chancros",
+		[228597] = 8,
+		[321247] = "Amarth",
+		[323515] = "Trancheboyau",
+		[142983] = "Phylactère de ritualiste de l’ombre",
+		[194913] = 6,
+		[49576] = 6,
 		[334932] = "Hecutis",
 		[328789] = "Tranchant d'annihilation",
 		[298073] = "Gardien monstrueux",
-		[304075] = "Nécrorateur",
+		[205636] = 11,
 		[328791] = "Grand chambellan",
 		[254512] = "Imperator Deconix",
 		[39319] = 10,
-		[324312] = 10,
+		[325551] = "Domina Lamevenin",
 		[334934] = 1,
 		[48278] = "Canaliste rituel",
 		[322648] = "[*] Lien de l’esprit",
-		[330694] = "Rebut répugnant",
-		[336851] = 3,
-		[59409] = "Svala Tristetombe",
-		[244056] = "Shatug",
-		[55099] = 11,
-		[61459] = "Marcheur de peste",
+		[347221] = "Abomination",
+		[17462] = 10,
+		[342232] = 8,
+		[95750] = 9,
 		[312411] = 5,
-		[245098] = "Shatug",
-		[116888] = 6,
+		[272382] = "Thanatoratrice",
+		[225845] = "Tisserand de la Garde crépusculaire",
+		[8936] = 11,
+		[206788] = "Trilliax",
 		[8680] = "Мульч-Разувий",
-		[153596] = 8,
+		[214308] = "[*] Ronces du Cauchemar",
 		[347224] = "Assassin |2 Guero-ConfrérieduThorium",
 		[191034] = 11,
 		[43927] = 10,
-		[334939] = "Margore",
-		[343290] = 5,
-		[306272] = 11,
+		[328933] = 7,
+		[321471] = "Mandebrume",
+		[347227] = 1,
 		[26573] = 2,
 		[205369] = 5,
-		[323515] = "Trancheboyau",
+		[61447] = 3,
 		[324701] = 3,
 		[328799] = "Karaage",
 		[225847] = "Tisserand de la Garde crépusculaire",
-		[347227] = 1,
-		[294143] = 3,
-		[308026] = "Massacreur forgeflamme",
-		[336990] = 4,
+		[322654] = "Tred'ova",
+		[188031] = 8,
+		[245301] = "Aggramar",
+		[329863] = "Ame en peine larmoyante",
 		[322655] = "Tred'ova",
-		[205448] = 5,
+		[344227] = 7,
 		[334942] = "Margore",
 		[80168] = 5,
 		[251445] = "F'harg",
-		[59305] = "Roi Ymiron",
+		[319687] = "Kryxis le Vorace",
 		[228920] = 1,
-		[194879] = 6,
+		[304075] = "Nécrorateur",
 		[330848] = "[*] Faux pas",
 		[191037] = 11,
-		[329319] = "Factionnaire antrelige",
+		[248439] = 1,
 		[50327] = 2,
-		[195457] = 4,
+		[210931] = "Oeil d'Il'gynoth",
 		[85288] = 1,
 		[245303] = "Asara, mère de la Nuit",
 		[59542] = 2,
-		[343287] = "Archiviste nathriane",
-		[184364] = "Tasarus-Ravencrest",
-		[214662] = "Skorpyron",
-		[337510] = 4,
-		[336996] = "Nekthara le Mutilateur",
+		[10796] = 3,
+		[155625] = 11,
+		[186387] = "Envam-Outland",
+		[330670] = 11,
+		[206607] = "Anomalie chronomatique",
 		[291944] = 2,
-		[17462] = 10,
-		[338077] = "Inconnu",
-		[272382] = "Thanatoratrice",
-		[209469] = "Ichor cauchemardesque",
-		[345727] = 10,
-		[320614] = "Ver putride",
+		[308026] = "Massacreur forgeflamme",
+		[341215] = "[*] Anima volatil",
+		[212794] = "Tichondrius",
+		[328928] = "Mellø-Aegwynn",
+		[246329] = "Asara, mère de la Nuit",
+		[225851] = "Gardien de la Garde crépusculaire",
 		[23246] = 7,
 		[145989] = "Orgueil amalgamé",
 		[204350] = 7,
 		[31821] = "Zacxie-Ravencrest",
-		[8936] = 11,
-		[344227] = 7,
-		[158176] = "Sismide obscur",
-		[202914] = 3,
-		[292910] = "Entraveur antrelige",
+		[320614] = "Ver putride",
+		[336996] = "Nekthara le Mutilateur",
+		[48295] = "Roi Ymiron",
+		[278377] = 11,
+		[147564] = "Ichor d’Y’Shaarj",
 		[48792] = 6,
-		[343011] = 12,
+		[297098] = 10,
 		[246330] = 11,
 		[16591] = 1,
 		[83242] = 3,
-		[61447] = 3,
+		[193534] = 3,
 		[209471] = "Ichor cauchemardesque",
 		[281711] = 2,
-		[212262] = "Gul'dan",
+		[339049] = 10,
 		[343144] = 5,
 		[59543] = 3,
-		[339049] = 10,
-		[306423] = 10,
-		[329863] = "Ame en peine larmoyante",
-		[246329] = "Asara, mère de la Nuit",
-		[13338] = "Invocateur noir du Crépuscule",
-		[212794] = "Tichondrius",
-		[106785] = 11,
-		[211476] = "Wyrm ombrécaille",
-		[232877] = 10,
+		[255546] = 4,
+		[306272] = 11,
+		[211881] = 12,
+		[221160] = "Pulsauron",
+		[278559] = 11,
+		[326570] = 2,
+		[145993] = "Commandant Ik’tal",
+		[156287] = 1,
+		[24394] = "Рысак",
 		[83243] = 3,
-		[347376] = "Contrôleur de danse",
+		[48025] = 4,
 		[225855] = "Naturaliste shal’dorei",
 		[54680] = "Kyrpiö <Inconnu>",
-		[145993] = "Commandant Ik’tal",
-		[221160] = "Pulsauron",
-		[125050] = 3,
+		[13736] = "Drek'Thar",
+		[295929] = "Rat de l'Antre surdimensionné",
+		[61563] = "Invocateur noir du Crépuscule",
 		[111400] = 9,
-		[278559] = 11,
+		[212061] = "Traque-ombre antrelige",
 		[142922] = "Kil’ruk le Saccageur des vents",
 		[225856] = "[*] Ronces toxiques",
 		[56728] = "Oeil de Taldaram",
 		[211522] = "Orillion-Outland",
-		[328622] = 2,
-		[316531] = 1,
-		[324724] = 5,
-		[83244] = 3,
 		[281721] = 12,
-		[225857] = "Sabre-de-mana domestiqué",
-		[193534] = 3,
+		[211476] = "Wyrm ombrécaille",
 		[42650] = 6,
+		[83244] = 3,
+		[118594] = 5,
+		[225857] = "Sabre-de-mana domestiqué",
+		[338077] = "Inconnu",
+		[316531] = 1,
 		[334961] = "Mueh'zala",
 		[296054] = 8,
 		[59800] = "Ionar",
@@ -6542,311 +6747,311 @@ _detalhes_global = {
 		[161354] = 8,
 		[145996] = "Commandant Zak’tar",
 		[61336] = 11,
-		[115313] = 10,
+		[225859] = "Naturaliste shal’dorei",
 		[330868] = "Lieur d'âme dément",
 		[83245] = "Wurmson-Sen'jin",
 		[343155] = "Hargitas",
-		[225859] = "Naturaliste shal’dorei",
-		[304971] = 2,
-		[146739] = 9,
+		[209477] = "Wyrm de mana",
+		[324724] = 5,
+		[225079] = "Gardien contaminé",
 		[310392] = "Synode",
 		[320631] = "Ver putride",
 		[281724] = 8,
-		[247776] = 5,
-		[320752] = 7,
-		[340203] = 2,
-		[206788] = "Trilliax",
+		[81340] = 6,
+		[120588] = 7,
+		[334684] = "[*] Lance du devoir",
+		[980] = 9,
 		[145998] = "Inconnu",
-		[212061] = "Traque-ombre antrelige",
-		[317361] = 11,
+		[334971] = "Margore",
+		[347349] = 7,
 		[322681] = "Création du docteur Sutur",
-		[345209] = 11,
+		[337110] = "Baronne Frieda",
 		[343159] = "Hargitas",
 		[108843] = 8,
 		[330873] = 11,
-		[50842] = 6,
-		[212552] = 6,
-		[320637] = "Chancros",
+		[244291] = "Aggramar",
+		[246965] = "Annihilateur",
+		[296863] = 2,
 		[59801] = "Ionar",
-		[77472] = 7,
+		[311470] = 5,
 		[334970] = "Mueh'zala",
-		[304254] = "Gherus l'Enchaîné",
+		[345209] = 11,
 		[330875] = "Sombre orateur néfaste",
 		[52890] = "Brise-siège en titane",
-		[204361] = 7,
+		[212552] = 6,
 		[205385] = 5,
-		[246965] = "Annihilateur",
+		[204361] = 7,
 		[116011] = 8,
-		[228391] = "Lieur d’âme parle-os",
+		[320637] = "Chancros",
 		[345211] = 7,
-		[17289] = "Oeil de Taldaram",
-		[75532] = 12,
-		[188035] = 10,
+		[118038] = 1,
+		[285514] = 7,
+		[50842] = 6,
 		[205386] = 5,
 		[273541] = 3,
-		[48025] = 4,
+		[328833] = "Karaage",
 		[142930] = "Kil’ruk le Saccageur des vents",
-		[322796] = "Général Kaal",
-		[186387] = "Envam-Outland",
+		[115175] = 10,
+		[32216] = 1,
 		[28495] = 4,
 		[294020] = 7,
-		[335082] = 1,
-		[47536] = 5,
+		[201754] = "Хати <Деневин-Гордунни>",
 		[143955] = "Freux Orteil de Pierre",
-		[120588] = 7,
+		[244294] = "Annihilateur",
+		[125050] = 3,
 		[345215] = 7,
-		[326570] = 2,
-		[245227] = "Amiral Svirax",
-		[318406] = "Trancheboyau",
+		[279567] = 8,
+		[247776] = 5,
+		[324514] = "[*] Manifestation de la mort",
 		[332932] = 5,
 		[247367] = "Imonar le Chasseur d'âmes",
 		[324739] = 12,
-		[142983] = "Phylactère de ritualiste de l’ombre",
+		[25710] = "Maraudeur du bastion de la Conquête",
 		[320644] = "Xav l'Invaincu",
 		[251463] = 9,
-		[60307] = 4,
-		[49576] = 6,
+		[115203] = 10,
+		[341200] = "Garde-vice nathriane",
 		[221771] = 10,
 		[339075] = "Dame Inerva Sombreveine",
 		[223819] = 2,
-		[331398] = "Mémoire volatile",
-		[345219] = 5,
-		[244294] = "Annihilateur",
-		[31567] = "Chasseur de dieu drakkari",
-		[330662] = 11,
 		[119085] = 10,
+		[345219] = 5,
+		[345801] = 11,
+		[31567] = "Chasseur de dieu drakkari",
+		[198222] = 4,
+		[254536] = "[*] Territoire hostile",
 		[230987] = 6,
-		[334684] = "[*] Lance du devoir",
+		[208385] = "[*] Décharge de corruption",
 		[343173] = 4,
-		[22721] = 4,
-		[171845] = 11,
-		[249418] = "Tarneth",
-		[279567] = 8,
+		[6197] = 3,
+		[328452] = "Klotos",
+		[59146] = "Chasseur de dieu drakkari",
+		[192081] = 11,
 		[205391] = "Krosus",
 		[57755] = 1,
 		[116014] = 8,
-		[192081] = 11,
-		[61563] = "Invocateur noir du Crépuscule",
-		[324717] = 11,
-		[24858] = 11,
+		[249418] = "Tarneth",
+		[279565] = 8,
+		[16856] = "Général Bjarngrim",
+		[88750] = 5,
 		[326794] = "Inquisiteur Sigor",
-		[198222] = 4,
-		[328933] = 7,
-		[320646] = "[*] Gaz fétide",
+		[341197] = "Oeil-de-faucon nathrian",
+		[304254] = "Gherus l'Enchaîné",
+		[337101] = 10,
 		[26064] = "Turtle <Rfyl-TwistingNether>",
 		[258634] = "Garde-braise ardent",
-		[292473] = 2,
-		[324748] = 8,
 		[341131] = "Exécutrice de la cour",
-		[142934] = "Ritualiste de l’ombre mogu",
+		[324748] = 8,
+		[330658] = 11,
+		[332705] = "Grand prêtre atal'ai",
 		[230990] = "Odyn",
 		[332940] = 2,
 		[334988] = "Peste-lié gargantuesque",
 		[209489] = "Oeil de Gul'dan surpuissant",
-		[188031] = 8,
-		[118038] = 1,
 		[345228] = 4,
-		[320655] = "Chancros",
-		[337037] = "Nekthara le Mutilateur",
-		[55964] = "Prince Taldaram",
-		[222202] = 2,
-		[248439] = 1,
+		[61584] = "Formerune forge-foudre",
 		[300155] = "Villageoise tirnenn",
-		[10796] = 3,
-		[330896] = 2,
-		[345230] = 11,
+		[320655] = "Chancros",
+		[236021] = 11,
+		[55964] = "Prince Taldaram",
+		[77472] = 7,
+		[337037] = "Nekthara le Mutilateur",
+		[245040] = "Seigneur Eilgar",
+		[75532] = 12,
 		[28880] = 1,
+		[345230] = 11,
+		[330896] = 2,
 		[49821] = 5,
-		[202719] = 12,
+		[189044] = 11,
 		[345231] = 9,
 		[330897] = 11,
-		[203406] = 11,
-		[127230] = 9,
-		[61584] = "Formerune forge-foudre",
-		[341215] = "[*] Anima volatil",
-		[236021] = 11,
-		[328928] = "Mellø-Aegwynn",
-		[143964] = 8,
-		[319952] = 5,
-		[332947] = 2,
-		[327664] = "Docteur Sutur",
+		[308429] = 3,
+		[203704] = 12,
+		[192058] = 7,
 		[45470] = 6,
+		[294171] = "Intercepteur antrelige renforcé",
+		[114919] = 2,
+		[143964] = 8,
+		[322709] = "Tred'ova",
+		[332947] = 2,
+		[33702] = 8,
+		[334660] = "Arme animée <Tirailleur noble>",
 		[247376] = "Imonar le Chasseur d'âmes",
 		[332948] = 2,
-		[48295] = "Roi Ymiron",
-		[322709] = "Tred'ova",
-		[32714] = "Briseur ahn'kahar",
-		[54801] = "Elémentaire drakkari",
-		[326806] = "Inquisiteur Sigor",
-		[294171] = "Intercepteur antrelige renforcé",
-		[322711] = "Halkias",
+		[296146] = 2,
+		[305006] = 3,
 		[783] = 11,
-		[32592] = 5,
+		[333477] = "Broyaux",
+		[326806] = "Inquisiteur Sigor",
+		[49761] = 12,
+		[322711] = "Halkias",
+		[221562] = 6,
+		[327701] = 6,
 		[279709] = 11,
 		[271519] = "Taloc",
 		[324760] = "Eclat d'Halkias",
 		[326808] = 6,
 		[221781] = "Gul'dan",
 		[330904] = 11,
-		[22703] = 9,
+		[322239] = "Apparition malveillante",
 		[335000] = "Mueh'zala",
 		[328857] = "Hurlaile",
 		[2139] = "Вает-ЧерныйШрам",
-		[245040] = "Seigneur Eilgar",
-		[332708] = "Relent le Briseur",
-		[302311] = 1,
+		[198837] = "Furtif ressuscité <Ousi-Turalyon>",
+		[212800] = 12,
+		[50334] = 11,
 		[330906] = 11,
 		[341145] = "Hiérarque de la cour",
 		[192090] = 11,
-		[156287] = 1,
+		[23252] = 10,
 		[330907] = 10,
 		[341146] = "Exécutrice de la cour",
-		[323541] = 4,
+		[202719] = 12,
 		[221783] = "Gul'dan",
-		[246919] = "Décimateur",
-		[221562] = 6,
-		[114919] = 2,
+		[121153] = 4,
+		[330662] = 11,
+		[61858] = "Catapulte de Joug-d’Hiver <Slormi-Madmortem>",
 		[258643] = "Kin'garoth",
 		[330909] = "Moniale déchue <Jestún-Taerar>",
 		[211545] = 11,
-		[198837] = "Furtif ressuscité <Ousi-Turalyon>",
-		[212800] = 12,
-		[246779] = "Kin'garoth",
+		[320646] = "[*] Gaz fétide",
+		[33757] = 7,
+		[244328] = "Charge détonante <Kin'garoth>",
 		[56222] = 6,
 		[257620] = 3,
-		[118594] = 5,
+		[185358] = 3,
 		[330911] = 10,
-		[50334] = 11,
-		[33697] = 10,
-		[229976] = 2,
 		[108853] = 8,
+		[108839] = 8,
+		[229976] = 2,
+		[30449] = "Sartor-Aggra(Português)",
 		[341151] = "Assassin nathrian",
 		[142947] = "Golem d’anima modifié",
 		[320674] = 7,
-		[115175] = 10,
-		[53595] = 2,
+		[110909] = 8,
+		[171632] = 3,
 		[171616] = 11,
-		[337110] = "Baronne Frieda",
+		[32714] = "Briseur ahn'kahar",
 		[289959] = 6,
-		[336746] = 3,
+		[330945] = 5,
 		[52127] = 7,
-		[53390] = 7,
-		[322724] = "Embusqué cœur-algide",
-		[342322] = "Dame Inerva Sombreveine",
 		[22482] = 4,
+		[322724] = "Embusqué cœur-algide",
+		[257622] = 3,
+		[171617] = 7,
 		[197214] = 7,
-		[347349] = 7,
+		[124219] = 10,
 		[341155] = 1,
-		[121153] = 4,
-		[337060] = 9,
 		[345251] = 7,
-		[206847] = "Le démon intérieur",
+		[337060] = 9,
+		[246374] = "[*] Lames de l'ombre",
+		[264178] = 9,
 		[335013] = "Artificier Xy'mox",
 		[320679] = "Belligérant inflexible",
-		[214621] = 5,
-		[322729] = 10,
-		[222695] = 1,
-		[108839] = 8,
+		[298154] = 2,
+		[9512] = 4,
+		[330943] = 8,
+		[121147] = 6,
 		[202335] = 10,
 		[324776] = "Façonneur voile-de-brume",
-		[33757] = 7,
+		[328687] = "Arbalétrier os-vermoulu",
 		[263344] = "Conservatrice impériale renforcée",
 		[16595] = 1,
 		[124213] = 5,
 		[335016] = "Altimor le Veneur",
 		[16979] = 11,
 		[330921] = 8,
-		[322239] = "Apparition malveillante",
-		[206432] = 8,
-		[322475] = "[*] Éruption de peste",
-		[127797] = 11,
+		[246919] = "Décimateur",
+		[127802] = 9,
+		[326827] = "Surveillant suprême",
+		[17619] = 2,
 		[52128] = 7,
 		[343209] = 4,
-		[325360] = "Grande déléguée Beryllia",
-		[341133] = "Hiérarque nathriane",
-		[305006] = 3,
+		[206847] = "Le démon intérieur",
+		[206432] = 8,
+		[322729] = 10,
 		[171621] = 1,
-		[9512] = 4,
 		[3355] = 3,
-		[304093] = "Nécrorateur",
+		[247388] = "Grenade à impulsion",
+		[212283] = 4,
 		[326829] = "Inquisiteur Sigor",
-		[67034] = "Lanceur de glaive <Thaldrin-Aggramar>",
-		[330656] = 11,
-		[328687] = "Arbalétrier os-vermoulu",
+		[214621] = 5,
+		[325624] = 3,
+		[322475] = "[*] Éruption de peste",
+		[338653] = "Préposé aux sutures <Portail de l'atelier>",
+		[217694] = 8,
 		[119607] = 10,
-		[319655] = "Kryxis le Vorace",
-		[322735] = "Hakkar, l'écorcheur d'âmes",
 		[55968] = "Prince Taldaram",
 		[326831] = "Surveillant suprême",
-		[217694] = 8,
-		[330927] = 8,
+		[328891] = 8,
+		[322736] = "Hakkar, l'écorcheur d'âmes",
 		[244318] = "[*] Portail surpuissant : Xoroth",
-		[341200] = "Garde-vice nathriane",
-		[328880] = "Artificier Xy'mox",
+		[184662] = 2,
+		[213602] = 5,
 		[339119] = 2,
-		[192058] = 7,
-		[59961] = 6,
-		[337072] = "Feuillemort de Xantuth",
-		[330658] = 11,
-		[209387] = "Horreur cauchemardesque",
+		[222695] = 1,
 		[300717] = "Marklýft-Ragnaros",
-		[326836] = "Oppresseuse malfaisante",
-		[328452] = "Klotos",
-		[37795] = 6,
+		[337072] = "Feuillemort de Xantuth",
+		[336746] = 3,
+		[59961] = 6,
+		[328204] = 2,
+		[322746] = "[*] Sang vicié",
+		[234084] = 11,
+		[323496] = "Façonneur de chair",
 		[326835] = "Conscrit ossifié",
 		[234081] = 11,
-		[320696] = "Création loyale",
+		[41635] = 5,
 		[146028] = "Mitrailleur kor’kron",
-		[310454] = 10,
+		[326836] = "Oppresseuse malfaisante",
 		[246368] = "Brise-monde garothi",
-		[158315] = "Massacreuse Sorka",
-		[215652] = 2,
 		[326837] = "Surveillant suprême",
+		[158315] = "Massacreuse Sorka",
+		[37795] = 6,
 		[328885] = "Grand tortionnaire Darithos",
 		[23251] = 1,
 		[15786] = "Chaman de Gouffrefer",
-		[24275] = 2,
-		[341197] = "Oeil-de-faucon nathrian",
+		[339929] = 3,
+		[320696] = "Création loyale",
 		[322743] = "Création chancelante",
 		[341173] = 2,
-		[337101] = 10,
-		[328887] = "Hurlaile",
+		[24275] = 2,
+		[152173] = 10,
 		[56737] = "Broyeur d'os",
-		[328910] = "Tahonta",
-		[59407] = "Canaliste rituel",
-		[203704] = 12,
-		[184662] = 2,
-		[41635] = 5,
-		[194153] = 11,
+		[328887] = "Hurlaile",
+		[122128] = 5,
+		[330927] = 8,
+		[345704] = 5,
+		[341175] = 7,
+		[215652] = 2,
 		[328889] = "Grand tortionnaire Darithos",
-		[322746] = "[*] Sang vicié",
-		[325624] = 3,
+		[194153] = 11,
+		[310454] = 10,
 		[17364] = 7,
 		[328890] = "Grand tortionnaire Darithos",
-		[265187] = 9,
-		[328204] = 2,
+		[341133] = "Hiérarque nathriane",
+		[330656] = 11,
 		[192106] = 7,
 		[152175] = 10,
-		[227300] = "[*] Éruption arcanétique",
-		[212283] = 4,
-		[338653] = "Préposé aux sutures <Portail de l'atelier>",
-		[221354] = "Danselastre du Crépuscule",
-		[212792] = 8,
-		[124218] = 2,
+		[328880] = "Artificier Xy'mox",
 		[338411] = 11,
-		[308429] = 3,
-		[127802] = 9,
-		[124219] = 10,
+		[322735] = "Hakkar, l'écorcheur d'âmes",
+		[221354] = "Danselastre du Crépuscule",
+		[227300] = "[*] Éruption arcanétique",
+		[124218] = 2,
+		[330919] = "Masque enragé",
+		[59407] = "Canaliste rituel",
+		[337824] = 2,
+		[252516] = "Norgannon",
 		[326846] = "Inquisiteur Sigor",
 		[246373] = "Brise-monde garothi",
 		[119611] = 10,
-		[271559] = 10,
+		[127797] = 11,
 		[326847] = "Inquisiteur Sigor",
-		[121147] = 6,
-		[330943] = 8,
-		[260708] = 1,
 		[48291] = "Roi Ymiron",
-		[246374] = "[*] Lames de l'ombre",
+		[202347] = 11,
+		[260708] = 1,
+		[298155] = 2,
+		[271559] = 10,
 		[231016] = "Inconnu",
 		[158321] = "Massacreuse Sorka",
 		[192109] = 7,
@@ -6854,18 +7059,18 @@ _detalhes_global = {
 		[5302] = 1,
 		[195181] = 6,
 		[269513] = 4,
-		[110909] = 8,
-		[50026] = "Catapulte de Joug-d’Hiver <Abgetrennte-Malfurion>",
 		[320707] = 3,
-		[33702] = 8,
+		[319655] = "Kryxis le Vorace",
+		[33697] = 10,
+		[304093] = "Nécrorateur",
 		[129339] = 9,
 		[322756] = "Gardien de porte de Zolramus",
-		[244328] = "Charge détonante <Kin'garoth>",
-		[53480] = 3,
-		[61858] = "Catapulte de Joug-d’Hiver <Slormi-Madmortem>",
+		[195182] = 6,
+		[253543] = "Dévastateur de la Légion",
+		[209387] = "Horreur cauchemardesque",
 		[322757] = "Gardien de porte de Zolramus",
 		[124220] = 10,
-		[23252] = 10,
+		[246779] = "Kin'garoth",
 		[5782] = 9,
 		[339140] = 11,
 		[146037] = "[*] Vortex sha",
@@ -6873,338 +7078,338 @@ _detalhes_global = {
 		[148085] = "Ingénieur Boîte-Noire",
 		[322759] = "Hakkar, l'écorcheur d'âmes",
 		[215661] = 2,
-		[296146] = 2,
+		[32592] = 5,
 		[48292] = "Roi Ymiron",
-		[122128] = 5,
-		[337824] = 2,
-		[327701] = 6,
+		[342322] = "Dame Inerva Sombreveine",
+		[302311] = 1,
+		[158221] = 10,
 		[296140] = 11,
 		[247402] = 5,
-		[323496] = "Façonneur de chair",
+		[332708] = "Relent le Briseur",
 		[6262] = 9,
-		[195182] = 6,
-		[333477] = "Broyaux",
+		[53595] = 2,
+		[50026] = "Catapulte de Joug-d’Hiver <Abgetrennte-Malfurion>",
 		[6358] = "Cattrah <Picene-Ravencrest>",
-		[330945] = 5,
+		[212792] = 8,
 		[328906] = 4,
-		[202347] = 11,
+		[22703] = 9,
 		[333002] = "Occultiste infâme",
 		[17877] = 9,
 		[320716] = 1,
-		[185358] = 3,
+		[127230] = 9,
 		[308430] = 12,
-		[334660] = "Arme animée <Tirailleur noble>",
-		[328908] = 3,
 		[311205] = 12,
-		[257622] = 3,
-		[49761] = 12,
-		[339929] = 3,
-		[234084] = 11,
+		[328908] = 3,
+		[53390] = 7,
+		[271881] = 4,
+		[323541] = 4,
+		[265187] = 9,
+		[22721] = 4,
 		[341196] = "Massacreur nathrian",
-		[30449] = "Sartor-Aggra(Português)",
-		[189044] = 11,
+		[340203] = 2,
+		[328910] = "Tahonta",
 		[322767] = "Moissonneur drust",
 		[308433] = 7,
 		[257644] = "Varimathras",
-		[152173] = 10,
+		[319952] = 5,
 		[330959] = "Baronne Frieda",
 		[308434] = 7,
-		[88750] = 5,
+		[142934] = "Ritualiste de l’ombre mogu",
 		[115008] = 10,
-		[329563] = "Sismide obscur",
+		[203406] = 11,
 		[341199] = "Chevaucheuse de gargon nathriane",
-		[345704] = 5,
-		[264178] = 9,
-		[292360] = 11,
+		[257645] = "Aman'Thul",
+		[292473] = 2,
+		[62618] = 5,
 		[211571] = "Mage du chaos gangrelige",
 		[59300] = "Roi Ymiron",
 		[320723] = "[*] Onde explosive déplacée",
-		[213602] = 5,
-		[322736] = "Hakkar, l'écorcheur d'âmes",
+		[328837] = 3,
+		[193065] = 5,
+		[222202] = 2,
+		[54801] = "Elémentaire drakkari",
+		[329563] = "Sismide obscur",
+		[67034] = "Lanceur de glaive <Thaldrin-Aggramar>",
+		[346012] = 3,
+		[327664] = "Docteur Sutur",
+		[292360] = 11,
+		[324821] = 10,
 		[157982] = 11,
 		[7268] = 8,
-		[201754] = "Хати <Деневин-Гордунни>",
-		[324514] = "[*] Manifestation de la mort",
-		[247388] = "Grenade à impulsion",
-		[271881] = 4,
-		[321258] = "[*] Ultime moisson",
-		[158221] = 10,
-		[16856] = "Général Bjarngrim",
-		[326827] = "Surveillant suprême",
 		[330965] = "Castellan Niklaus",
-		[17619] = 2,
+		[324822] = 10,
 		[23509] = 6,
 		[320727] = "[*] Onde explosive déplacée",
 		[347348] = 7,
-		[345801] = 11,
-		[330919] = "Masque enragé",
+		[321258] = "[*] Ultime moisson",
+		[171845] = 11,
 		[48294] = "Roi Ymiron",
 		[314585] = "Sciemniak-Sylvanas",
-		[208385] = "[*] Décharge de corruption",
-		[25710] = "Maraudeur du bastion de la Conquête",
+		[245227] = "Amiral Svirax",
+		[105771] = 1,
 		[320729] = "Xav l'Invaincu",
 		[330968] = "Serveur querelleur",
 		[341207] = 5,
 		[527] = 5,
-		[59272] = "Jormungar massif",
-		[330532] = "Arbalestrier titubant",
-		[59146] = "Chasseur de dieu drakkari",
+		[17289] = "Oeil de Taldaram",
+		[47536] = 5,
+		[160331] = 11,
 		[326874] = "Démon de pierre mord-cheville",
 		[337113] = 9,
-		[320069] = "Dessia la Décapiteuse",
-		[24394] = "Рысак",
-		[115203] = 10,
+		[318406] = "Trancheboyau",
+		[24858] = 11,
+		[324717] = 11,
 		[328923] = "Mellø-Aegwynn",
-		[225079] = "Gardien contaminé",
-		[32216] = 1,
-		[311470] = 5,
+		[317361] = 11,
+		[59272] = "Jormungar massif",
+		[330532] = "Arbalestrier titubant",
 		[213624] = "[*] Marque de givre",
-		[296863] = 2,
-		[346012] = 3,
+		[343011] = 12,
+		[320069] = "Dessia la Décapiteuse",
 		[343259] = "Hecutis",
 		[328925] = 3,
 		[330973] = "Sac à gaz rance",
 		[603] = "Диграти-Гордунни",
 		[335069] = 2,
-		[81340] = 6,
+		[328622] = 2,
 		[206458] = "Le démon intérieur",
 		[27989] = "Jeune recrue spectrale",
 		[326879] = "Démon de pierre mord-cheville",
 		[104773] = 9,
-		[278377] = 11,
+		[184364] = "Tasarus-Ravencrest",
 		[275686] = "Sang amalgamé",
 		[302307] = 1,
 		[312546] = 6,
-		[155625] = 11,
+		[209469] = "Ichor cauchemardesque",
 		[223865] = "Vase putride",
 		[335072] = "Milhouse Tempête-de-Mana",
-		[344229] = 5,
-		[279565] = 8,
+		[202914] = 3,
+		[331398] = "Mémoire volatile",
 		[316643] = 1,
-		[210931] = "Oeil d'Il'gynoth",
+		[146739] = 9,
 		[328930] = "Mellø-Aegwynn",
 		[330978] = "Castellan Niklaus",
 		[43688] = 5,
-		[319687] = "Kryxis le Vorace",
+		[334945] = "Margore",
 		[691] = 9,
-		[147564] = "Ichor d’Y’Shaarj",
-		[330670] = 11,
+		[228391] = "Lieur d’âme parle-os",
+		[336990] = 4,
 		[703] = 4,
-		[328837] = 3,
-		[297098] = 10,
+		[60307] = 4,
+		[344229] = 5,
 		[182912] = 3,
 		[302312] = 1,
 		[144005] = "Lieuse de vague Kardris",
-		[332705] = "Grand prêtre atal'ai",
+		[334939] = "Margore",
 		[77130] = 7,
-		[285514] = 7,
+		[153596] = 8,
 		[345316] = 4,
 		[47528] = 6,
+		[55099] = 11,
 		[333492] = "Amarth",
-		[980] = 9,
 		[755] = 9,
 		[759] = 8,
-		[113900] = "Porte des démons <Jeannemloud-Hyjal>",
+		[106785] = 11,
 		[285933] = 9,
-		[62618] = 5,
+		[329319] = "Factionnaire antrelige",
 		[214654] = "Skorpyron",
 		[341223] = 3,
 		[25046] = 4,
 		[345319] = 9,
 		[228162] = "Hyrja",
-		[408] = 4,
-		[325551] = "Domina Lamevenin",
-		[5740] = 9,
-		[328833] = "Karaage",
-		[95750] = 9,
+		[59023] = "Constricteur inflexible",
+		[327885] = "Grand chambellan",
+		[195457] = 4,
+		[236665] = 11,
+		[113900] = "Porte des démons <Jeannemloud-Hyjal>",
 		[326891] = "Inquisiteur Sigor",
-		[342232] = 8,
+		[212262] = "Gul'dan",
 		[44457] = 8,
-		[194913] = 6,
+		[158176] = "Sismide obscur",
 		[326892] = "Dessia la Décapiteuse",
 		[328940] = "Tahonta",
-		[193065] = 5,
+		[320463] = "Maître de siège Traxon",
 		[275699] = 6,
 		[75596] = 5,
 		[225919] = 12,
 		[226943] = 5,
-		[334971] = "Margore",
+		[304971] = 2,
 		[294130] = 11,
 		[320751] = 7,
 		[871] = 1,
-		[321401] = "Tique gloutonne",
-		[105771] = 1,
-		[883] = 3,
+		[119582] = 10,
 		[244689] = "Hasabel la Garde-portail",
-		[211881] = 12,
-		[321247] = "Amarth",
+		[883] = 3,
+		[336851] = 3,
+		[59409] = "Svala Tristetombe",
+		[116888] = 6,
 		[213634] = 5,
-		[160331] = 11,
-		[321471] = "Mandebrume",
+		[195630] = 10,
+		[223021] = "[*] Peste putride",
 		[294133] = 2,
 		[225921] = 12,
-		[322817] = "Déva",
-		[236665] = 11,
+		[339184] = "Domina Lamevenin",
+		[244056] = "Shatug",
 		[59304] = "Roi Ymiron",
 		[337137] = 8,
 		[306421] = 9,
-		[255546] = 4,
+		[322817] = "Déva",
 		[335090] = 12,
-		[13736] = "Drek'Thar",
-		[321444] = 7,
+		[144334] = "[*] Tombe de fer",
+		[324312] = 10,
 		[260734] = 7,
-		[338357] = "Kyrian suturé",
-		[221490] = "Long-voyante astrale",
+		[292910] = "Entraveur antrelige",
+		[321444] = 7,
 		[339187] = 7,
-		[331356] = 3,
-		[320465] = "Maître de siège Traxon",
-		[974] = 7,
-		[295929] = "Rat de l'Antre surdimensionné",
+		[320576] = "Virulax Tissechancre",
+		[244737] = "Amiral Svirax",
+		[326718] = "Cadet sanguin",
+		[338357] = "Kyrian suturé",
 		[118089] = 4,
+		[331356] = 3,
+		[974] = 7,
+		[272432] = "Garde-courroux <Moondagger-Zenedar>",
+		[337510] = 4,
 		[15496] = "Pilleur drakkari",
-		[322614] = "Tred'ova",
-		[57994] = 7,
-		[225851] = "Gardien de la Garde crépusculaire",
-		[214308] = "[*] Ronces du Cauchemar",
 		[263423] = "Hound",
-		[44151] = 8,
+		[322614] = "Tred'ova",
 		[308474] = 2,
-		[196100] = 9,
-		[104276] = 7,
+		[57994] = 7,
+		[194879] = 6,
 		[57769] = 2,
-		[197625] = 11,
+		[324662] = "Kin-Tara",
 		[335096] = 1,
 		[345335] = 12,
-		[334945] = "Margore",
+		[313056] = 8,
 		[333049] = 8,
 		[335097] = 1,
 		[320763] = 7,
-		[194844] = 6,
+		[104276] = 7,
 		[324859] = "Soigneuse voile-de-brume",
 		[335098] = 1,
-		[145735] = "Amalgame de corruption",
-		[322654] = "Tred'ova",
-		[112869] = 9,
+		[194844] = 6,
+		[339528] = "Dragost",
+		[197625] = 11,
 		[269571] = 2,
-		[326629] = "Docteur Sutur",
-		[59023] = "Constricteur inflexible",
-		[53385] = 2,
+		[228388] = "Géant putréfiâme",
+		[330694] = "Rebut répugnant",
+		[343963] = 3,
 		[335100] = 1,
-		[59102] = "Lanceur de sorts ahn'kahar",
-		[244737] = "Amiral Svirax",
-		[225845] = "Tisserand de la Garde crépusculaire",
+		[53385] = 2,
+		[61459] = "Marcheur de peste",
+		[205345] = "Velron-LosErrantes",
 		[335101] = 1,
-		[191837] = 10,
+		[77575] = 6,
 		[206474] = "Tichondrius",
-		[245786] = 11,
-		[324371] = 3,
-		[347221] = "Abomination",
-		[321368] = "Nalthor le Lieur-de-Givre",
 		[57609] = "Tourelle de siège de Joug-d’Hiver <Zooton-Emeriss>",
+		[59102] = "Lanceur de sorts ahn'kahar",
+		[204166] = 1,
+		[59465] = "Ancien Nadox",
+		[207573] = "Ysondre",
 		[343294] = 6,
 		[5143] = 8,
 		[331008] = "Vase expérimentale",
-		[222241] = 8,
+		[97560] = 10,
 		[269576] = 3,
-		[108503] = 9,
+		[288756] = 8,
 		[322818] = "Déva",
 		[34477] = 3,
 		[212619] = 9,
 		[320771] = "Nalthor le Lieur-de-Givre",
-		[59650] = 12,
+		[136471] = 1,
 		[324867] = 10,
-		[143768] = "Kaz’tik le Manipulateur",
+		[22812] = 11,
 		[320772] = "Nalthor le Lieur-de-Givre",
-		[203533] = 11,
+		[126649] = 6,
 		[52907] = "Revenant furie-des-tempêtes",
-		[327885] = "Grand chambellan",
+		[331319] = "Dokigg le Brutalisateur",
 		[213644] = 2,
 		[157331] = "Elémentaire de tempête primordial <Nosferatusal-Cho'gall>",
-		[343995] = "Hurlaile",
+		[329425] = "Massacreur forgeflamme",
 		[108366] = 9,
-		[57610] = "Tourelle de siège de Joug-d’Hiver <Zooton-Emeriss>",
+		[59650] = 12,
 		[226955] = "Le démon intérieur",
 		[308488] = 4,
-		[93985] = 11,
-		[337989] = 6,
+		[196099] = 9,
+		[271296] = "Taloc",
 		[78674] = 11,
 		[47788] = 5,
 		[104271] = 6,
-		[333505] = 4,
-		[210738] = 6,
+		[205644] = "Tréant <Bwéno-CultedelaRivenoire>",
+		[197862] = 5,
 		[203407] = 11,
 		[343302] = "Hargitas",
-		[84751] = 11,
+		[328731] = "Inconnu",
 		[331016] = 12,
 		[308491] = 3,
 		[50092] = "Inconnu",
-		[86949] = 8,
-		[264130] = "Picene-Ravencrest",
-		[185099] = 10,
+		[218617] = "Kloxtup-ArgentDawn",
+		[328729] = "Sectateur ressuscité",
+		[147362] = 3,
 		[261769] = 10,
-		[132404] = 1,
+		[327876] = 10,
 		[78675] = 11,
-		[343737] = "Yu'lon <Atec>",
+		[213771] = 11,
 		[335114] = "Altimor le Veneur",
-		[197862] = 5,
+		[331672] = 10,
 		[44461] = 8,
-		[307194] = 7,
-		[204330] = "Доставашка-Гордунни",
-		[320463] = "Maître de siège Traxon",
-		[326718] = "Cadet sanguin",
+		[66529] = "Canon de la canonnière de la Horde <Meepmeepo-Kilrogg>",
+		[319276] = 11,
+		[141853] = 8,
+		[336803] = "Inconnu",
 		[308495] = 3,
 		[335116] = "Altimor le Veneur",
 		[6807] = 11,
 		[251532] = "Exossature sancteforge",
-		[212520] = 1,
-		[323393] = "Grand chambellan",
-		[333790] = "Esprit enragé",
+		[20473] = "Атомныймолот-ЧерныйШрам",
+		[212084] = 12,
+		[297292] = "Rondier Thonar",
 		[347404] = "Lieur de flamme magmatique",
 		[19801] = 3,
 		[48045] = "Жемобород-Гордунни",
 		[320784] = "Nalthor le Lieur-de-Givre",
-		[126664] = 1,
+		[333100] = 8,
 		[105809] = 2,
 		[335119] = "Altimor le Veneur",
-		[196440] = 5,
+		[52174] = 1,
 		[339215] = "Crache-peste",
 		[341263] = 5,
 		[1822] = 11,
 		[320786] = "[*] Puissance accablante",
-		[143812] = "He Pas de Loup",
+		[276754] = "Grand automate",
 		[59052] = 6,
 		[343312] = 12,
 		[320787] = "Milhouse Tempête-de-Mana",
 		[339217] = "Crache-peste",
-		[331748] = "Gardien voile-de-brume",
+		[331695] = 3,
 		[104274] = 10,
 		[320788] = "Nalthor le Lieur-de-Givre",
-		[345693] = 2,
-		[115181] = 10,
-		[288075] = 1,
+		[338871] = "Traqueur d'âmes V'lara",
+		[59408] = "Canaliste rituel",
+		[245392] = "Aggramar",
 		[320789] = "Xav l'Invaincu",
 		[314646] = 11,
 		[62124] = 2,
-		[108292] = 11,
-		[341902] = "Ritualiste du champ de bataille",
+		[156669] = "Amiral Gar’an",
+		[145288] = "Golem d’anima modifié",
 		[1966] = 4,
 		[308504] = 4,
 		[328620] = 2,
 		[345364] = 3,
-		[331695] = 3,
+		[267685] = 7,
 		[2006] = 5,
 		[343317] = "[*] Malédiction d’Hargitas",
-		[287712] = "Gimlix-ArgentDawn",
-		[320141] = "Milhouse Tempête-de-Mana",
+		[200183] = 5,
+		[77505] = 7,
 		[308506] = 12,
 		[212630] = "Malfurion Hurlorage",
 		[2060] = 5,
-		[20473] = "Атомныймолот-ЧерныйШрам",
-		[262115] = 1,
+		[35346] = "filip",
+		[2645] = 7,
 		[343319] = "Caramain",
-		[160067] = "Araignée <Êarly-Hyjal>",
-		[323749] = "Réceptacle d'anima vide",
-		[147296] = "Garrosh Hurlenfer",
+		[59152] = "Elémentaire d'air lié",
+		[221172] = "Fulminant",
+		[8178] = 7,
 		[343320] = "Caramain",
 		[328986] = "Réservoir instable",
 		[206488] = "[*] Ecoulement arcanique",
@@ -7212,200 +7417,200 @@ _detalhes_global = {
 		[208536] = "Gul'dan",
 		[337178] = "Belligérant inflexible",
 		[281889] = 2,
-		[258018] = "Noura, mère des Flammes",
+		[319209] = 11,
 		[343322] = "Moldovaak",
-		[270241] = "Garde-braise ardent",
-		[209785] = 2,
-		[319243] = 6,
+		[195707] = 1,
+		[290754] = 11,
+		[77758] = 11,
 		[343323] = "Moldovaak",
-		[207267] = 6,
-		[112042] = "Zhar'phog <Inconnu>",
-		[323629] = "[*] Brume rafraîchissante",
-		[147554] = "[*] Sang d’Y’Shaarj",
-		[145523] = "Statue de pierre",
+		[329976] = "Consulaire impériale renforcée",
+		[57640] = 4,
+		[273992] = 1,
+		[330700] = "Horreur infectieuse",
+		[327509] = 8,
 		[339229] = 12,
 		[341277] = 4,
 		[343325] = "Sindrel",
-		[108293] = 11,
-		[199844] = 8,
+		[221554] = "Courtisan déterminé",
+		[20577] = 4,
 		[308514] = 7,
-		[144904] = "Gardien quilen",
+		[307160] = 12,
 		[246422] = 3,
 		[198300] = 7,
-		[203277] = 8,
-		[323552] = "Grande adjudicatrice Alize",
-		[218617] = "Kloxtup-ArgentDawn",
+		[55567] = "Trembleterre drakkari",
+		[216339] = 8,
+		[307162] = 11,
 		[117588] = "Elémentaire de feu primordial <Fordögame-Ragnaros>",
-		[155145] = 2,
-		[22812] = 11,
+		[88746] = 2,
+		[102417] = 11,
 		[197277] = 2,
-		[58967] = "Chevaucheur de combat drakkari",
-		[269279] = 3,
-		[330700] = "Horreur infectieuse",
-		[781] = 3,
-		[345701] = 5,
+		[342998] = 5,
+		[328667] = "Mage os-vermoulu",
+		[59151] = "Assemblage forge-foudre",
+		[288503] = 3,
+		[333789] = "Esprit enragé",
 		[341282] = 5,
 		[122708] = 3,
-		[317491] = 1,
-		[310863] = 10,
-		[297966] = "Gueule de l'Antre",
-		[50977] = 6,
-		[341678] = 4,
+		[202246] = 11,
+		[323798] = 6,
+		[30451] = 8,
+		[127169] = 8,
+		[328673] = "Z'rali",
 		[2908] = 11,
 		[308520] = 5,
 		[335141] = "Nar'zudah",
-		[332401] = 2,
+		[228354] = 8,
 		[157348] = "Elémentaire de tempête primordial <Nosferatusal-Cho'gall>",
 		[248473] = 10,
 		[335142] = "Nar'zudah",
-		[337517] = 3,
-		[853] = 2,
-		[59151] = "Assemblage forge-foudre",
-		[335143] = "Soigne-os de Zolramus",
+		[181775] = 3,
+		[33786] = 11,
+		[343672] = 1,
+		[155301] = "Gruul",
 		[106839] = 11,
 		[255641] = "[*] Explosion de shrapnel",
-		[333789] = "Esprit enragé",
-		[49184] = 6,
+		[185313] = 4,
+		[307187] = 10,
 		[271664] = 2,
 		[12654] = 8,
-		[345020] = 1,
-		[243984] = "[*] Effondrement du monde",
+		[176180] = 12,
+		[57618] = "Démolisseur de Joug-d’Hiver <Tvebak-Ragnaros>",
 		[59567] = 10,
 		[59823] = "Esprit rhinocéros <Gal'darah>",
 		[308525] = 9,
-		[316958] = 2,
+		[163201] = 1,
 		[209568] = "Elémentaire entropique",
-		[181775] = 3,
-		[206879] = "Xavius",
+		[334058] = 5,
+		[108293] = 11,
 		[212640] = 3,
 		[205473] = 8,
 		[339243] = "[*] Infusion d’âme",
 		[341291] = 5,
-		[324427] = "Oryphrione",
-		[215572] = 1,
+		[210323] = 2,
+		[254472] = 2,
 		[339244] = "[*] Infusion d’âme",
-		[320542] = "Virulax Tissechancre",
+		[148515] = "Jun Wei",
 		[335149] = 11,
-		[212492] = "Sorcelame Aluriel",
-		[57618] = "Démolisseur de Joug-d’Hiver <Tvebak-Ragnaros>",
-		[172567] = "Grunt de Mur-de-Givre",
-		[1066] = 11,
-		[325225] = "Dame Inerva Sombreveine",
-		[322550] = "Tred'ova",
-		[115989] = 6,
+		[203028] = "Ysondre",
+		[31884] = "Атомныймолот-ЧерныйШрам",
+		[320517] = "Brise-échine chancreux",
+		[310863] = 10,
+		[190909] = 8,
+		[252623] = "[*] Lien d'énergie gangrenée",
+		[331527] = "Dame Inerva Sombreveine",
 		[253597] = 6,
-		[148138] = "Ingénieur Boîte-Noire",
+		[345390] = 4,
 		[247454] = 12,
-		[45334] = 11,
+		[229386] = 3,
 		[294197] = 4,
 		[271672] = 3,
-		[3411] = 1,
+		[243984] = "[*] Effondrement du monde",
 		[324914] = "Soigneuse voile-de-brume",
-		[132467] = 10,
-		[320517] = "Brise-échine chancreux",
-		[59824] = "Gal'darah",
-		[279036] = "Taloc",
-		[212997] = "Tichondrius",
+		[45334] = 11,
+		[323749] = "Réceptacle d'anima vide",
+		[255646] = "Golganneth",
+		[117952] = 10,
+		[288495] = 12,
 		[320820] = 8,
 		[60848] = "Oublié",
-		[130] = 8,
+		[143812] = "He Pas de Loup",
 		[253599] = "Clobex",
-		[148522] = "Chaman des marées gueule-de-dragon",
+		[212743] = "Land-Nordrassil",
 		[255647] = 2,
-		[342998] = 5,
-		[191840] = 10,
+		[114108] = 11,
+		[155741] = 7,
 		[320822] = "Soigne-os de Zolramus",
-		[335913] = 10,
+		[268893] = 9,
 		[228003] = "Hymdall",
 		[253600] = "[*] Brûlure d'âme",
 		[271677] = 3,
-		[195617] = 6,
+		[255648] = "Golganneth",
 		[275773] = 2,
-		[54216] = 3,
+		[326494] = 2,
 		[345397] = "Hurlaile",
-		[163212] = 10,
+		[224170] = 3,
 		[228004] = "Hymdall",
 		[253601] = "[*] Brûlure d'âme",
 		[320825] = "Ecureuil-bombe mécanique",
 		[206503] = "[*] Flammes de Sargeras",
-		[295965] = 2,
-		[267997] = "Démon abject <Picene-Ravencrest>",
-		[324631] = 10,
-		[323608] = "Mordretha, l'impératrice immortelle",
+		[201764] = 7,
+		[212105] = 12,
+		[225311] = 2,
+		[222240] = 2,
 		[324922] = "Elagueur drust",
 		[335161] = 6,
 		[59569] = 7,
 		[59825] = "Gal'darah",
 		[324923] = "Elagueur drust",
-		[191587] = 6,
+		[98008] = 7,
 		[271682] = 11,
 		[60849] = "Oublié",
-		[209443] = "Xavius",
-		[282449] = 4,
-		[343727] = "Ombrefiel <Raidmaxx-Frostwolf>",
-		[329757] = "Destrier ignoble",
+		[320142] = "Milhouse Tempête-de-Mana",
+		[313088] = 6,
+		[209785] = 2,
+		[118522] = 7,
 		[275779] = 2,
 		[335164] = "Sac à chancre",
 		[320830] = "Ecureuil-bombe mécanique",
-		[319521] = "Kul'tharok",
+		[145218] = "Mogu de pierre animé",
 		[228007] = "[*] Lame dansante",
 		[55218] = "Gal'darah",
 		[221864] = "Elémentaire résurgent",
-		[339538] = 2,
-		[218148] = "Solariste Tel’arn",
-		[195750] = 6,
-		[270246] = "Elémentaire flamboyant",
-		[294602] = 11,
+		[244532] = "Brise-monde garothi",
+		[184367] = "Musaka-Outland",
+		[146488] = "Tourelle antiaérienne <Hachiirama-Elune>",
+		[319531] = "Kul'tharok",
+		[272472] = 10,
 		[162480] = 3,
 		[204459] = "Skorpyron",
 		[20572] = 3,
 		[5176] = 11,
 		[333120] = 12,
-		[305045] = 4,
-		[184367] = "Musaka-Outland",
-		[243651] = 5,
-		[308270] = 11,
+		[338142] = 11,
+		[20243] = 1,
+		[195750] = 6,
+		[160067] = "Araignée <Êarly-Hyjal>",
 		[163505] = 11,
-		[245627] = "Noura, mère des Flammes",
+		[12555] = "Général Bjarngrim",
 		[59826] = "Gal'darah",
 		[333122] = 2,
-		[54643] = 4,
+		[341824] = 5,
 		[234153] = 9,
 		[136885] = "Phylactère de ritualiste de l’ombre",
 		[333123] = 2,
 		[61362] = "Tisseur de flammes drakkari",
-		[320327] = "[*] Onde explosive déplacée",
+		[187708] = 3,
 		[347458] = 11,
-		[206896] = "D'zorykx le Trappeur",
-		[342820] = 1,
-		[340020] = 8,
+		[340646] = "Assistant sculpté",
+		[243651] = 5,
+		[170679] = "Karnor le Cruel",
 		[194223] = 11,
-		[331401] = "Général Kaal",
+		[342820] = 1,
 		[212653] = "Риндорму-Гордунни",
 		[205486] = "Etraeus, l'augure stellaire",
 		[47540] = 5,
-		[13750] = 4,
-		[117418] = 10,
-		[196741] = 10,
+		[200758] = 4,
+		[10060] = 5,
+		[325324] = "Artificier Xy'mox",
 		[327574] = 6,
 		[114014] = "Мульч-Разувий",
 		[204463] = "Nythendra",
-		[106951] = 11,
+		[213123] = "Jeune araignée venimeuse",
 		[33206] = 5,
-		[209971] = "Elisande",
-		[2484] = 7,
-		[319837] = "[*] Pointe",
-		[200758] = 4,
+		[300832] = 4,
+		[32295] = 8,
+		[270241] = "Garde-braise ardent",
+		[323654] = 4,
 		[6360] = "Elertai",
 		[51124] = 6,
 		[320843] = "Tique affamée",
 		[59827] = "Gal'darah",
 		[12975] = 1,
-		[307443] = 8,
+		[327461] = "Rondier Thonar",
 		[6552] = 1,
 		[60851] = "Oublié",
-		[132168] = 1,
-		[320147] = "Millificent Tempête-de-Mana",
+		[204766] = "Scorpide cristallin",
+		[204859] = "Ursoc",
 		[213680] = 11,
 		[322893] = "Déva",
 		[341323] = "Pisteuse nathriane",
@@ -7413,543 +7618,543 @@ _detalhes_global = {
 		[337228] = 2,
 		[226991] = 12,
 		[162487] = 3,
-		[292942] = "Tortionnaire d'Ayeleth",
+		[337517] = 3,
 		[329038] = 1,
 		[47541] = 6,
-		[109964] = 5,
+		[77761] = 11,
 		[224944] = "Mage du chaos gangrelige",
-		[73325] = 5,
+		[253087] = 10,
 		[259756] = 6,
 		[211634] = "[*] Ténèbres infinies",
-		[294517] = "Charognard âme-morte",
-		[77761] = 11,
+		[310984] = 6,
+		[338004] = "Bedeau diligent",
 		[173751] = "Gardien faëillu",
-		[329321] = "Gargon vicieux",
-		[56862] = "Elémentaire d'eau lié",
+		[246840] = "[*] Dévastateur",
+		[202836] = 6,
 		[345423] = "Flâshÿ-Kazzak",
 		[298325] = 10,
 		[244399] = "Décimateur",
 		[196277] = 9,
-		[346111] = 5,
+		[245627] = "Noura, mère des Flammes",
 		[51637] = 4,
-		[307354] = 10,
-		[211805] = 6,
-		[327882] = "Pesteroc",
-		[5394] = 7,
+		[331866] = 12,
+		[44744] = 5,
+		[130] = 8,
+		[18562] = 11,
 		[267611] = 2,
 		[196278] = 9,
 		[221875] = "Etraeus, l'augure stellaire",
-		[58981] = "Homme-médecine drakkari",
+		[225601] = 3,
 		[267612] = 12,
 		[326997] = "Balafreur vive-pierre",
-		[329800] = 11,
-		[208697] = "Oeil meurtrier tentaculaire",
-		[321390] = 8,
-		[346694] = "Domestique dévoué",
+		[84714] = 8,
+		[33280] = 1,
+		[270449] = "[*] Décharge de plasma",
+		[279036] = "Taloc",
 		[189112] = 12,
 		[322903] = "Général Kaal",
 		[79206] = 7,
-		[7814] = "Elertai",
-		[319669] = "Kul'tharok",
+		[329831] = "Tírad-LesSentinelles",
+		[165961] = 11,
 		[259760] = "Деневин-Гордунни",
 		[114018] = "Veleth-Trollbane",
 		[343382] = 4,
-		[343672] = 1,
-		[263725] = 8,
-		[289308] = 8,
+		[278736] = 12,
+		[96312] = 10,
+		[246851] = 3,
 		[343383] = 4,
-		[93339] = 11,
+		[13750] = 4,
 		[218806] = "Solariste Tel’arn",
-		[326040] = "Péchés du passé",
+		[270481] = "Tyran démoniaque <Диграти-Гордунни>",
 		[155326] = "Gruul",
 		[345432] = 3,
 		[59829] = "Gal'darah",
-		[315496] = 4,
+		[248499] = "Argus l'Annihilateur",
 		[343385] = 9,
 		[271714] = "Broyeur de sang <Taloc>",
 		[322908] = "Déva",
-		[114738] = 7,
+		[338036] = 7,
 		[343386] = 9,
 		[304479] = "Masse d'âmes frémissantes",
 		[281954] = 11,
-		[33786] = 11,
-		[331644] = 10,
-		[125282] = 3,
-		[288503] = 3,
-		[341340] = 6,
-		[167130] = "Putriciole envahissante",
-		[339629] = "Acarus vorace",
-		[59152] = "Elémentaire d'air lié",
 		[59085] = "Tacticien forge-foudre",
+		[244163] = "F'harg",
+		[125282] = 3,
+		[251572] = "[*] Détonation d'explosion d'âme",
+		[341340] = 6,
+		[333506] = 4,
+		[197721] = 11,
+		[206641] = "Trilliax",
+		[54649] = 10,
 		[343389] = 4,
 		[40120] = 11,
-		[117679] = 11,
+		[253774] = 11,
 		[81256] = 6,
 		[343390] = 4,
-		[75002] = "Rôdeur animé",
+		[244899] = "Noura, mère des Flammes",
 		[273767] = "Duelliste impériale renforcée",
-		[178963] = 12,
+		[148582] = "Xiang Lin",
 		[343391] = 4,
 		[345439] = 3,
 		[210619] = "Feu follet corrompu",
-		[325442] = "Vainqueur pierre-lié",
-		[329968] = 11,
+		[327814] = "Général Kaal",
+		[106951] = 11,
 		[213691] = 3,
 		[149187] = "Chaman des marées gueule-de-dragon",
-		[277181] = 8,
+		[321433] = 8,
 		[343393] = 8,
 		[329059] = 8,
 		[339298] = 9,
-		[27285] = 9,
-		[218807] = "Arcaniste Tel’arn",
+		[339] = 11,
+		[333711] = "Raptor squelette",
 		[221883] = 2,
 		[149188] = "Chaman des marées gueule-de-dragon",
-		[178266] = 10,
-		[268068] = 2,
-		[32297] = 5,
-		[115767] = 1,
-		[327509] = 8,
+		[148310] = "Démolisseur kor’kron",
+		[6660] = "Ligelame de Vyraz",
+		[244057] = "F'harg",
+		[59467] = "Ancien Nadox",
+		[211037] = "Sentinelle de la Garde crépusculaire",
 		[343396] = 7,
 		[329062] = 8,
 		[173762] = "Gardien faëillu",
 		[341349] = "Pisteuse nathriane",
-		[193456] = 12,
+		[44153] = 4,
 		[152261] = 2,
-		[334747] = "Moissonneur de cadavres",
+		[334063] = 12,
 		[228028] = "Hyrja",
-		[327427] = "Visage démoli",
+		[331927] = "Fraise de dentiste abandonnée",
 		[221885] = 2,
 		[214718] = "Skorpyron",
-		[5384] = 3,
+		[115357] = 7,
 		[343399] = 11,
 		[152262] = 2,
-		[212743] = "Land-Nordrassil",
+		[70890] = 6,
 		[341352] = "Chevaucheuse de gargon nathriane",
 		[343400] = 11,
 		[221886] = 2,
 		[247483] = 10,
-		[329352] = 11,
-		[272682] = 3,
-		[268552] = 3,
-		[142775] = "Etincelle de vie",
+		[34861] = 5,
+		[244613] = "[*] Flammes semperardentes",
+		[327240] = "Création loyale",
+		[307354] = 10,
 		[228030] = "Hyrja",
-		[246867] = 2,
-		[212423] = "Furtif ressuscité <Кельверет-СвежевательДуш>",
-		[124009] = "Xuen <Eeyoree-Stormscale>",
-		[347901] = 10,
-		[222010] = "Solariste Tel’arn",
+		[339664] = 2,
+		[195757] = 6,
+		[117313] = 1,
+		[336038] = 5,
+		[342181] = 5,
 		[345451] = 5,
-		[323730] = "Nalthor le Lieur-de-Givre",
-		[329609] = "Colosse gravé de runes",
+		[245857] = "Gangregarde antoréen",
+		[331537] = "Totem d'emprise de l'ombre <Kelros-ConseildesOmbres>",
 		[327022] = 11,
 		[345452] = 5,
 		[339309] = 4,
-		[208790] = 12,
+		[196718] = 12,
 		[120679] = 3,
 		[64695] = 7,
-		[43265] = 6,
-		[144853] = "Gardien quilen",
-		[278249] = 12,
-		[310143] = 9,
-		[145712] = "Bombardier sri’thik",
-		[328331] = "Justicière désavouée",
-		[344232] = 2,
-		[58460] = "Suzerain Agmar",
-		[305008] = 2,
+		[203897] = "Ombre spirituelle",
+		[319669] = "Kul'tharok",
+		[339552] = "Deplina",
+		[325807] = "Mueh'zala",
+		[327331] = "Soigneur désavoué",
+		[335541] = 3,
+		[338525] = 11,
+		[199545] = 2,
+		[605] = 5,
 		[252606] = "Tisseur de flammes",
 		[59320] = "Fontaine des esprits",
-		[327467] = "Rondier Thonar",
-		[215288] = "Elerethe Ranfarouche",
-		[321226] = "Amarth",
+		[198589] = 12,
+		[162243] = 12,
+		[164812] = 11,
 		[200389] = 11,
 		[144076] = 10,
-		[341422] = "Exécuteur nathrian",
+		[319702] = "Echelon",
 		[260798] = 1,
-		[117313] = 1,
+		[50989] = "Catapulte de Joug-d’Hiver <Blautze-Thrall>",
 		[221891] = "Gul'dan",
 		[22751] = 10,
-		[342181] = 5,
+		[346111] = 5,
 		[327029] = "Arbalestrier titubant",
 		[144077] = 10,
-		[145692] = "Hurleguerre kor’thik",
+		[320334] = 12,
 		[324982] = 11,
-		[196718] = 12,
-		[319715] = "Kryxis le Vorace",
+		[65081] = 5,
+		[41301] = 11,
 		[331126] = "Traqueur",
 		[324983] = 2,
-		[160065] = "Акир <Гарцрог-СвежевательДуш>",
-		[265931] = 9,
+		[65014] = 4,
+		[340158] = 10,
 		[322936] = "Halkias",
 		[81262] = "Efflorescence <Covcha-Outland>",
-		[245861] = "[*] Lacération incendiaire",
+		[56641] = 3,
 		[296316] = 2,
-		[121411] = 4,
-		[329618] = "Dame Inerva Sombreveine",
+		[92232] = 5,
+		[96231] = 2,
 		[67440] = "Démolisseur <Ostinato-Outland>",
-		[274792] = "Crogg libéré <ßestwørlð-Stormscale>",
+		[311468] = 5,
 		[322938] = "Moissonneur drust",
-		[331672] = 10,
+		[216251] = 7,
 		[59321] = "Fontaine des esprits",
 		[345464] = 2,
 		[322939] = "Moissonneur drust",
 		[324987] = "Traqueur voile-de-brume",
-		[323497] = 5,
+		[251836] = 11,
 		[144080] = 10,
-		[339552] = "Deplina",
-		[1680] = 1,
+		[268877] = 3,
+		[276187] = 4,
 		[61369] = "Berserker en acier durci",
 		[345466] = 2,
-		[339664] = 2,
-		[257415] = 12,
+		[274792] = "Crogg libéré <ßestwørlð-Stormscale>",
+		[292362] = 11,
 		[327037] = 11,
-		[345696] = 11,
+		[117828] = 9,
 		[339324] = 2,
-		[244613] = "[*] Flammes semperardentes",
+		[227096] = "Le démon intérieur",
 		[204490] = 12,
-		[311492] = 3,
+		[339706] = "Echo de chevaucheur de taureau",
 		[322943] = "Halkias",
-		[327704] = 9,
-		[311054] = 10,
+		[211805] = 6,
+		[321755] = "Nalthor le Lieur-de-Givre",
 		[80240] = 9,
-		[156000] = 6,
+		[323804] = "Magistrate kyriane sombre",
 		[341374] = 5,
-		[199483] = 3,
-		[210279] = "Cénarius",
+		[343713] = 6,
+		[319713] = "Kryxis le Vorace",
 		[322945] = "Halkias",
 		[248518] = 3,
-		[254760] = "Shatug",
-		[196733] = 10,
-		[319685] = "Kryxis le Vorace",
+		[247932] = "Explosion de shrapnel",
+		[268528] = "Werione-Ragnaros",
+		[210342] = "Cénarius",
 		[252614] = "Tisseur de flammes",
-		[50989] = "Catapulte de Joug-d’Hiver <Blautze-Thrall>",
-		[55342] = 8,
+		[294533] = "Diable âme-morte",
+		[344754] = "Inconnu <Hatshepsut-Hyjal>",
 		[59834] = "Etincelle d'Ionar",
 		[199373] = "Armée des morts",
 		[224970] = "Lame-de-l’ombre gangrelige",
 		[320900] = 8,
-		[264957] = 3,
-		[64044] = 5,
+		[206803] = 12,
+		[113746] = 10,
 		[253639] = 5,
 		[213708] = 11,
 		[61882] = 7,
-		[223354] = 7,
-		[327104] = 10,
-		[188501] = 12,
+		[278773] = "[*] Ravage plasmique",
+		[209034] = "[*] Liens de terreur",
+		[342248] = "Haleur de pâtée nauséabond",
 		[145109] = 11,
-		[118337] = 7,
-		[210048] = "Ichor cauchemardesque",
+		[60116] = 7,
+		[346694] = "Domestique dévoué",
 		[213709] = 11,
-		[5225] = 11,
-		[58973] = "Chasseur de dieu drakkari",
+		[289308] = 8,
+		[198819] = 1,
 		[32223] = 2,
 		[152277] = 1,
 		[145110] = 11,
-		[196742] = 10,
-		[170347] = 7,
-		[311465] = 5,
+		[213134] = 5,
+		[319837] = "[*] Pointe",
+		[167130] = "Putriciole envahissante",
 		[222925] = "Jeune araignée venimeuse",
-		[323810] = "Général Kaal",
+		[338621] = "Destructeur affamé",
 		[224973] = "[*] Enchaînement d’ombre",
 		[209615] = "Elisande",
 		[306572] = 2,
-		[127928] = 3,
-		[52022] = "Général Bjarngrim",
+		[270569] = 9,
+		[107203] = 8,
 		[110959] = 8,
 		[306573] = 3,
 		[267666] = 3,
-		[65014] = 4,
+		[208697] = "Oeil meurtrier tentaculaire",
 		[152279] = 6,
 		[306574] = 3,
 		[325004] = "Dame Inerva Sombreveine",
-		[341824] = 5,
-		[338670] = 7,
+		[197995] = 7,
+		[127928] = 3,
 		[6713] = "Lancier drakkari",
-		[209034] = "[*] Liens de terreur",
-		[277035] = "Marteleur fuyard",
+		[327104] = 10,
+		[197916] = 10,
 		[144089] = "Brise-terre Haromm",
-		[323821] = "Général Kaal",
-		[316244] = "Lutin pierre-lié",
-		[332598] = 1,
+		[208790] = 12,
+		[293142] = 1,
+		[265931] = 9,
 		[110960] = 8,
 		[306577] = 7,
 		[215761] = "Inconnu",
-		[325872] = "Oblitérateur dépravé",
+		[210279] = "Cénarius",
 		[201427] = 12,
 		[339342] = 11,
 		[252621] = "Tisseur de flammes",
-		[30451] = 8,
+		[53048] = "Formerune forge-foudre",
 		[329104] = "Grand chambellan",
-		[345495] = "Pustule écumante <Nonobstant-Dalaran>",
-		[213134] = 5,
+		[344497] = 10,
+		[272682] = 3,
 		[310675] = 9,
 		[201428] = 12,
 		[7353] = 5,
 		[228049] = 2,
-		[263642] = 12,
+		[108211] = 4,
 		[148187] = 10,
-		[325885] = "Z'rali",
-		[276754] = "Grand automate",
+		[231587] = 2,
+		[48702] = "Fanatique écorche-dragon",
 		[327059] = 9,
 		[209620] = "Elémentaire résurgent",
-		[270058] = 3,
-		[81269] = 11,
-		[117952] = 10,
+		[199852] = 1,
+		[228050] = 2,
+		[188592] = 7,
 		[320917] = 8,
-		[322281] = "Hoplite sombre-féal",
+		[132036] = 3,
 		[325013] = 5,
-		[117405] = 3,
+		[12051] = 8,
 		[201430] = 3,
-		[155301] = "Gruul",
-		[327942] = 7,
-		[270827] = 11,
+		[210645] = "Démon flétri",
+		[277181] = 8,
+		[203155] = 3,
 		[329110] = "Professeur Ickus",
 		[255696] = 11,
 		[341397] = "Orbe d'anima",
-		[197509] = "Ver de sang <Mimes-KirinTor>",
-		[145706] = "Bombardier sri’thik",
+		[59452] = "Elémentaire drakkari",
+		[250030] = "[*] Force vitale",
 		[235219] = 8,
-		[216441] = 4,
+		[264878] = 3,
 		[81782] = 5,
 		[320921] = 8,
-		[336637] = 10,
+		[982] = 3,
 		[124273] = 10,
-		[18562] = 11,
+		[57842] = 4,
 		[329113] = "Grand chambellan",
 		[50622] = 1,
-		[236777] = 3,
+		[290134] = 2,
 		[294302] = "Ombre âme-morte",
-		[124507] = 10,
+		[1464] = 1,
 		[59837] = "Loken",
-		[259220] = "Javelineur cœur-algide renforcé",
-		[250007] = "[*] Grenade à impulsion surpuissante",
+		[453] = 5,
+		[251571] = "[*] Détonation de bombe d'âme",
 		[345497] = 11,
-		[266030] = 9,
+		[53480] = 3,
 		[325020] = 5,
-		[108446] = "Диграти-Гордунни",
+		[339341] = 11,
 		[345498] = "Cerf runique noble-bois",
-		[263707] = 1,
+		[329609] = "Colosse gravé de runes",
 		[124274] = 10,
-		[320334] = 12,
+		[175987] = "Ouvrière de l’atelier des scories",
 		[345499] = 11,
-		[116680] = 10,
+		[316019] = 9,
 		[228055] = "Helya",
 		[204506] = "Nythendra",
-		[198030] = 12,
-		[345804] = 5,
-		[344497] = 10,
-		[231587] = 2,
+		[317223] = 2,
+		[196911] = 4,
+		[84342] = 3,
+		[55104] = "Moorabi",
 		[296355] = "Subjugateur Klontzas",
-		[324909] = "Elagueur drust",
+		[196413] = 7,
 		[341406] = "Exécutrice Ophélia",
-		[305496] = 11,
+		[347901] = 10,
 		[20578] = 4,
 		[322977] = "Halkias",
 		[124275] = 10,
-		[199600] = 4,
+		[205146] = 9,
 		[242391] = "Agent cœur-algide",
-		[33280] = 1,
-		[325130] = 8,
+		[327467] = "Rondier Thonar",
+		[702] = 9,
 		[220890] = 6,
 		[345504] = "Traqueur invisible",
-		[37978] = "Sentinelle forge-foudre",
+		[149207] = "Corruption rémanente",
 		[325027] = "Elagueur drust",
 		[120692] = 5,
-		[702] = 9,
+		[146253] = "Esprit de marche-vent sans nom",
 		[347553] = 10,
 		[325028] = 3,
-		[49106] = "Berserker ymirjar",
+		[145712] = "Bombardier sri’thik",
 		[148196] = "Esprit de sage tisse-brume",
 		[206557] = "Trilliax",
-		[42724] = "Saccageur en acier durci",
-		[344663] = 11,
+		[32612] = 8,
+		[116095] = 10,
 		[271788] = 3,
 		[54719] = "Colosse drakkari",
-		[100784] = 10,
-		[142238] = "Grand mystique illusoire",
-		[328002] = "Moissonneur pestilentiel",
-		[59452] = "Elémentaire drakkari",
-		[203554] = 11,
+		[210684] = "Ame en peine de mana flétrie",
+		[328254] = "Démon tenace",
+		[73630] = 2,
+		[216441] = 4,
+		[236746] = 7,
 		[343461] = 10,
 		[329127] = 2,
 		[314793] = 8,
-		[321105] = "Chiropteffroi vorace",
+		[337567] = 12,
 		[49088] = 6,
-		[108396] = 9,
+		[31589] = 8,
 		[198368] = 4,
 		[16739] = 12,
 		[192225] = 12,
 		[296365] = "Subjugateur Klontzas",
-		[268893] = 9,
+		[324164] = 6,
 		[341416] = "Exécuteur nathrian",
-		[312767] = 5,
-		[91797] = "Blightthief <Bayme-Ravencrest>",
+		[199600] = 4,
+		[270058] = 3,
 		[59839] = "Slad'ran",
-		[232633] = 5,
-		[101545] = 10,
-		[337567] = 12,
+		[212182] = 4,
+		[345980] = 3,
+		[226005] = "Ombrécaille apprivoisé",
 		[251611] = "Ravageur ligelame",
 		[333227] = "Seigneur de guerre ressuscité",
 		[269747] = 3,
 		[123254] = 5,
-		[297310] = "Guetteurs de mort",
+		[80354] = 8,
 		[325037] = 3,
 		[67453] = "Canon du donjon",
 		[217824] = 2,
 		[251612] = "Ravageur ligelame",
-		[120954] = 10,
-		[57842] = 4,
-		[15284] = "Commandant Mortimer",
-		[228611] = "Marin de la garde de nuit",
-		[345698] = 2,
-		[203651] = 11,
-		[15572] = "Mineur de Gouffrefer",
+		[206151] = 11,
+		[158982] = "Goren de Mur-de-Givre",
+		[91778] = "Spinemuncher",
+		[222043] = "Créature des ombres",
+		[59255] = "Nécromancien ymirjar",
+		[326046] = "Corne-cerf gueule-épine",
+		[23036] = 4,
 		[331183] = 3,
 		[333231] = "Sathel le Maudit",
 		[343470] = "Maraudeur squelette",
 		[296372] = "Subjugateur Klontzas",
 		[20707] = 9,
 		[316850] = 2,
-		[56641] = 3,
-		[331620] = 10,
+		[342435] = 7,
+		[266030] = 9,
 		[339376] = 2,
-		[142759] = "Etincelle de vie",
-		[236746] = 7,
-		[109248] = 3,
+		[131900] = 3,
+		[203554] = 11,
+		[46924] = 1,
 		[331186] = 3,
-		[181113] = "Assassin aile-morne",
+		[34767] = 2,
 		[120696] = 5,
-		[201939] = 5,
-		[223539] = "[*] Vase abominable",
-		[91800] = "Goule ressuscitée",
-		[31589] = 8,
-		[345667] = 10,
+		[158599] = "Amiral Gar’an",
+		[77762] = 7,
+		[328305] = 4,
+		[245632] = "Flamme de Taeshalach",
+		[203533] = 11,
 		[322997] = 3,
 		[124280] = 10,
 		[224995] = "Gardeffroi",
 		[312759] = 11,
-		[212182] = 4,
+		[89751] = "Gangregarde <Диграти-Гордунни>",
 		[244449] = "[*] Décimation",
 		[55233] = 6,
 		[345524] = 8,
 		[322999] = "Déva",
-		[52174] = 1,
-		[155530] = "Gruul",
+		[299905] = 12,
+		[211191] = "Inconnu <Anomalie arcanique>",
 		[279997] = 1,
-		[173958] = 12,
+		[210662] = "Démon flétri",
 		[252641] = "Démon écumant",
-		[162675] = "Sabot-de-fer têtu",
-		[453] = 5,
+		[255826] = "Argus l'Annihilateur",
+		[328404] = 7,
 		[323001] = "Halkias",
-		[17195] = "Elémentaire de feu lié",
+		[193942] = "Amalgame instable",
 		[294333] = "Ombre âme-morte",
-		[34767] = 2,
-		[58966] = "Chevaucheur de combat drakkari",
+		[329316] = 1,
+		[64844] = 5,
 		[68992] = 4,
-		[211793] = 6,
+		[308078] = 3,
 		[329146] = 1,
 		[339385] = 1,
 		[333242] = "Cornesang déchaîné",
 		[104316] = 9,
-		[318995] = "Gherus l'Enchaîné",
+		[236282] = 1,
 		[298431] = 11,
-		[5405] = 8,
+		[211959] = "Pillard langue-de-wyrm",
 		[327100] = "[*] Voile nocif",
 		[345530] = 12,
-		[102349] = 4,
+		[55249] = "Gal'darah",
 		[308671] = 2,
-		[143765] = "Kaz’tik le Manipulateur",
+		[228611] = "Marin de la garde de nuit",
 		[217832] = 12,
-		[132578] = 10,
-		[329172] = "Statue stèle du vice",
+		[327276] = 10,
+		[68298] = 5,
 		[237286] = 4,
 		[337341] = 10,
 		[306625] = 11,
-		[148243] = "Grunt gueule-de-dragon",
-		[102547] = 11,
+		[228626] = 11,
+		[318995] = "Gherus l'Enchaîné",
 		[337342] = 10,
-		[89751] = "Gangregarde <Диграти-Гордунни>",
-		[59259] = "Berserker en acier durci",
+		[280398] = 5,
+		[203045] = "[*] Sol contaminé",
 		[49091] = "Harponneur ymirjar",
-		[61309] = 8,
-		[23214] = 2,
-		[148762] = "Commandant Zak’tar",
-		[56786] = "[*] Infection volatile",
+		[243999] = "Varimathras",
+		[236321] = 1,
+		[45438] = 8,
+		[324141] = "[*] Sombre trait",
 		[345535] = 1,
 		[323010] = "Déva",
-		[314242] = 3,
+		[127140] = 8,
 		[59330] = "Skadi le Brutal",
-		[228626] = 11,
+		[187707] = 3,
 		[323011] = "Déva",
 		[333250] = "Seigneur de guerre ressuscité",
 		[327107] = 3,
-		[243999] = "Varimathras",
+		[268905] = 12,
 		[306630] = 12,
 		[341442] = "Limon éruptif",
-		[324149] = "Картедрин-ЧерныйШрам",
+		[216389] = "Sorcelame Aluriel",
 		[246504] = "Démolisseur garothi",
-		[127140] = 8,
+		[194384] = 5,
 		[341443] = "Inconnu",
 		[225003] = "Gardeffroi",
 		[345539] = 5,
-		[206151] = 11,
-		[194384] = 5,
-		[316019] = 9,
-		[246505] = "Pyromancienne fanatique",
 		[48743] = 6,
 		[59237] = "Sauvage ymirjar",
-		[222043] = "Créature des ombres",
-		[345541] = 5,
-		[322212] = "Vestige de doute",
+		[219485] = 1,
+		[246505] = "Pyromancienne fanatique",
+		[213858] = 1,
 		[48107] = 8,
-		[49092] = "Harponneur ymirjar",
-		[317103] = 10,
-		[47468] = "Spinemuncher",
+		[145786] = "Prêtre d’ambre zar’thik",
+		[345541] = 5,
 		[315076] = 9,
+		[102349] = 4,
+		[49092] = "Harponneur ymirjar",
+		[173958] = 12,
+		[108238] = 11,
+		[6353] = 9,
 		[335304] = "Altimor le Veneur",
-		[61548] = "Berserker ymirjar",
+		[138130] = 10,
 		[251626] = "Seigneur des bêtes massepoing",
 		[17253] = "Oden <Boltevan-Archimonde>",
 		[335305] = "Gardien des profondeurs",
-		[6353] = 9,
-		[328404] = 7,
-		[224125] = 7,
+		[264957] = 3,
+		[221577] = "Long-voyante astrale",
+		[205202] = 2,
 		[335306] = "Gardien des profondeurs",
 		[329163] = "Camouflin",
 		[323020] = "Malegriffe drust",
-		[221577] = "Long-voyante astrale",
+		[285452] = 7,
 		[302543] = "Scintillaile faëillue",
 		[345546] = 12,
 		[255723] = 1,
 		[166646] = 10,
 		[108416] = 9,
 		[288210] = "Combattant de l'arène",
-		[59255] = "Nécromancien ymirjar",
-		[326434] = 11,
+		[328492] = 10,
+		[319280] = 4,
 		[147193] = 5,
 		[345548] = 1,
-		[319280] = 4,
-		[45438] = 8,
-		[126436] = 10,
+		[66289] = 1,
+		[248230] = "Brise-monde garothi",
+		[198067] = 7,
 		[320976] = 3,
 		[129918] = 1,
-		[254384] = "F'harg",
-		[320336] = "Mage os-vermoulu",
+		[259495] = 3,
+		[324417] = "Général Kaal",
 		[329168] = "Statue stèle du vice",
 		[198388] = "Ursoc",
-		[121838] = 2,
+		[61309] = 8,
 		[159481] = "Sergent d’artillerie de Fer",
-		[248254] = "Imonar le Chasseur d'âmes",
+		[121838] = 2,
 		[331217] = "[*] Souffrance partagée",
-		[198097] = 4,
-		[114165] = "Атомныймолот-ЧерныйШрам",
+		[203720] = 12,
+		[190925] = 3,
 		[329170] = "Statue stèle du vice",
 		[347600] = 1,
-		[299905] = 12,
-		[308096] = "Maître forgeflamme",
+		[114165] = "Атомныймолот-ЧерныйШрам",
+		[132578] = 10,
 		[329171] = "Statue stèle du vice",
+		[256456] = 11,
+		[314242] = 3,
 		[249293] = "Shatug",
-		[326538] = "Péchés du passé",
-		[322461] = 5,
 	},
 	["encounter_spell_pool"] = {
 		{
@@ -8048,9 +8253,9 @@ _detalhes_global = {
 			2401, -- [1]
 			"Halkias", -- [2]
 		},
-		[330026] = {
-			2384, -- [1]
-			"Professeur Ickus", -- [2]
+		[60236] = {
+			1984, -- [1]
+			"Vortex tempétueux", -- [2]
 		},
 		[116858] = {
 			2390, -- [1]
@@ -8083,6 +8288,10 @@ _detalhes_global = {
 		[244400] = {
 			2076, -- [1]
 			"Brise-monde garothi", -- [2]
+		},
+		[244912] = {
+			2063, -- [1]
+			"Braise de Taeshalach", -- [2]
 		},
 		[49106] = {
 			2028, -- [1]
@@ -8124,9 +8333,9 @@ _detalhes_global = {
 			2394, -- [1]
 			"Millificent Tempête-de-Mana", -- [2]
 		},
-		[246706] = {
-			2088, -- [1]
-			"[*] Démolir", -- [2]
+		[339759] = {
+			2404, -- [1]
+			"Mordretha, l'impératrice immortelle", -- [2]
 		},
 		[320825] = {
 			2394, -- [1]
@@ -8180,17 +8389,25 @@ _detalhes_global = {
 			2406, -- [1]
 			"Dame Inerva Sombreveine", -- [2]
 		},
+		[251570] = {
+			2092, -- [1]
+			"Argus l'Annihilateur", -- [2]
+		},
 		[340788] = {
 			2405, -- [1]
 			"Artificier Xy'mox", -- [2]
 		},
-		[23922] = {
-			2390, -- [1]
-			1, -- [2]
+		[228030] = {
+			1958, -- [1]
+			"Hyrja", -- [2]
 		},
 		[246965] = {
 			2076, -- [1]
 			"Annihilateur", -- [2]
+		},
+		[251571] = {
+			2092, -- [1]
+			"[*] Détonation de bombe d'âme", -- [2]
 		},
 		[48276] = {
 			2030, -- [1]
@@ -8284,9 +8501,13 @@ _detalhes_global = {
 			2144, -- [1]
 			"Sang amalgamé", -- [2]
 		},
-		[322893] = {
-			2359, -- [1]
-			"Déva", -- [2]
+		[248252] = {
+			2082, -- [1]
+			"Imonar le Chasseur d'âmes", -- [2]
+		},
+		[209615] = {
+			1872, -- [1]
+			"Elisande", -- [2]
 		},
 		[332617] = {
 			2384, -- [1]
@@ -8324,9 +8545,9 @@ _detalhes_global = {
 			2030, -- [1]
 			"Svala Tristetombe", -- [2]
 		},
-		[246208] = {
-			2064, -- [1]
-			"Rampante corrompue", -- [2]
+		[248255] = {
+			2082, -- [1]
+			"Imonar le Chasseur d'âmes", -- [2]
 		},
 		[140276] = {
 			1606, -- [1]
@@ -8340,9 +8561,9 @@ _detalhes_global = {
 			2074, -- [1]
 			"F'harg", -- [2]
 		},
-		[207573] = {
-			1854, -- [1]
-			"Ysondre", -- [2]
+		[322903] = {
+			2363, -- [1]
+			"Général Kaal", -- [2]
 		},
 		[321368] = {
 			2390, -- [1]
@@ -8352,9 +8573,9 @@ _detalhes_global = {
 			2418, -- [1]
 			"[*] Cœur brisé d’Al’ar", -- [2]
 		},
-		[271729] = {
-			2144, -- [1]
-			"Taloc", -- [2]
+		[224973] = {
+			1862, -- [1]
+			"[*] Enchaînement d’ombre", -- [2]
 		},
 		[249793] = {
 			2073, -- [1]
@@ -8368,9 +8589,9 @@ _detalhes_global = {
 			2390, -- [1]
 			6, -- [2]
 		},
-		[321370] = {
-			2390, -- [1]
-			"Nalthor le Lieur-de-Givre", -- [2]
+		[228300] = {
+			2008, -- [1]
+			"Helya", -- [2]
 		},
 		[331606] = {
 			2366, -- [1]
@@ -8540,9 +8761,9 @@ _detalhes_global = {
 			2390, -- [1]
 			5, -- [2]
 		},
-		[232408] = {
-			2008, -- [1]
-			"[*] Pourriture fétide", -- [2]
+		[156669] = {
+			1695, -- [1]
+			"Amiral Gar’an", -- [2]
 		},
 		[91800] = {
 			2390, -- [1]
@@ -8551,6 +8772,10 @@ _detalhes_global = {
 		[257484] = {
 			2074, -- [1]
 			"Shatug", -- [2]
+		},
+		[245458] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
 		},
 		[331634] = {
 			2412, -- [1]
@@ -8567,6 +8792,10 @@ _detalhes_global = {
 		[254926] = {
 			2088, -- [1]
 			"Kin'garoth", -- [2]
+		},
+		[257485] = {
+			2074, -- [1]
+			"F'harg", -- [2]
 		},
 		[322936] = {
 			2401, -- [1]
@@ -8604,6 +8833,14 @@ _detalhes_global = {
 			2390, -- [1]
 			5, -- [2]
 		},
+		[244693] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
+		},
+		[210662] = {
+			1825, -- [1]
+			"Démon flétri", -- [2]
+		},
 		[204777] = {
 			1853, -- [1]
 			"[*] Pourriture explosive", -- [2]
@@ -8636,6 +8873,10 @@ _detalhes_global = {
 			1594, -- [1]
 			"Gardien quilen", -- [2]
 		},
+		[245463] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
+		},
 		[332668] = {
 			2406, -- [1]
 			"Dame Inerva Sombreveine", -- [2]
@@ -8652,9 +8893,9 @@ _detalhes_global = {
 			1862, -- [1]
 			"Gardeffroi", -- [2]
 		},
-		[209387] = {
-			1873, -- [1]
-			"Horreur cauchemardesque", -- [2]
+		[340860] = {
+			2405, -- [1]
+			"Racine d'extinction", -- [2]
 		},
 		[341884] = {
 			2029, -- [1]
@@ -8744,9 +8985,9 @@ _detalhes_global = {
 			2381, -- [1]
 			"Grand chambellan", -- [2]
 		},
-		[59801] = {
-			1984, -- [1]
-			"Ionar", -- [2]
+		[328593] = {
+			2362, -- [1]
+			"Grande déléguée Beryllia", -- [2]
 		},
 		[225003] = {
 			1862, -- [1]
@@ -8808,9 +9049,9 @@ _detalhes_global = {
 			1854, -- [1]
 			"Inconnu <Ysondre>", -- [2]
 		},
-		[212726] = {
-			1877, -- [1]
-			"Cénarius", -- [2]
+		[243431] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
 		},
 		[213238] = {
 			1862, -- [1]
@@ -8896,13 +9137,17 @@ _detalhes_global = {
 			2070, -- [1]
 			"Amiral Svirax", -- [2]
 		},
-		[211196] = {
-			1877, -- [1]
-			"Drake corrompu", -- [2]
+		[210684] = {
+			1825, -- [1]
+			"Ame en peine de mana flétrie", -- [2]
 		},
-		[42724] = {
-			1987, -- [1]
-			"Saccageur en acier durci", -- [2]
+		[54878] = {
+			1983, -- [1]
+			"Elémentaire drakkari", -- [2]
+		},
+		[254695] = {
+			2063, -- [1]
+			"Braise de Taeshalach", -- [2]
 		},
 		[271811] = {
 			2144, -- [1]
@@ -9012,6 +9257,10 @@ _detalhes_global = {
 			2359, -- [1]
 			"Déva", -- [2]
 		},
+		[246770] = {
+			2073, -- [1]
+			"Tourment de Golganneth", -- [2]
+		},
 		[321976] = {
 			2384, -- [1]
 			"Inconnu", -- [2]
@@ -9048,9 +9297,9 @@ _detalhes_global = {
 			2088, -- [1]
 			"Kin'garoth", -- [2]
 		},
-		[148516] = {
-			1594, -- [1]
-			"Jun Wei", -- [2]
+		[323515] = {
+			2365, -- [1]
+			"Trancheboyau", -- [2]
 		},
 		[245237] = {
 			2076, -- [1]
@@ -9060,9 +9309,9 @@ _detalhes_global = {
 			1862, -- [1]
 			"Tichondrius", -- [2]
 		},
-		[145702] = {
-			1594, -- [1]
-			"Bombardier sri’thik", -- [2]
+		[326075] = {
+			2402, -- [1]
+			"Infuseuse d'âme", -- [2]
 		},
 		[55968] = {
 			1966, -- [1]
@@ -9160,9 +9409,9 @@ _detalhes_global = {
 			2384, -- [1]
 			"Limon éruptif", -- [2]
 		},
-		[206608] = {
-			1865, -- [1]
-			"Anomalie chronomatique", -- [2]
+		[341443] = {
+			2384, -- [1]
+			"Inconnu", -- [2]
 		},
 		[157736] = {
 			2390, -- [1]
@@ -9184,9 +9433,9 @@ _detalhes_global = {
 			1865, -- [1]
 			"Anomalie chronomatique", -- [2]
 		},
-		[321999] = {
-			2384, -- [1]
-			"Inconnu", -- [2]
+		[246014] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
 		},
 		[48294] = {
 			2028, -- [1]
@@ -9260,9 +9509,9 @@ _detalhes_global = {
 			1886, -- [1]
 			"[*] Magie scellée", -- [2]
 		},
-		[331217] = {
-			2393, -- [1]
-			"[*] Souffrance partagée", -- [2]
+		[329170] = {
+			2381, -- [1]
+			"Statue stèle du vice", -- [2]
 		},
 		[144947] = {
 			1623, -- [1]
@@ -9280,9 +9529,9 @@ _detalhes_global = {
 			2390, -- [1]
 			9, -- [2]
 		},
-		[329172] = {
-			2381, -- [1]
-			"Statue stèle du vice", -- [2]
+		[100780] = {
+			2390, -- [1]
+			10, -- [2]
 		},
 		[325590] = {
 			2402, -- [1]
@@ -9356,9 +9605,9 @@ _detalhes_global = {
 			1865, -- [1]
 			"Anomalie chronomatique", -- [2]
 		},
-		[323552] = {
-			2403, -- [1]
-			"Grande adjudicatrice Alize", -- [2]
+		[327646] = {
+			2396, -- [1]
+			"Mueh'zala", -- [2]
 		},
 		[248070] = {
 			2082, -- [1]
@@ -9492,9 +9741,9 @@ _detalhes_global = {
 			2397, -- [1]
 			"Dromane Oulfarran", -- [2]
 		},
-		[328177] = {
-			2384, -- [1]
-			"Tempétueux fongique", -- [2]
+		[228633] = {
+			2008, -- [1]
+			"Marin de la garde de nuit", -- [2]
 		},
 		[220957] = {
 			1866, -- [1]
@@ -9600,9 +9849,13 @@ _detalhes_global = {
 			1594, -- [1]
 			"Commandant Ik’tal", -- [2]
 		},
-		[142667] = {
-			1593, -- [1]
-			"Kunchong affamé <Kaz’tik le Manipulateur>", -- [2]
+		[244761] = {
+			2076, -- [1]
+			"Annihilateur", -- [2]
+		},
+		[257299] = {
+			2092, -- [1]
+			"Argus l'Annihilateur", -- [2]
 		},
 		[320517] = {
 			2384, -- [1]
@@ -9816,6 +10069,10 @@ _detalhes_global = {
 			2404, -- [1]
 			"Mordretha, l'impératrice immortelle", -- [2]
 		},
+		[256542] = {
+			2092, -- [1]
+			"Argus l'Annihilateur", -- [2]
+		},
 		[209973] = {
 			1872, -- [1]
 			"Elisande", -- [2]
@@ -9832,9 +10089,9 @@ _detalhes_global = {
 			2069, -- [1]
 			"[*] Fissure sombre", -- [2]
 		},
-		[326171] = {
-			2396, -- [1]
-			"Mueh'zala", -- [2]
+		[244006] = {
+			2069, -- [1]
+			"Varimathras", -- [2]
 		},
 		[332313] = {
 			2385, -- [1]
@@ -9876,6 +10133,10 @@ _detalhes_global = {
 			2402, -- [1]
 			"Infuseuse d'âme", -- [2]
 		},
+		[254244] = {
+			2082, -- [1]
+			"Imonar le Chasseur d'âmes", -- [2]
+		},
 		[323107] = {
 			2365, -- [1]
 			"Restes suintants", -- [2]
@@ -9904,17 +10165,17 @@ _detalhes_global = {
 			2075, -- [1]
 			"Le Paraxis", -- [2]
 		},
-		[319531] = {
-			2364, -- [1]
-			"Kul'tharok", -- [2]
+		[342048] = {
+			2391, -- [1]
+			"Xira la Sournoise", -- [2]
 		},
 		[346654] = {
 			2412, -- [1]
 			"Baronne Frieda", -- [2]
 		},
-		[254760] = {
-			2074, -- [1]
-			"Shatug", -- [2]
+		[329256] = {
+			2405, -- [1]
+			"Portail de faille explosive", -- [2]
 		},
 		[225079] = {
 			1854, -- [1]
@@ -9972,13 +10233,17 @@ _detalhes_global = {
 			2366, -- [1]
 			"Xav l'Invaincu", -- [2]
 		},
-		[319539] = {
-			2364, -- [1]
-			"Kul'tharok", -- [2]
+		[250669] = {
+			2092, -- [1]
+			"Argus l'Annihilateur", -- [2]
 		},
-		[224570] = {
-			1863, -- [1]
-			"Protecteur du palais Sacrenuit", -- [2]
+		[329774] = {
+			2383, -- [1]
+			"Destructeur affamé", -- [2]
+		},
+		[245040] = {
+			2064, -- [1]
+			"Seigneur Eilgar", -- [2]
 		},
 		[6660] = {
 			2390, -- [1]
@@ -10004,9 +10269,9 @@ _detalhes_global = {
 			1602, -- [1]
 			"[*] Résidu de sha", -- [2]
 		},
-		[324148] = {
-			2356, -- [1]
-			"Ventunax", -- [2]
+		[227642] = {
+			1962, -- [1]
+			"Guarm", -- [2]
 		},
 		[225851] = {
 			1886, -- [1]
@@ -10212,13 +10477,17 @@ _detalhes_global = {
 			1622, -- [1]
 			"Chaman des marées gueule-de-dragon", -- [2]
 		},
+		[252729] = {
+			2092, -- [1]
+			"Constelleur désigné", -- [2]
+		},
 		[31935] = {
 			2390, -- [1]
 			2, -- [2]
 		},
-		[59824] = {
-			1981, -- [1]
-			"Gal'darah", -- [2]
+		[332871] = {
+			2402, -- [1]
+			"Grand tortionnaire Darithos", -- [2]
 		},
 		[334919] = {
 			2418, -- [1]
@@ -10260,6 +10529,10 @@ _detalhes_global = {
 			2406, -- [1]
 			"Dame Inerva Sombreveine", -- [2]
 		},
+		[244033] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
+		},
 		[158315] = {
 			1695, -- [1]
 			"Massacreuse Sorka", -- [2]
@@ -10280,9 +10553,9 @@ _detalhes_global = {
 			2412, -- [1]
 			"Castellan Niklaus", -- [2]
 		},
-		[206677] = {
-			1842, -- [1]
-			"Krosus", -- [2]
+		[255805] = {
+			2064, -- [1]
+			"Vulcanar", -- [2]
 		},
 		[145523] = {
 			1594, -- [1]
@@ -10291,6 +10564,10 @@ _detalhes_global = {
 		[246082] = {
 			2064, -- [1]
 			"[*] Portail surpuissant : Rancora", -- [2]
+		},
+		[244291] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
 		},
 		[269937] = {
 			2390, -- [1]
@@ -10356,6 +10633,10 @@ _detalhes_global = {
 			2396, -- [1]
 			"Mueh'zala", -- [2]
 		},
+		[319898] = {
+			2384, -- [1]
+			"Tentacule visqueux", -- [2]
+		},
 		[322655] = {
 			2393, -- [1]
 			"Tred'ova", -- [2]
@@ -10364,33 +10645,73 @@ _detalhes_global = {
 			1872, -- [1]
 			"Elisande", -- [2]
 		},
+		[144089] = {
+			1606, -- [1]
+			"Brise-terre Haromm", -- [2]
+		},
+		[55078] = {
+			2390, -- [1]
+			6, -- [2]
+		},
+		[244686] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
+		},
 		[225105] = {
 			1886, -- [1]
 			"Archimage shal’dorei", -- [2]
+		},
+		[245671] = {
+			2073, -- [1]
+			"Tourment de Khaz'goroth", -- [2]
+		},
+		[245769] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
 		},
 		[347221] = {
 			2390, -- [1]
 			"Abomination", -- [2]
 		},
+		[244675] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
+		},
 		[55093] = {
 			1978, -- [1]
 			"Etrangleuse de Slad'ran", -- [2]
+		},
+		[345936] = {
+			2398, -- [1]
+			"Hurlaile", -- [2]
 		},
 		[247367] = {
 			2082, -- [1]
 			"Imonar le Chasseur d'âmes", -- [2]
 		},
+		[142667] = {
+			1593, -- [1]
+			"Kunchong affamé <Kaz’tik le Manipulateur>", -- [2]
+		},
 		[206939] = {
 			1866, -- [1]
 			"Gul'dan", -- [2]
+		},
+		[52212] = {
+			2390, -- [1]
+			6, -- [2]
+		},
+		[246753] = {
+			2075, -- [1]
+			"Négateur gangrechargé", -- [2]
 		},
 		[333406] = {
 			2385, -- [1]
 			"[*] Assassiner", -- [2]
 		},
-		[323683] = {
-			2404, -- [1]
-			"Mordretha, l'impératrice immortelle", -- [2]
+		[338012] = {
+			2403, -- [1]
+			"Fontaine d'anima", -- [2]
 		},
 		[326242] = {
 			2382, -- [1]
@@ -10416,9 +10737,21 @@ _detalhes_global = {
 			2387, -- [1]
 			"Ver putride", -- [2]
 		},
+		[244449] = {
+			2076, -- [1]
+			"[*] Décimation", -- [2]
+		},
+		[322563] = {
+			2393, -- [1]
+			"Tred'ova", -- [2]
+		},
 		[320103] = {
 			2384, -- [1]
 			"Limon glissant", -- [2]
+		},
+		[52174] = {
+			2390, -- [1]
+			1, -- [2]
 		},
 		[339550] = {
 			2404, -- [1]
@@ -10428,13 +10761,37 @@ _detalhes_global = {
 			2380, -- [1]
 			"Echelon", -- [2]
 		},
+		[257296] = {
+			2092, -- [1]
+			"Argus l'Annihilateur", -- [2]
+		},
 		[334945] = {
 			2418, -- [1]
 			"Margore", -- [2]
 		},
+		[323992] = {
+			2394, -- [1]
+			"Millificent Tempête-de-Mana", -- [2]
+		},
 		[329828] = {
 			2405, -- [1]
 			"Racine d'extinction", -- [2]
+		},
+		[328791] = {
+			2381, -- [1]
+			"Grand chambellan", -- [2]
+		},
+		[254384] = {
+			2074, -- [1]
+			"F'harg", -- [2]
+		},
+		[324527] = {
+			2382, -- [1]
+			"Globgrog", -- [2]
+		},
+		[59978] = {
+			1968, -- [1]
+			"Héraut Volazj", -- [2]
 		},
 		[58996] = {
 			1978, -- [1]
@@ -10448,9 +10805,17 @@ _detalhes_global = {
 			2397, -- [1]
 			"Dromane Oulfarran", -- [2]
 		},
+		[247716] = {
+			2082, -- [1]
+			"[*] Explosions chargées", -- [2]
+		},
 		[148859] = {
 			2390, -- [1]
 			5, -- [2]
+		},
+		[255826] = {
+			2092, -- [1]
+			"Argus l'Annihilateur", -- [2]
 		},
 		[325225] = {
 			2406, -- [1]
@@ -10460,9 +10825,25 @@ _detalhes_global = {
 			1980, -- [1]
 			"Moorabi", -- [2]
 		},
+		[224321] = {
+			1886, -- [1]
+			"Arquepuits <Acolyte céleste>", -- [2]
+		},
+		[254536] = {
+			2075, -- [1]
+			"[*] Territoire hostile", -- [2]
+		},
+		[319531] = {
+			2364, -- [1]
+			"Kul'tharok", -- [2]
+		},
 		[55606] = {
 			1109, -- [1]
 			"Cavalier tenace", -- [2]
+		},
+		[246692] = {
+			2088, -- [1]
+			"Démolisseur garothi", -- [2]
 		},
 		[59828] = {
 			1981, -- [1]
@@ -10472,6 +10853,22 @@ _detalhes_global = {
 			2401, -- [1]
 			"Gargon vicieux", -- [2]
 		},
+		[212726] = {
+			1877, -- [1]
+			"Cénarius", -- [2]
+		},
+		[59530] = {
+			1985, -- [1]
+			"Golem en fusion", -- [2]
+		},
+		[320596] = {
+			2387, -- [1]
+			"Chancros", -- [2]
+		},
+		[324148] = {
+			2356, -- [1]
+			"Ventunax", -- [2]
+		},
 		[329834] = {
 			2405, -- [1]
 			"Racine d'extinction", -- [2]
@@ -10480,125 +10877,133 @@ _detalhes_global = {
 			2356, -- [1]
 			"Ventunax", -- [2]
 		},
-		[204859] = {
-			1841, -- [1]
-			"Ursoc", -- [2]
+		[155921] = {
+			1692, -- [1]
+			"Conducteur Thogar", -- [2]
 		},
-		[144089] = {
-			1606, -- [1]
-			"Brise-terre Haromm", -- [2]
-		},
-		[325245] = {
-			2385, -- [1]
-			"Domina Lamevenin", -- [2]
+		[320365] = {
+			2389, -- [1]
+			"Docteur Sutur", -- [2]
 		},
 		[329324] = {
 			2401, -- [1]
 			"Gargon vicieux", -- [2]
 		},
-		[224266] = {
-			2390, -- [1]
-			2, -- [2]
+		[59801] = {
+			1984, -- [1]
+			"Ionar", -- [2]
+		},
+		[228012] = {
+			1958, -- [1]
+			"Hymdall", -- [2]
+		},
+		[36096] = {
+			1987, -- [1]
+			"Général Bjarngrim", -- [2]
+		},
+		[334757] = {
+			2418, -- [1]
+			"Bargast", -- [2]
 		},
 		[146815] = {
 			1594, -- [1]
 			"Etincelle instable", -- [2]
 		},
-		[245671] = {
-			2073, -- [1]
-			"Tourment de Khaz'goroth", -- [2]
+		[334909] = {
+			2412, -- [1]
+			"[*] Atmosphère oppressante", -- [2]
 		},
-		[155921] = {
-			1692, -- [1]
-			"Conducteur Thogar", -- [2]
+		[210868] = {
+			1825, -- [1]
+			"Sorcépée sacrenuit", -- [2]
 		},
-		[255805] = {
-			2064, -- [1]
-			"Vulcanar", -- [2]
+		[320580] = {
+			2388, -- [1]
+			"Amarth", -- [2]
 		},
 		[320114] = {
 			2366, -- [1]
 			"Xav l'Invaincu", -- [2]
 		},
-		[211439] = {
+		[228190] = {
 			1866, -- [1]
-			"Le démon intérieur", -- [2]
+			"Gul'dan", -- [2]
 		},
 		[335467] = {
 			2390, -- [1]
 			5, -- [2]
 		},
-		[341475] = {
-			2402, -- [1]
-			"Assassin aile-morne", -- [2]
+		[316995] = {
+			2366, -- [1]
+			"Xav l'Invaincu", -- [2]
 		},
-		[330848] = {
-			2412, -- [1]
-			"[*] Faux pas", -- [2]
+		[246690] = {
+			2088, -- [1]
+			"[*] Décimation", -- [2]
 		},
-		[330590] = {
-			2383, -- [1]
-			"[*] Miasme glouton", -- [2]
+		[330026] = {
+			2384, -- [1]
+			"Professeur Ickus", -- [2]
 		},
-		[336306] = {
-			2385, -- [1]
-			"Domina Lamevenin", -- [2]
+		[324662] = {
+			2357, -- [1]
+			"Kin-Tara", -- [2]
 		},
-		[328791] = {
-			2381, -- [1]
-			"Grand chambellan", -- [2]
+		[271729] = {
+			2144, -- [1]
+			"Taloc", -- [2]
 		},
-		[52174] = {
+		[42724] = {
+			1987, -- [1]
+			"Saccageur en acier durci", -- [2]
+		},
+		[29722] = {
 			2390, -- [1]
-			1, -- [2]
+			9, -- [2]
 		},
-		[54878] = {
-			1983, -- [1]
-			"Elémentaire drakkari", -- [2]
-		},
-		[148515] = {
-			1594, -- [1]
-			"Jun Wei", -- [2]
+		[59827] = {
+			1981, -- [1]
+			"Gal'darah", -- [2]
 		},
 		[329840] = {
 			2390, -- [1]
 			6, -- [2]
 		},
-		[342874] = {
-			2405, -- [1]
-			"Artificier Xy'mox", -- [2]
+		[210099] = {
+			1873, -- [1]
+			"Ichor cauchemardesque", -- [2]
 		},
-		[247376] = {
-			2082, -- [1]
-			"Imonar le Chasseur d'âmes", -- [2]
+		[59829] = {
+			1981, -- [1]
+			"Gal'darah", -- [2]
 		},
-		[332871] = {
-			2402, -- [1]
-			"Grand tortionnaire Darithos", -- [2]
+		[323544] = {
+			2395, -- [1]
+			"Fils d'Hakkar", -- [2]
 		},
-		[52212] = {
-			2390, -- [1]
-			6, -- [2]
+		[211634] = {
+			1864, -- [1]
+			"[*] Ténèbres infinies", -- [2]
 		},
-		[59978] = {
-			1968, -- [1]
-			"Héraut Volazj", -- [2]
+		[244130] = {
+			2074, -- [1]
+			"Shatug", -- [2]
 		},
-		[247716] = {
-			2082, -- [1]
-			"[*] Explosions chargées", -- [2]
+		[145702] = {
+			1594, -- [1]
+			"Bombardier sri’thik", -- [2]
 		},
 		[250703] = {
 			2075, -- [1]
 			"Purificateur alimenté par la corruption", -- [2]
 		},
-		[224321] = {
-			1886, -- [1]
-			"Arquepuits <Acolyte céleste>", -- [2]
+		[203796] = {
+			2390, -- [1]
+			"Raydar-CultedelaRivenoire", -- [2]
 		},
-		[326075] = {
-			2402, -- [1]
-			"Infuseuse d'âme", -- [2]
+		[322088] = {
+			2364, -- [1]
+			"Kul'tharok", -- [2]
 		},
 		[320631] = {
 			2387, -- [1]
@@ -10608,9 +11013,9 @@ _detalhes_global = {
 			2073, -- [1]
 			"Diima, mère de l'Obscurité", -- [2]
 		},
-		[50977] = {
-			2381, -- [1]
-			6, -- [2]
+		[155530] = {
+			1691, -- [1]
+			"Gruul", -- [2]
 		},
 		[320120] = {
 			2391, -- [1]
@@ -10620,69 +11025,69 @@ _detalhes_global = {
 			2396, -- [1]
 			"Mueh'zala", -- [2]
 		},
-		[246692] = {
-			2088, -- [1]
-			"Démolisseur garothi", -- [2]
+		[342282] = {
+			2406, -- [1]
+			"Dame Inerva Sombreveine", -- [2]
 		},
-		[323393] = {
-			2381, -- [1]
-			"Grand chambellan", -- [2]
+		[144289] = {
+			1606, -- [1]
+			"Brise-terre Haromm", -- [2]
 		},
-		[59530] = {
-			1985, -- [1]
-			"Golem en fusion", -- [2]
+		[334228] = {
+			2383, -- [1]
+			"Destructeur affamé", -- [2]
 		},
-		[59829] = {
-			1981, -- [1]
-			"Gal'darah", -- [2]
+		[324370] = {
+			2357, -- [1]
+			"Azules", -- [2]
 		},
-		[322681] = {
+		[327952] = {
 			2389, -- [1]
 			"Création du docteur Sutur", -- [2]
-		},
-		[334909] = {
-			2412, -- [1]
-			"[*] Atmosphère oppressante", -- [2]
-		},
-		[326263] = {
-			2393, -- [1]
-			"Tred'ova", -- [2]
-		},
-		[52921] = {
-			1986, -- [1]
-			"Loken", -- [2]
-		},
-		[228190] = {
-			1866, -- [1]
-			"Gul'dan", -- [2]
-		},
-		[320580] = {
-			2388, -- [1]
-			"Amarth", -- [2]
 		},
 		[336499] = {
 			2392, -- [1]
 			"Mandebrume", -- [2]
 		},
-		[227642] = {
-			1962, -- [1]
-			"Guarm", -- [2]
+		[326263] = {
+			2393, -- [1]
+			"Tred'ova", -- [2]
 		},
-		[228012] = {
-			1958, -- [1]
-			"Hymdall", -- [2]
+		[322681] = {
+			2389, -- [1]
+			"Création du docteur Sutur", -- [2]
+		},
+		[335116] = {
+			2418, -- [1]
+			"Altimor le Veneur", -- [2]
+		},
+		[50977] = {
+			2381, -- [1]
+			6, -- [2]
+		},
+		[208230] = {
+			1862, -- [1]
+			"Tichondrius", -- [2]
+		},
+		[323683] = {
+			2404, -- [1]
+			"Mordretha, l'impératrice immortelle", -- [2]
+		},
+		[224266] = {
+			2390, -- [1]
+			2, -- [2]
 		},
 		[143494] = {
 			1603, -- [1]
 			"Général Nazgrim", -- [2]
 		},
-		[246779] = {
-			2088, -- [1]
-			"Kin'garoth", -- [2]
+		[323393] = {
+			2381, -- [1]
+			"Grand chambellan", -- [2]
 		},
-		[339759] = {
-			2404, -- [1]
-			"Mordretha, l'impératrice immortelle", -- [2]
+		[145692] = {
+			1594, -- [1]
+			"Hurleguerre kor’thik", -- [2]
 		},
 		[323195] = {
 			2358, -- [1]
@@ -10692,9 +11097,9 @@ _detalhes_global = {
 			1872, -- [1]
 			"Elisande", -- [2]
 		},
-		[334476] = {
-			2389, -- [1]
-			"Docteur Sutur", -- [2]
+		[145718] = {
+			1594, -- [1]
+			"[*] Bombe coup de vent", -- [2]
 		},
 		[320637] = {
 			2387, -- [1]
@@ -10704,13 +11109,13 @@ _detalhes_global = {
 			1594, -- [1]
 			"Manieur de vent set’thik", -- [2]
 		},
-		[198392] = {
-			1841, -- [1]
-			"Ursoc", -- [2]
+		[246301] = {
+			2075, -- [1]
+			"Destructeur gangrimprégné", -- [2]
 		},
-		[329256] = {
-			2405, -- [1]
-			"Portail de faille explosive", -- [2]
+		[325908] = {
+			2406, -- [1]
+			"Dame Inerva Sombreveine", -- [2]
 		},
 		[195182] = {
 			2390, -- [1]
@@ -10740,25 +11145,25 @@ _detalhes_global = {
 			1886, -- [1]
 			"Spore toxique", -- [2]
 		},
-		[149280] = {
-			1594, -- [1]
-			"Golem d’anima modifié", -- [2]
+		[217200] = {
+			2390, -- [1]
+			3, -- [2]
 		},
-		[246690] = {
-			2088, -- [1]
-			"[*] Décimation", -- [2]
+		[243999] = {
+			2069, -- [1]
+			"Varimathras", -- [2]
 		},
 		[329340] = {
 			2403, -- [1]
 			"Grande adjudicatrice Alize", -- [2]
 		},
-		[244006] = {
-			2069, -- [1]
-			"Varimathras", -- [2]
+		[340355] = {
+			2384, -- [1]
+			"[*] Infection rapide", -- [2]
 		},
-		[59986] = {
-			1968, -- [1]
-			"Visage tordu", -- [2]
+		[228007] = {
+			1958, -- [1]
+			"[*] Lame dansante", -- [2]
 		},
 		[334970] = {
 			2396, -- [1]
@@ -10768,33 +11173,33 @@ _detalhes_global = {
 			2406, -- [1]
 			"Dame Inerva Sombreveine", -- [2]
 		},
-		[323569] = {
-			2395, -- [1]
-			"Fils d'Hakkar", -- [2]
+		[328206] = {
+			2380, -- [1]
+			"Echelon", -- [2]
 		},
-		[326271] = {
-			2405, -- [1]
-			"Artificier Xy'mox", -- [2]
+		[244056] = {
+			2074, -- [1]
+			"Shatug", -- [2]
 		},
 		[334971] = {
 			2418, -- [1]
 			"Margore", -- [2]
 		},
-		[322088] = {
-			2364, -- [1]
-			"Kul'tharok", -- [2]
+		[324608] = {
+			2358, -- [1]
+			"Oryphrione", -- [2]
 		},
-		[320646] = {
-			2387, -- [1]
-			"[*] Gaz fétide", -- [2]
+		[206920] = {
+			1864, -- [1]
+			"Tentacule cauchemardesque", -- [2]
 		},
-		[342048] = {
-			2391, -- [1]
-			"Xira la Sournoise", -- [2]
+		[55100] = {
+			1980, -- [1]
+			"Moorabi", -- [2]
 		},
-		[210099] = {
-			1873, -- [1]
-			"Ichor cauchemardesque", -- [2]
+		[59824] = {
+			1981, -- [1]
+			"Gal'darah", -- [2]
 		},
 		[341625] = {
 			2406, -- [1]
@@ -10812,9 +11217,9 @@ _detalhes_global = {
 			2366, -- [1]
 			"Xav l'Invaincu", -- [2]
 		},
-		[334228] = {
-			2383, -- [1]
-			"Destructeur affamé", -- [2]
+		[209620] = {
+			1872, -- [1]
+			"Elémentaire résurgent", -- [2]
 		},
 		[244825] = {
 			2074, -- [1]
@@ -10824,13 +11229,13 @@ _detalhes_global = {
 			1886, -- [1]
 			"[*] Chaos contrôlé", -- [2]
 		},
-		[211634] = {
-			1864, -- [1]
-			"[*] Ténèbres infinies", -- [2]
+		[247641] = {
+			2082, -- [1]
+			"Pièges !", -- [2]
 		},
-		[244130] = {
-			2074, -- [1]
-			"Shatug", -- [2]
+		[246706] = {
+			2088, -- [1]
+			"[*] Démolir", -- [2]
 		},
 		[321669] = {
 			2392, -- [1]
@@ -10840,9 +11245,9 @@ _detalhes_global = {
 			2380, -- [1]
 			"Démon de pierre immortel <Echelon>", -- [2]
 		},
-		[258643] = {
-			2088, -- [1]
-			"Kin'garoth", -- [2]
+		[320646] = {
+			2387, -- [1]
+			"[*] Gaz fétide", -- [2]
 		},
 		[181113] = {
 			2402, -- [1]
@@ -10852,61 +11257,61 @@ _detalhes_global = {
 			1987, -- [1]
 			"Général Bjarngrim", -- [2]
 		},
-		[144291] = {
-			1606, -- [1]
-			"Brise-terre Haromm", -- [2]
+		[203102] = {
+			1854, -- [1]
+			"Ysondre", -- [2]
 		},
 		[271519] = {
 			2144, -- [1]
 			"Taloc", -- [2]
 		},
-		[247641] = {
-			2082, -- [1]
-			"Pièges !", -- [2]
+		[208748] = {
+			1864, -- [1]
+			"Abomination de l'effroi", -- [2]
 		},
 		[227427] = {
 			1866, -- [1]
 			"Gul'dan", -- [2]
 		},
-		[246301] = {
-			2075, -- [1]
-			"Destructeur gangrimprégné", -- [2]
+		[61549] = {
+			2028, -- [1]
+			"Berserker ymirjar", -- [2]
 		},
-		[203896] = {
-			1854, -- [1]
-			"Ombre spirituelle", -- [2]
+		[225859] = {
+			1886, -- [1]
+			"Naturaliste shal’dorei", -- [2]
 		},
 		[325254] = {
 			2362, -- [1]
 			"Grande déléguée Beryllia", -- [2]
 		},
-		[323681] = {
-			2404, -- [1]
-			"Mordretha, l'impératrice immortelle", -- [2]
+		[215761] = {
+			1873, -- [1]
+			"Inconnu", -- [2]
 		},
-		[342282] = {
-			2406, -- [1]
-			"Dame Inerva Sombreveine", -- [2]
+		[245851] = {
+			2075, -- [1]
+			"Gangrechien", -- [2]
 		},
-		[221781] = {
-			1866, -- [1]
-			"Gul'dan", -- [2]
+		[335338] = {
+			2381, -- [1]
+			"Grand chambellan", -- [2]
 		},
-		[326455] = {
-			2402, -- [1]
-			"Ombre de Kael'thas", -- [2]
+		[144334] = {
+			1606, -- [1]
+			"[*] Tombe de fer", -- [2]
 		},
 		[319626] = {
 			2364, -- [1]
 			"Kul'tharok", -- [2]
 		},
-		[324370] = {
-			2357, -- [1]
-			"Azules", -- [2]
+		[271728] = {
+			2144, -- [1]
+			"Taloc", -- [2]
 		},
-		[327952] = {
-			2389, -- [1]
-			"Création du docteur Sutur", -- [2]
+		[322893] = {
+			2359, -- [1]
+			"Déva", -- [2]
 		},
 		[323209] = {
 			2381, -- [1]
@@ -10916,9 +11321,9 @@ _detalhes_global = {
 			1980, -- [1]
 			"Moorabi", -- [2]
 		},
-		[55249] = {
-			1981, -- [1]
-			"Gal'darah", -- [2]
+		[207830] = {
+			1864, -- [1]
+			"Horreur corruptrice", -- [2]
 		},
 		[59320] = {
 			2028, -- [1]
@@ -10956,13 +11361,13 @@ _detalhes_global = {
 			2082, -- [1]
 			"Grenade à impulsion", -- [2]
 		},
-		[335116] = {
-			2418, -- [1]
-			"Altimor le Veneur", -- [2]
+		[224568] = {
+			1863, -- [1]
+			"Protecteur du palais Sacrenuit", -- [2]
 		},
-		[59147] = {
-			1987, -- [1]
-			"Mande-ciel en acier durci", -- [2]
+		[61548] = {
+			2028, -- [1]
+			"Berserker ymirjar", -- [2]
 		},
 		[320142] = {
 			2394, -- [1]
@@ -11000,61 +11405,61 @@ _detalhes_global = {
 			2394, -- [1]
 			"Millificent Tempête-de-Mana", -- [2]
 		},
-		[228300] = {
-			2008, -- [1]
-			"Helya", -- [2]
+		[70890] = {
+			2390, -- [1]
+			6, -- [2]
 		},
 		[325262] = {
 			2362, -- [1]
 			"Grande déléguée Beryllia", -- [2]
 		},
-		[145718] = {
-			1594, -- [1]
-			"[*] Bombe coup de vent", -- [2]
+		[254760] = {
+			2074, -- [1]
+			"Shatug", -- [2]
 		},
 		[320145] = {
 			2394, -- [1]
 			"Millificent Tempête-de-Mana", -- [2]
 		},
-		[145692] = {
-			1594, -- [1]
-			"Hurleguerre kor’thik", -- [2]
+		[320008] = {
+			2394, -- [1]
+			"Milhouse Tempête-de-Mana", -- [2]
 		},
-		[148760] = {
-			1594, -- [1]
-			"Commandant Ik’tal", -- [2]
+		[228004] = {
+			1958, -- [1]
+			"Hymdall", -- [2]
 		},
-		[328206] = {
-			2380, -- [1]
-			"Echelon", -- [2]
+		[320519] = {
+			2384, -- [1]
+			"Brise-échine chancreux", -- [2]
 		},
 		[203124] = {
 			1854, -- [1]
 			"Léthon", -- [2]
 		},
-		[59408] = {
-			2030, -- [1]
-			"Canaliste rituel", -- [2]
+		[207573] = {
+			1854, -- [1]
+			"Ysondre", -- [2]
 		},
-		[208860] = {
-			1864, -- [1]
-			"Abomination de l'effroi", -- [2]
+		[214348] = {
+			1876, -- [1]
+			"Elerethe Ranfarouche", -- [2]
 		},
-		[194311] = {
-			2390, -- [1]
-			6, -- [2]
+		[204463] = {
+			1853, -- [1]
+			"Nythendra", -- [2]
 		},
-		[320147] = {
-			2394, -- [1]
-			"Millificent Tempête-de-Mana", -- [2]
+		[334476] = {
+			2389, -- [1]
+			"Docteur Sutur", -- [2]
 		},
 		[59321] = {
 			2028, -- [1]
 			"Fontaine des esprits", -- [2]
 		},
-		[207830] = {
-			1864, -- [1]
-			"Horreur corruptrice", -- [2]
+		[214497] = {
+			1854, -- [1]
+			"Faille cauchemardesque", -- [2]
 		},
 		[323730] = {
 			2390, -- [1]
@@ -11068,13 +11473,13 @@ _detalhes_global = {
 			2076, -- [1]
 			"Brise-monde garothi", -- [2]
 		},
-		[217200] = {
-			2390, -- [1]
-			3, -- [2]
+		[343556] = {
+			2389, -- [1]
+			"Docteur Sutur", -- [2]
 		},
-		[228007] = {
-			1958, -- [1]
-			"[*] Lame dansante", -- [2]
+		[191587] = {
+			2390, -- [1]
+			6, -- [2]
 		},
 		[318102] = {
 			2366, -- [1]
@@ -11084,9 +11489,9 @@ _detalhes_global = {
 			1958, -- [1]
 			"Inconnu", -- [2]
 		},
-		[49998] = {
-			2390, -- [1]
-			6, -- [2]
+		[228003] = {
+			1958, -- [1]
+			"Hymdall", -- [2]
 		},
 		[323732] = {
 			2400, -- [1]
@@ -11108,13 +11513,13 @@ _detalhes_global = {
 			2364, -- [1]
 			"Kul'tharok", -- [2]
 		},
-		[145549] = {
-			1606, -- [1]
-			"Sombre chamane kor’kronne", -- [2]
+		[222020] = {
+			1886, -- [1]
+			"Naturaliste Tel’arn", -- [2]
 		},
-		[244016] = {
-			2064, -- [1]
-			"Hasabel la Garde-portail", -- [2]
+		[55249] = {
+			1981, -- [1]
+			"Gal'darah", -- [2]
 		},
 		[345739] = {
 			2390, -- [1]
@@ -11132,9 +11537,9 @@ _detalhes_global = {
 			2401, -- [1]
 			"Halkias", -- [2]
 		},
-		[324085] = {
-			2391, -- [1]
-			"Dessia la Décapiteuse", -- [2]
+		[145551] = {
+			1606, -- [1]
+			"Ombremage kor’kronne", -- [2]
 		},
 		[173190] = {
 			1691, -- [1]
@@ -11144,81 +11549,81 @@ _detalhes_global = {
 			2390, -- [1]
 			1, -- [2]
 		},
-		[320365] = {
-			2389, -- [1]
-			"Docteur Sutur", -- [2]
+		[224570] = {
+			1863, -- [1]
+			"Protecteur du palais Sacrenuit", -- [2]
 		},
 		[48639] = {
 			2029, -- [1]
 			"Guerrier ymirjar", -- [2]
 		},
-		[320519] = {
-			2384, -- [1]
-			"Brise-échine chancreux", -- [2]
+		[248233] = {
+			2082, -- [1]
+			"Imonar le Chasseur d'âmes", -- [2]
 		},
 		[143765] = {
 			1593, -- [1]
 			"Kaz’tik le Manipulateur", -- [2]
 		},
-		[209620] = {
-			1872, -- [1]
-			"Elémentaire résurgent", -- [2]
+		[228514] = {
+			2008, -- [1]
+			"Helya", -- [2]
 		},
-		[331415] = {
-			2363, -- [1]
-			"Général Kaal", -- [2]
+		[335304] = {
+			2418, -- [1]
+			"Altimor le Veneur", -- [2]
 		},
-		[55100] = {
-			1980, -- [1]
-			"Moorabi", -- [2]
+		[203896] = {
+			1854, -- [1]
+			"Ombre spirituelle", -- [2]
 		},
 		[328343] = {
 			2385, -- [1]
 			"Croc-venin <Tireur d'élite venimeux>", -- [2]
 		},
-		[173192] = {
-			1691, -- [1]
-			"[*] Éboulement", -- [2]
+		[50842] = {
+			2390, -- [1]
+			6, -- [2]
 		},
-		[329774] = {
-			2383, -- [1]
-			"Destructeur affamé", -- [2]
+		[244122] = {
+			2076, -- [1]
+			"Brise-monde garothi", -- [2]
 		},
-		[328857] = {
-			2398, -- [1]
-			"Hurlaile", -- [2]
+		[59975] = {
+			1968, -- [1]
+			"Héraut Volazj", -- [2]
 		},
 		[334485] = {
 			2356, -- [1]
 			"Ventunax", -- [2]
 		},
-		[191587] = {
-			2390, -- [1]
-			6, -- [2]
+		[54801] = {
+			1983, -- [1]
+			"Elémentaire drakkari", -- [2]
 		},
-		[199547] = {
-			2390, -- [1]
-			"Raydar-CultedelaRivenoire", -- [2]
+		[331415] = {
+			2363, -- [1]
+			"Général Kaal", -- [2]
 		},
 		[203897] = {
 			1854, -- [1]
 			"Ombre spirituelle", -- [2]
 		},
-		[59795] = {
-			1984, -- [1]
-			"Ionar", -- [2]
+		[258399] = {
+			2092, -- [1]
+			"Argus l'Annihilateur", -- [2]
 		},
-		[59834] = {
-			1984, -- [1]
-			"Etincelle d'Ionar", -- [2]
+		[328857] = {
+			2398, -- [1]
+			"Hurlaile", -- [2]
 		},
-		[214348] = {
-			1876, -- [1]
-			"Elerethe Ranfarouche", -- [2]
+		[211571] = {
+			1862, -- [1]
+			"Mage du chaos gangrelige", -- [2]
 		},
-		[144334] = {
-			1606, -- [1]
-			"[*] Tombe de fer", -- [2]
+		[142539] = {
+			1594, -- [1]
+			"Prêtre d’ambre zar’thik", -- [2]
 		},
 		[229741] = {
 			1872, -- [1]
@@ -11228,13 +11633,13 @@ _detalhes_global = {
 			2076, -- [1]
 			"Brise-monde garothi", -- [2]
 		},
-		[61548] = {
-			2028, -- [1]
-			"Berserker ymirjar", -- [2]
+		[246305] = {
+			2075, -- [1]
+			"Destructeur gangrimprégné", -- [2]
 		},
-		[320008] = {
-			2394, -- [1]
-			"Milhouse Tempête-de-Mana", -- [2]
+		[206339] = {
+			1866, -- [1]
+			"Gul'dan", -- [2]
 		},
 		[334488] = {
 			2389, -- [1]
@@ -11244,9 +11649,9 @@ _detalhes_global = {
 			2396, -- [1]
 			"Mueh'zala", -- [2]
 		},
-		[245851] = {
-			2075, -- [1]
-			"Gangrechien", -- [2]
+		[145288] = {
+			1594, -- [1]
+			"Golem d’anima modifié", -- [2]
 		},
 		[155794] = {
 			1695, -- [1]
@@ -11264,13 +11669,13 @@ _detalhes_global = {
 			2074, -- [1]
 			"Shatug", -- [2]
 		},
-		[148243] = {
-			1622, -- [1]
-			"Grunt gueule-de-dragon", -- [2]
+		[326271] = {
+			2405, -- [1]
+			"Artificier Xy'mox", -- [2]
 		},
-		[245040] = {
+		[246208] = {
 			2064, -- [1]
-			"Seigneur Eilgar", -- [2]
+			"Rampante corrompue", -- [2]
 		},
 		[206458] = {
 			1866, -- [1]
@@ -11292,45 +11697,45 @@ _detalhes_global = {
 			2088, -- [1]
 			"Charge détonante <Kin'garoth>", -- [2]
 		},
-		[54801] = {
-			1983, -- [1]
-			"Elémentaire drakkari", -- [2]
+		[320771] = {
+			2390, -- [1]
+			"Nalthor le Lieur-de-Givre", -- [2]
 		},
 		[55101] = {
 			1980, -- [1]
 			"Moorabi", -- [2]
 		},
-		[222021] = {
-			1886, -- [1]
-			"Arcaniste Tel’arn", -- [2]
+		[75] = {
+			2390, -- [1]
+			3, -- [2]
 		},
 		[157331] = {
 			2418, -- [1]
 			"Elémentaire de tempête primordial", -- [2]
 		},
-		[208697] = {
-			1873, -- [1]
-			"Oeil meurtrier tentaculaire", -- [2]
+		[59467] = {
+			1969, -- [1]
+			"Ancien Nadox", -- [2]
 		},
-		[228004] = {
-			1958, -- [1]
-			"Hymdall", -- [2]
+		[225081] = {
+			1854, -- [1]
+			"Gardien contaminé", -- [2]
 		},
-		[145551] = {
-			1606, -- [1]
-			"Ombremage kor’kronne", -- [2]
+		[329127] = {
+			2390, -- [1]
+			11, -- [2]
 		},
 		[213624] = {
 			1871, -- [1]
 			"[*] Marque de givre", -- [2]
 		},
-		[222020] = {
-			1886, -- [1]
-			"Naturaliste Tel’arn", -- [2]
+		[328365] = {
+			2385, -- [1]
+			"Tireur d'élite venimeux", -- [2]
 		},
-		[319655] = {
-			2360, -- [1]
-			"Kryxis le Vorace", -- [2]
+		[142983] = {
+			1594, -- [1]
+			"Phylactère de ritualiste de l’ombre", -- [2]
 		},
 		[245097] = {
 			2074, -- [1]
@@ -11348,93 +11753,93 @@ _detalhes_global = {
 			2360, -- [1]
 			"Kryxis le Vorace", -- [2]
 		},
-		[204463] = {
-			1853, -- [1]
-			"Nythendra", -- [2]
-		},
-		[340355] = {
-			2384, -- [1]
-			"[*] Infection rapide", -- [2]
-		},
-		[59467] = {
-			1969, -- [1]
-			"Ancien Nadox", -- [2]
-		},
 		[323749] = {
 			2403, -- [1]
 			"Réceptacle d'anima vide", -- [2]
+		},
+		[321370] = {
+			2390, -- [1]
+			"Nalthor le Lieur-de-Givre", -- [2]
+		},
+		[197969] = {
+			1841, -- [1]
+			"Ursoc", -- [2]
+		},
+		[319655] = {
+			2360, -- [1]
+			"Kryxis le Vorace", -- [2]
 		},
 		[245098] = {
 			2074, -- [1]
 			"Shatug", -- [2]
 		},
-		[335338] = {
-			2381, -- [1]
-			"Grand chambellan", -- [2]
+		[326309] = {
+			2393, -- [1]
+			"[*] Acide de décomposition", -- [2]
 		},
-		[228003] = {
-			1958, -- [1]
-			"Hymdall", -- [2]
+		[225804] = {
+			1886, -- [1]
+			"Tisserand de la Garde crépusculaire", -- [2]
 		},
 		[323750] = {
 			2365, -- [1]
 			"[*] Gaz abominable", -- [2]
 		},
-		[326309] = {
-			2393, -- [1]
-			"[*] Acide de décomposition", -- [2]
+		[320168] = {
+			2394, -- [1]
+			"Millificent Tempête-de-Mana", -- [2]
 		},
-		[225845] = {
-			1886, -- [1]
-			"Tisserand de la Garde crépusculaire", -- [2]
+		[215128] = {
+			1873, -- [1]
+			"Il'gynoth", -- [2]
 		},
 		[246634] = {
 			2088, -- [1]
 			"[*] Explosion de l'Apocalypse", -- [2]
 		},
-		[156669] = {
-			1695, -- [1]
-			"Amiral Gar’an", -- [2]
+		[142849] = {
+			1595, -- [1]
+			"Malkorok", -- [2]
 		},
-		[258922] = {
-			2390, -- [1]
-			"Raydar-CultedelaRivenoire", -- [2]
-		},
-		[323515] = {
-			2365, -- [1]
-			"Trancheboyau", -- [2]
-		},
-		[324589] = {
-			2404, -- [1]
-			"Marche-Mort <[*] Manifestation de la mort>", -- [2]
-		},
-		[228514] = {
-			2008, -- [1]
-			"Helya", -- [2]
-		},
-		[320170] = {
-			2388, -- [1]
-			"Amarth", -- [2]
+		[321999] = {
+			2384, -- [1]
+			"Inconnu", -- [2]
 		},
 		[249293] = {
 			2074, -- [1]
 			"Shatug", -- [2]
 		},
-		[328662] = {
-			2384, -- [1]
-			"Inconnu", -- [2]
+		[320147] = {
+			2394, -- [1]
+			"Millificent Tempête-de-Mana", -- [2]
 		},
-		[244122] = {
-			2076, -- [1]
-			"Brise-monde garothi", -- [2]
+		[323552] = {
+			2403, -- [1]
+			"Grande adjudicatrice Alize", -- [2]
+		},
+		[320170] = {
+			2388, -- [1]
+			"Amarth", -- [2]
+		},
+		[244051] = {
+			2074, -- [1]
+			"Shatug", -- [2]
+		},
+		[328664] = {
+			2388, -- [1]
+			"Mage réanimé <Amarth>", -- [2]
+		},
+		[59986] = {
+			1968, -- [1]
+			"Visage tordu", -- [2]
 		},
 		[320171] = {
 			2388, -- [1]
 			"Amarth", -- [2]
 		},
-		[59975] = {
-			1968, -- [1]
-			"Héraut Volazj", -- [2]
+		[328662] = {
+			2384, -- [1]
+			"Inconnu", -- [2]
 		},
 		[143262] = {
 			1598, -- [1]
@@ -11444,45 +11849,45 @@ _detalhes_global = {
 			1983, -- [1]
 			"Elémentaire drakkari", -- [2]
 		},
-		[244449] = {
-			2076, -- [1]
-			"[*] Décimation", -- [2]
+		[155841] = {
+			1695, -- [1]
+			"Massacreuse Sorka", -- [2]
 		},
 		[335013] = {
 			2405, -- [1]
 			"Artificier Xy'mox", -- [2]
 		},
-		[272584] = {
-			2144, -- [1]
-			"Gouttelette volatile", -- [2]
+		[254022] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
 		},
-		[346788] = {
-			2412, -- [1]
-			"Vétéran garde-de-pierre", -- [2]
+		[52921] = {
+			1986, -- [1]
+			"Loken", -- [2]
 		},
-		[142539] = {
-			1594, -- [1]
-			"Prêtre d’ambre zar’thik", -- [2]
+		[326455] = {
+			2402, -- [1]
+			"Ombre de Kael'thas", -- [2]
 		},
-		[142983] = {
-			1594, -- [1]
-			"Phylactère de ritualiste de l’ombre", -- [2]
+		[210619] = {
+			1877, -- [1]
+			"Feu follet corrompu", -- [2]
 		},
-		[197969] = {
+		[331217] = {
+			2393, -- [1]
+			"[*] Souffrance partagée", -- [2]
+		},
+		[211132] = {
+			1866, -- [1]
+			"Oeil de Gul'dan surpuissant", -- [2]
+		},
+		[198392] = {
 			1841, -- [1]
 			"Ursoc", -- [2]
 		},
-		[144289] = {
-			1606, -- [1]
-			"Brise-terre Haromm", -- [2]
-		},
-		[272586] = {
-			2144, -- [1]
-			"Gouttelette volatile", -- [2]
-		},
-		[145812] = {
-			1594, -- [1]
-			"Manieur de vent set’thik", -- [2]
+		[323250] = {
+			2397, -- [1]
+			"Dromane Oulfarran", -- [2]
 		},
 		[197509] = {
 			2406, -- [1]
@@ -11504,9 +11909,9 @@ _detalhes_global = {
 			2405, -- [1]
 			"Statue du Serpent de jade <Chonkypanda-Hyjal>", -- [2]
 		},
-		[320771] = {
-			2390, -- [1]
-			"Nalthor le Lieur-de-Givre", -- [2]
+		[159724] = {
+			1695, -- [1]
+			"Marak la Sanglante", -- [2]
 		},
 		[48258] = {
 			2030, -- [1]
@@ -11524,53 +11929,53 @@ _detalhes_global = {
 			1873, -- [1]
 			"Ichor cauchemardesque", -- [2]
 		},
-		[328365] = {
-			2385, -- [1]
-			"Tireur d'élite venimeux", -- [2]
+		[346788] = {
+			2412, -- [1]
+			"Vétéran garde-de-pierre", -- [2]
 		},
 		[322736] = {
 			2395, -- [1]
 			"Hakkar, l'écorcheur d'âmes", -- [2]
 		},
-		[333485] = {
-			2389, -- [1]
-			"Crache-Vérole", -- [2]
+		[59334] = {
+			2029, -- [1]
+			"[*] Lance empoisonnée", -- [2]
 		},
 		[325807] = {
 			2396, -- [1]
 			"Mueh'zala", -- [2]
 		},
-		[214654] = {
-			1849, -- [1]
-			"Skorpyron", -- [2]
+		[28679] = {
+			1109, -- [1]
+			"Gothik le Moissonneur", -- [2]
 		},
-		[59306] = {
-			2028, -- [1]
-			"Roi Ymiron", -- [2]
+		[341475] = {
+			2402, -- [1]
+			"Assassin aile-morne", -- [2]
 		},
 		[258921] = {
 			2390, -- [1]
 			"Raydar-CultedelaRivenoire", -- [2]
 		},
-		[224378] = {
-			1886, -- [1]
-			"Acolyte céleste", -- [2]
+		[272586] = {
+			2144, -- [1]
+			"Gouttelette volatile", -- [2]
 		},
 		[346790] = {
 			2412, -- [1]
 			"Vétéran garde-de-pierre", -- [2]
 		},
-		[327646] = {
-			2396, -- [1]
-			"Mueh'zala", -- [2]
+		[211196] = {
+			1877, -- [1]
+			"Drake corrompu", -- [2]
 		},
-		[323250] = {
-			2397, -- [1]
-			"Dromane Oulfarran", -- [2]
+		[333485] = {
+			2389, -- [1]
+			"Crache-Vérole", -- [2]
 		},
-		[345561] = {
-			2357, -- [1]
-			"Azules", -- [2]
+		[55964] = {
+			1966, -- [1]
+			"Prince Taldaram", -- [2]
 		},
 		[320180] = {
 			2391, -- [1]
@@ -11584,13 +11989,13 @@ _detalhes_global = {
 			1606, -- [1]
 			"Brise-terre Haromm", -- [2]
 		},
-		[253037] = {
-			2070, -- [1]
-			"Troupier de choc gangrelame <Général Erodus>", -- [2]
+		[319669] = {
+			2364, -- [1]
+			"Kul'tharok", -- [2]
 		},
-		[330417] = {
-			2384, -- [1]
-			"Soldat du bourbier", -- [2]
+		[215458] = {
+			1871, -- [1]
+			"Sorcelame Aluriel", -- [2]
 		},
 		[59837] = {
 			1986, -- [1]
@@ -11600,29 +12005,29 @@ _detalhes_global = {
 			1598, -- [1]
 			"He Pas de Loup", -- [2]
 		},
-		[29722] = {
-			2390, -- [1]
-			9, -- [2]
+		[149280] = {
+			1594, -- [1]
+			"Golem d’anima modifié", -- [2]
 		},
-		[60029] = {
-			1967, -- [1]
-			"Jedoga Cherchelombre", -- [2]
+		[330417] = {
+			2384, -- [1]
+			"Soldat du bourbier", -- [2]
 		},
-		[324662] = {
-			2357, -- [1]
-			"Kin-Tara", -- [2]
+		[327414] = {
+			2405, -- [1]
+			"[*] Possession", -- [2]
 		},
-		[333488] = {
-			2388, -- [1]
-			"Amarth", -- [2]
+		[144291] = {
+			1606, -- [1]
+			"Brise-terre Haromm", -- [2]
 		},
 		[253038] = {
 			2070, -- [1]
 			"Troupier de choc gangrelame <Général Erodus>", -- [2]
 		},
-		[243999] = {
-			2069, -- [1]
-			"Varimathras", -- [2]
+		[333488] = {
+			2388, -- [1]
+			"Amarth", -- [2]
 		},
 		[257644] = {
 			2069, -- [1]
@@ -11636,17 +12041,17 @@ _detalhes_global = {
 			1886, -- [1]
 			"Ombrécaille apprivoisé", -- [2]
 		},
-		[145996] = {
-			1594, -- [1]
-			"Commandant Zak’tar", -- [2]
+		[329172] = {
+			2381, -- [1]
+			"Statue stèle du vice", -- [2]
 		},
 		[337072] = {
 			2390, -- [1]
 			"Feuillemort de Xantuth", -- [2]
 		},
-		[142849] = {
-			1595, -- [1]
-			"Malkorok", -- [2]
+		[244070] = {
+			2069, -- [1]
+			"Varimathras", -- [2]
 		},
 		[253039] = {
 			2070, -- [1]
@@ -11660,21 +12065,21 @@ _detalhes_global = {
 			2402, -- [1]
 			"Grand tortionnaire Darithos", -- [2]
 		},
-		[212794] = {
-			1862, -- [1]
-			"Tichondrius", -- [2]
+		[78674] = {
+			2390, -- [1]
+			11, -- [2]
 		},
 		[213123] = {
 			1876, -- [1]
 			"Jeune araignée venimeuse", -- [2]
 		},
-		[145786] = {
-			1594, -- [1]
-			"Prêtre d’ambre zar’thik", -- [2]
+		[213124] = {
+			1876, -- [1]
+			"[*] Flaque venimeuse", -- [2]
 		},
-		[335304] = {
-			2418, -- [1]
-			"Altimor le Veneur", -- [2]
+		[320248] = {
+			2391, -- [1]
+			"Paceran le Virulent", -- [2]
 		},
 		[333492] = {
 			2388, -- [1]
@@ -11684,9 +12089,9 @@ _detalhes_global = {
 			1980, -- [1]
 			"Moorabi", -- [2]
 		},
-		[213124] = {
-			1876, -- [1]
-			"[*] Flaque venimeuse", -- [2]
+		[334939] = {
+			2418, -- [1]
+			"Margore", -- [2]
 		},
 		[328887] = {
 			2398, -- [1]
@@ -11700,21 +12105,21 @@ _detalhes_global = {
 			2082, -- [1]
 			"Imonar le Chasseur d'âmes", -- [2]
 		},
-		[54719] = {
-			1983, -- [1]
-			"Colosse drakkari", -- [2]
+		[206608] = {
+			1865, -- [1]
+			"Anomalie chronomatique", -- [2]
 		},
 		[205448] = {
 			2390, -- [1]
 			5, -- [2]
 		},
-		[271728] = {
-			2144, -- [1]
-			"Taloc", -- [2]
+		[145549] = {
+			1606, -- [1]
+			"Sombre chamane kor’kronne", -- [2]
 		},
-		[8092] = {
-			2390, -- [1]
-			5, -- [2]
+		[323392] = {
+			2381, -- [1]
+			"Grand chambellan", -- [2]
 		},
 		[322236] = {
 			2386, -- [1]
@@ -11724,13 +12129,13 @@ _detalhes_global = {
 			2402, -- [1]
 			"Grand tortionnaire Darithos", -- [2]
 		},
-		[145218] = {
-			1594, -- [1]
-			"Mogu de pierre animé", -- [2]
+		[204859] = {
+			1841, -- [1]
+			"Ursoc", -- [2]
 		},
-		[329170] = {
-			2381, -- [1]
-			"Statue stèle du vice", -- [2]
+		[327619] = {
+			2412, -- [1]
+			"Valseur venthyr", -- [2]
 		},
 		[60030] = {
 			1967, -- [1]
@@ -11740,45 +12145,45 @@ _detalhes_global = {
 			2402, -- [1]
 			"Grand tortionnaire Darithos", -- [2]
 		},
-		[211571] = {
-			1862, -- [1]
-			"Mage du chaos gangrelige", -- [2]
+		[225073] = {
+			1854, -- [1]
+			"Gardien contaminé", -- [2]
 		},
-		[155841] = {
-			1695, -- [1]
-			"Massacreuse Sorka", -- [2]
+		[256396] = {
+			2092, -- [1]
+			"Module de réorigination", -- [2]
 		},
-		[328248] = {
-			2402, -- [1]
-			"Occultiste infâme", -- [2]
-		},
-		[214712] = {
-			1877, -- [1]
-			"Cénarius", -- [2]
-		},
-		[209469] = {
-			1873, -- [1]
-			"Ichor cauchemardesque", -- [2]
-		},
-		[48260] = {
-			2027, -- [1]
-			"Gortok Pâle-Sabot", -- [2]
+		[145786] = {
+			1594, -- [1]
+			"Prêtre d’ambre zar’thik", -- [2]
 		},
 		[209288] = {
 			1864, -- [1]
 			"Horreur inconcevable", -- [2]
 		},
-		[323687] = {
-			2400, -- [1]
-			"Marchande Xy'exa", -- [2]
+		[322239] = {
+			2386, -- [1]
+			"Apparition malveillante", -- [2]
+		},
+		[211079] = {
+			1825, -- [1]
+			"Récupératrice sacrenuit", -- [2]
+		},
+		[48260] = {
+			2027, -- [1]
+			"Gortok Pâle-Sabot", -- [2]
+		},
+		[316981] = {
+			2366, -- [1]
+			"Xav l'Invaincu", -- [2]
 		},
 		[246646] = {
 			2088, -- [1]
 			"Kin'garoth", -- [2]
 		},
-		[78674] = {
-			2390, -- [1]
-			11, -- [2]
+		[323681] = {
+			2404, -- [1]
+			"Mordretha, l'impératrice immortelle", -- [2]
 		},
 		[316099] = {
 			2390, -- [1]
@@ -11788,89 +12193,89 @@ _detalhes_global = {
 			1849, -- [1]
 			"Skorpyron", -- [2]
 		},
-		[341443] = {
-			2384, -- [1]
-			"Inconnu", -- [2]
+		[253037] = {
+			2070, -- [1]
+			"Troupier de choc gangrelame <Général Erodus>", -- [2]
 		},
-		[244070] = {
-			2069, -- [1]
-			"Varimathras", -- [2]
+		[325245] = {
+			2385, -- [1]
+			"Domina Lamevenin", -- [2]
 		},
 		[334523] = {
 			2383, -- [1]
 			"Destructeur affamé", -- [2]
 		},
-		[225073] = {
-			1854, -- [1]
-			"Gardien contaminé", -- [2]
+		[320830] = {
+			2394, -- [1]
+			"Ecureuil-bombe mécanique", -- [2]
 		},
-		[59334] = {
-			2029, -- [1]
-			"[*] Lance empoisonnée", -- [2]
+		[147296] = {
+			1623, -- [1]
+			"Garrosh Hurlenfer", -- [2]
+		},
+		[325361] = {
+			2405, -- [1]
+			"Artificier Xy'mox", -- [2]
 		},
 		[253300] = {
 			2076, -- [1]
 			"Brise-monde garothi", -- [2]
 		},
-		[247159] = {
-			2076, -- [1]
-			"Brise-monde garothi", -- [2]
-		},
-		[316981] = {
-			2366, -- [1]
-			"Xav l'Invaincu", -- [2]
+		[145218] = {
+			1594, -- [1]
+			"Mogu de pierre animé", -- [2]
 		},
 		[143274] = {
 			1593, -- [1]
 			"Skeer le Cherche-sang", -- [2]
 		},
-		[209034] = {
-			1864, -- [1]
-			"[*] Liens de terreur", -- [2]
+		[331966] = {
+			2384, -- [1]
+			"Inconnu", -- [2]
 		},
 		[338619] = {
 			2383, -- [1]
 			"Destructeur affamé", -- [2]
 		},
-		[142765] = {
-			1594, -- [1]
-			"Inconnu", -- [2]
+		[226713] = {
+			1877, -- [1]
+			"Feu follet corrompu", -- [2]
 		},
-		[59839] = {
-			1978, -- [1]
-			"Slad'ran", -- [2]
+		[325872] = {
+			2401, -- [1]
+			"Oblitérateur dépravé", -- [2]
 		},
 		[319685] = {
 			2360, -- [1]
 			"Kryxis le Vorace", -- [2]
 		},
-		[215458] = {
-			1871, -- [1]
-			"Sorcelame Aluriel", -- [2]
+		[59839] = {
+			1978, -- [1]
+			"Slad'ran", -- [2]
 		},
 		[155301] = {
 			1691, -- [1]
 			"Gruul", -- [2]
 		},
-		[333292] = {
-			2391, -- [1]
-			"Sathel le Maudit", -- [2]
+		[142759] = {
+			1594, -- [1]
+			"Etincelle de vie", -- [2]
 		},
-		[327414] = {
-			2405, -- [1]
-			"[*] Possession", -- [2]
+		[145393] = {
+			1594, -- [1]
+			"Golem d’anima modifié", -- [2]
 		},
 		[338621] = {
 			2383, -- [1]
 			"Destructeur affamé", -- [2]
 		},
-		[142947] = {
-			1594, -- [1]
-			"Golem d’anima modifié", -- [2]
+		[248861] = {
+			2075, -- [1]
+			"Le Paraxis", -- [2]
 		},
-		[334939] = {
-			2418, -- [1]
-			"Margore", -- [2]
+		[328897] = {
+			2398, -- [1]
+			"Hurlaile", -- [2]
 		},
 		[319687] = {
 			2360, -- [1]
@@ -11880,13 +12285,13 @@ _detalhes_global = {
 			1877, -- [1]
 			"[*] Ronces du Cauchemar", -- [2]
 		},
-		[203888] = {
-			1854, -- [1]
-			"Léthon", -- [2]
+		[245391] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
 		},
-		[3716] = {
-			2390, -- [1]
-			"Cozril", -- [2]
+		[243968] = {
+			2069, -- [1]
+			"[*] Tourment de flammes", -- [2]
 		},
 		[225412] = {
 			1842, -- [1]
@@ -11900,21 +12305,21 @@ _detalhes_global = {
 			2395, -- [1]
 			"Hakkar, l'écorcheur d'âmes", -- [2]
 		},
-		[206339] = {
-			1866, -- [1]
-			"Gul'dan", -- [2]
+		[325258] = {
+			2396, -- [1]
+			"Mueh'zala", -- [2]
 		},
-		[320248] = {
-			2391, -- [1]
-			"Paceran le Virulent", -- [2]
+		[142765] = {
+			1594, -- [1]
+			"Inconnu", -- [2]
 		},
 		[206222] = {
 			1866, -- [1]
 			"Gul'dan", -- [2]
 		},
-		[338022] = {
-			2387, -- [1]
-			"Sac à chancre", -- [2]
+		[328940] = {
+			2390, -- [1]
+			"Tahonta", -- [2]
 		},
 		[245627] = {
 			2073, -- [1]
@@ -11924,13 +12329,13 @@ _detalhes_global = {
 			1983, -- [1]
 			"Colosse drakkari", -- [2]
 		},
-		[328897] = {
-			2398, -- [1]
-			"Hurlaile", -- [2]
+		[209433] = {
+			1872, -- [1]
+			"[*] Singularité chronique", -- [2]
 		},
-		[342281] = {
-			2406, -- [1]
-			"Dame Inerva Sombreveine", -- [2]
+		[342618] = {
+			2390, -- [1]
+			"Abomination", -- [2]
 		},
 		[321226] = {
 			2388, -- [1]
@@ -11940,41 +12345,41 @@ _detalhes_global = {
 			1980, -- [1]
 			"Moorabi", -- [2]
 		},
-		[327619] = {
-			2412, -- [1]
-			"Valseur venthyr", -- [2]
-		},
-		[323992] = {
-			2394, -- [1]
-			"Millificent Tempête-de-Mana", -- [2]
+		[322493] = {
+			2388, -- [1]
+			"Mage réanimé <Amarth>", -- [2]
 		},
 		[143278] = {
 			1593, -- [1]
 			"Rik’kal le Disséqueur", -- [2]
 		},
-		[146217] = {
-			1594, -- [1]
-			"Esprit d’ancien maître brasseur", -- [2]
+		[3716] = {
+			2390, -- [1]
+			"Cozril", -- [2]
+		},
+		[209471] = {
+			1873, -- [1]
+			"Ichor cauchemardesque", -- [2]
 		},
 		[209294] = {
 			1864, -- [1]
 			"Xavius", -- [2]
 		},
-		[320155] = {
-			2400, -- [1]
-			"[*] Piège téléporteur", -- [2]
-		},
-		[331966] = {
-			2384, -- [1]
-			"Inconnu", -- [2]
+		[142528] = {
+			1593, -- [1]
+			"Xaril l’Esprit empoisonné", -- [2]
 		},
 		[334017] = {
 			2406, -- [1]
 			"Spectre soumis", -- [2]
 		},
-		[334522] = {
-			2383, -- [1]
-			"Destructeur affamé", -- [2]
+		[59987] = {
+			1968, -- [1]
+			"Visage tordu", -- [2]
+		},
+		[199237] = {
+			1841, -- [1]
+			"Ursoc", -- [2]
 		},
 		[59840] = {
 			1978, -- [1]
@@ -11992,25 +12397,25 @@ _detalhes_global = {
 			1967, -- [1]
 			"Jedoga Cherchelombre", -- [2]
 		},
-		[59987] = {
-			1968, -- [1]
-			"Visage tordu", -- [2]
+		[328651] = {
+			2385, -- [1]
+			"Tireur d'élite venimeux", -- [2]
 		},
 		[325324] = {
 			2405, -- [1]
 			"Artificier Xy'mox", -- [2]
 		},
-		[246897] = {
-			2076, -- [1]
-			"Décimateur", -- [2]
+		[55607] = {
+			1109, -- [1]
+			"Cavalier tenace", -- [2]
 		},
-		[325258] = {
-			2396, -- [1]
-			"Mueh'zala", -- [2]
+		[340872] = {
+			2405, -- [1]
+			"Tranchant d'annihilation", -- [2]
 		},
-		[228645] = {
-			2390, -- [1]
-			"Arme runique", -- [2]
+		[317231] = {
+			2366, -- [1]
+			"Xav l'Invaincu", -- [2]
 		},
 		[333002] = {
 			2402, -- [1]
@@ -12028,9 +12433,9 @@ _detalhes_global = {
 			2144, -- [1]
 			"Sang amalgamé", -- [2]
 		},
-		[340872] = {
-			2405, -- [1]
-			"Tranchant d'annihilation", -- [2]
+		[319120] = {
+			2384, -- [1]
+			"[*] Bile putride", -- [2]
 		},
 		[327885] = {
 			2381, -- [1]
@@ -12040,29 +12445,29 @@ _detalhes_global = {
 			1864, -- [1]
 			"Horreur corruptrice", -- [2]
 		},
-		[317231] = {
-			2366, -- [1]
-			"Xav l'Invaincu", -- [2]
+		[328125] = {
+			2380, -- [1]
+			"Démon de pierre immortel <Echelon>", -- [2]
 		},
-		[325361] = {
-			2405, -- [1]
-			"Artificier Xy'mox", -- [2]
+		[245631] = {
+			2063, -- [1]
+			"Flamme de Taeshalach", -- [2]
 		},
 		[323792] = {
 			2358, -- [1]
 			"Anima amalgamé", -- [2]
 		},
-		[136885] = {
-			1594, -- [1]
-			"Phylactère de ritualiste de l’ombre", -- [2]
+		[244849] = {
+			2064, -- [1]
+			"[*] Gelée caustique", -- [2]
 		},
 		[328910] = {
 			2390, -- [1]
 			"Tahonta", -- [2]
 		},
-		[226713] = {
-			1877, -- [1]
-			"Feu follet corrompu", -- [2]
+		[61507] = {
+			1987, -- [1]
+			"Mande-ciel en acier durci", -- [2]
 		},
 		[327887] = {
 			2405, -- [1]
@@ -12076,25 +12481,25 @@ _detalhes_global = {
 			2400, -- [1]
 			"[*] Onde explosive déplacée", -- [2]
 		},
-		[325872] = {
-			2401, -- [1]
-			"Oblitérateur dépravé", -- [2]
+		[245632] = {
+			2063, -- [1]
+			"Flamme de Taeshalach", -- [2]
 		},
-		[319120] = {
-			2384, -- [1]
-			"[*] Bile putride", -- [2]
+		[136885] = {
+			1594, -- [1]
+			"Phylactère de ritualiste de l’ombre", -- [2]
 		},
-		[244849] = {
-			2064, -- [1]
-			"[*] Gelée caustique", -- [2]
+		[59085] = {
+			1987, -- [1]
+			"Tacticien forge-foudre", -- [2]
 		},
 		[330959] = {
 			2412, -- [1]
 			"Baronne Frieda", -- [2]
 		},
-		[59085] = {
-			1987, -- [1]
-			"Tacticien forge-foudre", -- [2]
+		[224229] = {
+			1886, -- [1]
+			"Acolyte céleste", -- [2]
 		},
 		[245121] = {
 			2070, -- [1]
@@ -12104,9 +12509,9 @@ _detalhes_global = {
 			2358, -- [1]
 			"Anima amalgamé", -- [2]
 		},
-		[59304] = {
-			2028, -- [1]
-			"Roi Ymiron", -- [2]
+		[321258] = {
+			2388, -- [1]
+			"[*] Ultime moisson", -- [2]
 		},
 		[325331] = {
 			2405, -- [1]
@@ -12116,57 +12521,57 @@ _detalhes_global = {
 			2380, -- [1]
 			"Echelon", -- [2]
 		},
-		[224229] = {
-			1886, -- [1]
-			"Acolyte céleste", -- [2]
-		},
 		[324540] = {
 			2390, -- [1]
 			9, -- [2]
 		},
-		[320727] = {
-			2400, -- [1]
-			"[*] Onde explosive déplacée", -- [2]
+		[218508] = {
+			1886, -- [1]
+			"Arcaniste Tel’arn", -- [2]
+		},
+		[146217] = {
+			1594, -- [1]
+			"Esprit d’ancien maître brasseur", -- [2]
 		},
 		[319703] = {
 			2380, -- [1]
 			"Echelon", -- [2]
 		},
-		[247681] = {
-			2082, -- [1]
-			"Pièges !", -- [2]
+		[341709] = {
+			2392, -- [1]
+			"Mandebrume", -- [2]
 		},
-		[226955] = {
-			1866, -- [1]
-			"Le démon intérieur", -- [2]
+		[320727] = {
+			2400, -- [1]
+			"[*] Onde explosive déplacée", -- [2]
 		},
-		[145331] = {
-			1623, -- [1]
-			"Garrosh Hurlenfer", -- [2]
+		[245634] = {
+			2073, -- [1]
+			"[*] Sabre tournoyant", -- [2]
 		},
 		[323798] = {
 			2390, -- [1]
 			6, -- [2]
 		},
-		[328940] = {
-			2390, -- [1]
-			"Tahonta", -- [2]
-		},
-		[325184] = {
-			2406, -- [1]
-			"Dame Inerva Sombreveine", -- [2]
+		[323011] = {
+			2359, -- [1]
+			"Déva", -- [2]
 		},
 		[203153] = {
 			1854, -- [1]
 			"Ysondre", -- [2]
 		},
-		[145712] = {
-			1594, -- [1]
-			"Bombardier sri’thik", -- [2]
+		[208385] = {
+			1864, -- [1]
+			"[*] Décharge de corruption", -- [2]
 		},
 		[326538] = {
 			2406, -- [1]
 			"Péchés du passé", -- [2]
+		},
+		[246897] = {
+			2076, -- [1]
+			"Décimateur", -- [2]
 		},
 		[320729] = {
 			2366, -- [1]
@@ -12176,29 +12581,29 @@ _detalhes_global = {
 			2391, -- [1]
 			"Xira la Sournoise", -- [2]
 		},
-		[252451] = {
+		[118459] = {
 			2075, -- [1]
-			"Imonar le Chasseur d'âmes", -- [2]
+			"Hurlefeu", -- [2]
 		},
-		[142528] = {
-			1593, -- [1]
-			"Xaril l’Esprit empoisonné", -- [2]
+		[221326] = {
+			1866, -- [1]
+			"Fragment d’âme d’Azzinoth", -- [2]
 		},
 		[330965] = {
 			2412, -- [1]
 			"Castellan Niklaus", -- [2]
 		},
-		[118459] = {
-			2075, -- [1]
-			"Hurlefeu", -- [2]
+		[334792] = {
+			2418, -- [1]
+			"Altimor le Veneur", -- [2]
 		},
 		[321754] = {
 			2390, -- [1]
 			"Nalthor le Lieur-de-Givre", -- [2]
 		},
-		[326629] = {
-			2389, -- [1]
-			"Docteur Sutur", -- [2]
+		[335072] = {
+			2394, -- [1]
+			"Milhouse Tempête-de-Mana", -- [2]
 		},
 		[59330] = {
 			2029, -- [1]
@@ -12216,53 +12621,53 @@ _detalhes_global = {
 			1876, -- [1]
 			"Elerethe Ranfarouche", -- [2]
 		},
-		[275699] = {
-			2390, -- [1]
-			6, -- [2]
+		[206488] = {
+			1867, -- [1]
+			"[*] Ecoulement arcanique", -- [2]
 		},
 		[244613] = {
 			2064, -- [1]
 			"[*] Flammes semperardentes", -- [2]
 		},
-		[330968] = {
-			2412, -- [1]
-			"Serveur maugréant", -- [2]
+		[59842] = {
+			1978, -- [1]
+			"Slad'ran", -- [2]
 		},
 		[142775] = {
 			1594, -- [1]
 			"Etincelle de vie", -- [2]
 		},
-		[206488] = {
-			1867, -- [1]
-			"[*] Ecoulement arcanique", -- [2]
+		[275699] = {
+			2390, -- [1]
+			6, -- [2]
 		},
 		[324154] = {
 			2356, -- [1]
 			"Ventunax", -- [2]
 		},
-		[334792] = {
-			2418, -- [1]
-			"Altimor le Veneur", -- [2]
-		},
 		[321009] = {
 			2357, -- [1]
 			"Kin-Tara", -- [2]
+		},
+		[256388] = {
+			2092, -- [1]
+			"Module de réorigination", -- [2]
 		},
 		[337110] = {
 			2412, -- [1]
 			"Baronne Frieda", -- [2]
 		},
-		[230951] = {
-			1871, -- [1]
-			"Ame gangrenée", -- [2]
+		[244106] = {
+			2076, -- [1]
+			"Brise-monde garothi", -- [2]
 		},
-		[205875] = {
-			1842, -- [1]
-			"[*] Heurtoir", -- [2]
+		[59304] = {
+			2028, -- [1]
+			"Roi Ymiron", -- [2]
 		},
-		[228360] = {
-			2390, -- [1]
-			5, -- [2]
+		[212886] = {
+			1873, -- [1]
+			"Horreur cauchemardesque", -- [2]
 		},
 		[208536] = {
 			1866, -- [1]
@@ -12280,41 +12685,41 @@ _detalhes_global = {
 			2390, -- [1]
 			2, -- [2]
 		},
-		[61507] = {
-			1987, -- [1]
-			"Mande-ciel en acier durci", -- [2]
-		},
-		[258018] = {
-			2073, -- [1]
-			"Noura, mère des Flammes", -- [2]
-		},
-		[319713] = {
-			2360, -- [1]
-			"Kryxis le Vorace", -- [2]
+		[59482] = {
+			1969, -- [1]
+			"Gardien ahn'kahar", -- [2]
 		},
 		[228611] = {
 			2008, -- [1]
 			"Marin de la garde de nuit", -- [2]
 		},
-		[16856] = {
-			1987, -- [1]
-			"Général Bjarngrim", -- [2]
+		[319713] = {
+			2360, -- [1]
+			"Kryxis le Vorace", -- [2]
 		},
-		[336451] = {
-			2385, -- [1]
-			"Défenseur aux innombrables yeux", -- [2]
+		[329168] = {
+			2381, -- [1]
+			"Statue stèle du vice", -- [2]
 		},
-		[321258] = {
-			2388, -- [1]
-			"[*] Ultime moisson", -- [2]
-		},
-		[332509] = {
-			2394, -- [1]
-			"Millificent Tempête-de-Mana", -- [2]
+		[246919] = {
+			2076, -- [1]
+			"Décimateur", -- [2]
 		},
 		[323810] = {
 			2363, -- [1]
 			"Général Kaal", -- [2]
+		},
+		[322274] = {
+			2390, -- [1]
+			"Siphonneuse de Zolramus", -- [2]
+		},
+		[319715] = {
+			2360, -- [1]
+			"Kryxis le Vorace", -- [2]
+		},
+		[59267] = {
+			2027, -- [1]
+			"Gortok Pâle-Sabot", -- [2]
 		},
 		[246663] = {
 			2076, -- [1]
@@ -12324,9 +12729,9 @@ _detalhes_global = {
 			2358, -- [1]
 			"Oryphrione", -- [2]
 		},
-		[59267] = {
-			2027, -- [1]
-			"Gortok Pâle-Sabot", -- [2]
+		[332509] = {
+			2394, -- [1]
+			"Millificent Tempête-de-Mana", -- [2]
 		},
 		[59331] = {
 			2029, -- [1]
@@ -12344,117 +12749,133 @@ _detalhes_global = {
 			1966, -- [1]
 			"Apôtre du Crépuscule", -- [2]
 		},
-		[329168] = {
-			2381, -- [1]
-			"Statue stèle du vice", -- [2]
+		[247681] = {
+			2082, -- [1]
+			"Pièges !", -- [2]
 		},
 		[226194] = {
 			1864, -- [1]
 			"Xavius", -- [2]
 		},
-		[320168] = {
-			2394, -- [1]
-			"Millificent Tempête-de-Mana", -- [2]
+		[253061] = {
+			2092, -- [1]
+			"Constelleur désigné", -- [2]
 		},
-		[59482] = {
-			1969, -- [1]
-			"Gardien ahn'kahar", -- [2]
+		[258018] = {
+			2073, -- [1]
+			"Noura, mère des Flammes", -- [2]
 		},
-		[271864] = {
-			2144, -- [1]
-			"Taloc", -- [2]
+		[336451] = {
+			2385, -- [1]
+			"Défenseur aux innombrables yeux", -- [2]
 		},
 		[321253] = {
 			2388, -- [1]
 			"[*] Ultime moisson", -- [2]
 		},
+		[16856] = {
+			1987, -- [1]
+			"Général Bjarngrim", -- [2]
+		},
 		[320230] = {
 			2400, -- [1]
 			"Marchande Xy'exa", -- [2]
-		},
-		[244106] = {
-			2076, -- [1]
-			"Brise-monde garothi", -- [2]
 		},
 		[343259] = {
 			2418, -- [1]
 			"Hecutis", -- [2]
 		},
-		[221326] = {
-			1866, -- [1]
-			"Fragment d’âme d’Azzinoth", -- [2]
+		[205875] = {
+			1842, -- [1]
+			"[*] Heurtoir", -- [2]
 		},
-		[210228] = {
-			1876, -- [1]
-			"Jeune araignée venimeuse", -- [2]
+		[330968] = {
+			2412, -- [1]
+			"Serveur maugréant", -- [2]
 		},
-		[335072] = {
-			2394, -- [1]
-			"Milhouse Tempête-de-Mana", -- [2]
+		[271864] = {
+			2144, -- [1]
+			"Taloc", -- [2]
 		},
 		[330978] = {
 			2412, -- [1]
 			"Castellan Niklaus", -- [2]
 		},
-		[326389] = {
-			2380, -- [1]
-			"Echelon", -- [2]
+		[230951] = {
+			1871, -- [1]
+			"Ame gangrenée", -- [2]
 		},
-		[208385] = {
-			1864, -- [1]
-			"[*] Décharge de corruption", -- [2]
+		[228360] = {
+			2390, -- [1]
+			5, -- [2]
 		},
 		[320232] = {
 			2400, -- [1]
 			"Marchande Xy'exa", -- [2]
 		},
-		[323011] = {
-			2359, -- [1]
-			"Déva", -- [2]
+		[210228] = {
+			1876, -- [1]
+			"Jeune araignée venimeuse", -- [2]
 		},
-		[225800] = {
-			1886, -- [1]
-			"Archimage shal’dorei", -- [2]
+		[326629] = {
+			2389, -- [1]
+			"Docteur Sutur", -- [2]
 		},
-		[334053] = {
-			2358, -- [1]
-			"Oryphrione", -- [2]
+		[326389] = {
+			2380, -- [1]
+			"Echelon", -- [2]
 		},
 		[330468] = {
 			2360, -- [1]
 			"Kryxis le Vorace", -- [2]
 		},
-		[246919] = {
-			2076, -- [1]
-			"Décimateur", -- [2]
+		[225800] = {
+			1886, -- [1]
+			"Archimage shal’dorei", -- [2]
 		},
 		[6343] = {
 			2390, -- [1]
 			1, -- [2]
 		},
-		[218508] = {
-			1886, -- [1]
-			"Arcaniste Tel’arn", -- [2]
+		[226955] = {
+			1866, -- [1]
+			"Le démon intérieur", -- [2]
 		},
-		[322274] = {
-			2390, -- [1]
-			"Siphonneuse de Zolramus", -- [2]
+		[145331] = {
+			1623, -- [1]
+			"Garrosh Hurlenfer", -- [2]
 		},
-		[319715] = {
-			2360, -- [1]
-			"Kryxis le Vorace", -- [2]
+		[325184] = {
+			2406, -- [1]
+			"Dame Inerva Sombreveine", -- [2]
 		},
 		[333540] = {
 			2391, -- [1]
 			"Xira la Sournoise", -- [2]
 		},
-		[321005] = {
-			2397, -- [1]
-			"Ingra Maloch", -- [2]
+		[334053] = {
+			2358, -- [1]
+			"Oryphrione", -- [2]
 		},
 		[59268] = {
 			2027, -- [1]
 			"Gortok Pâle-Sabot", -- [2]
+		},
+		[252451] = {
+			2075, -- [1]
+			"Imonar le Chasseur d'âmes", -- [2]
+		},
+		[145712] = {
+			1594, -- [1]
+			"Bombardier sri’thik", -- [2]
+		},
+		[221336] = {
+			1866, -- [1]
+			"Fragment d’âme d’Azzinoth", -- [2]
+		},
+		[321005] = {
+			2397, -- [1]
+			"Ingra Maloch", -- [2]
 		},
 		[126664] = {
 			2390, -- [1]
@@ -12464,49 +12885,33 @@ _detalhes_global = {
 			2392, -- [1]
 			"Mandebrume", -- [2]
 		},
-		[221336] = {
-			1866, -- [1]
-			"Fragment d’âme d’Azzinoth", -- [2]
-		},
-		[328125] = {
-			2380, -- [1]
-			"Démon de pierre immortel <Echelon>", -- [2]
-		},
-		[212886] = {
-			1873, -- [1]
-			"Horreur cauchemardesque", -- [2]
+		[321772] = {
+			2397, -- [1]
+			"Dromane Oulfarran", -- [2]
 		},
 		[203125] = {
 			1854, -- [1]
 			"Emeriss", -- [2]
 		},
-		[321772] = {
-			2397, -- [1]
-			"Dromane Oulfarran", -- [2]
+		[322796] = {
+			2363, -- [1]
+			"Général Kaal", -- [2]
 		},
 		[48278] = {
 			2030, -- [1]
 			"Canaliste rituel", -- [2]
 		},
-		[322796] = {
-			2363, -- [1]
-			"Général Kaal", -- [2]
-		},
-		[52029] = {
-			1987, -- [1]
-			"Général Bjarngrim", -- [2]
-		},
-		[59842] = {
-			1978, -- [1]
-			"Slad'ran", -- [2]
+		[258643] = {
+			2088, -- [1]
+			"Kin'garoth", -- [2]
 		},
 		[246157] = {
 			2064, -- [1]
 			"[*] Portail surpuissant : Nathreza", -- [2]
 		},
-		[328651] = {
-			2385, -- [1]
-			"Tireur d'élite venimeux", -- [2]
+		[52029] = {
+			1987, -- [1]
+			"Général Bjarngrim", -- [2]
 		},
 		[156601] = {
 			1695, -- [1]
@@ -12516,33 +12921,33 @@ _detalhes_global = {
 			2363, -- [1]
 			"Général Kaal", -- [2]
 		},
-		[199237] = {
-			1841, -- [1]
-			"Ursoc", -- [2]
+		[144005] = {
+			1606, -- [1]
+			"Lieuse de vague Kardris", -- [2]
 		},
 		[326892] = {
 			2391, -- [1]
 			"Dessia la Décapiteuse", -- [2]
 		},
-		[209471] = {
-			1873, -- [1]
-			"Ichor cauchemardesque", -- [2]
+		[334522] = {
+			2383, -- [1]
+			"Destructeur affamé", -- [2]
 		},
 		[247949] = {
 			2082, -- [1]
 			"Pièges !", -- [2]
 		},
-		[346800] = {
-			2412, -- [1]
-			"Seigneur Stavros", -- [2]
+		[256393] = {
+			2092, -- [1]
+			"Module de réorigination", -- [2]
 		},
 		[209568] = {
 			1872, -- [1]
 			"Elémentaire entropique", -- [2]
 		},
-		[341709] = {
-			2392, -- [1]
-			"Mandebrume", -- [2]
+		[320155] = {
+			2400, -- [1]
+			"[*] Piège téléporteur", -- [2]
 		},
 		[206883] = {
 			1866, -- [1]
@@ -12568,9 +12973,9 @@ _detalhes_global = {
 			2361, -- [1]
 			"[*] Résidu", -- [2]
 		},
-		[248861] = {
-			2075, -- [1]
-			"Le Paraxis", -- [2]
+		[202497] = {
+			2390, -- [1]
+			11, -- [2]
 		},
 		[325360] = {
 			2362, -- [1]
@@ -12584,25 +12989,25 @@ _detalhes_global = {
 			1877, -- [1]
 			"[*] Ronces du Cauchemar", -- [2]
 		},
-		[215128] = {
-			1873, -- [1]
-			"Il'gynoth", -- [2]
+		[245392] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
 		},
 		[329455] = {
 			2383, -- [1]
 			"Destructeur affamé", -- [2]
 		},
-		[199658] = {
-			2390, -- [1]
-			1, -- [2]
+		[209034] = {
+			1864, -- [1]
+			"[*] Liens de terreur", -- [2]
 		},
-		[145393] = {
-			1594, -- [1]
-			"Golem d’anima modifié", -- [2]
+		[211007] = {
+			1825, -- [1]
+			"Récupératrice sacrenuit", -- [2]
 		},
-		[342618] = {
-			2390, -- [1]
-			"Abomination", -- [2]
+		[173192] = {
+			1691, -- [1]
+			"[*] Éboulement", -- [2]
 		},
 		[244625] = {
 			2070, -- [1]
@@ -12612,41 +13017,41 @@ _detalhes_global = {
 			2380, -- [1]
 			"Echelon", -- [2]
 		},
-		[243968] = {
-			2069, -- [1]
-			"[*] Tourment de flammes", -- [2]
+		[145996] = {
+			1594, -- [1]
+			"Commandant Zak’tar", -- [2]
 		},
-		[209433] = {
-			1872, -- [1]
-			"[*] Singularité chronique", -- [2]
+		[206474] = {
+			1862, -- [1]
+			"Tichondrius", -- [2]
 		},
-		[202497] = {
-			2390, -- [1]
-			11, -- [2]
+		[346800] = {
+			2412, -- [1]
+			"Seigneur Stavros", -- [2]
 		},
-		[144005] = {
-			1606, -- [1]
-			"Lieuse de vague Kardris", -- [2]
+		[333292] = {
+			2391, -- [1]
+			"Sathel le Maudit", -- [2]
 		},
 		[250255] = {
 			2082, -- [1]
 			"Imonar le Chasseur d'âmes", -- [2]
 		},
-		[48295] = {
-			2028, -- [1]
-			"Roi Ymiron", -- [2]
+		[194311] = {
+			2390, -- [1]
+			6, -- [2]
 		},
-		[147296] = {
-			1623, -- [1]
-			"Garrosh Hurlenfer", -- [2]
+		[323569] = {
+			2395, -- [1]
+			"Fils d'Hakkar", -- [2]
 		},
 		[325876] = {
 			2401, -- [1]
 			"Oblitérateur dépravé", -- [2]
 		},
-		[320830] = {
-			2394, -- [1]
-			"Ecureuil-bombe mécanique", -- [2]
+		[232408] = {
+			2008, -- [1]
+			"[*] Pourriture fétide", -- [2]
 		},
 		[155326] = {
 			1691, -- [1]
@@ -12680,9 +13085,9 @@ _detalhes_global = {
 			2405, -- [1]
 			"Artificier Xy'mox", -- [2]
 		},
-		[228127] = {
-			2008, -- [1]
-			"Helya", -- [2]
+		[142947] = {
+			1594, -- [1]
+			"Golem d’anima modifié", -- [2]
 		},
 		[223134] = {
 			1866, -- [1]
@@ -12696,33 +13101,33 @@ _detalhes_global = {
 			2384, -- [1]
 			"Limon éruptif", -- [2]
 		},
-		[225804] = {
-			1886, -- [1]
-			"Tisserand de la Garde crépusculaire", -- [2]
+		[342281] = {
+			2406, -- [1]
+			"Dame Inerva Sombreveine", -- [2]
 		},
 		[59142] = {
 			1987, -- [1]
 			"Saccageur en acier durci", -- [2]
 		},
-		[50842] = {
-			2390, -- [1]
-			6, -- [2]
+		[60029] = {
+			1967, -- [1]
+			"Jedoga Cherchelombre", -- [2]
 		},
-		[224568] = {
-			1863, -- [1]
-			"Protecteur du palais Sacrenuit", -- [2]
+		[199658] = {
+			2390, -- [1]
+			1, -- [2]
 		},
 		[206503] = {
 			1866, -- [1]
 			"[*] Flammes de Sargeras", -- [2]
 		},
-		[159724] = {
-			1695, -- [1]
-			"Marak la Sanglante", -- [2]
+		[209469] = {
+			1873, -- [1]
+			"Ichor cauchemardesque", -- [2]
 		},
-		[244737] = {
-			2070, -- [1]
-			"Amiral Svirax", -- [2]
+		[214712] = {
+			1877, -- [1]
+			"Cénarius", -- [2]
 		},
 		[53385] = {
 			2390, -- [1]
@@ -12732,13 +13137,13 @@ _detalhes_global = {
 			2144, -- [1]
 			"Broyeur de sang <Taloc>", -- [2]
 		},
-		[210619] = {
-			1877, -- [1]
-			"Feu follet corrompu", -- [2]
+		[323687] = {
+			2400, -- [1]
+			"Marchande Xy'exa", -- [2]
 		},
-		[334757] = {
-			2418, -- [1]
-			"Bargast", -- [2]
+		[258922] = {
+			2390, -- [1]
+			"Raydar-CultedelaRivenoire", -- [2]
 		},
 		[210342] = {
 			1877, -- [1]
@@ -12748,21 +13153,21 @@ _detalhes_global = {
 			2412, -- [1]
 			"Contrôleur de danse", -- [2]
 		},
-		[316995] = {
-			2366, -- [1]
-			"Xav l'Invaincu", -- [2]
+		[59305] = {
+			2028, -- [1]
+			"Roi Ymiron", -- [2]
 		},
 		[59974] = {
 			1968, -- [1]
 			"Héraut Volazj", -- [2]
 		},
-		[70890] = {
-			2390, -- [1]
-			6, -- [2]
+		[158321] = {
+			1695, -- [1]
+			"Massacreuse Sorka", -- [2]
 		},
-		[211132] = {
+		[221781] = {
 			1866, -- [1]
-			"Oeil de Gul'dan surpuissant", -- [2]
+			"Gul'dan", -- [2]
 		},
 		[193455] = {
 			2390, -- [1]
@@ -12772,37 +13177,37 @@ _detalhes_global = {
 			2401, -- [1]
 			"Totem guérisseur <Zahanu-Elune>", -- [2]
 		},
-		[322239] = {
-			2386, -- [1]
-			"Apparition malveillante", -- [2]
+		[246779] = {
+			2088, -- [1]
+			"Kin'garoth", -- [2]
 		},
-		[75] = {
-			2390, -- [1]
-			3, -- [2]
+		[203888] = {
+			1854, -- [1]
+			"Léthon", -- [2]
 		},
-		[59305] = {
+		[54719] = {
+			1983, -- [1]
+			"Colosse drakkari", -- [2]
+		},
+		[59306] = {
 			2028, -- [1]
 			"Roi Ymiron", -- [2]
 		},
-		[158321] = {
-			1695, -- [1]
-			"Massacreuse Sorka", -- [2]
+		[272584] = {
+			2144, -- [1]
+			"Gouttelette volatile", -- [2]
 		},
-		[145288] = {
-			1594, -- [1]
-			"Golem d’anima modifié", -- [2]
-		},
-		[323544] = {
-			2395, -- [1]
-			"Fils d'Hakkar", -- [2]
+		[338022] = {
+			2387, -- [1]
+			"Sac à chancre", -- [2]
 		},
 		[144328] = {
 			1606, -- [1]
 			"Brise-terre Haromm", -- [2]
 		},
-		[328664] = {
-			2388, -- [1]
-			"Mage réanimé <Amarth>", -- [2]
+		[225845] = {
+			1886, -- [1]
+			"Tisserand de la Garde crépusculaire", -- [2]
 		},
 		[322304] = {
 			2386, -- [1]
@@ -12812,13 +13217,13 @@ _detalhes_global = {
 			1849, -- [1]
 			"Skorpyron", -- [2]
 		},
-		[244767] = {
-			2074, -- [1]
-			"F'harg", -- [2]
+		[225847] = {
+			1886, -- [1]
+			"Tisserand de la Garde crépusculaire", -- [2]
 		},
-		[142759] = {
-			1594, -- [1]
-			"Etincelle de vie", -- [2]
+		[228645] = {
+			2390, -- [1]
+			"Arme runique", -- [2]
 		},
 		[248214] = {
 			2088, -- [1]
@@ -12832,13 +13237,13 @@ _detalhes_global = {
 			2402, -- [1]
 			"Inconnu", -- [2]
 		},
-		[203796] = {
-			2390, -- [1]
-			"Raydar-CultedelaRivenoire", -- [2]
+		[324589] = {
+			2404, -- [1]
+			"Marche-Mort <[*] Manifestation de la mort>", -- [2]
 		},
-		[321956] = {
-			2390, -- [1]
-			"Nalthor le Lieur-de-Givre", -- [2]
+		[345561] = {
+			2357, -- [1]
+			"Azules", -- [2]
 		},
 		[322818] = {
 			2359, -- [1]
@@ -12848,13 +13253,13 @@ _detalhes_global = {
 			2404, -- [1]
 			"Echo de chevaucheur de taureau", -- [2]
 		},
-		[55250] = {
-			1981, -- [1]
-			"Gal'darah", -- [2]
+		[328248] = {
+			2402, -- [1]
+			"Occultiste infâme", -- [2]
 		},
-		[246305] = {
-			2075, -- [1]
-			"Destructeur gangrimprégné", -- [2]
+		[214654] = {
+			1849, -- [1]
+			"Skorpyron", -- [2]
 		},
 		[320772] = {
 			2390, -- [1]
@@ -12868,13 +13273,13 @@ _detalhes_global = {
 			2390, -- [1]
 			9, -- [2]
 		},
-		[343556] = {
-			2389, -- [1]
-			"Docteur Sutur", -- [2]
+		[328177] = {
+			2384, -- [1]
+			"Tempétueux fongique", -- [2]
 		},
-		[225847] = {
-			1886, -- [1]
-			"Tisserand de la Garde crépusculaire", -- [2]
+		[244767] = {
+			2074, -- [1]
+			"F'harg", -- [2]
 		},
 		[327426] = {
 			2396, -- [1]
@@ -12888,9 +13293,9 @@ _detalhes_global = {
 			1866, -- [1]
 			"Gul'dan", -- [2]
 		},
-		[225081] = {
-			1854, -- [1]
-			"Gardien contaminé", -- [2]
+		[212794] = {
+			1862, -- [1]
+			"Tichondrius", -- [2]
 		},
 		[327427] = {
 			2396, -- [1]
@@ -12904,21 +13309,21 @@ _detalhes_global = {
 			1691, -- [1]
 			"Gruul", -- [2]
 		},
-		[319669] = {
-			2364, -- [1]
-			"Kul'tharok", -- [2]
+		[211439] = {
+			1866, -- [1]
+			"Le démon intérieur", -- [2]
 		},
 		[12555] = {
 			1987, -- [1]
 			"Général Bjarngrim", -- [2]
 		},
-		[28679] = {
-			1109, -- [1]
-			"Gothik le Moissonneur", -- [2]
+		[336306] = {
+			2385, -- [1]
+			"Domina Lamevenin", -- [2]
 		},
-		[325908] = {
-			2406, -- [1]
-			"Dame Inerva Sombreveine", -- [2]
+		[222021] = {
+			1886, -- [1]
+			"Arcaniste Tel’arn", -- [2]
 		},
 		[205486] = {
 			1863, -- [1]
@@ -12928,21 +13333,21 @@ _detalhes_global = {
 			2406, -- [1]
 			"Dame Inerva Sombreveine", -- [2]
 		},
-		[206920] = {
-			1864, -- [1]
-			"Tentacule cauchemardesque", -- [2]
+		[244016] = {
+			2064, -- [1]
+			"Hasabel la Garde-portail", -- [2]
 		},
-		[248233] = {
-			2082, -- [1]
-			"Imonar le Chasseur d'âmes", -- [2]
+		[206677] = {
+			1842, -- [1]
+			"Krosus", -- [2]
 		},
 		[343294] = {
 			2390, -- [1]
 			6, -- [2]
 		},
-		[228030] = {
-			1958, -- [1]
-			"Hyrja", -- [2]
+		[55250] = {
+			1981, -- [1]
+			"Gal'darah", -- [2]
 		},
 		[247962] = {
 			2082, -- [1]
@@ -12968,21 +13373,21 @@ _detalhes_global = {
 			1691, -- [1]
 			"Gruul", -- [2]
 		},
-		[206474] = {
-			1862, -- [1]
-			"Tichondrius", -- [2]
+		[244737] = {
+			2070, -- [1]
+			"Amiral Svirax", -- [2]
 		},
 		[219049] = {
 			1886, -- [1]
 			"Naturaliste Tel’arn", -- [2]
 		},
-		[225859] = {
-			1886, -- [1]
-			"Naturaliste shal’dorei", -- [2]
+		[324085] = {
+			2391, -- [1]
+			"Dessia la Décapiteuse", -- [2]
 		},
-		[228633] = {
-			2008, -- [1]
-			"Marin de la garde de nuit", -- [2]
+		[244021] = {
+			2064, -- [1]
+			"[*] Ténèbres éclatantes", -- [2]
 		},
 		[221864] = {
 			1872, -- [1]
@@ -12992,57 +13397,57 @@ _detalhes_global = {
 			2406, -- [1]
 			"Dame Inerva Sombreveine", -- [2]
 		},
-		[328176] = {
-			2384, -- [1]
-			"Tempétueux fongique", -- [2]
+		[49998] = {
+			2390, -- [1]
+			6, -- [2]
 		},
-		[209615] = {
-			1872, -- [1]
-			"Elisande", -- [2]
-		},
-		[324527] = {
-			2382, -- [1]
-			"Globgrog", -- [2]
-		},
-		[244021] = {
-			2064, -- [1]
-			"[*] Ténèbres éclatantes", -- [2]
-		},
-		[323852] = {
-			2403, -- [1]
-			"Paroissien spectral <Lylo-Outland>", -- [2]
-		},
-		[215761] = {
-			1873, -- [1]
-			"Inconnu", -- [2]
+		[148243] = {
+			1622, -- [1]
+			"Grunt gueule-de-dragon", -- [2]
 		},
 		[59407] = {
 			2030, -- [1]
 			"Canaliste rituel", -- [2]
 		},
-		[61549] = {
-			2028, -- [1]
-			"Berserker ymirjar", -- [2]
-		},
-		[203102] = {
-			1854, -- [1]
-			"Ysondre", -- [2]
-		},
-		[100780] = {
+		[8092] = {
 			2390, -- [1]
-			10, -- [2]
+			5, -- [2]
 		},
-		[255641] = {
-			2082, -- [1]
-			"[*] Explosion de shrapnel", -- [2]
+		[323852] = {
+			2403, -- [1]
+			"Paroissien spectral <Lylo-Outland>", -- [2]
+		},
+		[245301] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
+		},
+		[343005] = {
+			2398, -- [1]
+			"Hurlaile", -- [2]
 		},
 		[143385] = {
 			1601, -- [1]
 			"Ingé-siège Boîte-Noire", -- [2]
 		},
+		[248499] = {
+			2092, -- [1]
+			"Argus l'Annihilateur", -- [2]
+		},
 		[59823] = {
 			1981, -- [1]
 			"Esprit rhinocéros <Gal'darah>", -- [2]
+		},
+		[255641] = {
+			2082, -- [1]
+			"[*] Explosion de shrapnel", -- [2]
+		},
+		[145812] = {
+			1594, -- [1]
+			"Manieur de vent set’thik", -- [2]
+		},
+		[249113] = {
+			2074, -- [1]
+			"Shatug", -- [2]
 		},
 		[320272] = {
 			2391, -- [1]
@@ -13052,13 +13457,13 @@ _detalhes_global = {
 			2390, -- [1]
 			"Nalthor le Lieur-de-Givre", -- [2]
 		},
-		[340860] = {
-			2405, -- [1]
-			"Racine d'extinction", -- [2]
+		[59408] = {
+			2030, -- [1]
+			"Canaliste rituel", -- [2]
 		},
-		[323392] = {
-			2381, -- [1]
-			"Grand chambellan", -- [2]
+		[208860] = {
+			1864, -- [1]
+			"Abomination de l'effroi", -- [2]
 		},
 		[348] = {
 			2390, -- [1]
@@ -13068,13 +13473,13 @@ _detalhes_global = {
 			2418, -- [1]
 			"Altimor le Veneur", -- [2]
 		},
-		[327584] = {
-			2382, -- [1]
-			"Crache-peste", -- [2]
+		[251572] = {
+			2092, -- [1]
+			"[*] Détonation d'explosion d'âme", -- [2]
 		},
-		[224973] = {
-			1862, -- [1]
-			"[*] Enchaînement d’ombre", -- [2]
+		[328176] = {
+			2384, -- [1]
+			"Tempétueux fongique", -- [2]
 		},
 		[324368] = {
 			2357, -- [1]
@@ -13084,25 +13489,25 @@ _detalhes_global = {
 			2394, -- [1]
 			"[*] Puissance accablante", -- [2]
 		},
-		[254384] = {
-			2074, -- [1]
-			"F'harg", -- [2]
+		[342874] = {
+			2405, -- [1]
+			"Artificier Xy'mox", -- [2]
 		},
 		[342280] = {
 			2406, -- [1]
 			"Dame Inerva Sombreveine", -- [2]
 		},
-		[249113] = {
-			2074, -- [1]
-			"Shatug", -- [2]
+		[326171] = {
+			2396, -- [1]
+			"Mueh'zala", -- [2]
 		},
 		[320787] = {
 			2394, -- [1]
 			"Milhouse Tempête-de-Mana", -- [2]
 		},
-		[60236] = {
-			1984, -- [1]
-			"Vortex tempétueux", -- [2]
+		[244736] = {
+			2063, -- [1]
+			"Aggramar", -- [2]
 		},
 		[59465] = {
 			1969, -- [1]
@@ -13148,9 +13553,9 @@ _detalhes_global = {
 			2418, -- [1]
 			"Altimor le Veneur", -- [2]
 		},
-		[211192] = {
-			1877, -- [1]
-			"Drake corrompu", -- [2]
+		[158599] = {
+			1695, -- [1]
+			"Amiral Gar’an", -- [2]
 		},
 		[91776] = {
 			2390, -- [1]
@@ -13160,25 +13565,25 @@ _detalhes_global = {
 			2390, -- [1]
 			6, -- [2]
 		},
-		[158599] = {
-			1695, -- [1]
-			"Amiral Gar’an", -- [2]
+		[319539] = {
+			2364, -- [1]
+			"Kul'tharok", -- [2]
 		},
-		[208230] = {
-			1862, -- [1]
-			"Tichondrius", -- [2]
+		[48295] = {
+			2028, -- [1]
+			"Roi Ymiron", -- [2]
 		},
-		[328593] = {
-			2362, -- [1]
-			"Grande déléguée Beryllia", -- [2]
+		[148515] = {
+			1594, -- [1]
+			"Jun Wei", -- [2]
 		},
-		[214497] = {
-			1854, -- [1]
-			"Faille cauchemardesque", -- [2]
+		[59834] = {
+			1984, -- [1]
+			"Etincelle d'Ionar", -- [2]
 		},
-		[338012] = {
-			2403, -- [1]
-			"Fontaine d'anima", -- [2]
+		[148760] = {
+			1594, -- [1]
+			"Commandant Ik’tal", -- [2]
 		},
 		[228267] = {
 			1866, -- [1]
@@ -13192,69 +13597,69 @@ _detalhes_global = {
 			2390, -- [1]
 			1, -- [2]
 		},
-		[59827] = {
-			1981, -- [1]
-			"Gal'darah", -- [2]
+		[199547] = {
+			2390, -- [1]
+			"Raydar-CultedelaRivenoire", -- [2]
 		},
 		[325399] = {
 			2405, -- [1]
 			"Artificier Xy'mox", -- [2]
 		},
-		[208748] = {
-			1864, -- [1]
-			"Abomination de l'effroi", -- [2]
-		},
-		[55078] = {
+		[81297] = {
 			2390, -- [1]
-			6, -- [2]
+			2, -- [2]
+		},
+		[327584] = {
+			2382, -- [1]
+			"Crache-peste", -- [2]
 		},
 		[234153] = {
 			2390, -- [1]
 			9, -- [2]
 		},
-		[36096] = {
-			1987, -- [1]
-			"Général Bjarngrim", -- [2]
+		[148516] = {
+			1594, -- [1]
+			"Jun Wei", -- [2]
 		},
-		[155530] = {
-			1691, -- [1]
-			"Gruul", -- [2]
+		[59795] = {
+			1984, -- [1]
+			"Ionar", -- [2]
 		},
 		[144853] = {
 			1594, -- [1]
 			"Gardien quilen", -- [2]
 		},
-		[81297] = {
-			2390, -- [1]
-			2, -- [2]
+		[247376] = {
+			2082, -- [1]
+			"Imonar le Chasseur d'âmes", -- [2]
 		},
-		[244051] = {
-			2074, -- [1]
-			"Shatug", -- [2]
+		[228127] = {
+			2008, -- [1]
+			"Helya", -- [2]
 		},
-		[343005] = {
-			2398, -- [1]
-			"Hurlaile", -- [2]
+		[322648] = {
+			2393, -- [1]
+			"[*] Lien de l’esprit", -- [2]
 		},
 		[41107] = {
 			1987, -- [1]
 			"Général Bjarngrim", -- [2]
 		},
-		[322563] = {
-			2393, -- [1]
-			"Tred'ova", -- [2]
+		[257262] = {
+			2070, -- [1]
+			"Mine entropique", -- [2]
 		},
 		[164812] = {
 			2390, -- [1]
 			11, -- [2]
 		},
-		[244056] = {
-			2074, -- [1]
-			"Shatug", -- [2]
+		[244901] = {
+			2063, -- [1]
+			"Inconnu", -- [2]
 		},
-		[320596] = {
-			2387, -- [1]
-			"Chancros", -- [2]
+		[23922] = {
+			2390, -- [1]
+			1, -- [2]
 		},
 		[224943] = {
 			1862, -- [1]
@@ -13268,25 +13673,25 @@ _detalhes_global = {
 			2387, -- [1]
 			"Sac à chancre", -- [2]
 		},
-		[257262] = {
-			2070, -- [1]
-			"Mine entropique", -- [2]
+		[208697] = {
+			1873, -- [1]
+			"Oeil meurtrier tentaculaire", -- [2]
 		},
-		[322903] = {
-			2363, -- [1]
-			"Général Kaal", -- [2]
+		[209387] = {
+			1873, -- [1]
+			"Horreur cauchemardesque", -- [2]
 		},
-		[322648] = {
-			2393, -- [1]
-			"[*] Lien de l’esprit", -- [2]
-		},
-		[329127] = {
+		[321956] = {
 			2390, -- [1]
-			11, -- [2]
+			"Nalthor le Lieur-de-Givre", -- [2]
 		},
-		[55964] = {
-			1966, -- [1]
-			"Prince Taldaram", -- [2]
+		[59147] = {
+			1987, -- [1]
+			"Mande-ciel en acier durci", -- [2]
+		},
+		[330590] = {
+			2383, -- [1]
+			"[*] Miasme glouton", -- [2]
 		},
 		[224944] = {
 			1862, -- [1]
@@ -13296,9 +13701,9 @@ _detalhes_global = {
 			1985, -- [1]
 			"Volkhan", -- [2]
 		},
-		[322493] = {
-			2388, -- [1]
-			"Mage réanimé <Amarth>", -- [2]
+		[330848] = {
+			2412, -- [1]
+			"[*] Faux pas", -- [2]
 		},
 		[340758] = {
 			2405, -- [1]
@@ -13308,29 +13713,29 @@ _detalhes_global = {
 			2418, -- [1]
 			"Altimor le Veneur", -- [2]
 		},
-		[246753] = {
-			2075, -- [1]
-			"Négateur gangrechargé", -- [2]
+		[224378] = {
+			1886, -- [1]
+			"Acolyte céleste", -- [2]
 		},
-		[324608] = {
-			2358, -- [1]
-			"Oryphrione", -- [2]
+		[244903] = {
+			2063, -- [1]
+			"Flamme de Taeshalach", -- [2]
 		},
-		[55607] = {
-			1109, -- [1]
-			"Cavalier tenace", -- [2]
+		[211192] = {
+			1877, -- [1]
+			"Drake corrompu", -- [2]
 		},
-		[345936] = {
-			2398, -- [1]
-			"Hurlaile", -- [2]
+		[145688] = {
+			1594, -- [1]
+			"Réserve sécurisée de butin de Pandarie", -- [2]
 		},
 		[198590] = {
 			2390, -- [1]
 			9, -- [2]
 		},
-		[145688] = {
-			1594, -- [1]
-			"Réserve sécurisée de butin de Pandarie", -- [2]
+		[247159] = {
+			2076, -- [1]
+			"Brise-monde garothi", -- [2]
 		},
 		[248230] = {
 			2076, -- [1]
@@ -13756,10 +14161,10 @@ _detalhes_global = {
 					0, -- [1]
 					0, -- [2]
 				},
-				["maximize_method"] = 1,
-				["fontshadow"] = false,
-				["border_size"] = 14,
 				["menus_bg_texture"] = "Interface\\SPELLBOOK\\Spellbook-Page-1",
+				["maximize_method"] = 1,
+				["border_size"] = 14,
+				["fontshadow"] = false,
 				["anchor_screen_pos"] = {
 					507.7, -- [1]
 					-350.5, -- [2]
@@ -13972,10 +14377,10 @@ _detalhes_global = {
 						["texture"] = "BantoBar",
 						["start_after_icon"] = true,
 						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
-						["texture_background"] = "Details D'ictum (reverse)",
-						["alpha"] = 1,
-						["textR_class_colors"] = false,
 						["textL_class_colors"] = false,
+						["alpha"] = 1,
+						["texture_background"] = "Details D'ictum (reverse)",
+						["textR_class_colors"] = false,
 						["textR_outline_small_color"] = {
 							0, -- [1]
 							0, -- [2]
@@ -14121,8 +14526,6 @@ _detalhes_global = {
 					["switch_healer"] = false,
 					["fontstrings_text2_anchor"] = 70,
 					["StatusBarSaved"] = {
-						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
-						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
 						["options"] = {
 							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
 								["segmentType"] = 2,
@@ -14168,7 +14571,9 @@ _detalhes_global = {
 								["textYMod"] = 1,
 							},
 						},
+						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
 						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
+						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
 					},
 					["__was_opened"] = true,
 					["switch_damager"] = false,
@@ -16408,19 +16813,20 @@ _detalhes_global = {
 				["bar_texture"] = "Skyline",
 			},
 			["overall_clear_newboss"] = true,
-			["font_sizes"] = {
-				["menus"] = 10,
+			["window_clamp"] = {
+				-8, -- [1]
+				0, -- [2]
+				21, -- [3]
+				-14, -- [4]
 			},
 			["overall_clear_logout"] = false,
 			["memory_threshold"] = 3,
 			["cloud_capture"] = true,
 			["damage_taken_everything"] = false,
 			["scroll_speed"] = 2,
-			["window_clamp"] = {
-				-8, -- [1]
-				0, -- [2]
-				21, -- [3]
-				-14, -- [4]
+			["new_window_size"] = {
+				["height"] = 158,
+				["width"] = 310,
 			},
 			["chat_tab_embed"] = {
 				["enabled"] = false,
@@ -16566,10 +16972,10 @@ _detalhes_global = {
 					0.61, -- [2]
 					0.43, -- [3]
 				},
-				["SHAMAN"] = {
-					0, -- [1]
-					0.44, -- [2]
-					0.87, -- [3]
+				["PALADIN"] = {
+					0.96, -- [1]
+					0.55, -- [2]
+					0.73, -- [3]
 				},
 				["MAGE"] = {
 					0.41, -- [1]
@@ -16601,10 +17007,10 @@ _detalhes_global = {
 					0.12, -- [2]
 					0.23, -- [3]
 				},
-				["WARLOCK"] = {
-					0.58, -- [1]
-					0.51, -- [2]
-					0.79, -- [3]
+				["ARENA_GREEN"] = {
+					0.4, -- [1]
+					1, -- [2]
+					0.4, -- [3]
 				},
 				["UNKNOW"] = {
 					0.2, -- [1]
@@ -16616,15 +17022,15 @@ _detalhes_global = {
 					1, -- [2]
 					1, -- [3]
 				},
-				["PALADIN"] = {
-					0.96, -- [1]
-					0.55, -- [2]
-					0.73, -- [3]
+				["WARLOCK"] = {
+					0.58, -- [1]
+					0.51, -- [2]
+					0.79, -- [3]
 				},
-				["ARENA_GREEN"] = {
-					0.4, -- [1]
-					1, -- [2]
-					0.4, -- [3]
+				["SHAMAN"] = {
+					0, -- [1]
+					0.44, -- [2]
+					0.87, -- [3]
 				},
 				["ENEMY"] = {
 					0.94117, -- [1]
@@ -16688,9 +17094,8 @@ _detalhes_global = {
 				"out", -- [1]
 				0.2, -- [2]
 			},
-			["new_window_size"] = {
-				["height"] = 158,
-				["width"] = 310,
+			["font_sizes"] = {
+				["menus"] = 10,
 			},
 			["minimum_combat_time"] = 5,
 			["numerical_system"] = 1,
@@ -17060,10 +17465,10 @@ _detalhes_global = {
 					0, -- [1]
 					0, -- [2]
 				},
-				["menus_bg_texture"] = "Interface\\SPELLBOOK\\Spellbook-Page-1",
-				["maximize_method"] = 1,
-				["border_size"] = 14,
 				["fontshadow"] = false,
+				["menus_bg_texture"] = "Interface\\SPELLBOOK\\Spellbook-Page-1",
+				["border_size"] = 14,
+				["maximize_method"] = 1,
 				["anchor_screen_pos"] = {
 					507.7, -- [1]
 					-350.5, -- [2]
@@ -17325,6 +17730,9 @@ _detalhes_global = {
 					["switch_healer"] = false,
 					["fontstrings_text2_anchor"] = 70,
 					["StatusBarSaved"] = {
+						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
+						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
+						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
 						["options"] = {
 							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
 								["segmentType"] = 2,
@@ -17369,9 +17777,6 @@ _detalhes_global = {
 								},
 							},
 						},
-						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
-						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
-						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
 					},
 					["__was_opened"] = true,
 					["bg_alpha"] = 0.183960914611816,
@@ -17530,15 +17935,15 @@ _detalhes_global = {
 							0.150228589773178, -- [4]
 						},
 						["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
-						["textL_class_colors"] = false,
+						["textR_class_colors"] = false,
 						["textR_outline_small_color"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
+						["textL_class_colors"] = false,
 						["texture_background"] = "Details D'ictum (reverse)",
-						["textR_class_colors"] = false,
 						["alpha"] = 1,
 						["no_icon"] = false,
 						["icon_offset"] = {
@@ -17604,8 +18009,11 @@ _detalhes_global = {
 			["force_activity_time_pvp"] = true,
 			["numerical_system"] = 1,
 			["minimum_combat_time"] = 5,
-			["font_sizes"] = {
-				["menus"] = 10,
+			["window_clamp"] = {
+				-8, -- [1]
+				0, -- [2]
+				21, -- [3]
+				-14, -- [4]
 			},
 			["overall_clear_logout"] = false,
 			["chat_tab_embed"] = {
@@ -17618,11 +18026,9 @@ _detalhes_global = {
 			["cloud_capture"] = true,
 			["damage_taken_everything"] = false,
 			["scroll_speed"] = 2,
-			["window_clamp"] = {
-				-8, -- [1]
-				0, -- [2]
-				21, -- [3]
-				-14, -- [4]
+			["new_window_size"] = {
+				["height"] = 158,
+				["width"] = 310,
 			},
 			["memory_threshold"] = 3,
 			["deadlog_events"] = 32,
@@ -17884,9 +18290,8 @@ _detalhes_global = {
 				"out", -- [1]
 				0.2, -- [2]
 			},
-			["new_window_size"] = {
-				["height"] = 158,
-				["width"] = 310,
+			["font_sizes"] = {
+				["menus"] = 10,
 			},
 			["overall_clear_newboss"] = true,
 			["player_details_window"] = {
@@ -18198,29 +18603,29 @@ _detalhes_global = {
 				"2420", -- [9]
 				["id"] = 2406,
 			},
-			["326039"] = {
-				"326039", -- [1]
-				"Timer326039next", -- [2]
-				"Tourment sans fin", -- [3]
-				24.2, -- [4]
+			["323552"] = {
+				"323552", -- [1]
+				"Timer323552cd", -- [2]
+				"~Salve de puissance", -- [3]
+				12, -- [4]
 				1394887, -- [5]
-				"next", -- [6]
-				326039, -- [7]
-				2, -- [8]
-				"2421", -- [9]
-				["id"] = 2362,
-			},
-			["322550"] = {
-				"322550", -- [1]
-				"Timer322550cd", -- [2]
-				"~Incubation accélérée", -- [3]
-				45.2, -- [4]
-				2141733, -- [5]
 				"cd", -- [6]
-				322550, -- [7]
-				1, -- [8]
-				"2405", -- [9]
-				["id"] = 2393,
+				323552, -- [7]
+				4, -- [8]
+				"2411", -- [9]
+				["id"] = 2403,
+			},
+			["322893"] = {
+				"322893", -- [1]
+				"Timer322893next", -- [2]
+				"Sillage", -- [3]
+				10, -- [4]
+				648840, -- [5]
+				"next", -- [6]
+				322893, -- [7]
+				2, -- [8]
+				"2412", -- [9]
+				["id"] = 2359,
 			},
 			["322711"] = {
 				"322711", -- [1]
@@ -18438,17 +18843,17 @@ _detalhes_global = {
 				"2429", -- [9]
 				["id"] = 2418,
 			},
-			["333493"] = {
-				"333493", -- [1]
-				"Timer333493cd", -- [2]
-				"~Souffle nécrotique", -- [3]
-				29.4, -- [4]
-				2576093, -- [5]
-				"cd", -- [6]
-				333493, -- [7]
-				3, -- [8]
-				"2391", -- [9]
-				["id"] = 2388,
+			["322795"] = {
+				"322795", -- [1]
+				"Timer322795next", -- [2]
+				"Crochets à viande", -- [3]
+				5.8, -- [4]
+				1373906, -- [5]
+				"next", -- [6]
+				322795, -- [7]
+				1, -- [8]
+				"2401", -- [9]
+				["id"] = 2365,
 			},
 			["335114"] = {
 				"335114", -- [1]
@@ -18942,17 +19347,17 @@ _detalhes_global = {
 				"2405", -- [9]
 				["id"] = 2393,
 			},
-			["322795"] = {
-				"322795", -- [1]
-				"Timer322795next", -- [2]
-				"Crochets à viande", -- [3]
-				5.8, -- [4]
-				1373906, -- [5]
-				"next", -- [6]
-				322795, -- [7]
-				1, -- [8]
-				"2401", -- [9]
-				["id"] = 2365,
+			["324427"] = {
+				"324427", -- [1]
+				"Timer324427cd", -- [2]
+				"~Munition empyréenne", -- [3]
+				16.9, -- [4]
+				1405806, -- [5]
+				"cd", -- [6]
+				324427, -- [7]
+				3, -- [8]
+				"2414", -- [9]
+				["id"] = 2358,
 			},
 			["324527"] = {
 				"324527", -- [1]
@@ -19146,17 +19551,17 @@ _detalhes_global = {
 				"2419", -- [9]
 				["id"] = 2382,
 			},
-			["322893"] = {
-				"322893", -- [1]
-				"Timer322893next", -- [2]
-				"Sillage", -- [3]
-				10, -- [4]
-				648840, -- [5]
+			["326039"] = {
+				"326039", -- [1]
+				"Timer326039next", -- [2]
+				"Tourment sans fin", -- [3]
+				24.2, -- [4]
+				1394887, -- [5]
 				"next", -- [6]
-				322893, -- [7]
+				326039, -- [7]
 				2, -- [8]
-				"2412", -- [9]
-				["id"] = 2359,
+				"2421", -- [9]
+				["id"] = 2362,
 			},
 			["327411"] = {
 				"327411", -- [1]
@@ -19542,17 +19947,17 @@ _detalhes_global = {
 				"2428", -- [9]
 				["id"] = 2383,
 			},
-			["329107"] = {
-				"329107", -- [1]
-				"Timer329107cast", -- [2]
-				"Extinction ", -- [3]
-				16, -- [4]
-				3636841, -- [5]
-				"cast", -- [6]
-				329107, -- [7]
-				2, -- [8]
-				"2418", -- [9]
-				["id"] = 2405,
+			["322550"] = {
+				"322550", -- [1]
+				"Timer322550cd", -- [2]
+				"~Incubation accélérée", -- [3]
+				45.2, -- [4]
+				2141733, -- [5]
+				"cd", -- [6]
+				322550, -- [7]
+				1, -- [8]
+				"2405", -- [9]
+				["id"] = 2393,
 			},
 			["340452"] = {
 				"340452", -- [1]
@@ -19662,17 +20067,17 @@ _detalhes_global = {
 				"2422", -- [9]
 				["id"] = 2402,
 			},
-			["323552"] = {
-				"323552", -- [1]
-				"Timer323552cd", -- [2]
-				"~Salve de puissance", -- [3]
-				12, -- [4]
-				1394887, -- [5]
-				"cd", -- [6]
-				323552, -- [7]
-				4, -- [8]
-				"2411", -- [9]
-				["id"] = 2403,
+			["329107"] = {
+				"329107", -- [1]
+				"Timer329107cast", -- [2]
+				"Extinction ", -- [3]
+				16, -- [4]
+				3636841, -- [5]
+				"cast", -- [6]
+				329107, -- [7]
+				2, -- [8]
+				"2418", -- [9]
+				["id"] = 2405,
 			},
 			["323685"] = {
 				"323685", -- [1]
@@ -19746,17 +20151,17 @@ _detalhes_global = {
 				"2392", -- [9]
 				["id"] = 2389,
 			},
-			["324427"] = {
-				"324427", -- [1]
-				"Timer324427cd", -- [2]
-				"~Munition empyréenne", -- [3]
-				16.9, -- [4]
-				1405806, -- [5]
+			["322304"] = {
+				"322304", -- [1]
+				"Timer322304cd", -- [2]
+				"~Croissance malveillante", -- [3]
+				5.6, -- [4]
+				2576086, -- [5]
 				"cd", -- [6]
-				324427, -- [7]
-				3, -- [8]
-				"2414", -- [9]
-				["id"] = 2358,
+				322304, -- [7]
+				1, -- [8]
+				"2404", -- [9]
+				["id"] = 2386,
 			},
 			["323687"] = {
 				"323687", -- [1]
@@ -19770,17 +20175,17 @@ _detalhes_global = {
 				"2398", -- [9]
 				["id"] = 2400,
 			},
-			["322304"] = {
-				"322304", -- [1]
-				"Timer322304cd", -- [2]
-				"~Croissance malveillante", -- [3]
-				5.6, -- [4]
-				2576086, -- [5]
+			["333493"] = {
+				"333493", -- [1]
+				"Timer333493cd", -- [2]
+				"~Souffle nécrotique", -- [3]
+				29.4, -- [4]
+				2576093, -- [5]
 				"cd", -- [6]
-				322304, -- [7]
-				1, -- [8]
-				"2404", -- [9]
-				["id"] = 2386,
+				333493, -- [7]
+				3, -- [8]
+				"2391", -- [9]
+				["id"] = 2388,
 			},
 			["319589"] = {
 				"319589", -- [1]
@@ -19803,11 +20208,11 @@ _detalhes_global = {
 		["Tempête de comètes"] = 16,
 		["Célérité tranchante"] = 1,
 		["Éboulement"] = 1,
-		["Chasseur des ombres"] = 32,
+		["Orgueil grandissant"] = 32,
 		["Déferlante de flammes"] = 4,
 		["Coup de pistolet"] = 1,
 		["Grenade commotionnante"] = 4,
-		["Pacte impie"] = 32,
+		["Essaim traqueur"] = 32,
 		["Pourriture fétide"] = 8,
 		["Vestige incandescent"] = 4,
 		["Munition empyréenne"] = 64,
@@ -19817,19 +20222,20 @@ _detalhes_global = {
 		["Décharge de corruption"] = 32,
 		["Carnage"] = 4,
 		["Morsure"] = 1,
-		["Gelée caustique"] = 8,
+		["Bain de mojo"] = 8,
 		["Tourment de flammes"] = 4,
-		["Vortex"] = 16,
+		["Marque d’expiation"] = 32,
 		["Fracasser"] = 8,
+		["Éruption de flammes"] = 4,
 		["Heurtoir"] = 1,
 		["Voile mortel"] = 32,
 		["Machinations d’Aman’Thul"] = 64,
 		["Poison instantané"] = 8,
 		["Possession"] = 32,
-		["Tir tranquillisant"] = 8,
+		["Vague primordiale"] = 32,
 		["Ame cisaillée"] = 32,
 		["Cognition partagée"] = 32,
-		["Déflagration des Arcanes"] = 64,
+		["Éclats de verre"] = 1,
 		["Fusillade"] = 4,
 		["Esprits sauvages"] = 8,
 		["Champ d’anima"] = 64,
@@ -19841,8 +20247,9 @@ _detalhes_global = {
 		["Câble de détonation"] = 4,
 		["Grenade à impulsion"] = 8,
 		["Spores dispersées"] = 32,
-		["Escarmouche éternelle"] = 32,
-		["Casse-crâne"] = 1,
+		["Tempête incendiaire"] = 4,
+		["Furie-de-glace"] = 16,
+		["Toxine d’aile-écorchée"] = 8,
 		["Explosion de shrapnel"] = 1,
 		["Piqûre drainante"] = 32,
 		["Fureur de Helya"] = 16,
@@ -19861,11 +20268,11 @@ _detalhes_global = {
 		["Nova du sha"] = 32,
 		["Éviscération"] = 32,
 		["En état de choc"] = 4,
-		["Âme fissurée"] = 4,
+		["Explosions chargées"] = 4,
 		["Enchaînement d’ombre"] = 32,
 		["Renvoi d’anima"] = 8,
 		["Rafale cramoisie"] = 1,
-		["Extraction d’essence"] = 32,
+		["Foudre arcanique"] = 64,
 		["Barrage aérien de poulet-fusée"] = 4,
 		["Résidu de sha"] = 32,
 		["Nuage stellaire"] = 32,
@@ -19886,7 +20293,7 @@ _detalhes_global = {
 		["Siphonné"] = 32,
 		["Expulsion d’acide"] = 8,
 		["Expulsion parasitaire"] = 32,
-		["Ombres brûlantes"] = 32,
+		["Éruption du Vide"] = 32,
 		["Lien de flamme"] = 4,
 		["Toucher de gelée"] = 8,
 		["Ordre de tuer"] = 1,
@@ -19910,10 +20317,10 @@ _detalhes_global = {
 		["Plumage fumant"] = 4,
 		["Explosion de cauchemar"] = 32,
 		["Épines d’effroi"] = 32,
-		["Anéantissement"] = 1,
+		["Plasma ionisé"] = 64,
 		["Afflux d’anima"] = 64,
 		["Cherche-vice"] = 32,
-		["Trait du chaos"] = 124,
+		["Météore corrupteur"] = 32,
 		["Linceul"] = 32,
 		["Maître de la mort"] = 32,
 		["Écho électrique"] = 28,
@@ -19921,13 +20328,13 @@ _detalhes_global = {
 		["Sort funeste"] = 64,
 		["Corruption du Cauchemar"] = 32,
 		["Nova de givre"] = 16,
-		["Morsure de l’effroi"] = 32,
+		["Pointe d’os dentelée"] = 1,
 		["Explosion élémentaire"] = 28,
 		["Souffle putride"] = 32,
 		["Tir des Arcanes"] = 64,
 		["Siphon d’âme"] = 32,
 		["Fracasser armure"] = 1,
-		["Laser digital X-trême Echo"] = 4,
+		["Fumant"] = 4,
 		["Frappes récursives"] = 1,
 		["Scission d’âme"] = 32,
 		["Triple morsure"] = 8,
@@ -19946,19 +20353,20 @@ _detalhes_global = {
 		["Frappe de mort"] = 1,
 		["Fustigation supérieure"] = 32,
 		["Bannière oppressante"] = 1,
-		["Mutilation"] = 1,
+		["Siphon d’esprit"] = 64,
 		["Afflux d’âmes"] = 32,
 		["Tir de la chimère"] = 16,
-		["Tir acéré"] = 1,
+		["Damnation diabolique !"] = 32,
 		["Piliers de la nuit"] = 64,
-		["Portail surpuissant : Nathreza"] = 32,
+		["Foulée sombre"] = 1,
+		["Sillage de feu"] = 4,
 		["Rupture"] = 1,
 		["Déflagration purificatrice"] = 64,
 		["Lianes souillées"] = 32,
 		["Transfert spectral"] = 32,
 		["Explosion du Vide"] = 32,
 		["Division de l’âme"] = 1,
-		["Toucher de corruption"] = 32,
+		["Jambes cartilagineuses"] = 32,
 		["Anima touché par le vice"] = 32,
 		["Réprimande retentissante"] = 64,
 		["Empire brisé"] = 32,
@@ -19968,11 +20376,12 @@ _detalhes_global = {
 		["Bombardement infernal"] = 4,
 		["Spores toxiques"] = 8,
 		["Corruption stygienne"] = 32,
-		["Attraper"] = 1,
+		["Étreinte entropique"] = 48,
 		["Tir automatique"] = 1,
 		["Éclaboussure de vent chargé d’anima"] = 64,
+		["Fureur de Golganneth"] = 8,
 		["Anima rémanent"] = 32,
-		["Entraves parasites"] = 8,
+		["Globules viraux"] = 8,
 		["Commandement vertueux"] = 2,
 		["Spores nocives"] = 40,
 		["Explosion temporelle"] = 64,
@@ -20015,6 +20424,7 @@ _detalhes_global = {
 		["Détonation dévorante"] = 32,
 		["Péchés du passé"] = 32,
 		["Zèle"] = 2,
+		["Bombardement"] = 4,
 		["Gueule brûlante"] = 4,
 		["Tir rapide"] = 1,
 		["Gaz d’échappement"] = 4,
@@ -20041,16 +20451,16 @@ _detalhes_global = {
 		["Rosser"] = 1,
 		["Pointe du Néant"] = 64,
 		["Territoire hostile"] = 1,
-		["Tir"] = 1,
+		["Tir"] = 8,
 		["Portail surpuissant : Xoroth"] = 4,
 		["Jonc épineux"] = 8,
 		["Ronces"] = 8,
-		["Souffrance partagée"] = 32,
+		["Rayon de givre"] = 16,
 		["Infusion d’âme"] = 32,
 		["Effondrement solaire"] = 4,
 		["Furoncle sanglant"] = 32,
-		["Crochets dégoulinants"] = 8,
-		["Pointe glaciaire"] = 16,
+		["Sang maudit"] = 32,
+		["Explosion de l'Apocalypse"] = 4,
 		["Gaz fétide"] = 8,
 		["Tribut du phylactère"] = 32,
 		["Bile putride"] = 8,
@@ -20088,10 +20498,10 @@ _detalhes_global = {
 		["Anima chargé"] = 64,
 		["Désirs déformés"] = 32,
 		["Annihilation"] = 4,
-		["Pointes déchirantes"] = 8,
-		["Ecoulement arcanique"] = 64,
+		["Frappe mortelle"] = 1,
+		["Marque d’Ysondre"] = 32,
 		["Boule de feu gangrenée"] = 4,
-		["Frappe de mort (main gauche)"] = 1,
+		["Éclat solaire"] = 8,
 		["Main de Gul’dan"] = 36,
 		["Déflagration entropique"] = 4,
 		["Salve de mojo"] = 8,
@@ -20100,7 +20510,8 @@ _detalhes_global = {
 		["Faux gangrenée"] = 4,
 		["Résolution apocalyptique"] = 4,
 		["Étau du froid"] = 16,
-		["Énergie disruptrice"] = 64,
+		["Morsure d’exsanguination"] = 1,
+		["Détonation de bombe d'âme"] = 32,
 		["Miasme"] = 32,
 		["Sang statique"] = 32,
 		["Bouclier de foudre"] = 8,
@@ -20114,12 +20525,13 @@ _detalhes_global = {
 		["Jugement"] = 2,
 		["Fontaine des esprits"] = 32,
 		["Raté"] = 8,
-		["Ombre déchaînée"] = 32,
+		["Choc infernal"] = 4,
 		["Pleine lune"] = 72,
 		["Coups accablants"] = 1,
 		["Éclats de pierre"] = 8,
 		["Météores"] = 72,
-		["Ruée galopante"] = 1,
+		["Bombe d'âme"] = 32,
+		["Lames de l'ombre"] = 32,
 		["Chasse de l’ombre : exécution"] = 1,
 		["Volatilité déchaînée"] = 32,
 		["Impulsion visqueuse"] = 1,
@@ -20136,278 +20548,291 @@ _detalhes_global = {
 		["Extermination immédiate"] = 32,
 		["Projectiles des Arcanes"] = 64,
 		["Frappe écrasante"] = 8,
-		["Sang froid"] = 32,
+		["Brûlure"] = 4,
 		["Barbelure perforante"] = 32,
 		["Liens de corruption"] = 4,
+		["Braise de rage"] = 32,
+		["Brasier éternel"] = 4,
+		["Embrasement surpuissant"] = 4,
+		["Éclair d'eau"] = 16,
 		["Froid de l’Au-delà"] = 32,
 		["Colère"] = 8,
+		["Fusée éclairante"] = 4,
+		["Flamme avide"] = 4,
+		["Brise-adversaire"] = 1,
+		["Atmosphère oppressante"] = 32,
+		["Roquettes infernales"] = 4,
 		["Tir du cobra"] = 1,
-		["Infection rapide"] = 8,
-		["Dévastateur"] = 4,
+		["Consécration"] = 2,
 		["Échos torturés"] = 32,
 		["Ichor nécrotique"] = 32,
+		["Assassiner"] = 8,
 		["Souffle nécrotique"] = 32,
-		["Verdict du templier"] = 2,
 		["Salve d’éclairs de givre"] = 16,
-		["Rugissement d’interruption"] = 1,
-		["Maître tireur"] = 1,
-		["Atmosphère oppressante"] = 32,
-		["Sonar résonnant"] = 1,
+		["Charge fantôme"] = 32,
+		["Morsure de l’effroi"] = 32,
+		["Peste concentrée"] = 8,
+		["Éruption stellaire"] = 72,
+		["Chaos contrôlé"] = 64,
+		["Ruée"] = 1,
+		["Limon liquéfiant"] = 8,
+		["Mutilation"] = 1,
+		["Explosion d'âme"] = 32,
 		["Anima déchaîné"] = 64,
 		["Boule de feu"] = 4,
 		["Déchirure dimensionnelle"] = 64,
-		["Destruction de diversion"] = 4,
-		["Furie-de-glace"] = 16,
+		["Force vitale"] = 8,
+		["Eviscération"] = 1,
 		["Marque immorale"] = 32,
 		["Tir anesthésiant"] = 1,
-		["Congestion"] = 32,
+		["Explosion d’huile du cœur d’ombre"] = 32,
 		["Puissance accablante"] = 64,
-		["Tir assuré"] = 1,
+		["Coupe"] = 1,
 		["Trait démoniaque"] = 36,
-		["Sabre tournoyant"] = 4,
+		["Corrosion de l'âme"] = 32,
 		["Immolation"] = 4,
-		["Foulée sombre"] = 1,
+		["Poursuite"] = 1,
 		["Trait de l'ombre"] = 32,
-		["Éclat magmatique"] = 4,
+		["Casse-crâne"] = 1,
 		["Décomposition"] = 32,
 		["Barrière flamboyante"] = 4,
-		["Limon liquéfiant"] = 8,
-		["Chaos contrôlé"] = 64,
+		["Surcharge réactive"] = 4,
+		["Bouclier du vengeur"] = 2,
 		["Trait de pierre"] = 1,
-		["Ruée"] = 1,
-		["Sombre dévastation"] = 32,
-		["Corruption : réalité insondable"] = 4,
-		["Frappe au cœur"] = 1,
-		["Captation de vie"] = 32,
+		["Tempête fongique"] = 8,
+		["Ruée galopante"] = 1,
 		["Braise ardente"] = 4,
-		["Conflagration"] = 4,
+		["Frappe au cœur"] = 1,
 		["Voie de désolation"] = 4,
+		["Ombre déchaînée"] = 32,
+		["Conflagration"] = 4,
+		["Libération temporelle"] = 64,
 		["Sillage de corruption"] = 4,
 		["Gangrerayon"] = 4,
-		["Surcharge réactive"] = 4,
-		["Coupe"] = 1,
-		["Bouclier du vengeur"] = 2,
+		["Visée"] = 1,
+		["Ombres brûlantes"] = 32,
+		["Faille du Néant"] = 64,
 		["Lames-venin"] = 8,
-		["Explosion de plasma"] = 4,
+		["Éclat magmatique"] = 4,
 		["Ronces du Cauchemar"] = 32,
-		["Tempête fongique"] = 8,
 		["Flammes semperardentes"] = 4,
-		["Brèche du conteneur"] = 32,
+		["Âme fissurée"] = 4,
+		["Frappe de mort (main gauche)"] = 1,
 		["Volte-face"] = 32,
 		["Heurt sismique"] = 1,
 		["Lame dansante"] = 1,
 		["Barrage tourbillonnant"] = 4,
 		["Balayage tourmenteur"] = 32,
 		["Explosion pyrotechnique"] = 4,
-		["Lance chargée"] = 64,
-		["Assaut inexorable"] = 16,
-		["Météore corrupteur"] = 32,
+		["Sombre dévastation"] = 32,
+		["Extraction d’essence"] = 32,
+		["Congestion"] = 32,
 		["Gueule corrompue"] = 32,
-		["Puits des âmes"] = 32,
-		["Libération temporelle"] = 64,
+		["Tir assuré"] = 1,
+		["Attirer l’âme"] = 32,
 		["Lien de vie"] = 1,
-		["Faille du Néant"] = 64,
-		["Visée"] = 1,
-		["Lien spirituel"] = 32,
+		["Sonar résonnant"] = 1,
+		["Portail surpuissant : Rancora"] = 8,
+		["Flaque d’anima"] = 8,
 		["Transi"] = 16,
-		["Horion de givre"] = 16,
+		["Sabre tournoyant"] = 4,
 		["Trait de feu"] = 4,
 		["Ame arrachée"] = 32,
 		["Nappe de sha"] = 32,
-		["Consécration"] = 2,
-		["Plasma ionisé"] = 64,
+		["Fracture"] = 5,
+		["Coup écrasant"] = 1,
 		["Barrage de gangrorage"] = 4,
-		["Foudre en boule"] = 8,
+		["Déferlante d'énergie gangrenée"] = 4,
 		["Lame de justice"] = 1,
 		["Lumière viciée réfractée"] = 32,
-		["Éruption"] = 8,
+		["Trancheglace"] = 16,
 		["Tempête divine"] = 2,
-		["Coup de grâce"] = 1,
-		["Déferlante d'énergie gangrenée"] = 4,
+		["Vortex d’âme"] = 32,
+		["Essence renversée"] = 32,
 		["Pluie de corruption"] = 4,
-		["Marque d’angoisse"] = 32,
+		["Incision déchiquetée"] = 1,
 		["Onde de choc vibrante"] = 8,
 		["Mot de l’ombre : Mort"] = 32,
+		["Chaos terrifiant"] = 32,
 		["Vague de gelée"] = 8,
-		["Foudre arcanique"] = 64,
 		["Dispositif explosif localisé"] = 64,
-		["Éruption stellaire"] = 72,
-		["Anima résiduel"] = 32,
-		["Frappe mortelle"] = 1,
-		["Embuscade de l’ombre"] = 32,
 		["Doute persistant"] = 64,
-		["Frappe d'artillerie"] = 4,
-		["Morsure profonde"] = 1,
-		["Coup écrasant"] = 1,
-		["Explosions chargées"] = 4,
-		["Éclat solaire"] = 8,
-		["Lambeau"] = 1,
-		["Morsure d’exsanguination"] = 1,
-		["Torrent de sang"] = 32,
-		["Fracture"] = 5,
-		["Trancheglace"] = 16,
-		["Herse"] = 1,
-		["Vortex d’âme"] = 32,
-		["Explosion des Arcanes"] = 64,
-		["Essence renversée"] = 32,
-		["Artillerie du Paraxis"] = 4,
 		["Glaçon"] = 16,
+		["Tir tranquillisant"] = 8,
+		["Cosmos infini"] = 32,
+		["Explosion de plasma"] = 4,
+		["Frappe d'artillerie"] = 4,
+		["Explosion écrasante"] = 4,
+		["Blessures profondes"] = 1,
+		["Puissance fluctuante"] = 8,
+		["Déflagration des Arcanes"] = 64,
+		["Lambeau"] = 1,
+		["Effondrement du monde"] = 32,
+		["Torrent de sang"] = 32,
+		["Météore"] = 4,
+		["Tempête de lames"] = 1,
+		["Herse"] = 1,
+		["Sombre récital"] = 32,
+		["Brèche du conteneur"] = 32,
+		["Éclair de feu"] = 4,
+		["Artillerie du Paraxis"] = 4,
+		["Embuscade de l’ombre"] = 32,
 		["Corpo-a-Corpo"] = 1,
 		["Cri assourdissant"] = 1,
 		["Frappe"] = 1,
 		["Crise de colère"] = 1,
-		["Éclair de feu"] = 4,
-		["Nuage infectieux"] = 40,
 		["Agonie"] = 32,
-		["Explosion écrasante"] = 4,
 		["Éclair de feu gangrené"] = 4,
-		["Carburant combustible"] = 4,
-		["Chaos terrifiant"] = 32,
-		["Attaque pernicieuse"] = 1,
-		["Effondrement du monde"] = 32,
-		["Météore"] = 4,
-		["Consommer"] = 32,
-		["Rayon de givre"] = 16,
-		["Bain de mojo"] = 8,
-		["Marque d’expiation"] = 32,
-		["Puissance fluctuante"] = 8,
-		["Vestiges incandescents"] = 4,
-		["Corruption"] = 32,
-		["Seul dans les ténèbres"] = 32,
-		["Flèches multiples"] = 1,
-		["Obscurité"] = 32,
-		["Œil de Gul’dan surpuissant"] = 4,
-		["Enflammer"] = 4,
+		["Vortex"] = 16,
+		["Verdict du templier"] = 2,
 		["Barrage incendiaire"] = 4,
-		["Bombardement gangrené"] = 4,
+		["Carburant combustible"] = 4,
+		["Onde explosive déplacée"] = 64,
+		["Attaque pernicieuse"] = 1,
+		["Gelée caustique"] = 8,
+		["Résidu"] = 32,
+		["Consommer"] = 32,
+		["Pointe glaciaire"] = 16,
+		["Manifestation de la mort"] = 32,
+		["Sang gelé"] = 16,
+		["Crochets dégoulinants"] = 8,
+		["Égide de corruption"] = 4,
+		["Corruption"] = 32,
+		["Pacte impie"] = 32,
+		["Flèche résonnante"] = 64,
+		["Enflammer"] = 4,
+		["Tempête de sang"] = 32,
+		["Tourment : Chaleur de la forge des Âmes"] = 4,
+		["Détonation d'explosion d'âme"] = 32,
+		["Fragments acides"] = 8,
 		["Explosion cauchemardesque"] = 32,
 		["Grenade à impulsion surpuissante"] = 8,
-		["Tourment : Chaleur de la forge des Âmes"] = 4,
-		["Tempête de sang"] = 32,
-		["Vague primordiale"] = 32,
+		["Bombardement gangrené"] = 4,
+		["Acide de décomposition"] = 8,
+		["Foudre en boule"] = 8,
 		["Rafale sauvage"] = 1,
 		["Ténèbres infinies"] = 32,
-		["Sentiment d’effroi"] = 32,
-		["Manifestation de la mort"] = 32,
+		["Frappe brutale"] = 1,
+		["Décimation"] = 4,
 		["Ichor d’embaumement"] = 40,
-		["Magie scellée"] = 64,
-		["Essaim traqueur"] = 32,
+		["Pluie de météores"] = 4,
+		["Impulsion de réorigination"] = 64,
 		["Brûlure météorique"] = 4,
 		["Courroux bestial"] = 1,
-		["Explosion de l'Apocalypse"] = 4,
-		["Flèche résonnante"] = 64,
+		["Œil de Gul’dan surpuissant"] = 4,
+		["Plaie"] = 32,
 		["Fissure sombre"] = 32,
-		["Sang maudit"] = 32,
 		["Pénitence"] = 2,
-		["Poison mortel"] = 8,
 		["Force enténébrée"] = 32,
-		["Acide de décomposition"] = 8,
-		["Décimation"] = 4,
-		["Brûlure"] = 4,
+		["Poison mortel"] = 8,
+		["Souffrance partagée"] = 32,
+		["Arme gangrenée"] = 4,
+		["Cœur brisé d’Al’ar"] = 4,
+		["Maître tireur"] = 1,
 		["Sang vicié"] = 32,
 		["Heurt écrasant"] = 1,
-		["Orgueil grandissant"] = 32,
-		["Éclair d'eau"] = 16,
-		["Cœur brisé d’Al’ar"] = 4,
-		["Miasme glouton"] = 32,
+		["Morsure profonde"] = 1,
+		["Chasseur des ombres"] = 32,
+		["Éruption"] = 8,
+		["Magie scellée"] = 64,
 		["Peste virulente"] = 32,
-		["Arme gangrenée"] = 4,
+		["Sang froid"] = 32,
 		["Ruée ardente"] = 1,
 		["Frappe de givre"] = 16,
-		["Plaie"] = 32,
-		["Portail surpuissant : Rancora"] = 8,
+		["Éruption sombre"] = 32,
+		["Sombre trait"] = 32,
 		["Éclaté fanebosquet"] = 32,
-		["Sombre récital"] = 32,
+		["Obscurité"] = 32,
 		["Bombe diabolique"] = 32,
-		["Frappe du Fléau"] = 32,
+		["Miasme glouton"] = 32,
 		["Surcharge d’Explosion de lave"] = 4,
-		["Éclats de verre"] = 1,
+		["Entraves parasites"] = 8,
+		["Morsure cliquetante"] = 1,
+		["Vestiges incandescents"] = 4,
 		["Marque enflammée"] = 4,
-		["Frisson"] = 32,
-		["Tempête de lames"] = 1,
 		["Etoile filante"] = 64,
-		["Frappe brutale"] = 1,
-		["Cauchemars"] = 32,
+		["Seul dans les ténèbres"] = 32,
+		["Sentiment d’effroi"] = 32,
 		["Beigne"] = 1,
 		["Orbe de destruction"] = 4,
+		["Cauchemars"] = 32,
 		["Corruption : ombres écrasantes"] = 1,
-		["Jambes cartilagineuses"] = 32,
+		["Marque d’angoisse"] = 32,
 		["Horion de flammes"] = 4,
+		["Dévastateur"] = 4,
 		["Extraction du mal"] = 8,
-		["Fragments acides"] = 8,
-		["Traînée de cendres"] = 6,
 		["Drain dévorant"] = 32,
+		["Flèches multiples"] = 1,
 		["Hiver impitoyable"] = 16,
+		["Nuage infectieux"] = 40,
 		["Dîme spoliatrice"] = 64,
-		["Sol contaminé"] = 40,
-		["Toxine d’aile-écorchée"] = 8,
+		["Escarmouche éternelle"] = 32,
+		["Lien spirituel"] = 32,
 		["Frappe-tempête"] = 1,
 		["Gelée envahissante"] = 8,
-		["Force vitale"] = 8,
-		["Horion explosif"] = 8,
 		["Lame à ricochets"] = 1,
-		["Incision déchiquetée"] = 1,
+		["Infection rapide"] = 8,
 		["Faux ravageuse"] = 1,
 		["Perte d’anima"] = 1,
-		["Marque d’Ysondre"] = 32,
-		["Onde explosive déplacée"] = 64,
+		["Source de pestilence"] = 8,
+		["Rugissement d’interruption"] = 1,
 		["Descente"] = 1,
-		["Orbe gelé"] = 16,
-		["Cosmos infini"] = 32,
-		["Étreinte entropique"] = 48,
+		["Pointes déchirantes"] = 8,
+		["Ecoulement arcanique"] = 64,
+		["Frisson"] = 32,
 		["Anima hautement concentré"] = 32,
 		["Consommation de gelée"] = 1,
-		["Infection enveloppante"] = 8,
-		["Choc infernal"] = 4,
-		["Égide glaciale"] = 16,
-		["Gangrorage"] = 1,
+		["Frappe du colosse"] = 1,
+		["Énergie disruptrice"] = 64,
+		["Orbe gelé"] = 16,
+		["Explosion des Arcanes"] = 64,
 		["Mot de l’ombre : Douleur"] = 32,
 		["Cauchemars rampants"] = 32,
-		["Lames de l'ombre"] = 32,
-		["Attirer l’âme"] = 32,
+		["Infection enveloppante"] = 8,
+		["Égide glaciale"] = 16,
 		["Piège téléporteur"] = 1,
-		["Assassiner"] = 8,
-		["Pointe d’os dentelée"] = 1,
-		["Poursuite"] = 1,
-		["Blessures profondes"] = 1,
-		["Explosion d’huile du cœur d’ombre"] = 32,
+		["Trait du chaos"] = 124,
+		["Tir acéré"] = 1,
+		["Puits des âmes"] = 32,
+		["Sol contaminé"] = 40,
+		["Horion de givre"] = 16,
 		["Crachat ardent"] = 4,
 		["Âme écrasée"] = 32,
-		["Marteau du vertueux"] = 2,
-		["Résidu"] = 32,
-		["Eviscération"] = 1,
-		["Frappe du colosse"] = 1,
-		["Sang gelé"] = 16,
-		["Source de pestilence"] = 8,
-		["Flaque d’anima"] = 8,
+		["Destruction de diversion"] = 4,
+		["Traînée de cendres"] = 6,
+		["Anéantissement"] = 1,
+		["Lance chargée"] = 64,
+		["Horion explosif"] = 8,
+		["Captation de vie"] = 32,
+		["Assaut inexorable"] = 16,
 		["Scie circulaire"] = 1,
 		["Éliminer"] = 32,
 		["Malédiction d’oblitération"] = 32,
-		["Fumant"] = 4,
+		["Portail surpuissant : Nathreza"] = 32,
 		["Coup de marteau"] = 1,
 		["Magma stygique"] = 4,
-		["Siphon d’esprit"] = 64,
-		["Corrosion de l'âme"] = 32,
-		["Damnation diabolique !"] = 32,
-		["Éruption du Vide"] = 32,
+		["Laser digital X-trême Echo"] = 4,
+		["Gangrorage"] = 1,
+		["Coup de grâce"] = 1,
+		["Marteau du vertueux"] = 2,
 		["Puissance accablante !"] = 64,
 		["Éclair de Vide"] = 32,
-		["Éruption sombre"] = 32,
+		["Anima résiduel"] = 32,
 		["Têtes multiples"] = 1,
-		["Charge fantôme"] = 32,
-		["Sombre trait"] = 32,
-		["Peste concentrée"] = 8,
-		["Globules viraux"] = 8,
-		["Morsure cliquetante"] = 1,
+		["Toucher de corruption"] = 32,
+		["Attraper"] = 1,
+		["Frappe du Fléau"] = 32,
+		["Portée de Taeshalach"] = 1,
+		["Corruption : réalité insondable"] = 4,
 		["Inflammations brûlantes"] = 4,
 	},
 	["deathlog_healingdone_min"] = 1,
 	["always_use_profile"] = false,
 	["tutorial"] = {
 		["bookmark_tutorial"] = false,
-		["main_help_button"] = 1373,
+		["main_help_button"] = 1381,
 		["ATTRIBUTE_SELECT_TUTORIAL1"] = true,
-		["logons"] = 1373,
+		["logons"] = 1381,
 		["ctrl_click_close_tutorial"] = false,
 		["DISABLE_ONDEATH_PANEL"] = true,
 		["STREAMER_PLUGIN_FIRSTRUN"] = true,
@@ -20431,7 +20856,7 @@ _detalhes_global = {
 		["FORGE_TUTORIAL"] = true,
 		["DETAILS_INFO_TUTORIAL2"] = 10,
 	},
-	["report_where"] = "PARTY",
+	["report_where"] = "GUILD",
 	["run_code"] = {
 		["on_groupchange"] = "\n-- this code runs when the player enter or leave a group",
 		["on_zonechanged"] = "\n-- when the player changes zone, this code will run",
@@ -20644,375 +21069,190 @@ _detalhes_global = {
 		["scale"] = 1,
 	},
 	["item_level_pool"] = {
-		["Player-1621-0A4D6DF8"] = {
-			["time"] = 1610319464,
-			["name"] = "Idunkyou-MarécagedeZangar",
-			["ilvl"] = 196.2,
+		["Player-1331-03D371F4"] = {
+			["time"] = 1610421507,
+			["name"] = "Mandingo-Medivh",
+			["ilvl"] = 113.8666666666667,
 		},
-		["Player-1624-0A4DA8AD"] = {
-			["time"] = 1610318320,
-			["name"] = "Elendoøm-Naxxramas",
-			["ilvl"] = 146.6,
+		["Player-1315-0BB9449D"] = {
+			["time"] = 1610407782,
+			["name"] = "Zahanu-Elune",
+			["ilvl"] = 192.375,
 		},
-		["Player-1302-0A051897"] = {
-			["time"] = 1610318307,
-			["name"] = "Hymenbreaker-Archimonde",
-			["ilvl"] = 193.1875,
-		},
-		["Player-1390-08FD6915"] = {
-			["time"] = 1610318307,
-			["name"] = "Dragàn-Hyjal",
-			["ilvl"] = 137.875,
-		},
-		["Player-1390-08B868CD"] = {
-			["time"] = 1610318350,
-			["name"] = "Louçayèzèd-Hyjal",
-			["ilvl"] = 191.8125,
-		},
-		["Player-1080-08B9A3EA"] = {
-			["time"] = 1610344860,
-			["name"] = "Djur-Khadgar",
-			["ilvl"] = 187.9375,
-		},
-		["Player-580-0802C122"] = {
-			["name"] = "Nirranor-Blackmoore",
-			["time"] = 1610339863,
-			["ilvl"] = 193.8666666666667,
-		},
-		["Player-1302-0BC67BCE"] = {
-			["time"] = 1610318307,
-			["name"] = "Varyse-Archimonde",
-			["ilvl"] = 191.6875,
-		},
-		["Player-1302-0994AF59"] = {
-			["time"] = 1610315682,
-			["name"] = "Sërum-Archimonde",
-			["ilvl"] = 180.5333333333333,
-		},
-		["Player-1092-079E9DB1"] = {
-			["time"] = 1610342008,
-			["name"] = "Cathedagny-Drak'thul",
-			["ilvl"] = 190.4375,
-		},
-		["Player-1302-0BB2E0AD"] = {
-			["time"] = 1610319198,
-			["name"] = "Zworkyz-Archimonde",
-			["ilvl"] = 164.4666666666667,
-		},
-		["Player-1621-08608A4A"] = {
-			["time"] = 1610319449,
-			["name"] = "Vïtal-Dalaran",
-			["ilvl"] = 186.375,
-		},
-		["Player-510-09C285C5"] = {
-			["time"] = 1610316356,
-			["name"] = "Kannoush-Vol'jin",
-			["ilvl"] = 193,
-		},
-		["Player-1403-09BE688E"] = {
-			["name"] = "Footfetis-Draenor",
-			["time"] = 1610336490,
-			["ilvl"] = 190.9375,
-		},
-		["Player-1302-0BB98D34"] = {
-			["time"] = 1610318307,
-			["name"] = "Scarabéenfeu-Archimonde",
-			["ilvl"] = 191.75,
-		},
-		["Player-1302-09E06C84"] = {
-			["time"] = 1610319449,
-			["name"] = "Gohanssjdeux-Archimonde",
-			["ilvl"] = 131.6875,
-		},
-		["Player-1084-089329C4"] = {
-			["time"] = 1610312645,
-			["name"] = "Rawdruid-TarrenMill",
-			["ilvl"] = 188.8125,
-		},
-		["Player-1127-09761C32"] = {
-			["time"] = 1610320256,
-			["name"] = "Röms",
-			["ilvl"] = 186.5625,
-		},
-		["Player-1084-08C2628E"] = {
-			["time"] = 1610347827,
-			["name"] = "Magedonna-TarrenMill",
-			["ilvl"] = 188.5,
-		},
-		["Player-1305-052AF729"] = {
-			["name"] = "Cameo-Kazzak",
-			["time"] = 1610337668,
-			["ilvl"] = 199.625,
-		},
-		["Player-1302-07854534"] = {
-			["time"] = 1610319204,
-			["name"] = "Lamarquizz-Archimonde",
-			["ilvl"] = 133.1875,
-		},
-		["Player-1403-09B9DA51"] = {
-			["time"] = 1610349446,
-			["name"] = "Rirly-Draenor",
-			["ilvl"] = 193.0625,
-		},
-		["Player-1403-09BE7C52"] = {
-			["time"] = 1610342008,
-			["name"] = "Eleshamalam-Draenor",
-			["ilvl"] = 193.375,
-		},
-		["Player-1092-0925EB4B"] = {
-			["name"] = "Bonecrusher-Drak'thul",
-			["time"] = 1610340150,
-			["ilvl"] = 193.8,
-		},
-		["Player-1621-08D39792"] = {
-			["time"] = 1610316338,
-			["name"] = "Aysu-Dalaran",
-			["ilvl"] = 182.875,
-		},
-		["Player-1621-07DFCE4B"] = {
-			["time"] = 1610319449,
-			["name"] = "Harlème-Dalaran",
-			["ilvl"] = 190.375,
-		},
-		["Player-1335-0978B6BA"] = {
-			["time"] = 1610318307,
-			["name"] = "Drestâ-Ysondre",
-			["ilvl"] = 184.3125,
-		},
-		["Player-1302-0BBFCBF1"] = {
-			["time"] = 1610318307,
-			["name"] = "Redrel-Archimonde",
-			["ilvl"] = 201.6875,
-		},
-		["Player-1390-09ED3373"] = {
-			["time"] = 1610316265,
-			["name"] = "Féa-Hyjal",
-			["ilvl"] = 180.5333333333333,
-		},
-		["Player-580-09FA245B"] = {
-			["time"] = 1610346735,
-			["name"] = "Suareel-Blackmoore",
-			["ilvl"] = 185.1875,
+		["Player-1127-0952A850"] = {
+			["time"] = 1610407639,
+			["name"] = "Zosc",
+			["ilvl"] = 187.6875,
 		},
 		["Player-1315-0BB8FF17"] = {
-			["time"] = 1610314044,
+			["time"] = 1610407736,
 			["name"] = "Shikamaruu-Elune",
 			["ilvl"] = 193.9375,
 		},
-		["Player-1127-09629D70"] = {
-			["time"] = 1610315959,
-			["name"] = "Rikoum-CultedelaRivenoire",
-			["ilvl"] = 155.75,
+		["Player-1127-09979261"] = {
+			["name"] = "Salamandar",
+			["time"] = 1610416739,
+			["ilvl"] = 181.875,
 		},
-		["Player-1621-0A874369"] = {
-			["time"] = 1610315981,
-			["name"] = "Kin-Eldre'Thalas",
-			["ilvl"] = 187.9375,
+		["Player-1302-0AE6E41C"] = {
+			["name"] = "Bybim-Archimonde",
+			["time"] = 1610428941,
+			["ilvl"] = 135.5333333333333,
 		},
-		["Player-1390-0B6FC80D"] = {
-			["time"] = 1610319449,
-			["name"] = "Haño-Hyjal",
-			["ilvl"] = 208.6875,
+		["Player-1335-0328A8EB"] = {
+			["name"] = "Hunterfox-Ysondre",
+			["time"] = 1610429049,
+			["ilvl"] = 188.9375,
 		},
-		["Player-1335-070AEDCC"] = {
-			["time"] = 1610318350,
-			["name"] = "Krizs-Ysondre",
-			["ilvl"] = 203.5,
+		["Player-1127-09A4FE49"] = {
+			["time"] = 1610406262,
+			["name"] = "Radokan-CultedelaRivenoire",
+			["ilvl"] = 180,
+		},
+		["Player-1302-0BD1B54D"] = {
+			["time"] = 1610421647,
+			["name"] = "Jowjojo-Archimonde",
+			["ilvl"] = 140,
+		},
+		["Player-1335-06F5EBCD"] = {
+			["time"] = 1610407690,
+			["name"] = "Mokonzo-Ysondre",
+			["ilvl"] = 178.4375,
 		},
 		["Player-1127-0973C412"] = {
-			["time"] = 1610349446,
+			["time"] = 1610417030,
 			["name"] = "Kotlin",
 			["ilvl"] = 193.375,
-		},
-		["Player-3674-0A9520B5"] = {
-			["time"] = 1610341888,
-			["name"] = "Cyarraadh-TwistingNether",
-			["ilvl"] = 191.125,
-		},
-		["Player-1390-098C6B5E"] = {
-			["time"] = 1610318307,
-			["name"] = "Loutreroyale-Hyjal",
-			["ilvl"] = 198.25,
-		},
-		["Player-3674-0A058D6F"] = {
-			["time"] = 1610342008,
-			["name"] = "Kuti-TwistingNether",
-			["ilvl"] = 200.0625,
-		},
-		["Player-1390-0BCC785E"] = {
-			["time"] = 1610320058,
-			["name"] = "Ayzkrah-Hyjal",
-			["ilvl"] = 179.8,
 		},
 		["Player-1923-0A957DCF"] = {
 			["time"] = 1610347646,
 			["name"] = "Итилониара-Ясеневыйлес",
 			["ilvl"] = 181.125,
 		},
-		["Player-1335-097269D9"] = {
-			["time"] = 1610318350,
-			["name"] = "Nëlrin-Ysondre",
-			["ilvl"] = 143.25,
+		["Player-1127-06855B91"] = {
+			["time"] = 1610407604,
+			["name"] = "Kakumô-ConfrérieduThorium",
+			["ilvl"] = 172.0625,
 		},
-		["Player-1621-0A61200E"] = {
-			["time"] = 1610316324,
-			["name"] = "Invictüs-Dalaran",
-			["ilvl"] = 132.1875,
+		["Player-1621-0A2FF28F"] = {
+			["time"] = 1610424730,
+			["name"] = "Moccô-Sinstralis",
+			["ilvl"] = 97,
 		},
-		["Player-1302-0663CAA6"] = {
-			["time"] = 1610348648,
-			["name"] = "Ginzo-Archimonde",
-			["ilvl"] = 199.8125,
+		["Player-1624-051C8B79"] = {
+			["name"] = "Paladiina-Arathi",
+			["time"] = 1610429049,
+			["ilvl"] = 123,
 		},
 		["Player-1604-0BECA27C"] = {
 			["time"] = 1610349125,
 			["name"] = "Намузыке-СвежевательДуш",
 			["ilvl"] = 181.875,
 		},
-		["Player-1302-0BC43E80"] = {
-			["time"] = 1610315807,
-			["name"] = "Sorryfullsac-Archimonde",
-			["ilvl"] = 145.75,
+		["Player-2073-063020F1"] = {
+			["time"] = 1610397004,
+			["name"] = "Vïolence-Stormscale",
+			["ilvl"] = 161.4666666666667,
 		},
-		["Player-1390-0BACEE60"] = {
-			["time"] = 1610315981,
-			["name"] = "Bokä-Hyjal",
-			["ilvl"] = 193.9375,
+		["Player-1390-0B460431"] = {
+			["time"] = 1610424802,
+			["name"] = "Santoseb-Hyjal",
+			["ilvl"] = 95.625,
 		},
-		["Player-1099-0602BC0C"] = {
-			["name"] = "Lucari-Alleria",
-			["time"] = 1610335572,
-			["ilvl"] = 191.9333333333333,
+		["Player-1624-087FA086"] = {
+			["name"] = "Ÿuna-Arathi",
+			["time"] = 1610428235,
+			["ilvl"] = 81.5625,
 		},
-		["Player-1390-07814D31"] = {
-			["time"] = 1610315697,
-			["name"] = "Õum-Hyjal",
-			["ilvl"] = 164.4,
+		["Player-1127-097B1773"] = {
+			["time"] = 1610407721,
+			["name"] = "Zhalkan-ConseildesOmbres",
+			["ilvl"] = 150.7333333333333,
 		},
-		["Player-581-0A01D969"] = {
-			["time"] = 1610344836,
-			["name"] = "Râgg-Blackrock",
-			["ilvl"] = 188.6875,
+		["Player-1335-066D9C5B"] = {
+			["name"] = "Altërn-Ysondre",
+			["time"] = 1610429049,
+			["ilvl"] = 127.5625,
+		},
+		["Player-1302-0663CAA6"] = {
+			["time"] = 1610348648,
+			["name"] = "Ginzo-Archimonde",
+			["ilvl"] = 199.8125,
+		},
+		["Player-1127-09583B9D"] = {
+			["time"] = 1610424718,
+			["name"] = "Pagø",
+			["ilvl"] = 156.9333333333333,
+		},
+		["Player-1315-0BB431FF"] = {
+			["time"] = 1610407765,
+			["name"] = "Hachiirama-Elune",
+			["ilvl"] = 194.4375,
+		},
+		["Player-1390-0A509D1F"] = {
+			["time"] = 1610421662,
+			["name"] = "Hellyæ-Hyjal",
+			["ilvl"] = 104.0666666666667,
+		},
+		["Player-1127-09761C32"] = {
+			["time"] = 1610407751,
+			["name"] = "Röms",
+			["ilvl"] = 186.5625,
+		},
+		["Player-1127-09B8D8B1"] = {
+			["name"] = "Atec",
+			["time"] = 1610428628,
+			["ilvl"] = 133.9333333333333,
+		},
+		["Player-1127-090A8719"] = {
+			["time"] = 1610424700,
+			["name"] = "Lachtuce-KirinTor",
+			["ilvl"] = 131.6,
+		},
+		["Player-1084-08C2628E"] = {
+			["time"] = 1610347827,
+			["name"] = "Magedonna-TarrenMill",
+			["ilvl"] = 188.5,
 		},
 		["Player-1335-0947B953"] = {
 			["time"] = 1610347423,
 			["name"] = "Kiriåh-Ysondre",
 			["ilvl"] = 175.8125,
 		},
-		["Player-1379-08C78E97"] = {
-			["time"] = 1610344802,
-			["name"] = "Gnilwor-Uldum",
-			["ilvl"] = 191.8,
-		},
-		["Player-1390-0AF46BFB"] = {
-			["time"] = 1610315743,
-			["name"] = "Twørak-Hyjal",
-			["ilvl"] = 198.7333333333333,
-		},
-		["Player-1315-0BB431FF"] = {
-			["time"] = 1610314044,
-			["name"] = "Hachiirama-Elune",
-			["ilvl"] = 194.4375,
-		},
-		["Player-1390-0A30426A"] = {
-			["time"] = 1610316237,
-			["name"] = "Morzor-Hyjal",
-			["ilvl"] = 197.4666666666667,
-		},
-		["Player-1604-0EB25160"] = {
-			["name"] = "Кинобо-СвежевательДуш",
-			["time"] = 1610340217,
-			["ilvl"] = 187.75,
-		},
 		["Player-1127-09B2BE08"] = {
+			["time"] = 1610396675,
 			["name"] = "Aliboulala",
-			["time"] = 1610334283,
 			["ilvl"] = 161.4375,
 		},
-		["Player-2073-095D0065"] = {
-			["time"] = 1610344860,
-			["name"] = "Synnerf-Stormscale",
-			["ilvl"] = 193.125,
+		["Player-1127-09B77ACC"] = {
+			["time"] = 1610399629,
+			["name"] = "Eramus-ConseildesOmbres",
+			["ilvl"] = 153.3333333333333,
 		},
-		["Player-1127-08FB87AA"] = {
-			["time"] = 1610319210,
-			["name"] = "Sweetdeath-KirinTor",
-			["ilvl"] = 189,
-		},
-		["Player-580-077830B6"] = {
-			["name"] = "Knoppaz-Blackmoore",
-			["time"] = 1610337748,
-			["ilvl"] = 196.5,
-		},
-		["Player-1302-09F4543B"] = {
-			["time"] = 1610320121,
-			["name"] = "Tøngg-Archimonde",
-			["ilvl"] = 166.5625,
-		},
-		["Player-1302-0ACB0B12"] = {
-			["time"] = 1610319195,
-			["name"] = "Léxa-Archimonde",
-			["ilvl"] = 192.1875,
-		},
-		["Player-1390-0AFEE245"] = {
-			["time"] = 1610316194,
-			["name"] = "Bélios-Hyjal",
-			["ilvl"] = 184,
-		},
-		["Player-1302-07B7E968"] = {
-			["time"] = 1610316260,
-			["name"] = "Sindwaller-Archimonde",
-			["ilvl"] = 174.5333333333333,
-		},
-		["Player-1302-0B849C1C"] = {
-			["time"] = 1610320088,
-			["name"] = "Åkågøðx-Archimonde",
-			["ilvl"] = 206.625,
-		},
-		["Player-509-075B4F4B"] = {
-			["time"] = 1610319449,
-			["name"] = "Xïg-Sargeras",
-			["ilvl"] = 183.0625,
-		},
-		["Player-1615-099CED4A"] = {
-			["name"] = "Хомодемон-Ревущийфьорд",
-			["time"] = 1610339965,
-			["ilvl"] = 189.4375,
-		},
-		["Player-1621-08F8D104"] = {
-			["time"] = 1610319449,
-			["name"] = "Cryptø-Dalaran",
-			["ilvl"] = 198.9375,
+		["Player-1403-09B9DA51"] = {
+			["time"] = 1610349446,
+			["name"] = "Rirly-Draenor",
+			["ilvl"] = 193.0625,
 		},
 		["Player-1403-09BE5DB2"] = {
 			["time"] = 1610349446,
 			["name"] = "Zakorovka-Draenor",
 			["ilvl"] = 196.6875,
 		},
-		["Player-580-09F63DE3"] = {
-			["name"] = "Giggiity-Blackmoore",
-			["time"] = 1610337748,
-			["ilvl"] = 194,
-		},
-		["Player-1302-074E0829"] = {
-			["name"] = "Hellbormut-Archimonde",
-			["time"] = 1610339927,
-			["ilvl"] = 187.2,
+		["Player-1127-0974603F"] = {
+			["time"] = 1610407602,
+			["name"] = "Kirrai-ConseildesOmbres",
+			["ilvl"] = 172.75,
 		},
 		["Player-3691-05E5134E"] = {
 			["time"] = 1610349446,
 			["name"] = "Lormi-Blackhand",
 			["ilvl"] = 193.875,
 		},
-		["Player-1302-0B722E2A"] = {
-			["time"] = 1610318307,
-			["name"] = "Benarpeur-Archimonde",
-			["ilvl"] = 199.875,
-		},
-		["Player-1331-03D21BF9"] = {
-			["time"] = 1610317125,
-			["name"] = "Gängrène-Medivh",
-			["ilvl"] = 139.9333333333333,
+		["Player-1302-0B1CE676"] = {
+			["time"] = 1610421493,
+			["name"] = "Yugamineena-Archimonde",
+			["ilvl"] = 120.4375,
 		},
 	},
 	["global_plugin_database"] = {
@@ -21799,11 +22039,7 @@ _detalhes_global = {
 	["lastUpdateWarning"] = 1608604510,
 	["plater"] = {
 		["realtime_dps_enabled"] = false,
-		["damage_taken_anchor"] = {
-			["y"] = 0,
-			["x"] = 0,
-			["side"] = 7,
-		},
+		["realtime_dps_size"] = 12,
 		["realtime_dps_player_shadow"] = true,
 		["realtime_dps_player_enabled"] = false,
 		["realtime_dps_player_size"] = 12,
@@ -21819,8 +22055,12 @@ _detalhes_global = {
 			["x"] = 0,
 			["side"] = 7,
 		},
-		["realtime_dps_size"] = 12,
 		["damage_taken_shadow"] = true,
+		["damage_taken_anchor"] = {
+			["y"] = 0,
+			["x"] = 0,
+			["side"] = 7,
+		},
 		["realtime_dps_player_color"] = {
 			1, -- [1]
 			1, -- [2]

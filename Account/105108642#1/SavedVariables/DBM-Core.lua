@@ -9,7 +9,7 @@ DBM_AllSavedOptions = {
 		["RangeFrameRadarY"] = -100,
 		["DontRestoreIcons"] = false,
 		["DontShowNameplateIcons"] = false,
-		["CoreSavedRevision"] = 20210108023218,
+		["CoreSavedRevision"] = 20210111160726,
 		["RangeFrameX"] = 10.00009346008301,
 		["RangeFrameY"] = -63.00008773803711,
 		["FilterInterruptNoteName"] = false,
@@ -33,6 +33,7 @@ DBM_AllSavedOptions = {
 		["DontShowPT2"] = false,
 		["MoviesSeen"] = {
 			["567Le sanctum Intérieur"] = true,
+			[688] = true,
 		},
 		["ShowQueuePop"] = true,
 		["ShowAllVersions"] = true,
@@ -184,8 +185,8 @@ DBM_AllSavedOptions = {
 			0, -- [2]
 			1, -- [3]
 		},
-		["RecordOnlyBosses"] = false,
 		["DontShowUserTimers"] = false,
+		["CountdownVoice3"] = "Smooth",
 		["InfoFrameLines"] = 0,
 		["DontShowRangeFrame"] = false,
 		["DisableStatusWhisper"] = false,
@@ -209,7 +210,7 @@ DBM_AllSavedOptions = {
 		["SpecialWarningFontStyle"] = "THICKOUTLINE",
 		["DontShowSpecialWarningFlash"] = false,
 		["AutoRespond"] = true,
-		["CountdownVoice3"] = "Smooth",
+		["RecordOnlyBosses"] = false,
 		["WorldBossNearAlert"] = false,
 		["WarningX"] = 0,
 		["BadIDAlert"] = false,

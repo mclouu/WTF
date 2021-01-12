@@ -90,9 +90,6 @@ RarityDB = {
 								["attempts"] = 1,
 							},
 						},
-						["session"] = {
-							["attempts"] = 1,
-						},
 						["attempts"] = 3,
 					},
 					["Leviathan Egg"] = {
@@ -131,6 +128,20 @@ RarityDB = {
 					},
 					["Puddle of Black Liquid"] = {
 						["attempts"] = 1,
+					},
+					["Bottled Up Rage"] = {
+						["time"] = 1,
+						["dates"] = {
+							[20210112] = {
+								["time"] = 1,
+								["attempts"] = 1,
+							},
+						},
+						["attempts"] = 1,
+						["session"] = {
+							["time"] = 1,
+							["attempts"] = 1,
+						},
 					},
 					["Hissing Deathroach"] = {
 						["time"] = 3,
@@ -327,16 +338,26 @@ RarityDB = {
 								["attempts"] = 2,
 							},
 						},
-						["session"] = {
-							["time"] = 2,
-							["attempts"] = 2,
-						},
 						["attempts"] = 5,
 					},
 					["Phoenix Hatchling"] = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
+					},
+					["Crimson Dredwing Pup"] = {
+						["time"] = 471.6979999999894,
+						["dates"] = {
+							[20210112] = {
+								["time"] = 471.6979999999894,
+								["attempts"] = 4,
+							},
+						},
+						["attempts"] = 4,
+						["session"] = {
+							["time"] = 471.6979999999894,
+							["attempts"] = 4,
+						},
 					},
 					["Experiment-In-A-Jar"] = {
 						["attempts"] = 1,
@@ -432,10 +453,6 @@ RarityDB = {
 								["time"] = 2,
 								["attempts"] = 2,
 							},
-						},
-						["session"] = {
-							["time"] = 2,
-							["attempts"] = 2,
 						},
 						["attempts"] = 5,
 					},
@@ -2928,19 +2945,19 @@ RarityDB = {
 						[5977] = 2,
 						[13592] = 0,
 						[13594] = 0,
-						[13620] = 0,
+						[13365] = 0,
 						[14108] = 0,
 						[13600] = 0,
 						[13602] = 0,
 						[8185] = 0,
 						[1394] = 0,
-						[14130] = 0,
+						[13620] = 0,
 						[8183] = 0,
 						[13612] = 0,
 						[13614] = 0,
 						[13616] = 0,
 						[14128] = 0,
-						[13365] = 0,
+						[14130] = 0,
 						[8182] = 0,
 						[8181] = 0,
 						[14136] = 0,
@@ -3211,7 +3228,7 @@ RarityDB = {
 			["bar"] = {
 				["texture"] = "Minimalist",
 			},
-			["trackedItem"] = 183192,
+			["trackedItem"] = 180602,
 			["importIsError"] = true,
 		},
 	},

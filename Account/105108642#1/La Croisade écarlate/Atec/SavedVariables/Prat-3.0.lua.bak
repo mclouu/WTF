@@ -138,25 +138,40 @@ Prat3HighCPUPerCharDB = {
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
 		},
 		["ChatFrame11"] = {
+			["maxElements"] = 128,
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[18:51:54]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq27|k:16:512:BN_WHISPER:|Kq27|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq27|k|r|h|cffd8d8d8]|r: |Hachievement:14511:Player-1127-09761C32:1:1:10:21:4294967295:4294967295:4294967295:4294967295|h[Tour de garde : Sylvarden]|h",
-					["b"] = 0.9647059440612793,
+					["message"] = "|cff979797|Hpratcopy|h[21:00:39]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq3|k:24:3:BN_WHISPER:|Kq3|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq3|k|r|h|cffd8d8d8]|r: sinful revelation",
 					["r"] = 0,
+					["b"] = 0.9647059440612793,
 					["g"] = 1,
-					["timestamp"] = 4430.87,
-					["serverTime"] = 1610301115,
+					["timestamp"] = 1448.691,
 					["extraData"] = {
-						52, -- [1]
+						53, -- [1]
 						false, -- [2]
-						37, -- [3]
-						38, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
+					["serverTime"] = 1610308840,
 				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[21:01:36]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq3|k:24:4:BN_WHISPER:|Kq3|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq3|k|r|h|cffd8d8d8]|r: a",
+					["r"] = 0,
+					["b"] = 0.9647059440612793,
+					["g"] = 1,
+					["timestamp"] = 1505.054,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1610308897,
+				}, -- [2]
 			},
-			["headIndex"] = 1,
-			["maxElements"] = 128,
+			["headIndex"] = 2,
 		},
 		["ChatFrame8"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
@@ -226,7 +241,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 48,
+			["headIndex"] = 127,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -239,16 +254,8 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:04:24]|h|r |cffffe566{VuhDo}|r Profile Clou5 is currently locked and has NOT been loaded.",
-					["r"] = 1,
-					["serverTime"] = 1610301865,
-					["timestamp"] = 5177.43,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [1]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:04:35]|h|r Ban Lu dit : Je suis heureux de vous revoir, grand maître.",
-					["serverTime"] = 1610301876,
+					["message"] = "|cff979797|Hpratcopy|h[06:45:28]|h|r Alexandros Mograine dit : Porter le pouvoir du Primat est un grand honneur.",
+					["serverTime"] = 1610430329,
 					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
@@ -257,538 +264,419 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5192.059,
+					["timestamp"] = 122937.362,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:45:35]|h|r Baronne Vashj dit : Ne gâchez pas cette occasion, Sans-Entraves.",
+					["serverTime"] = 1610430335,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 122944.378,
 					["g"] = 1,
 					["b"] = 0.6235294342041016,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:05:02]|h|r Ban Lu dit : Parler de changement sans être prêt à le mettre en œuvre revient à creuser un trou pour attraper un serpent-nuage.",
-					["serverTime"] = 1610301903,
+					["message"] = "|cff979797|Hpratcopy|h[06:46:03]|h|r Vision du Primat crie : Vous possédez le courage, la force et la ruse pour vaincre vos ennemis.",
+					["serverTime"] = 1610430363,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						19, -- [3]
+						20, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5219.045,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 122972.429,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:05:18]|h|r Ban Lu dit : Au revoir !",
-					["serverTime"] = 1610301919,
+					["message"] = "|cff979797|Hpratcopy|h[06:46:14]|h|r Vision du Primat crie : Vous qui protégez Maldraxxus, je vous accorde ce pouvoir !",
+					["serverTime"] = 1610430374,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						19, -- [3]
+						20, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5235.109,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["timestamp"] = 122983.866,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:05:22]|h|r |cff3ec6eaSangocoucou|r-ConfrérieduThorium vient de se déconnecter.",
-					["serverTime"] = 1610301923,
+					["message"] = "|cff979797|Hpratcopy|h[06:46:15]|h|r Capture d’écran sauvegardée |cffffd200|Hsharess:1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
 					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 5239.634,
+					["serverTime"] = 1610430375,
+					["timestamp"] = 122984.394,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:05:35]|h|r Votre compétence en Herboristerie d’Ombreterre est maintenant de 52.",
-					["serverTime"] = 1610301936,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 5252.164,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[06:46:19]|h|r Capture d’écran sauvegardée |cffffd200|Hsharess:2|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["r"] = 1,
+					["serverTime"] = 1610430379,
+					["timestamp"] = 122989.056,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [6]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:05:36]|h|r Vous recevez le butin : |cffffffff|Hitem:169701::::::::58:268:::::::|h[Fatalée]|h|r x3.",
-					["serverTime"] = 1610301937,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 5253.421,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [7]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:07:32]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:173874::::::::58:268:::::::|h[Sédiment distordu]|h|r.",
-					["serverTime"] = 1610302053,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 5369.62,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [8]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:07:33]|h|r Vous ramassez 3 Or, 48 Argent, 78 Cuivre.",
-					["serverTime"] = 1610302054,
+					["message"] = "|cff979797|Hpratcopy|h[06:46:28]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Arthéys-LesClairvoyants:1594:CHANNEL:2|h|cfffef367Arthéys|r-|cffb9f649Les|r|h|cffd8d8d8]|r: Le Comptoir de Cabestan ouvre ses portes tous les vendredis à 21h30, à Cabestan, dans les Tarides du Nord. Venez nombreux ! (Taverne RP - mode guerre off)",
+					["serverTime"] = 1610430388,
 					["r"] = 1,
 					["extraData"] = {
-						29, -- [1]
+						68, -- [1]
 						false, -- [2]
-						9, -- [3]
-						10, -- [4]
+						46, -- [3]
+						49, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5370.657,
+					["timestamp"] = 122998.298,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:47:52]|h|r Cordier dit : C’est parti pour la chasse au grigri !",
+					["serverTime"] = 1610430472,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123081.657,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:49:29]|h|r Le pouvoir du Primat : terminée.",
+					["serverTime"] = 1610430570,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123178.857,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [9]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:07:59]|h|r Vous ramassez 96 Argent, 17 Cuivre.",
-					["serverTime"] = 1610302080,
+					["message"] = "|cff979797|Hpratcopy|h[06:49:29]|h|r Reçu 12 Or, 87 Argent.",
+					["serverTime"] = 1610430570,
 					["r"] = 1,
 					["extraData"] = {
-						29, -- [1]
+						1, -- [1]
 						false, -- [2]
-						9, -- [3]
-						10, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5396.791,
+					["timestamp"] = 123178.857,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [10]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:08:42]|h|r Vous ramassez 72 Argent, 33 Cuivre.",
-					["serverTime"] = 1610302123,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[06:49:29]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["serverTime"] = 1610430570,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
-						29, -- [1]
+						36, -- [1]
 						false, -- [2]
-						9, -- [3]
-						10, -- [4]
+						13, -- [3]
+						14, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5439.791,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 123178.857,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [11]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:08:50]|h|r Skell la Spoliatrice dit : Quel bel anima. Je le prends.",
-					["serverTime"] = 1610302131,
+					["message"] = "|cff979797|Hpratcopy|h[06:50:05]|h|r Quête acceptée : $gUn héros:Une héroïne; de renom",
+					["serverTime"] = 1610430605,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5447.089,
+					["timestamp"] = 123214.572,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0,
 				}, -- [12]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:10:03]|h|r Skell la Spoliatrice dit : Les Ulterres… m’appellent…",
-					["serverTime"] = 1610302204,
+					["message"] = "|cff979797|Hpratcopy|h[06:50:38]|h|r $gUn héros:Une héroïne; de renom : terminée.",
+					["serverTime"] = 1610430638,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5520.86,
+					["timestamp"] = 123248.193,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0,
 				}, -- [13]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:10:05]|h|r Vous recevez le butin : |cff1eff00|Hitem:173204::::::::58:268:::::::|h[Soie enténébrée]|h|r.",
-					["serverTime"] = 1610302206,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[06:50:38]|h|r Reçu 2 Or, 57 Argent, 40 Cuivre.",
+					["serverTime"] = 1610430638,
+					["r"] = 1,
 					["extraData"] = {
-						28, -- [1]
+						1, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5522.404,
-					["g"] = 0.6666666865348816,
+					["timestamp"] = 123248.193,
+					["g"] = 1,
 					["b"] = 0,
 				}, -- [14]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:10:06]|h|r Vous ramassez 3 Or, 8 Argent, 35 Cuivre.",
-					["serverTime"] = 1610302207,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[06:50:38]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["serverTime"] = 1610430638,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
-						29, -- [1]
+						36, -- [1]
 						false, -- [2]
-						9, -- [3]
-						10, -- [4]
+						13, -- [3]
+						14, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5523.789,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 123248.217,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [15]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:10:29]|h|r Ban Lu dit : Où allons-nous aujourd’hui, grand maître ?",
-					["serverTime"] = 1610302230,
+					["message"] = "|cff979797|Hpratcopy|h[06:50:52]|h|r Quête acceptée : Glorieuse ambition",
+					["serverTime"] = 1610430652,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5546.833000000001,
+					["timestamp"] = 123262.265,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0,
 				}, -- [16]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:11:13]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:175955::::::::58:268:::::::|h[Fourrure ombreuse]|h|r.",
-					["serverTime"] = 1610302274,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[06:51:08]|h|r Quête acceptée : Vétéran des Nécro-seigneurs",
+					["serverTime"] = 1610430668,
+					["r"] = 1,
 					["extraData"] = {
-						28, -- [1]
+						1, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5590.181000000001,
-					["g"] = 0.6666666865348816,
+					["timestamp"] = 123278.079,
+					["g"] = 1,
 					["b"] = 0,
 				}, -- [17]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:11:13]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:173871::::::::58:268:::::::|h[Ichor vétuste]|h|r x2.",
-					["serverTime"] = 1610302274,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[06:51:25]|h|r Glorieuse ambition : terminée.",
+					["serverTime"] = 1610430685,
+					["r"] = 1,
 					["extraData"] = {
-						28, -- [1]
+						1, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5590.437,
-					["g"] = 0.6666666865348816,
+					["timestamp"] = 123294.857,
+					["g"] = 1,
 					["b"] = 0,
 				}, -- [18]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:12:11]|h|r Vous ramassez 4 Or, 90 Argent, 94 Cuivre.",
-					["serverTime"] = 1610302332,
+					["message"] = "|cff979797|Hpratcopy|h[06:51:25]|h|r Reçu 12 Or, 87 Argent.",
+					["serverTime"] = 1610430685,
 					["r"] = 1,
 					["extraData"] = {
-						29, -- [1]
+						1, -- [1]
 						false, -- [2]
-						9, -- [3]
-						10, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5648.43,
+					["timestamp"] = 123294.857,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [19]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:12:44]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:155635::::::::58:268:::::::|h[Aile nervurée]|h|r.",
-					["serverTime"] = 1610302365,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[06:51:25]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["serverTime"] = 1610430685,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
-						28, -- [1]
+						36, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						13, -- [3]
+						14, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5681.044,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["timestamp"] = 123294.857,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [20]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:13:12]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:173871::::::::58:268:::::::|h[Ichor vétuste]|h|r.",
-					["serverTime"] = 1610302393,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[06:51:44]|h|r Quête acceptée : Un appel à l’aide",
+					["serverTime"] = 1610430704,
+					["r"] = 1,
 					["extraData"] = {
-						28, -- [1]
+						1, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5708.926,
-					["g"] = 0.6666666865348816,
+					["timestamp"] = 123313.689,
+					["g"] = 1,
 					["b"] = 0,
 				}, -- [21]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:13:12]|h|r Vous recevez le butin : |cffffffff|Hitem:173202::::::::58:268:::::::|h[Suaire]|h|r x3.",
-					["serverTime"] = 1610302393,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[06:52:02]|h|r Un appel à l’aide : terminée.",
+					["serverTime"] = 1610430722,
+					["r"] = 1,
 					["extraData"] = {
-						28, -- [1]
+						1, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5708.926,
-					["g"] = 0.6666666865348816,
+					["timestamp"] = 123331.567,
+					["g"] = 1,
 					["b"] = 0,
 				}, -- [22]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:13:13]|h|r Vous ramassez 2 Or, 2 Argent, 96 Cuivre.",
-					["serverTime"] = 1610302394,
+					["message"] = "|cff979797|Hpratcopy|h[06:52:02]|h|r Reçu 2 Or, 57 Argent, 40 Cuivre.",
+					["serverTime"] = 1610430722,
 					["r"] = 1,
 					["extraData"] = {
-						29, -- [1]
+						1, -- [1]
 						false, -- [2]
-						9, -- [3]
-						10, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5709.981,
+					["timestamp"] = 123331.567,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [23]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:14:06]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:173871::::::::58:268:::::::|h[Ichor vétuste]|h|r x2.",
-					["serverTime"] = 1610302447,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[06:52:02]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["serverTime"] = 1610430722,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
-						28, -- [1]
+						36, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						13, -- [3]
+						14, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5763.347,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
+					["timestamp"] = 123331.591,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [24]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:14:07]|h|r Vous ramassez 1 Or, 52 Argent, 67 Cuivre.",
-					["serverTime"] = 1610302448,
+					["message"] = "|cff979797|Hpratcopy|h[06:52:46]|h|r Quête acceptée : L’anima fait la force",
+					["serverTime"] = 1610430766,
 					["r"] = 1,
 					["extraData"] = {
-						29, -- [1]
+						1, -- [1]
 						false, -- [2]
-						9, -- [3]
-						10, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5764.722,
+					["timestamp"] = 123376.081,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [25]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:14:24]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:173871::::::::58:268:::::::|h[Ichor vétuste]|h|r.",
-					["serverTime"] = 1610302465,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 5781.723,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [26]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:14:39]|h|r Profanatrice fanemorgue dit : Pitoyable créature.",
-					["serverTime"] = 1610302480,
+					["message"] = "|cff979797|Hpratcopy|h[06:53:08]|h|r Cyrlix Vilelangue crie : Venez m’aider ! Apportez-moi les ingrédients dont j’ai besoin pour mes recherches.",
+					["serverTime"] = 1610430789,
 					["r"] = 1,
 					["extraData"] = {
-						13, -- [1]
+						15, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						19, -- [3]
+						20, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5795.904,
+					["timestamp"] = 123397.467,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:53:25]|h|r L’anima fait la force : terminée.",
+					["serverTime"] = 1610430806,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123415.01,
 					["g"] = 1,
-					["b"] = 0.6235294342041016,
+					["b"] = 0,
 				}, -- [27]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:15:20]|h|r Vous recevez le butin : |cffffffff|Hitem:173202::::::::58:268:::::::|h[Suaire]|h|r x2.",
-					["serverTime"] = 1610302521,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[06:53:25]|h|r Reçu 2 Or, 57 Argent, 40 Cuivre.",
+					["serverTime"] = 1610430806,
+					["r"] = 1,
 					["extraData"] = {
-						28, -- [1]
+						1, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5837.153,
-					["g"] = 0.6666666865348816,
+					["timestamp"] = 123415.01,
+					["g"] = 1,
 					["b"] = 0,
 				}, -- [28]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:15:21]|h|r Vous ramassez 1 Or, 86 Argent, 76 Cuivre.",
-					["serverTime"] = 1610302522,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[06:53:25]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["serverTime"] = 1610430806,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
-						29, -- [1]
+						36, -- [1]
 						false, -- [2]
-						9, -- [3]
-						10, -- [4]
+						13, -- [3]
+						14, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5838.528,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 123415.031,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [29]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:16:28]|h|r Votre compétence en Enchantement d’Ombreterre est maintenant de 28.",
-					["serverTime"] = 1610302589,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 5905.212,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [30]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:16:29]|h|r Vous recevez le butin : |cffffffff|Hitem:172230::::::::58:268:::::::|h[Poussière d’âme]|h|r.",
-					["serverTime"] = 1610302590,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 5906.429,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [31]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:16:29]|h|r Vous recevez le butin : |cff0070dd|Hitem:172231::::::::58:268:::::::|h[Éclat sacré]|h|r x2.",
-					["serverTime"] = 1610302590,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 5906.429,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [32]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:16:34]|h|r Vous recevez le butin : |cffffffff|Hitem:156930::::::::58:268:::::::|h[Poudre d’illusion riche]|h|r x2.",
-					["serverTime"] = 1610302595,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 5911,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [33]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:16:43]|h|r Vous recevez le butin : |cffffffff|Hitem:172230::::::::58:268:::::::|h[Poussière d’âme]|h|r x3.",
-					["serverTime"] = 1610302604,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 5920.78,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [34]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:16:46]|h|r Votre compétence en Enchantement d’Ombreterre est maintenant de 29.",
-					["serverTime"] = 1610302607,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 5923.706,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [35]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:16:48]|h|r Vous recevez le butin : |cffffffff|Hitem:172230::::::::58:268:::::::|h[Poussière d’âme]|h|r x2.",
-					["serverTime"] = 1610302609,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 5924.956,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [36]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:16:48]|h|r Vous recevez le butin : |cff0070dd|Hitem:172231::::::::58:268:::::::|h[Éclat sacré]|h|r x2.",
-					["serverTime"] = 1610302609,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 5924.956,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [37]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:16:57]|h|r |cff1eff00|Hbattlepet:118:1:2:151:10:10:BattlePet-0-00000D9B6E57:15904|h[Renne de l’hiver]|h|r a été ajouté à votre codex des mascottes !",
-					["serverTime"] = 1610302618,
+					["message"] = "|cff979797|Hpratcopy|h[06:53:38]|h|r Quête acceptée : Dans le réservoir",
+					["serverTime"] = 1610430819,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
@@ -797,29 +685,148 @@ Prat3HighCPUPerCharDB = {
 						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 5933.974,
+					["timestamp"] = 123427.968,
 					["g"] = 1,
 					["b"] = 0,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:53:47]|h|r |cffd8d8d8[|r|Hplayer:Atec-LaCroisadeécarlate:1622:SYSTEM|h|cffd8bc3f60|r:|cff00fe97Atec|r|h|cffd8d8d8]|r1256 d’anima a été infusé dans le Réservoir.",
+					["serverTime"] = 1610430828,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						51, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123436.825,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:53:56]|h|r Dans le réservoir : terminée.",
+					["serverTime"] = 1610430837,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123445.379,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:53:56]|h|r Reçu 12 Or, 87 Argent.",
+					["serverTime"] = 1610430837,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123445.379,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:53:56]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["serverTime"] = 1610430837,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123445.379,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:54:31]|h|r Quête acceptée : Frappes d’opportunité",
+					["serverTime"] = 1610430872,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123481.347,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:54:47]|h|r Frappes d’opportunité : terminée.",
+					["serverTime"] = 1610430888,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123496.88,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:54:47]|h|r Reçu 2 Or, 57 Argent, 40 Cuivre.",
+					["serverTime"] = 1610430888,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123496.88,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:54:47]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["serverTime"] = 1610430888,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123496.897,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [38]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:17:16]|h|r Repaired for 19 Or, 43 Argent, 7 Cuivre.",
+					["message"] = "|cff979797|Hpratcopy|h[06:55:19]|h|r Quête acceptée : Contact spirituel",
+					["serverTime"] = 1610430920,
 					["r"] = 1,
-					["serverTime"] = 1610302637,
-					["timestamp"] = 5952.918000000001,
-					["g"] = 0.85,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123529.167,
+					["g"] = 1,
 					["b"] = 0,
 				}, -- [39]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:17:21]|h|r Sold junk for 37 Or, 48 Argent, 17 Cuivre.",
-					["r"] = 1,
-					["serverTime"] = 1610302642,
-					["timestamp"] = 5958.791,
-					["g"] = 0.85,
-					["b"] = 0,
-				}, -- [40]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:18:03]|h|r Drix Tournevice dit : C'est la FIN de notre amitié !",
-					["serverTime"] = 1610302684,
+					["message"] = "|cff979797|Hpratcopy|h[06:55:46]|h|r Garde-bouclier du Primat dit : Tiens tiens, regardez qui voilà…",
+					["serverTime"] = 1610430947,
 					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
@@ -828,13 +835,723 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 6000.825,
+					["timestamp"] = 123555.675,
 					["g"] = 1,
 					["b"] = 0.6235294342041016,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:55:51]|h|r |Hchannel:channel:1|h[1] |h Change de canal : |Hchannel:CHANNEL:1|h[1. Général - Maldraxxus]|h",
+					["serverTime"] = 1610430952,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123560.503,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
 				}, -- [41]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:19:51]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:173871::::::::58:268:::::::|h[Ichor vétuste]|h|r.",
-					["serverTime"] = 1610302792,
+					["message"] = "|cff979797|Hpratcopy|h[06:55:51]|h|r |Hchannel:channel:2|h[2] |h Quitte le canal : |Hchannel:CHANNEL:2|h[2. Commerce - Capitales]|h",
+					["serverTime"] = 1610430952,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						46, -- [3]
+						47, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123560.503,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:55:51]|h|r |Hchannel:channel:3|h[3] |h Change de canal : |Hchannel:CHANNEL:3|h[3. DéfenseLocale - Maldraxxus]|h",
+					["serverTime"] = 1610430952,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123560.503,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:56:02]|h|r Morris Escarrouge dit : C’est une belle arme que vous avez là, Sans-Entraves.",
+					["serverTime"] = 1610430963,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123571.874,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:57:06]|h|r |Hchannel:channel:1|h[1] |h Quitte le canal : |Hchannel:CHANNEL:1|h[1. Général - Maldraxxus]|h",
+					["serverTime"] = 1610431027,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123635.633,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:57:06]|h|r |Hchannel:channel:3|h[3] |h Quitte le canal : |Hchannel:CHANNEL:3|h[3. DéfenseLocale - Maldraxxus]|h",
+					["serverTime"] = 1610431027,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123635.633,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:57:12]|h|r |Hchannel:channel:1|h[1] |h Change de canal : |Hchannel:CHANNEL:1|h[1. Général - Oribos]|h",
+					["serverTime"] = 1610431033,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123641.625,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:57:12]|h|r |Hchannel:channel:2|h[2] |h Change de canal : |Hchannel:CHANNEL:2|h[2. Commerce - Capitales]|h",
+					["serverTime"] = 1610431033,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						46, -- [3]
+						47, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123641.625,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:57:12]|h|r |Hchannel:channel:3|h[3] |h Change de canal : |Hchannel:CHANNEL:3|h[3. DéfenseLocale - Oribos]|h",
+					["serverTime"] = 1610431033,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123641.625,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:57:26]|h|r Conseilleur Kah-Syne dit : Apportez ces observations au scribe du destin.",
+					["serverTime"] = 1610431047,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123655.876,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:57:29]|h|r |cff0040ffIn|cff00aaffFlight|r: Redoute Lugubre --> Oribos |cff208080temps de vol ajouté:|r 1:09",
+					["timestamp"] = 123659.054,
+					["serverTime"] = 1610431050,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:57:29]|h|r Auxiliaire fonctionnaire dit : Oui, conseilleur. Tout de suite.",
+					["serverTime"] = 1610431050,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123659.107,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:57:32]|h|r Conseilleur Kah-Syne dit : Le Dessein est notre voie.",
+					["serverTime"] = 1610431053,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123661.699,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[06:57:34]|h|r Auxiliaire fonctionnaire dit : Le Dessein est notre voie.",
+					["serverTime"] = 1610431054,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123663.982,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:00:13]|h|r Palefrenier Ta'shno dit : La diversité des créatures avec lesquelles ces mortels s’associent ne cesse de m’étonner.",
+					["serverTime"] = 1610431213,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123822.628,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:00:18]|h|r Gardien Ta'saran dit : Il est vrai qu’ils dépendent énormément des ressources récupérées sur d’autres êtres.",
+					["serverTime"] = 1610431218,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123827.725,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:00:23]|h|r Palefrenier Ta'shno dit : Et ils sont affreusement voraces.",
+					["serverTime"] = 1610431223,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123832.975,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:00:26]|h|r Gardien Ta'saran dit : En effet. À présent, allez placer celui-ci à la réserve.",
+					["serverTime"] = 1610431226,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123835.61,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:00:30]|h|r Palefrenier Ta'shno dit : Ce sera fait, Maître.",
+					["serverTime"] = 1610431230,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123839.413,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:00:37]|h|r Palefrenier Ta'shno dit : Entre dans la boîte, ma jolie. Ne t’en fais pas, c’est plus grand à l’intérieur.",
+					["serverTime"] = 1610431237,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123846.829,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:00:42]|h|r Tisse-dimensions Ta'oren dit : Vous ne vous lassez jamais de répéter la même chose à chaque créature que vous empaquetez ?",
+					["serverTime"] = 1610431242,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123851.508,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:00:46]|h|r Auxiliaire fonctionnaire dit : Les observations ont été apportées, conseilleur.",
+					["serverTime"] = 1610431246,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123855.844,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:00:47]|h|r Palefrenier Ta'shno dit : Ça fait partie du métier ! Je tiens à ce qu’ils soient heureux.",
+					["serverTime"] = 1610431247,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123857.047,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:00:49]|h|r Conseilleur Kah-Syne dit : Très bien. Au service du Dessein.",
+					["serverTime"] = 1610431249,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123859.196,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:00:52]|h|r Auxiliaire fonctionnaire dit : Le Dessein est notre voie.",
+					["serverTime"] = 1610431252,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 123861.857,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:07:53]|h|r Quête acceptée : Échange de bons procédés",
+					["serverTime"] = 1610431674,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124283.205,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:08:28]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["serverTime"] = 1610431709,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124317.802,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:08:28]|h|r Échange de bons procédés : terminée.",
+					["serverTime"] = 1610431709,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124317.825,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:08:28]|h|r Reçu 2 Or, 57 Argent, 40 Cuivre.",
+					["serverTime"] = 1610431709,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124317.825,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:08:33]|h|r Quête acceptée : Échange de bons procédés : L’Autre côté",
+					["serverTime"] = 1610431714,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124322.456,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:08:36]|h|r Quête acceptée : Échange de bons procédés : théâtre de la Souffrance",
+					["serverTime"] = 1610431717,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124326.097,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:08:58]|h|r |Hchannel:channel:1|h[1] |h Change de canal : |Hchannel:CHANNEL:1|h[1. Général - Temple des Cinq matins]|h",
+					["serverTime"] = 1610431739,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124347.618,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:08:58]|h|r |Hchannel:channel:3|h[3] |h Quitte le canal : |Hchannel:CHANNEL:3|h[3. DéfenseLocale - Oribos]|h",
+					["serverTime"] = 1610431739,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124347.618,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:10:41]|h|r |Hchannel:channel:1|h[1] |h Change de canal : |Hchannel:CHANNEL:1|h[1. Général - Oribos]|h",
+					["serverTime"] = 1610431842,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124450.92,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:10:41]|h|r |Hchannel:channel:3|h[3] |h Change de canal : |Hchannel:CHANNEL:3|h[3. DéfenseLocale - Oribos]|h",
+					["serverTime"] = 1610431842,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124450.92,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:14:49]|h|r Palefrenier Ta'shno dit : La diversité des créatures avec lesquelles ces mortels s’associent ne cesse de m’étonner.",
+					["serverTime"] = 1610432090,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124699.333,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:14:55]|h|r Gardien Ta'saran dit : Il est vrai qu’ils dépendent énormément des ressources récupérées sur d’autres êtres.",
+					["serverTime"] = 1610432096,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124704.777,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:15:00]|h|r Palefrenier Ta'shno dit : Et ils sont affreusement voraces.",
+					["serverTime"] = 1610432101,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124710.028,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:15:03]|h|r Gardien Ta'saran dit : En effet. À présent, allez placer celui-ci à la réserve.",
+					["serverTime"] = 1610432104,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124712.668,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:15:07]|h|r Palefrenier Ta'shno dit : Ce sera fait, Maître.",
+					["serverTime"] = 1610432108,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124716.476,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:15:15]|h|r Palefrenier Ta'shno dit : Entre dans la boîte, ma jolie. Ne t’en fais pas, c’est plus grand à l’intérieur.",
+					["serverTime"] = 1610432116,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124724.874,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:15:20]|h|r Tisse-dimensions Ta'oren dit : Vous ne vous lassez jamais de répéter la même chose à chaque créature que vous empaquetez ?",
+					["serverTime"] = 1610432121,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124729.87,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:15:26]|h|r Palefrenier Ta'shno dit : Ça fait partie du métier ! Je tiens à ce qu’ils soient heureux.",
+					["serverTime"] = 1610432127,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 124735.412,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:20:19]|h|r Vétéran des Nécro-seigneurs : terminée.",
+					["serverTime"] = 1610432420,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125028.892,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:20:19]|h|r Réputation auprès de la faction Guilde augmentée de 89 |4point:points;.",
+					["serverTime"] = 1610432420,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125028.92,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:20:19]|h|r Vous êtes maintenant Exalté auprès de la guilde Wakatépé.",
+					["serverTime"] = 1610432420,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125028.92,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:20:24]|h|r Quête acceptée : Observation des escarmouches",
+					["serverTime"] = 1610432425,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125034.03,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:20:29]|h|r Quête acceptée : Observation des arènes",
+					["serverTime"] = 1610432430,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125039.31,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:20:55]|h|r Vous recevez l'objet : |cff0070dd|Hitem:184052::::::::60:270::14:3:6793:1472:6616:1:28:783:::|h[Médaillon de l’aspirant impénitent]|h|r. |cffffd200|Hshareitem:184052::::::::60:270::14:3:6793:1472:6616:1:28:783::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1610432456,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
@@ -843,13 +1560,483 @@ Prat3HighCPUPerCharDB = {
 						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 6108.650000000001,
+					["timestamp"] = 125064.604,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
-				}, -- [42]
+				}, -- [89]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:19:52]|h|r Vous ramassez 1 Or, 72 Argent, 9 Cuivre.",
-					["serverTime"] = 1610302793,
+					["message"] = "|cff979797|Hpratcopy|h[07:21:59]|h|r Vous recevez l'objet : |cff0070dd|Hitem:178298::::::::60:270::14:3:6786:1472:6616:1:28:783:::|h[Insigne d’empressement de l’aspirant impénitent]|h|r. |cffffd200|Hshareitem:178298::::::::60:270::14:3:6786:1472:6616:1:28:783::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1610432520,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125128.801,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:29:37]|h|r [S] |cffd8d8d8[|r|Hplayer:Atec-LaCroisadeécarlate:1728:SAY|h|cffd8bc3f60|r:|cff00fe97Atec|r|h|cffd8d8d8]|r: tete brassard main ceinture",
+					["serverTime"] = 1610432978,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						42, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125586.688,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:30:35]|h|r Vous recevez l'objet : |cff0070dd|Hitem:175859::::::::60:270::14:3:6786:1472:6616:1:28:783:::|h[Bottes de l’aspirant impénitent en cuir]|h|r. |cffffd200|Hshareitem:175859::::::::60:270::14:3:6786:1472:6616:1:28:783::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1610433035,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125644.955,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:30:35]|h|r |cffffff00Added missing appearances of: |cffff7fff|Htransmogset:2175|h[Cuirs de l’aspirant impénitent]|h|r",
+					["timestamp"] = 125645.002,
+					["serverTime"] = 1610433035,
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:30:35]|h|r |cffff80ff|Htransmogappearance:109369|h[Bottes de l’aspirant impénitent en cuir]|h|r a rejoint votre collection d’apparences.",
+					["serverTime"] = 1610433035,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125645.002,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:30:51]|h|r Vous recevez l'objet : |cff0070dd|Hitem:175871::::::::60:270::14:3:6786:1472:6616:1:28:783:::|h[Spallières de l’aspirant impénitent en cuir]|h|r. |cffffd200|Hshareitem:175871::::::::60:270::14:3:6786:1472:6616:1:28:783::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1610433051,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125660.736,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:30:51]|h|r |cffffff00Added missing appearances of: |cffff7fff|Htransmogset:2175|h[Cuirs de l’aspirant impénitent]|h|r",
+					["timestamp"] = 125660.887,
+					["serverTime"] = 1610433051,
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:30:51]|h|r |cffff80ff|Htransmogappearance:109381|h[Spallières de l’aspirant impénitent en cuir]|h|r a rejoint votre collection d’apparences.",
+					["serverTime"] = 1610433051,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125660.887,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:30:54]|h|r Vous recevez l'objet : |cff0070dd|Hitem:175878::::::::60:270::14:3:6786:1472:6616:1:28:783:::|h[Ceinture de l’aspirant impénitent en cuir]|h|r. |cffffd200|Hshareitem:175878::::::::60:270::14:3:6786:1472:6616:1:28:783::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1610433054,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125664.145,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:30:55]|h|r |cffffff00Added missing appearances of: |cffff7fff|Htransmogset:2175|h[Cuirs de l’aspirant impénitent]|h|r",
+					["timestamp"] = 125664.502,
+					["serverTime"] = 1610433055,
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:30:55]|h|r |cffff80ff|Htransmogappearance:109388|h[Ceinture de l’aspirant impénitent en cuir]|h|r a rejoint votre collection d’apparences.",
+					["serverTime"] = 1610433055,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125664.502,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:30:58]|h|r Vous recevez l'objet : |cff0070dd|Hitem:175883::::::::60:270::14:3:6793:1472:6616:1:28:783:::|h[Bandelettes de l’aspirant impénitent en cuir]|h|r. |cffffd200|Hshareitem:175883::::::::60:270::14:3:6793:1472:6616:1:28:783::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1610433058,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125668.15,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:30:59]|h|r |cffffff00Added missing appearances of: |cffff7fff|Htransmogset:2175|h[Cuirs de l’aspirant impénitent]|h|r",
+					["timestamp"] = 125668.484,
+					["serverTime"] = 1610433059,
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:30:59]|h|r |cffff80ff|Htransmogappearance:109392|h[Bandelettes de l’aspirant impénitent en cuir]|h|r a rejoint votre collection d’apparences.",
+					["serverTime"] = 1610433059,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 125668.484,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:37:18]|h|r Vous recevez l'objet : |cff0070dd|Hitem:178301::::::::60:270::14:3:6793:1472:6616:1:28:783:::|h[Pèlerine de l’aspirant impénitent]|h|r. |cffffd200|Hshareitem:178301::::::::60:270::14:3:6793:1472:6616:1:28:783::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1610433438,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126047.944,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:37:18]|h|r |cffff80ff|Htransmogappearance:111218|h[Pèlerine de l’aspirant impénitent]|h|r a rejoint votre collection d’apparences.",
+					["serverTime"] = 1610433438,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126048.181,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:37:51]|h|r |cffffff00Added missing appearances of: |cffff7fff|Htransmogset:2175|h[Cuirs de l’aspirant impénitent]|h|r",
+					["timestamp"] = 126079.828,
+					["serverTime"] = 1610433471,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:37:51]|h|r |cffff80ff|Htransmogappearance:109369|h[Bottes de l’aspirant impénitent en cuir]|h|r a rejoint votre collection d’apparences.",
+					["serverTime"] = 1610433471,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126079.828,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:37:53]|h|r |cffffff00Added missing appearances of: |cffff7fff|Htransmogset:2175|h[Cuirs de l’aspirant impénitent]|h|r",
+					["timestamp"] = 126082.644,
+					["serverTime"] = 1610433473,
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:37:53]|h|r |cffff80ff|Htransmogappearance:109381|h[Spallières de l’aspirant impénitent en cuir]|h|r a rejoint votre collection d’apparences.",
+					["serverTime"] = 1610433473,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126082.644,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:37:58]|h|r |cffffff00Added missing appearances of: |cffff7fff|Htransmogset:2175|h[Cuirs de l’aspirant impénitent]|h|r",
+					["timestamp"] = 126087.516,
+					["serverTime"] = 1610433478,
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:37:58]|h|r |cffff80ff|Htransmogappearance:109392|h[Bandelettes de l’aspirant impénitent en cuir]|h|r a rejoint votre collection d’apparences.",
+					["serverTime"] = 1610433478,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126087.516,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [111]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:13]|h|r Vous recevez le butin : |cffffffff|Hitem:172230::::::::60:270:::::::|h[Poussière d’âme]|h|r.",
+					["serverTime"] = 1610433554,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126163.169,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:13]|h|r Vous recevez le butin : |cff0070dd|Hitem:172231::::::::60:270:::::::|h[Éclat sacré]|h|r x2.",
+					["serverTime"] = 1610433554,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126163.169,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [113]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:18]|h|r Vous recevez le butin : |cffffffff|Hitem:172230::::::::60:270:::::::|h[Poussière d’âme]|h|r x2.",
+					["serverTime"] = 1610433559,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126167.542,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [114]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:18]|h|r Vous recevez le butin : |cff0070dd|Hitem:172231::::::::60:270:::::::|h[Éclat sacré]|h|r.",
+					["serverTime"] = 1610433559,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126167.542,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [115]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:23]|h|r Vous recevez le butin : |cffffffff|Hitem:172230::::::::60:270:::::::|h[Poussière d’âme]|h|r x2.",
+					["serverTime"] = 1610433564,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126172.935,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [116]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:23]|h|r Vous recevez le butin : |cff0070dd|Hitem:172231::::::::60:270:::::::|h[Éclat sacré]|h|r.",
+					["serverTime"] = 1610433564,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126172.935,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:26]|h|r Vous recevez le butin : |cffffffff|Hitem:172230::::::::60:270:::::::|h[Poussière d’âme]|h|r.",
+					["serverTime"] = 1610433567,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126175.674,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:26]|h|r Vous recevez le butin : |cff0070dd|Hitem:172231::::::::60:270:::::::|h[Éclat sacré]|h|r.",
+					["serverTime"] = 1610433567,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126175.674,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:30]|h|r Vous recevez le butin : |cff0070dd|Hitem:14344::::::::60:270:::::::|h[Grand éclat brillant]|h|r x2.",
+					["serverTime"] = 1610433571,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126179.454,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:30]|h|r Vous recevez le butin : |cff1eff00|Hitem:16203::::::::60:270:::::::|h[Essence éternelle supérieure]|h|r x3.",
+					["serverTime"] = 1610433571,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126179.454,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:33]|h|r Vous recevez le butin : |cffffffff|Hitem:172230::::::::60:270:::::::|h[Poussière d’âme]|h|r x2.",
+					["serverTime"] = 1610433574,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126182.625,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:33]|h|r Vous recevez le butin : |cff0070dd|Hitem:172231::::::::60:270:::::::|h[Éclat sacré]|h|r x2.",
+					["serverTime"] = 1610433574,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126182.625,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [123]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:41]|h|r Vous recevez le butin : |cffffffff|Hitem:172230::::::::60:270:::::::|h[Poussière d’âme]|h|r x4.",
+					["serverTime"] = 1610433581,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126191.343,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [124]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:55]|h|r Vous recevez le butin : |cff0070dd|Hitem:181468::::::::60:270:::::::|h[Rune d’amélioration voilée]|h|r.",
+					["serverTime"] = 1610433595,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 126204.931,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [125]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[07:39:56]|h|r Vous ramassez 939 Or, 27 Argent, 81 Cuivre.",
+					["serverTime"] = 1610433596,
 					["r"] = 1,
 					["extraData"] = {
 						29, -- [1]
@@ -858,28 +2045,13 @@ Prat3HighCPUPerCharDB = {
 						10, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 6109.665,
+					["timestamp"] = 126206.051,
 					["g"] = 1,
 					["b"] = 0,
-				}, -- [43]
+				}, -- [126]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:19:57]|h|r Votre compétence en Herboristerie d’Ombreterre est maintenant de 53.",
-					["serverTime"] = 1610302798,
-					["r"] = 0.3333333432674408,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 6114.797000000001,
-					["g"] = 0.3333333432674408,
-					["b"] = 1,
-				}, -- [44]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:19:58]|h|r Vous recevez le butin : |cff1eff00|Hitem:171315::::::::58:268:::::::|h[Belladone]|h|r x2.",
-					["serverTime"] = 1610302799,
+					["message"] = "|cff979797|Hpratcopy|h[07:39:58]|h|r Vous recevez le butin : |cff0070dd|Hitem:181468::::::::60:270:::::::|h[Rune d’amélioration voilée]|h|r x3.",
+					["serverTime"] = 1610433598,
 					["r"] = 0,
 					["extraData"] = {
 						28, -- [1]
@@ -888,1213 +2060,24 @@ Prat3HighCPUPerCharDB = {
 						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 6115.188,
+					["timestamp"] = 126207.58,
 					["g"] = 0.6666666865348816,
 					["b"] = 0,
-				}, -- [45]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:29:22]|h|r Vous êtes maintenant absent : ABS",
-					["serverTime"] = 1610303363,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 6679.481,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [46]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:38:36]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq25|k:19:599:BN_INLINE_TOAST_ALERT:0|h[|Kq25|k] (|TInterface\\ChatFrame\\UI-ChatIcon-Battlenet:14:14:0:0|tReøs)|h vient de se connecter.",
-					["serverTime"] = 1610303917,
-					["r"] = 0.5098039507865906,
-					["extraData"] = {
-						54, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 7233.393,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
-				}, -- [47]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:45:49]|h|r Vous n'êtes plus absent.",
-					["serverTime"] = 1610304350,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 7666.664,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [48]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:31:27]|h|r Vous recevez le butin : |cffffffff|Hitem:172948::::::::58:268:::::::|h[Gland d’anima]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299888,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [49]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:31:44]|h|r Soigneuse de graine sauvage dit : Humf ! Humf hum mff !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299905,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [50]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:31:59]|h|r Soigneuse de graine sauvage dit : Vite, étripez cette chose et délivrez-nous !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299920,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [51]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:32:06]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:176865::::::::58:268:::::::|h[Pollen contaminé]|h|r x4.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299927,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [52]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:32:13]|h|r Soigneuse de graine sauvage dit : C’était moins une !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299934,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [53]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:32:15]|h|r Soigneuse de graine sauvage dit : Merci !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299936,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [54]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:32:15]|h|r Soigneur de graine sauvage dit : C’était moins une !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299936,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [55]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:32:16]|h|r Soigneur de graine sauvage dit : C’était moins une !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299937,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [56]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:32:33]|h|r Soigneuse de graine sauvage dit : À l’aide… On étouffe… là-dedans !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299954,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [57]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:32:52]|h|r Soigneuse de graine sauvage dit : Vite, étripez cette chose et délivrez-nous !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299973,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [58]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:32:53]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:176872::::::::58:268:::::::|h[Tige dense]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299974,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [59]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:32:59]|h|r Soigneur de graine sauvage dit : Enfin !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299980,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [60]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:33:01]|h|r Soigneur de graine sauvage dit : C’était moins une !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299982,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [61]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:33:01]|h|r Soigneuse de graine sauvage dit : Nous sommes sauvés !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299982,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [62]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:33:02]|h|r Soigneuse de graine sauvage dit : C’était moins une !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299983,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [63]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:33:18]|h|r Vous recevez le butin : |cffffffff|Hitem:172948::::::::58:268:::::::|h[Gland d’anima]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610299999,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [64]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:33:39]|h|r Vous recevez l'objet : |cffffffff|Hitem:179921::::::::58:268::11::1:28:2131:::|h[Éventreur d’hydre]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300020,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [65]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:33:45]|h|r Votre compétence en Herboristerie d’Ombreterre est maintenant de 51.",
-					["b"] = 1,
-					["r"] = 0.3333333432674408,
-					["g"] = 0.3333333432674408,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300026,
-					["extraData"] = {
-						27, -- [1]
-						false, -- [2]
-						26, -- [3]
-						27, -- [4]
-						["n"] = 4,
-					},
-				}, -- [66]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:33:45]|h|r Vous recevez le butin : |cffffffff|Hitem:169701::::::::58:268:::::::|h[Fatalée]|h|r x3.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300026,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [67]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:33:49]|h|r Vous recevez l'objet : |cffffffff|Hitem:179921::::::::58:268::11::1:28:2131:::|h[Éventreur d’hydre]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300030,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [68]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:34:21]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:176865::::::::58:268:::::::|h[Pollen contaminé]|h|r x2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300062,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [69]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:34:21]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:176872::::::::58:268:::::::|h[Tige dense]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300062,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [70]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:34:56]|h|r Soigneuse de graine sauvage dit : À l’aide… On étouffe… là-dedans !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300097,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [71]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:35:08]|h|r Soigneuse de graine sauvage dit : On étouffe là-dedans, faites-nous sortir de là !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300109,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [72]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:35:11]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:<BNET REMOVED>:23:0:BN_INLINE_TOAST_ALERT:0|h[<BNET REMOVED>] (|TInterface\\ChatFrame\\UI-ChatIcon-Battlenet:14:14:0:0|tHaystack)|h vient de se connecter.",
-					["b"] = 1,
-					["r"] = 0.5098039507865906,
-					["g"] = 0.7725490927696228,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300112,
-					["extraData"] = {
-						54, -- [1]
-						false, -- [2]
-						28, -- [3]
-						34, -- [4]
-						["n"] = 4,
-					},
-				}, -- [73]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:35:38]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:175965::::::::58:268:::::::|h[Bec pic-alène]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300139,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [74]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:35:38]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:176865::::::::58:268:::::::|h[Pollen contaminé]|h|r x4.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300139,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [75]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:36:02]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:176392::::::::58:268:::::::|h[Aile à motifs]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300163,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [76]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:36:40]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:176872::::::::58:268:::::::|h[Tige dense]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300201,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [77]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:36:40]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:176865::::::::58:268:::::::|h[Pollen contaminé]|h|r x2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300201,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [78]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:37:40]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:181246::::::::58:268:::::::|h[Feuille flétrie]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300261,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [79]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:37:57]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:181246::::::::58:268:::::::|h[Feuille flétrie]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300278,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [80]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:38:00]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:181246::::::::58:268:::::::|h[Feuille flétrie]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300281,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [81]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:38:09]|h|r Soigneuse de graine sauvage dit : Enfin, les secours arrivent !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300290,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [82]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:38:30]|h|r Soigneuse de graine sauvage dit : Éventrez cette chose et sortez-nous de là !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300311,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [83]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:38:32]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:176872::::::::58:268:::::::|h[Tige dense]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300313,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [84]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:39:03]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:176392::::::::58:268:::::::|h[Aile à motifs]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300344,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [85]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:39:17]|h|r Soigneur de graine sauvage dit : AÏEUH ! Allez-y doucement… ou plutôt, non ! SORTEZ-NOUS DE LÀ !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300358,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [86]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:39:26]|h|r Soigneur de graine sauvage dit : Éventrez cette chose et sortez-nous de là !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300367,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [87]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:39:28]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:176865::::::::58:268:::::::|h[Pollen contaminé]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300369,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [88]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:39:34]|h|r Soigneur de graine sauvage dit : Nous sommes sauvés !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300375,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [89]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:39:36]|h|r Soigneur de graine sauvage dit : Nous sommes sauvés !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300377,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [90]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:39:36]|h|r Soigneur de graine sauvage dit : C’était moins une !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300377,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [91]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:39:38]|h|r Soigneur de graine sauvage dit : Merci !",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300379,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [92]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:39:48]|h|r Expérience gagnée : 17900.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300389,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						30, -- [3]
-						31, -- [4]
-						["n"] = 4,
-					},
-				}, -- [93]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:39:48]|h|r Reçu 101 Or, 8 Argent, 80 Cuivre.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300389,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						30, -- [3]
-						31, -- [4]
-						["n"] = 4,
-					},
-				}, -- [94]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:39:48]|h|r Vous recevez l'objet : |cff0070dd|Hitem:181418::::::::58:268::53:2:7192:6652:2:9:58:28:807:::|h[Garde-épaules de soigneur runique]|h|r. |cffffd200|Hshareitem:181418::::::::58:268::53:2:7192:6652:2:9:58:28:807::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300389,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [95]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:39:48]|h|r |cffff80ff|Htransmogappearance:113603|h[Garde-épaules de soigneur runique]|h|r a rejoint votre collection d’apparences.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300389,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						30, -- [3]
-						31, -- [4]
-						["n"] = 4,
-					},
-				}, -- [96]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:39:48]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300389,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						32, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-				}, -- [97]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:39:57]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:176865::::::::58:268:::::::|h[Pollen contaminé]|h|r x3.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300398,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [98]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:42:32]|h|r Dame Baie-de-Lune dit : Qu’est-ce que vous diriez de retourner faire un peu d’étincelles ?",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300553,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [99]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:48:00]|h|r Fanelame enrôlé crie : Maudite… fée…",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300881,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [100]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:49:09]|h|r Fanelame enrôlé crie : Maudite… fée…",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300950,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [101]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:49:22]|h|r Fanelame enrôlé crie : Nous… reviendrons…",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300963,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [102]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:49:26]|h|r Fanelame enrôlé crie : Maudite… fée…",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300967,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [103]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:49:48]|h|r Fanelame enrôlé crie : Les Drust… l’emporteront…",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300989,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [104]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:49:52]|h|r Fanelame enrôlé crie : Les Drust… l’emporteront…",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610300993,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [105]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:50:05]|h|r Dévastateur enrôlé crie : Aaargh !",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301006,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [106]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:50:07]|h|r Fanelame enrôlé crie : Aaargh !",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301008,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [107]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:50:19]|h|r Fanelame enrôlé crie : Ça brûle… Ce que ça fait mal !",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301020,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [108]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:50:22]|h|r Fanelame enrôlé crie : Ça brûle… Ce que ça fait mal !",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301023,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [109]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:50:29]|h|r Fanelame enrôlé crie : Ça brûle… Ce que ça fait mal !",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301030,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [110]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:51:00]|h|r Dévastateur enrôlé crie : Aaargh !",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301061,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [111]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:51:07]|h|r Fanelame enrôlé crie : Les Drust… l’emporteront…",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301068,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [112]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:51:29]|h|r Fanelame enrôlé crie : Ça brûle… Ce que ça fait mal !",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301090,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [113]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:51:46]|h|r Dévastateur enrôlé crie : Les Drust… l’emporteront…",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301107,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						35, -- [3]
-						36, -- [4]
-						["n"] = 4,
-					},
-				}, -- [114]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:51:50]|h|r Réputation auprès de la faction L’Hallali augmentée de 125 |4point:points;.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301111,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						32, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-				}, -- [115]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:51:50]|h|r Vous recevez l'objet : |cff0070dd|Hitem:175713::::::::58:268::53:2:7192:6652:2:9:58:28:807:::|h[Jonc branchardon]|h|r. |cffffd200|Hshareitem:175713::::::::58:268::53:2:7192:6652:2:9:58:28:807::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301111,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						24, -- [3]
-						25, -- [4]
-						["n"] = 4,
-					},
-				}, -- [116]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:51:50]|h|r Expérience gagnée : 8950.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301111,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						30, -- [3]
-						31, -- [4]
-						["n"] = 4,
-					},
-				}, -- [117]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:51:50]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301111,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						32, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-				}, -- [118]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:51:50]|h|r Dame Baie-de-Lune dit : Ça leur apprendra ! Qui a dit que la magie n’était pas la solution à tout ?",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301111,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [119]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:51:54]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq27|k:16:0:BN_WHISPER:|Kq27|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq27|k|r|h|cffd8d8d8]|r: |Hachievement:14511:Player-1127-09761C32:1:1:10:21:4294967295:4294967295:4294967295:4294967295|h[Tour de garde : Sylvarden]|h",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301115,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						37, -- [3]
-						38, -- [4]
-						["n"] = 4,
-					},
-				}, -- [120]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:52:37]|h|r |cffd8d8d8[|r|Hplayer:Sangocoucou-ConfrérieduThorium:513|h|cffd8bc3f60|r:|cff3ec6eaSangocoucou|r-|cff4084a6Con|r|h|cffd8d8d8]|r vient de se connecter.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301158,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						30, -- [3]
-						31, -- [4]
-						["n"] = 4,
-					},
-				}, -- [121]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:52:52]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Sangocoucou-ConfrérieduThorium:514:GUILD|h|cffd8bc3f60|r:|cff3ec6eaSangocoucou|r|h|cffd8d8d8]|r: slt",
-					["b"] = 0.250980406999588,
-					["r"] = 0.250980406999588,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301173,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						39, -- [3]
-						40, -- [4]
-						["n"] = 4,
-					},
-				}, -- [122]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:56:42]|h|r Ban Lu dit : Je suis heureux de vous revoir, grand maître.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301403,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-				}, -- [123]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[18:56:44]|h|r Zapak a soufflé dans la grande corne du cerf runique, attirant le mystique Arc-en-Corne à découvert.",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 5177.43,
-					["serverTime"] = 1610301405,
-					["extraData"] = {
-						17, -- [1]
-						false, -- [2]
-						41, -- [3]
-						42, -- [4]
-						["n"] = 4,
-					},
-				}, -- [124]
-				{
-					["message"] = "0 |4jour:jours;, 0 |4heure:heures;, 7 |4minute:minutes;, 37 |4seconde:secondes;",
-					["timestamp"] = 5177.43,
-				}, -- [125]
-				{
-					["message"] = "========== Fin de l'historique ==========",
-					["timestamp"] = 5177.43,
-				}, -- [126]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[19:04:08]|h|r |cffffffff|cff5672ff>> Salut, mec ! Bienvenue suw Twoll ! /twoll pouw activer/désactiver !|r|r",
-					["timestamp"] = 5158.198,
 				}, -- [127]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[19:04:08]|h|r |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.118 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
+					["message"] = "|cff979797|Hpratcopy|h[06:45:27]|h|r Quête acceptée : Le pouvoir du Primat",
+					["serverTime"] = 1610430328,
 					["r"] = 1,
-					["timestamp"] = 5158.198,
-					["g"] = 0.7,
-					["b"] = 0.2,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 122937.089,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [128]
 			},
 			["maxElements"] = 128,

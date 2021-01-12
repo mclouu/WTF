@@ -9,16 +9,16 @@ BrokerPlayedTimeDB = {
 				["level"] = 46,
 			},
 			["Kotlin"] = {
-				["timePlayed"] = 3652216,
+				["timePlayed"] = 3679759,
 				["class"] = "DRUID",
 				["level"] = 60,
-				["timeUpdated"] = 1610340493,
+				["timeUpdated"] = 1610417621,
 			},
 			["Atec"] = {
-				["timePlayed"] = 2138055,
+				["timePlayed"] = 2153793,
 				["class"] = "MONK",
-				["level"] = 58,
-				["timeUpdated"] = 1610309715,
+				["level"] = 60,
+				["timeUpdated"] = 1610433622,
 			},
 		},
 		["Alliance"] = {

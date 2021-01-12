@@ -1128,15 +1128,15 @@ REFlexDatabase = {
 				23, -- [17]
 			}, -- [1]
 		},
-		["PlayerNum"] = 1,
-		["PlayerSide"] = 0,
+		["Season"] = 30,
+		["Time"] = 1609690429,
 		["PlayersNum"] = 80,
 		["Duration"] = 1803,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["isBrawl"] = false,
-		["Time"] = 1609690429,
-		["isArena"] = false,
 		["Version"] = 302,
+		["isArena"] = false,
+		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["BGPlace"] = {
 			{
@@ -1155,7 +1155,7 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 0,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["BGComposition"] = {
 			{
 				2, -- [1]
@@ -1377,11 +1377,11 @@ REFlexDatabase = {
 	}, -- [20]
 }
 REFlexHonorDatabase = {
-	[1609801200] = 275,
+	[1609628400] = 771,
 	[1608678000] = 1982,
-	[1608764400] = 363,
+	[1609801200] = 275,
+	[1609542000] = 292,
 	[1609714800] = 340,
 	[1609369200] = 340,
-	[1609542000] = 292,
-	[1609628400] = 771,
+	[1608764400] = 363,
 }

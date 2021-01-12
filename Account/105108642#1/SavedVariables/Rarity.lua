@@ -124,6 +124,16 @@ RarityDB = {
 					["Puddle of Black Liquid"] = {
 						["attempts"] = 1,
 					},
+					["Bottled Up Rage"] = {
+						["time"] = 1,
+						["dates"] = {
+							[20210112] = {
+								["time"] = 1,
+								["attempts"] = 1,
+							},
+						},
+						["attempts"] = 1,
+					},
 					["Hissing Deathroach"] = {
 						["time"] = 3,
 						["dates"] = {
@@ -328,6 +338,16 @@ RarityDB = {
 						["enabled"] = false,
 						["known"] = true,
 						["found"] = true,
+					},
+					["Crimson Dredwing Pup"] = {
+						["time"] = 471.6979999999894,
+						["dates"] = {
+							[20210112] = {
+								["time"] = 471.6979999999894,
+								["attempts"] = 4,
+							},
+						},
+						["attempts"] = 4,
 					},
 					["Experiment-In-A-Jar"] = {
 						["attempts"] = 1,
@@ -2324,7 +2344,7 @@ RarityDB = {
 			["bar"] = {
 				["texture"] = "Minimalist",
 			},
-			["trackedItem"] = 183192,
+			["trackedItem"] = 180602,
 			["accountWideStatistics"] = {
 				["Player-1127-0973B9D8"] = {
 					["playerName"] = "Coven",
@@ -2922,19 +2942,19 @@ RarityDB = {
 						[5977] = 2,
 						[13592] = 0,
 						[13594] = 0,
-						[14130] = 0,
+						[13620] = 0,
 						[14108] = 0,
 						[13600] = 0,
 						[13602] = 0,
 						[1098] = 0,
 						[1394] = 0,
-						[13365] = 0,
+						[14130] = 0,
 						[10979] = 0,
 						[13612] = 0,
 						[13614] = 0,
 						[13616] = 0,
 						[14128] = 0,
-						[13620] = 0,
+						[13365] = 0,
 						[10977] = 0,
 						[1097] = 0,
 						[14136] = 0,

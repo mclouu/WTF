@@ -161,9 +161,6 @@ PawnCommon = {
 		["\"MrRobot\":MONK1"] = {
 			["IconTexturePath"] = 608951,
 			["PerCharacterOptions"] = {
-				["Atec-La Croisade écarlate"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "00fe97",
 			["ClassID"] = 10,
@@ -437,6 +434,9 @@ PawnCommon = {
 		["\"MrRobot\":MONK2"] = {
 			["IconTexturePath"] = 608952,
 			["PerCharacterOptions"] = {
+				["Atec-La Croisade écarlate"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "00fe97",
 			["ClassID"] = 10,

@@ -43,7 +43,7 @@ TipTac_Config = {
 	["backdropInsets"] = 0,
 	["healthBarText"] = "value",
 	["classification_worldboss"] = "%s|r (Boss) ",
-	["classColoredBorder"] = true,
+	["classification_rareelite"] = "+%s|r (Rare) ",
 	["barFontFace"] = "Fonts\\ARIALN.TTF",
 	["manaBar"] = false,
 	["gradientColor"] = {
@@ -52,7 +52,7 @@ TipTac_Config = {
 		0.8, -- [3]
 		0.2, -- [4]
 	},
-	["classification_rareelite"] = "+%s|r (Rare) ",
+	["colSameGuild"] = "|cffff32ff",
 	["fadeTime"] = 0.1,
 	["healthBarColor"] = {
 		0.3, -- [1]
@@ -65,7 +65,7 @@ TipTac_Config = {
 	["top"] = 60.00028228759766,
 	["hideWorldTips"] = true,
 	["gradientTip"] = true,
-	["colSameGuild"] = "|cffff32ff",
+	["classColoredBorder"] = true,
 	["colorNameByClass"] = false,
 	["barFontSize"] = 12,
 	["optionsBottom"] = 200.9999847412109,

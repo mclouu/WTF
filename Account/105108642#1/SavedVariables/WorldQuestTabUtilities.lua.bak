@@ -140,6 +140,19 @@ WQTUDB = {
 					},
 				},
 			},
+			[1610449200] = {
+				["La Croisade écarlate"] = {
+					["Atec"] = {
+						["rewards"] = {
+							["currency;1806"] = 175,
+							["currency;1877"] = 1,
+							["anima"] = 3,
+							["gold"] = 5101200,
+						},
+						["faction"] = "Horde",
+					},
+				},
+			},
 		},
 	},
 }
