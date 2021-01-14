@@ -33,16 +33,6 @@ Bartender4DB = {
 						["y"] = 62,
 					},
 				},
-				["Kotlin - Ysondre"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 62,
-						["x"] = -515,
-						["point"] = "BOTTOM",
-						["scale"] = 1.264999985694885,
-					},
-				},
 				["Clou"] = {
 					["enabled"] = true,
 					["position"] = {
@@ -52,6 +42,16 @@ Bartender4DB = {
 						["scale"] = 0.949999988079071,
 					},
 					["version"] = 3,
+				},
+				["Kotlin - Ysondre"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
 				},
 				["Coven - La Croisade écarlate"] = {
 					["enabled"] = true,
@@ -88,8 +88,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -98,8 +98,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -155,8 +155,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -165,8 +165,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -221,8 +221,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -231,8 +231,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -266,73 +266,6 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Kotlin - Ysondre"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 178.4999542236328,
-								["x"] = -231.4999542236328,
-								["point"] = "BOTTOM",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						nil, -- [9]
-						{
-						}, -- [10]
-					},
-				},
 				["Clou"] = {
 					["actionbars"] = {
 						{
@@ -344,12 +277,10 @@ Bartender4DB = {
 								["point"] = "BOTTOM",
 								["scale"] = 0.699999988079071,
 							},
-							["states"] = {
-								["enabled"] = false,
-							},
 						}, -- [1]
 						{
 							["buttons"] = 7,
+							["mouseover"] = true,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 29.39999682903294,
@@ -359,6 +290,8 @@ Bartender4DB = {
 							},
 							["states"] = {
 								["enabled"] = true,
+								["default"] = 2,
+								["actionbar"] = true,
 								["possess"] = true,
 								["stance"] = {
 									["DRUID"] = {
@@ -392,6 +325,9 @@ Bartender4DB = {
 								["x"] = -95.54998253839403,
 								["point"] = "BOTTOM",
 								["scale"] = 0.699999988079071,
+							},
+							["states"] = {
+								["shift"] = 3,
 							},
 						}, -- [4]
 						{
@@ -449,7 +385,7 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Coven - La Croisade écarlate"] = {
+				["Kotlin - Ysondre"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -482,6 +418,73 @@ Bartender4DB = {
 						{
 							["padding"] = 5,
 							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Coven - La Croisade écarlate"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 178.4999542236328,
+								["x"] = -231.4999542236328,
+								["point"] = "BOTTOM",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -550,14 +553,6 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Kotlin - Ysondre"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -96.50003051757812,
-						["x"] = -63.49996948242188,
-						["point"] = "CENTER",
-					},
-				},
 				["Clou"] = {
 					["position"] = {
 						["y"] = 123,
@@ -565,6 +560,14 @@ Bartender4DB = {
 						["point"] = "BOTTOMRIGHT",
 					},
 					["version"] = 3,
+				},
+				["Kotlin - Ysondre"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -96.50003051757812,
+						["x"] = -63.49996948242188,
+						["point"] = "CENTER",
+					},
 				},
 				["Coven - La Croisade écarlate"] = {
 					["version"] = 3,
@@ -608,16 +611,6 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Kotlin - Ysondre"] = {
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 41.75,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
 				["Clou"] = {
 					["version"] = 3,
 					["rows"] = 11,
@@ -628,6 +621,16 @@ Bartender4DB = {
 						["scale"] = 0.699999988079071,
 					},
 					["padding"] = -2,
+				},
+				["Kotlin - Ysondre"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41.75,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
 				},
 				["Coven - La Croisade écarlate"] = {
 					["padding"] = -2,
@@ -667,7 +670,8 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Kotlin - Ysondre"] = {
+				["Clou"] = {
+					["enabled"] = false,
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -675,8 +679,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Clou"] = {
-					["enabled"] = false,
+				["Kotlin - Ysondre"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -723,6 +726,14 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Clou"] = {
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
+				},
 				["Kotlin - Ysondre"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -731,14 +742,6 @@ Bartender4DB = {
 						["x"] = -512,
 						["point"] = "BOTTOM",
 					},
-				},
-				["Clou"] = {
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
 				},
 				["Coven - La Croisade écarlate"] = {
 					["enabled"] = true,
@@ -778,15 +781,6 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Kotlin - Ysondre"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 143,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
 				["Clou"] = {
 					["enabled"] = false,
 					["position"] = {
@@ -795,6 +789,15 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 					["version"] = 3,
+				},
+				["Kotlin - Ysondre"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
 				},
 				["Coven - La Croisade écarlate"] = {
 					["version"] = 3,
@@ -832,14 +835,6 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Kotlin - Ysondre"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 143,
-						["x"] = -120,
-						["point"] = "BOTTOM",
-					},
-				},
 				["Clou"] = {
 					["enabled"] = false,
 					["version"] = 3,
@@ -847,6 +842,14 @@ Bartender4DB = {
 						["y"] = 36.00000762939453,
 						["x"] = -2.999990940093994,
 						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Kotlin - Ysondre"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -120,
+						["point"] = "BOTTOM",
 					},
 				},
 				["Coven - La Croisade écarlate"] = {
@@ -885,14 +888,6 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Kotlin - Ysondre"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.5,
-						["x"] = 104.5000915527344,
-						["point"] = "CENTER",
-					},
-				},
 				["Clou"] = {
 					["position"] = {
 						["y"] = 109.0000152587891,
@@ -900,6 +895,14 @@ Bartender4DB = {
 						["point"] = "BOTTOMRIGHT",
 					},
 					["version"] = 3,
+				},
+				["Kotlin - Ysondre"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.5,
+						["x"] = 104.5000915527344,
+						["point"] = "CENTER",
+					},
 				},
 				["Coven - La Croisade écarlate"] = {
 					["version"] = 3,
@@ -935,12 +938,12 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Kotlin - Ysondre"] = {
+		["Clou"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Clou"] = {
+		["Kotlin - Ysondre"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",

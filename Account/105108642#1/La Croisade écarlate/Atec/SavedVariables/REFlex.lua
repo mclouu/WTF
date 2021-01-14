@@ -1107,6 +1107,10 @@ REFlexDatabase = {
 	}, -- [16]
 	{
 		["Map"] = 2118,
+		["Duration"] = 1803,
+		["Season"] = 30,
+		["Time"] = 1609690429,
+		["PlayersNum"] = 80,
 		["BGComposition"] = {
 			{
 				2, -- [1]
@@ -1119,15 +1123,11 @@ REFlexDatabase = {
 				27, -- [3]
 			}, -- [2]
 		},
-		["Hidden"] = false,
-		["Version"] = 302,
-		["PlayersNum"] = 80,
-		["Duration"] = 1803,
-		["Season"] = 30,
+		["PlayerNum"] = 1,
 		["isArena"] = false,
-		["PlayerSide"] = 0,
+		["Version"] = 302,
 		["isBrawl"] = false,
-		["Time"] = 1609690429,
+		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["BGPlace"] = {
 			{
@@ -1146,7 +1146,7 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 0,
-		["PlayerNum"] = 1,
+		["Hidden"] = false,
 		["Players"] = {
 			{
 				"Atec", -- [1]
@@ -1377,11 +1377,11 @@ REFlexDatabase = {
 	}, -- [20]
 }
 REFlexHonorDatabase = {
-	[1608764400] = 363,
-	[1608678000] = 1982,
 	[1609628400] = 771,
-	[1609369200] = 340,
+	[1608678000] = 1982,
+	[1609801200] = 275,
 	[1609542000] = 292,
 	[1609714800] = 340,
-	[1609801200] = 275,
+	[1609369200] = 340,
+	[1608764400] = 363,
 }

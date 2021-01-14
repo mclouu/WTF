@@ -20,8 +20,6 @@ XLootADB = {
 				},
 			},
 		},
-		["Master"] = {
-		},
 		["Monitor"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -31,10 +29,12 @@ XLootADB = {
 				},
 			},
 		},
+		["Master"] = {
+		},
 	},
 	["profileKeys"] = {
-		["Kotlin - La Croisade écarlate"] = "Default",
 		["Kotlin - Ysondre"] = "Default",
+		["Kotlin - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {

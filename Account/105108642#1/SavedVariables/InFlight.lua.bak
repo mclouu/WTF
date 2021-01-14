@@ -8,8 +8,13 @@ InFlightDB = {
 				[2395] = 120,
 			},
 			[2513] = {
-				["name"] = "Porte Antique",
 				[2517] = 33,
+				["name"] = "Porte Antique",
+				[2537] = 47,
+			},
+			[2515] = {
+				["name"] = "Donjon de la Domination",
+				[2511] = 29,
 			},
 			[2517] = {
 				[2395] = 119,
@@ -17,13 +22,15 @@ InFlightDB = {
 				[2569] = 201,
 			},
 			[2518] = {
-				["name"] = "Colline de l’Hypogée",
 				[2587] = 189,
+				["name"] = "Colline de l’Hypogée",
+				[2537] = 30,
 			},
 			[2519] = {
 				[2587] = 176,
 				[2529] = 43,
 				["name"] = "Repos de l’aspirant",
+				[2588] = 196,
 			},
 			[2520] = {
 				["name"] = "Havre de la Sagesse",
@@ -49,22 +56,23 @@ InFlightDB = {
 				["name"] = "Guet de l’Araignée",
 				[2398] = 57,
 			},
+			[2560] = {
+				["name"] = "Repos de Kérès",
+				[2564] = 38,
+			},
 			[2561] = {
 				["name"] = "Bastille abandonnée",
 				[2564] = 40,
 			},
-			[2564] = {
-				[2398] = 25,
-				["name"] = "Théâtre de la Souffrance",
-				[2395] = 77,
-			},
 			[2569] = {
-				["name"] = "Guet de la Peste",
 				[2558] = 49,
 				[2564] = 34,
+				["name"] = "Guet de la Peste",
+				[2561] = 44,
 			},
 			[2585] = {
 				[2587] = 44,
+				[2395] = 70,
 				["name"] = "Tirna Vaal",
 				[2590] = 40,
 			},
@@ -76,9 +84,9 @@ InFlightDB = {
 				["name"] = "Camp de réfugiés",
 				[2395] = 104,
 			},
-			[2515] = {
-				["name"] = "Donjon de la Domination",
-				[2511] = 29,
+			[2584] = {
+				["name"] = "Bassin Tombe-Lueur",
+				[2587] = 30,
 			},
 			[2395] = {
 				[2398] = 69,
@@ -102,16 +110,16 @@ InFlightDB = {
 				[2680] = 138,
 			},
 			[2398] = {
+				[2395] = 69,
 				[2561] = 40,
-				["name"] = "Redoute Lugubre",
-				[2564] = 23,
-				[2558] = 32,
-				[2519] = 126,
+				[2569] = 18,
 				[2585] = 137,
-			},
-			[2584] = {
-				["name"] = "Bassin Tombe-Lueur",
-				[2587] = 30,
+				[2488] = 145,
+				["name"] = "Redoute Lugubre",
+				[2519] = 126,
+				[2586] = 159,
+				[2558] = 32,
+				[2564] = 23,
 			},
 			[2587] = {
 				[2588] = 26,
@@ -128,6 +136,12 @@ InFlightDB = {
 			[2488] = {
 				["name"] = "Sombrehavre",
 				[2537] = 42,
+			},
+			[2564] = {
+				[2398] = 25,
+				[2395] = 77,
+				["name"] = "Théâtre de la Souffrance",
+				[2558] = 25,
 			},
 		},
 	},

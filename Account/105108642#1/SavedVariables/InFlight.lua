@@ -8,8 +8,9 @@ InFlightDB = {
 				[2395] = 120,
 			},
 			[2513] = {
-				["name"] = "Porte Antique",
 				[2517] = 33,
+				["name"] = "Porte Antique",
+				[2537] = 47,
 			},
 			[2515] = {
 				["name"] = "Donjon de la Domination",
@@ -29,6 +30,7 @@ InFlightDB = {
 				[2587] = 176,
 				[2529] = 43,
 				["name"] = "Repos de l’aspirant",
+				[2588] = 196,
 			},
 			[2520] = {
 				["name"] = "Havre de la Sagesse",
@@ -54,19 +56,25 @@ InFlightDB = {
 				["name"] = "Guet de l’Araignée",
 				[2398] = 57,
 			},
+			[2560] = {
+				["name"] = "Repos de Kérès",
+				[2564] = 38,
+			},
 			[2561] = {
 				["name"] = "Bastille abandonnée",
 				[2564] = 40,
 			},
 			[2569] = {
-				[2564] = 34,
+				[2561] = 44,
 				["name"] = "Guet de la Peste",
 				[2558] = 49,
+				[2564] = 34,
 			},
 			[2585] = {
 				[2587] = 44,
-				["name"] = "Tirna Vaal",
 				[2590] = 40,
+				["name"] = "Tirna Vaal",
+				[2395] = 70,
 			},
 			[2588] = {
 				["name"] = "Terracine",
@@ -75,6 +83,10 @@ InFlightDB = {
 			[2590] = {
 				["name"] = "Camp de réfugiés",
 				[2395] = 104,
+			},
+			[2584] = {
+				["name"] = "Bassin Tombe-Lueur",
+				[2587] = 30,
 			},
 			[2395] = {
 				[2398] = 69,
@@ -98,17 +110,16 @@ InFlightDB = {
 				[2519] = 63,
 			},
 			[2398] = {
-				[2561] = 40,
-				["name"] = "Redoute Lugubre",
 				[2395] = 69,
+				[2561] = 40,
+				[2569] = 18,
+				[2585] = 137,
+				[2488] = 145,
+				["name"] = "Redoute Lugubre",
+				[2519] = 126,
 				[2564] = 23,
 				[2558] = 32,
-				[2585] = 137,
-				[2519] = 126,
-			},
-			[2584] = {
-				["name"] = "Bassin Tombe-Lueur",
-				[2587] = 30,
+				[2586] = 159,
 			},
 			[2587] = {
 				[2588] = 26,
@@ -128,6 +139,7 @@ InFlightDB = {
 			},
 			[2564] = {
 				[2398] = 25,
+				[2558] = 25,
 				["name"] = "Théâtre de la Souffrance",
 				[2395] = 77,
 			},

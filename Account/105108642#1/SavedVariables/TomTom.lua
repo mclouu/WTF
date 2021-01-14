@@ -57,10 +57,18 @@ TomTomWaypointsM = {
 					["from"] = "TomTom/wm",
 					["callbacks"] = {
 						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["minimap"] = true,
@@ -80,33 +88,18 @@ TomTomWaypointsM = {
 					["from"] = "TomTom/wm",
 					["callbacks"] = {
 						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["913:787661316.42051:946197861.737:TomTom point de passage"] = {
-					913, -- [1]
-					0.7876613164205056, -- [2]
-					0.9461978617370019, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "TomTom point de passage",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "TomTom point de passage",
-					["from"] = "TomTom/wm",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["minimap"] = true,
@@ -126,10 +119,49 @@ TomTomWaypointsM = {
 					["from"] = "TomTom/wm",
 					["callbacks"] = {
 						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["913:787661316.42051:946197861.737:TomTom point de passage"] = {
+					913, -- [1]
+					0.7876613164205056, -- [2]
+					0.9461978617370019, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "TomTom point de passage",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "TomTom point de passage",
+					["from"] = "TomTom/wm",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["minimap"] = true,
@@ -149,10 +181,18 @@ TomTomWaypointsM = {
 					["from"] = "TomTom/wm",
 					["callbacks"] = {
 						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["minimap"] = true,
@@ -174,10 +214,18 @@ TomTomWaypointsM = {
 					["from"] = "TomTom/wm",
 					["callbacks"] = {
 						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["minimap"] = true,

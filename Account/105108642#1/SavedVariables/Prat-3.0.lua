@@ -6,9 +6,9 @@ Prat3DB = {
 				["Default"] = {
 					["colors"] = {
 						["loa"] = {
-							["b"] = 0.7529412508010864,
-							["g"] = 0.7529412508010864,
 							["r"] = 1,
+							["g"] = 0.7529412508010864,
+							["b"] = 0.7529412508010864,
 						},
 					},
 				},
@@ -39,12 +39,12 @@ Prat3DB = {
 		["Prat_Frames"] = {
 			["profiles"] = {
 				["Default"] = {
-					["initialized"] = true,
+					["minchatwidthdefault"] = 296,
 					["framealpha"] = 0,
 					["maxchatheightdefault"] = 399.9999694824219,
 					["maxchatheight"] = 555,
 					["maxchatwidthdefault"] = 608,
-					["minchatwidthdefault"] = 296,
+					["initialized"] = true,
 					["minchatheightdefault"] = 120.0000076293945,
 				},
 			},
@@ -61,7 +61,7 @@ Prat3DB = {
 		},
 		["Prat_Paragraph"] = {
 		},
-		["Prat_KeyBindings"] = {
+		["Prat_Achievements"] = {
 		},
 		["Prat_Alias"] = {
 		},
@@ -85,7 +85,7 @@ Prat3DB = {
 		},
 		["Prat_Buttons"] = {
 		},
-		["Prat_Achievements"] = {
+		["Prat_KeyBindings"] = {
 		},
 		["Prat_HoverTips"] = {
 		},
@@ -100,7 +100,7 @@ Prat3DB = {
 	["profiles"] = {
 		["Default"] = {
 			["modules"] = {
-				["Alias"] = 2,
+				["ChatLog"] = 2,
 				["Mentions"] = 2,
 				["PopupMessage"] = 2,
 				["AltNames"] = 2,
@@ -108,7 +108,7 @@ Prat3DB = {
 				["Paragraph"] = 2,
 				["KeyBindings"] = 2,
 				["OriginalButtons"] = 2,
-				["ChatLog"] = 2,
+				["Alias"] = 2,
 			},
 		},
 	},

@@ -43,8 +43,8 @@ W: 648
 H: 455
 Frame: InterfaceOptionsFrame
 FrameLevel: 1
-Anchor: CENTER
-X: 1
-Y: -25
+Anchor: BOTTOM
+X: 43
+Y: 40
 W: 858
 H: 660

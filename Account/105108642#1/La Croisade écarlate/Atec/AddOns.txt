@@ -19,7 +19,7 @@ MaxDps_Druid: disabled
 MaxDps: disabled
 EpicMusicPlayer_MP3: disabled
 EpicMusicPlayer: disabled
-Details_Vanguard: disabled
+Details_Vanguard: enabled
 Details_TinyThreat: disabled
 Details_Streamer: disabled
 Details_RaidCheck: disabled
@@ -46,9 +46,9 @@ Capping: enabled
 Chat_Sound_Customizer: enabled
 Chronicles: enabled
 Details: enabled
-Details_DataStorage: disabled
+Details_DataStorage: enabled
 eAlignUpdated: disabled
-EasyQueue: disabled
+EasyQueue: enabled
 HandyNotes: enabled
 HandyNotes_BattleForAzerothTreasures: enabled
 HandyNotes_Oribos: enabled
