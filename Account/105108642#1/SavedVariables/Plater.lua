@@ -1,9 +1,12 @@
 
 PlaterDB = {
 	["profileKeys"] = {
-		["Kotlin - La Croisade écarlate"] = "Default",
-		["Kotlin - Ysondre"] = "Default",
+		["Jy - La Croisade écarlate"] = "Default",
+		["Nylaria - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
+		["Kotlin - Ysondre"] = "Default",
+		["Chimay - La Croisade écarlate"] = "Default",
+		["Kotlin - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -2403,6 +2406,14 @@ PlaterDB = {
 					"Siphonneuse de Zolramus", -- [1]
 					"Sillage nécrotique", -- [2]
 				},
+				[40788] = {
+					"Torve-esprit Ghur'sha", -- [1]
+					"Trône des marées", -- [2]
+				},
+				[34775] = {
+					"Démolisseur", -- [1]
+					"Île des Conquérants", -- [2]
+				},
 				[168398] = {
 					"Morceau gélatineux", -- [1]
 					"Malepeste", -- [2]
@@ -2475,6 +2486,10 @@ PlaterDB = {
 					"Amuse-gueules", -- [1]
 					"Malepeste", -- [2]
 				},
+				[79756] = {
+					"Truie groin-froid", -- [1]
+					"FW Horde Garrison Level 1", -- [2]
+				},
 				[167892] = {
 					"Ame tourmentée", -- [1]
 					"Salles de l’Expiation", -- [2]
@@ -2482,6 +2497,10 @@ PlaterDB = {
 				[30286] = {
 					"Porte-givre", -- [1]
 					"Ahn’kahet : l’Ancien royaume", -- [2]
+				},
+				[98691] = {
+					"Eclaireur ressuscité", -- [1]
+					"Bastion du Freux", -- [2]
 				},
 				[30414] = {
 					"Oublié", -- [1]
@@ -2539,6 +2558,10 @@ PlaterDB = {
 					"Manifestation de l'envie", -- [1]
 					"Salles de l’Expiation", -- [2]
 				},
+				[90506] = {
+					"Diablotin gangrefeu", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
 				[173016] = {
 					"Collecteur de corps", -- [1]
 					"Sillage nécrotique", -- [2]
@@ -2554,6 +2577,10 @@ PlaterDB = {
 				[165597] = {
 					"Soldat recousu", -- [1]
 					"Sillage nécrotique", -- [2]
+				},
+				[39960] = {
+					"Manœuvre murloc des profondeurs", -- [1]
+					"Trône des marées", -- [2]
 				},
 				[30287] = {
 					"Geist pilleur", -- [1]
@@ -2571,6 +2598,14 @@ PlaterDB = {
 					"Nécromancien ymirjar", -- [1]
 					"Cime d’Utgarde", -- [2]
 				},
+				[44566] = {
+					"Ozumat", -- [1]
+					"Trône des marées", -- [2]
+				},
+				[58959] = {
+					"Wik'tul", -- [1]
+					"Île des Conquérants", -- [2]
+				},
 				[113920] = {
 					"Fléau d’Il’gynoth", -- [1]
 					"Le Cauchemar d’émeraude", -- [2]
@@ -2578,6 +2613,14 @@ PlaterDB = {
 				[71829] = {
 					"Grand éventreur illusoire", -- [1]
 					"Ordalie", -- [2]
+				},
+				[98696] = {
+					"Illysanna Corvaltus", -- [1]
+					"Bastion du Freux", -- [2]
+				},
+				[175579] = {
+					"Gardienne faë", -- [1]
+					"Île des Conquérants", -- [2]
 				},
 				[72981] = {
 					"Aggron", -- [1]
@@ -2679,6 +2722,10 @@ PlaterDB = {
 					"Ingénieur en chef Ishkar", -- [1]
 					"Antorus, le Trône ardent", -- [2]
 				},
+				[75416] = {
+					"Sanglier groin-froid", -- [1]
+					"FW Horde Garrison Level 1", -- [2]
+				},
 				[31216] = {
 					"Риндорму", -- [1]
 					"L’Œil du cyclone", -- [2]
@@ -2703,9 +2750,21 @@ PlaterDB = {
 					"Hellionne désavouée", -- [1]
 					"Flèches de l’Ascension", -- [2]
 				},
+				[75417] = {
+					"Marcassin groin-froid", -- [1]
+					"FW Horde Garrison Level 1", -- [2]
+				},
+				[40923] = {
+					"Corruption instable", -- [1]
+					"Trône des marées", -- [2]
+				},
 				[29713] = {
 					"Etrangleuse de Slad'ran", -- [1]
 					"Gundrak", -- [2]
+				},
+				[5913] = {
+					"Totem de séisme", -- [1]
+					"La bataille de Gilnéas", -- [2]
 				},
 				[125569] = {
 					"Assistante des failles", -- [1]
@@ -2799,6 +2858,10 @@ PlaterDB = {
 					"Démolisseur garothi", -- [1]
 					"Antorus, le Trône ardent", -- [2]
 				},
+				[92564] = {
+					"Tortionnaire mo’arg", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
 				[72350] = {
 					"Grunt d’élite gueule-de-dragon", -- [1]
 					"Siège d’Orgrimmar", -- [2]
@@ -2815,6 +2878,10 @@ PlaterDB = {
 					"Bargast", -- [1]
 					"Château Nathria", -- [2]
 				},
+				[40925] = {
+					"Factionnaire corrompu", -- [1]
+					"Trône des marées", -- [2]
+				},
 				[100497] = {
 					"Ursoc", -- [1]
 					"Le Cauchemar d’émeraude", -- [2]
@@ -2822,6 +2889,10 @@ PlaterDB = {
 				[102672] = {
 					"Nythendra", -- [1]
 					"Le Cauchemar d’émeraude", -- [2]
+				},
+				[98706] = {
+					"Commandant Shemdah’sohn", -- [1]
+					"Bastion du Freux", -- [2]
 				},
 				[123398] = {
 					"Annihilateur garothi", -- [1]
@@ -2855,6 +2926,10 @@ PlaterDB = {
 					"Esprit de marche-mort atal'ai", -- [1]
 					"L’Autre côté", -- [2]
 				},
+				[113036] = {
+					"Gangreseigneur Razzar", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
 				[72352] = {
 					"Traqueur d’ébène gueule-de-dragon", -- [1]
 					"Siège d’Orgrimmar", -- [2]
@@ -2883,6 +2958,10 @@ PlaterDB = {
 					"Franc-archer foudrepique", -- [1]
 					"Vallée d’Alterac", -- [2]
 				},
+				[113037] = {
+					"Gangreseigneur Darakk", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
 				[173044] = {
 					"Préposé aux sutures", -- [1]
 					"Sillage nécrotique", -- [2]
@@ -2894,6 +2973,10 @@ PlaterDB = {
 				[13438] = {
 					"Chef d'escadrille Slidore", -- [1]
 					"Vallée d’Alterac", -- [2]
+				},
+				[172021] = {
+					"Automate coeur-algide", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
 				[105617] = {
 					"Porte-chaos érédar", -- [1]
@@ -2910,6 +2993,10 @@ PlaterDB = {
 				[174069] = {
 					"Gargon massif", -- [1]
 					"Château Nathria", -- [2]
+				},
+				[113038] = {
+					"Gangreseigneur Kurrz", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
 				[72354] = {
 					"Broie-les-os gueule-de-dragon", -- [1]
@@ -3047,6 +3134,10 @@ PlaterDB = {
 					"Ysondre", -- [1]
 					"Le Cauchemar d’émeraude", -- [2]
 				},
+				[90525] = {
+					"Garde du chaos érédar", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
 				[166913] = {
 					"Gardienne corrompue", -- [1]
 					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
@@ -3175,6 +3266,10 @@ PlaterDB = {
 					"Compagnon de Fer", -- [1]
 					"Fonderie des Rochenoires", -- [2]
 				},
+				[109591] = {
+					"Légionnaire gangregarde", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
 				[162058] = {
 					"Ventunax", -- [1]
 					"Flèches de l’Ascension", -- [2]
@@ -3231,6 +3326,10 @@ PlaterDB = {
 					"Général Xakal", -- [1]
 					"L’Arcavia", -- [2]
 				},
+				[110616] = {
+					"Sombre adorateur", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
 				[162061] = {
 					"Déva", -- [1]
 					"Flèches de l’Ascension", -- [2]
@@ -3254,6 +3353,10 @@ PlaterDB = {
 				[16126] = {
 					"Cavalier tenace", -- [1]
 					"Naxxramas", -- [2]
+				},
+				[110617] = {
+					"Messagère lige d’ombre", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
 				[12096] = {
 					"Intendant foudrepique", -- [1]
@@ -3298,6 +3401,10 @@ PlaterDB = {
 				[112665] = {
 					"Protecteur du palais Sacrenuit", -- [1]
 					"Palais Sacrenuit", -- [2]
+				},
+				[34919] = {
+					"Soldat d'infanterie de la 7e Légion", -- [1]
+					"Île des Conquérants", -- [2]
 				},
 				[168718] = {
 					"Veilleur désavoué", -- [1]
@@ -3398,6 +3505,10 @@ PlaterDB = {
 				[13216] = {
 					"Gaelden Forgemartel", -- [1]
 					"Vallée d’Alterac", -- [2]
+				},
+				[42789] = {
+					"Seigneur-magma du Cœur-de-Pierre", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
 				[165911] = {
 					"Création loyale", -- [1]
@@ -3503,6 +3614,10 @@ PlaterDB = {
 					"0U.AF-0U.AF", -- [1]
 					"L’Autre côté", -- [2]
 				},
+				[78001] = {
+					"Totem d’explosion nuageuse", -- [1]
+					"La bataille de Gilnéas", -- [2]
+				},
 				[168988] = {
 					"Broussailles", -- [1]
 					"Brumes de Tirna Scithe", -- [2]
@@ -3522,6 +3637,10 @@ PlaterDB = {
 				[71477] = {
 					"Mélancolie incarnée", -- [1]
 					"Siège d’Orgrimmar", -- [2]
+				},
+				[40936] = {
+					"Gardien sans-visage", -- [1]
+					"Trône des marées", -- [2]
 				},
 				[165919] = {
 					"Maraudeur squelette", -- [1]
@@ -3631,6 +3750,10 @@ PlaterDB = {
 					"Ombrécaille apprivoisé", -- [1]
 					"Palais Sacrenuit", -- [2]
 				},
+				[166949] = {
+					"Chi Ji", -- [1]
+					"Île des Conquérants", -- [2]
+				},
 				[165414] = {
 					"Oblitérateur dépravé", -- [1]
 					"Salles de l’Expiation", -- [2]
@@ -3638,6 +3761,10 @@ PlaterDB = {
 				[163623] = {
 					"Restes de Crache-Vérole", -- [1]
 					"Sillage nécrotique", -- [2]
+				},
+				[44648] = {
+					"Béhémoth inflexible", -- [1]
+					"Trône des marées", -- [2]
 				},
 				[26554] = {
 					"Voyant écorche-dragon", -- [1]
@@ -3687,6 +3814,10 @@ PlaterDB = {
 					"Jeune araignée hurlante", -- [1]
 					"Le Cauchemar d’émeraude", -- [2]
 				},
+				[44841] = {
+					"Bête chancreuse", -- [1]
+					"Trône des marées", -- [2]
+				},
 				[149555] = {
 					"Abomination", -- [1]
 					"L’Œil du cyclone", -- [2]
@@ -3694,6 +3825,10 @@ PlaterDB = {
 				[111528] = {
 					"Ancien nécrobranche", -- [1]
 					"Le Cauchemar d’émeraude", -- [2]
+				},
+				[101549] = {
+					"Serviteur arcanique", -- [1]
+					"Bastion du Freux", -- [2]
 				},
 				[16064] = {
 					"Thane Korth'azz", -- [1]
@@ -3710,6 +3845,10 @@ PlaterDB = {
 				[12050] = {
 					"Défenseur foudrepique", -- [1]
 					"Vallée d’Alterac", -- [2]
+				},
+				[102701] = {
+					"Tortionnaire mo'arg", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
 				[30329] = {
 					"Bête sauvage de la caverne", -- [1]
@@ -3739,6 +3878,10 @@ PlaterDB = {
 					"Avant-garde recousue", -- [1]
 					"Sillage nécrotique", -- [2]
 				},
+				[14465] = {
+					"Etendard de bataille de l'Alliance", -- [1]
+					"La bataille de Gilnéas", -- [2]
+				},
 				[72893] = {
 					"Péon d'Orgrimmar", -- [1]
 					"Siège d’Orgrimmar", -- [2]
@@ -3763,6 +3906,14 @@ PlaterDB = {
 					"Gal'darah", -- [1]
 					"Gundrak", -- [2]
 				},
+				[90677] = {
+					"Lame-d’effroi garde-courroux", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
+				[151353] = {
+					"Rat de l'Antre", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
+				},
 				[163891] = {
 					"Gelée putremoelle", -- [1]
 					"Malepeste", -- [2]
@@ -3770,6 +3921,14 @@ PlaterDB = {
 				[162100] = {
 					"Kryxis le Vorace", -- [1]
 					"Profondeurs Sanguines", -- [2]
+				},
+				[44715] = {
+					"Fouette-esprit vicieux", -- [1]
+					"Trône des marées", -- [2]
+				},
+				[169265] = {
+					"Bestiole grouillante", -- [1]
+					"Malepeste", -- [2]
 				},
 				[163892] = {
 					"Visquegriffe putréfié", -- [1]
@@ -3827,6 +3986,10 @@ PlaterDB = {
 					"Arbalétrier réanimé", -- [1]
 					"Sillage nécrotique", -- [2]
 				},
+				[102706] = {
+					"Traqueur des ombres hargneux", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
 				[111022] = {
 					"Le démon intérieur", -- [1]
 					"Palais Sacrenuit", -- [2]
@@ -3867,6 +4030,10 @@ PlaterDB = {
 					"Mordretha, l'impératrice immortelle", -- [1]
 					"Théâtre de la Souffrance", -- [2]
 				},
+				[61029] = {
+					"Elémentaire de feu primordial", -- [1]
+					"Île des Conquérants", -- [2]
+				},
 				[54952] = {
 					"Goule vermoulue", -- [1]
 					"La Fin des temps", -- [2]
@@ -3887,6 +4054,10 @@ PlaterDB = {
 					"Loup de guerre kor’kron", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
+				[75713] = {
+					"Répare-os ombrelune", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
+				},
 				[167994] = {
 					"Conscrit ossifié", -- [1]
 					"Théâtre de la Souffrance", -- [2]
@@ -3902,6 +4073,10 @@ PlaterDB = {
 				[152898] = {
 					"Chœur âme-morte", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
+				},
+				[43438] = {
+					"Corborus", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
 				[76865] = {
 					"Seigneur des bêtes Darmac", -- [1]
@@ -3943,6 +4118,14 @@ PlaterDB = {
 					"Mannequin d’entraînement", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
+				[75459] = {
+					"Chauve-souris pesteuse", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
+				},
+				[75715] = {
+					"Ossements rituels ranimés", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
+				},
 				[167998] = {
 					"Gardien du portail", -- [1]
 					"Théâtre de la Souffrance", -- [2]
@@ -3982,6 +4165,10 @@ PlaterDB = {
 				[29820] = {
 					"Chasseur de dieu drakkari", -- [1]
 					"Gundrak", -- [2]
+				},
+				[90686] = {
+					"Molosse de l’effroi gangrené", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
 				[103224] = {
 					"Scorpide instable", -- [1]
@@ -4063,6 +4250,10 @@ PlaterDB = {
 					"Seigneur des bêtes massepoing", -- [1]
 					"Antorus, le Trône ardent", -- [2]
 				},
+				[76104] = {
+					"Araignée nécrophage monstrueuse", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
+				},
 				[29309] = {
 					"Ancien Nadox", -- [1]
 					"Ahn’kahet : l’Ancien royaume", -- [2]
@@ -4090,6 +4281,14 @@ PlaterDB = {
 				[135002] = {
 					"Tyran démoniaque", -- [1]
 					"L’Œil du cyclone", -- [2]
+				},
+				[98366] = {
+					"Factotum fantomatique", -- [1]
+					"Bastion du Freux", -- [2]
+				},
+				[41139] = {
+					"Soignesprit naz'jar", -- [1]
+					"Trône des marées", -- [2]
 				},
 				[103100] = {
 					"Ombre spirituelle", -- [1]
@@ -4135,9 +4334,21 @@ PlaterDB = {
 					"Cracheur gormelin", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
+				[44658] = {
+					"Envahisseur murloc des profondeurs", -- [1]
+					"Trône des marées", -- [2]
+				},
 				[170572] = {
 					"Maléficieuse houdou atal'ai", -- [1]
 					"L’Autre côté", -- [2]
+				},
+				[152661] = {
+					"Protecteur antrelige", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
+				},
+				[98368] = {
+					"Protecteur fantomatique", -- [1]
+					"Bastion du Freux", -- [2]
 				},
 				[26687] = {
 					"Gortok Pâle-Sabot", -- [1]
@@ -4239,6 +4450,10 @@ PlaterDB = {
 					"Gardienne verdoyante", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
+				[98243] = {
+					"Champion écorchâme", -- [1]
+					"Bastion du Freux", -- [2]
+				},
 				[174161] = {
 					"Dame Viciendiaire", -- [1]
 					"Château Nathria", -- [2]
@@ -4255,6 +4470,10 @@ PlaterDB = {
 					"Mammouth émacié", -- [1]
 					"L’Heure du Crépuscule", -- [2]
 				},
+				[44404] = {
+					"Sorcière des tempêtes naz'jar", -- [1]
+					"Trône des marées", -- [2]
+				},
 				[155483] = {
 					"Scintillaile faëillue", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
@@ -4262,6 +4481,10 @@ PlaterDB = {
 				[72784] = {
 					"Mitrailleuse kor’kronne", -- [1]
 					"Siège d’Orgrimmar", -- [2]
+				},
+				[77006] = {
+					"Grouilleuse nécrophage", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
 				},
 				[111933] = {
 					"Jeune araignée venimeuse", -- [1]
@@ -4286,6 +4509,10 @@ PlaterDB = {
 				[111166] = {
 					"Courtisan déterminé", -- [1]
 					"Palais Sacrenuit", -- [2]
+				},
+				[45620] = {
+					"Soldat naz'jar", -- [1]
+					"Trône des marées", -- [2]
 				},
 				[164185] = {
 					"Echelon", -- [1]
@@ -4323,6 +4550,10 @@ PlaterDB = {
 					"Démon écumant", -- [1]
 					"Antorus, le Trône ardent", -- [2]
 				},
+				[49267] = {
+					"Eclat de cristal", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
+				},
 				[16067] = {
 					"Palefroi de la mort", -- [1]
 					"Naxxramas", -- [2]
@@ -4338,6 +4569,10 @@ PlaterDB = {
 				[165469] = {
 					"Massacreur nathrian", -- [1]
 					"Château Nathria", -- [2]
+				},
+				[3527] = {
+					"Totem guérisseur", -- [1]
+					"L’Œil du cyclone", -- [2]
 				},
 				[16163] = {
 					"Cavalier de la mort", -- [1]
@@ -4415,6 +4650,10 @@ PlaterDB = {
 					"Goren de Mur-de-Givre", -- [1]
 					"FW Horde Garrison Level 3", -- [2]
 				},
+				[175198] = {
+					"Flagellant du Vide", -- [1]
+					"Île des Conquérants", -- [2]
+				},
 				[71383] = {
 					"Hurleguerre kor’thik", -- [1]
 					"Siège d’Orgrimmar", -- [2]
@@ -4458,6 +4697,10 @@ PlaterDB = {
 				[165222] = {
 					"Soigne-os de Zolramus", -- [1]
 					"Sillage nécrotique", -- [2]
+				},
+				[40634] = {
+					"Sorcière des tempêtes naz'jar", -- [1]
+					"Trône des marées", -- [2]
 				},
 				[30624] = {
 					"Miklów-Hyjal", -- [1]
@@ -4511,9 +4754,17 @@ PlaterDB = {
 					"Sage sacrenuit", -- [1]
 					"Palais Sacrenuit", -- [2]
 				},
+				[60849] = {
+					"Statue du Serpent de jade", -- [1]
+					"Goulet des Chanteguerres", -- [2]
+				},
 				[156015] = {
 					"Masse d'âmes frémissantes", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
+				},
+				[42810] = {
+					"Géant cristallide", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
 				[13797] = {
 					"Montagnard Souffleboum", -- [1]
@@ -4530,6 +4781,10 @@ PlaterDB = {
 				[72411] = {
 					"Approvisionneur kor’kron", -- [1]
 					"Siège d’Orgrimmar", -- [2]
+				},
+				[105419] = {
+					"Basilic redoutable", -- [1]
+					"Goulet des Chanteguerres", -- [2]
 				},
 				[164461] = {
 					"Sathel le Maudit", -- [1]
@@ -4587,6 +4842,10 @@ PlaterDB = {
 					"Saccageur en acier durci", -- [1]
 					"Les salles de Foudre", -- [2]
 				},
+				[102094] = {
+					"Epéiste ressuscité", -- [1]
+					"Bastion du Freux", -- [2]
+				},
 				[26691] = {
 					"Féticheur ymirjar", -- [1]
 					"Cime d’Utgarde", -- [2]
@@ -4595,6 +4854,10 @@ PlaterDB = {
 					"Xira la Sournoise", -- [1]
 					"Théâtre de la Souffrance", -- [2]
 				},
+				[100943] = {
+					"Totem de mur terrestre", -- [1]
+					"L’Œil du cyclone", -- [2]
+				},
 				[127810] = {
 					"Démon écumant", -- [1]
 					"Antorus, le Trône ardent", -- [2]
@@ -4602,6 +4865,14 @@ PlaterDB = {
 				[103758] = {
 					"Etraeus, l'augure stellaire", -- [1]
 					"Palais Sacrenuit", -- [2]
+				},
+				[101839] = {
+					"Compagnon ressuscité", -- [1]
+					"Bastion du Freux", -- [2]
+				},
+				[102095] = {
+					"Lancier ressuscité", -- [1]
+					"Bastion du Freux", -- [2]
 				},
 				[104270] = {
 					"Assemblage gardien", -- [1]
@@ -4615,29 +4886,101 @@ PlaterDB = {
 					"Masse d'âmes bouillonnante", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
+				[174162] = {
+					"Comtesse Voilenoir", -- [1]
+					"Château Nathria", -- [2]
+				},
 				[54646] = {
 					"Limon corrompu", -- [1]
 					"L’Heure du Crépuscule", -- [2]
+				},
+				[42428] = {
+					"Suivant dévot", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
 				[171887] = {
 					"Buffet gélatineux", -- [1]
 					"Malepeste", -- [2]
 				},
+				[167966] = {
+					"Vase expérimentale", -- [1]
+					"L’Autre côté", -- [2]
+				},
 				[156023] = {
 					"Masse d'âmes miniature", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
+				},
+				[40825] = {
+					"Erunak Parlepierre", -- [1]
+					"Trône des marées", -- [2]
+				},
+				[98970] = {
+					"Latosius", -- [1]
+					"Bastion du Freux", -- [2]
+				},
+				[40765] = {
+					"Commandant Ulthok", -- [1]
+					"Trône des marées", -- [2]
 				},
 				[171376] = {
 					"Rondier en chef Javlo", -- [1]
 					"Profondeurs Sanguines", -- [2]
 				},
+				[98965] = {
+					"Kur’talos Corvaltus", -- [1]
+					"Bastion du Freux", -- [2]
+				},
+				[98949] = {
+					"Vexécrase le Haineux", -- [1]
+					"Bastion du Freux", -- [2]
+				},
+				[102788] = {
+					"Dominateur gangrefiel", -- [1]
+					"Bastion du Freux", -- [2]
+				},
+				[42333] = {
+					"Grande prêtresse Azil", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
+				},
+				[54699] = {
+					"Sabre-de-nuit distordu par le temps", -- [1]
+					"La Fin des temps", -- [2]
+				},
 				[29826] = {
 					"Homme-médecine drakkari", -- [1]
 					"Gundrak", -- [2]
 				},
+				[102781] = {
+					"Jeune gangroptère", -- [1]
+					"Bastion du Freux", -- [2]
+				},
+				[59764] = {
+					"Totem de marée de soins", -- [1]
+					"L’Œil du cyclone", -- [2]
+				},
+				[168396] = {
+					"Crache-peste", -- [1]
+					"Malepeste", -- [2]
+				},
+				[156157] = {
+					"Ascendant cœur-algide", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
+				},
+				[43430] = {
+					"Berserker du Cœur-de-Pierre", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
+				},
 				[72927] = {
 					"Kovok", -- [1]
 					"Siège d’Orgrimmar", -- [2]
+				},
+				[98362] = {
+					"Ame agitée", -- [1]
+					"Bastion du Freux", -- [2]
+				},
+				[98370] = {
+					"Conseiller fantomatique", -- [1]
+					"Bastion du Freux", -- [2]
 				},
 				[30114] = {
 					"Initié du Crépuscule", -- [1]
@@ -4651,13 +4994,53 @@ PlaterDB = {
 					"Grouillant ahn'kahar", -- [1]
 					"Ahn’kahet : l’Ancien royaume", -- [2]
 				},
+				[127809] = {
+					"Module de réorigination", -- [1]
+					"Antorus, le Trône ardent", -- [2]
+				},
+				[167493] = {
+					"Tireur d'élite venimeux", -- [1]
+					"Malepeste", -- [2]
+				},
+				[155251] = {
+					"Ancienne Longue-Branche", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
+				},
+				[172030] = {
+					"Maître tourmenteur", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
+				},
 				[30338] = {
 					"Grouillant ahn'kahar", -- [1]
 					"Ahn’kahet : l’Ancien royaume", -- [2]
 				},
+				[90544] = {
+					"Krosus", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
+				[173146] = {
+					"Ravageur ailé", -- [1]
+					"Château Nathria", -- [2]
+				},
+				[95061] = {
+					"Elémentaire de feu supérieur", -- [1]
+					"La bataille de Gilnéas", -- [2]
+				},
+				[93719] = {
+					"Commandant gangrené Azgalor", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
 				[174194] = {
 					"Exécutrice de la cour", -- [1]
 					"Château Nathria", -- [2]
+				},
+				[109604] = {
+					"Légionnaire gangregarde", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
+				[168966] = {
+					"Brasillon", -- [1]
+					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
 				},
 				[28547] = {
 					"Vortex tempétueux", -- [1]
@@ -4671,9 +5054,17 @@ PlaterDB = {
 					"Ritualiste de l’ombre mogu", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
+				[109592] = {
+					"Légionnaire gangregarde", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
 				[13318] = {
 					"Commandant Mortimer", -- [1]
 					"Vallée d’Alterac", -- [2]
+				},
+				[162298] = {
+					"Yulkatar le Cruel", -- [1]
+					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
 				},
 				[26692] = {
 					"Harponneur ymirjar", -- [1]
@@ -4683,17 +5074,57 @@ PlaterDB = {
 					"Tisserand de la Garde crépusculaire", -- [1]
 					"Palais Sacrenuit", -- [2]
 				},
+				[155908] = {
+					"Nécrorateur", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
+				},
 				[28835] = {
 					"Assemblage forge-foudre", -- [1]
 					"Les salles de Foudre", -- [2]
+				},
+				[91704] = {
+					"Cristal d’ancrage", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
+				[168683] = {
+					"Gorak Zhar", -- [1]
+					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				},
+				[76446] = {
+					"Esclavagiste d’âmes ombrelune", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
+				},
+				[76444] = {
+					"Ame subjuguée", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
 				},
 				[72929] = {
 					"Maître de l’ambre sra’thik", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
+				[75966] = {
+					"Esprit profané", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
+				},
 				[73185] = {
 					"Mushan domestique enragé", -- [1]
 					"Siège d’Orgrimmar", -- [2]
+				},
+				[75829] = {
+					"Nhallish", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
+				},
+				[164555] = {
+					"Millificent Tempête-de-Mana", -- [1]
+					"L’Autre côté", -- [2]
+				},
+				[75979] = {
+					"Esprit exhumé", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
+				},
+				[29264] = {
+					"Esprit du loup", -- [1]
+					"Goulet des Chanteguerres", -- [2]
 				},
 				[112718] = {
 					"Familier sidéral", -- [1]
@@ -4707,6 +5138,30 @@ PlaterDB = {
 					"Démon abject", -- [1]
 					"Mines d’Éclargent", -- [2]
 				},
+				[124828] = {
+					"Argus l'Annihilateur", -- [1]
+					"Antorus, le Trône ardent", -- [2]
+				},
+				[122532] = {
+					"Braise de Taeshalach", -- [1]
+					"Antorus, le Trône ardent", -- [2]
+				},
+				[76974] = {
+					"Franzok", -- [1]
+					"Fonderie des Rochenoires", -- [2]
+				},
+				[165066] = {
+					"Altimor le Veneur", -- [1]
+					"Château Nathria", -- [2]
+				},
+				[98813] = {
+					"Gangrechien piste-sang", -- [1]
+					"Bastion du Freux", -- [2]
+				},
+				[128455] = {
+					"T'lonja", -- [1]
+					"Atal’Dazar", -- [2]
+				},
 				[99541] = {
 					"Furtif ressuscité", -- [1]
 					"L’Œil du cyclone", -- [2]
@@ -4719,25 +5174,77 @@ PlaterDB = {
 					"Lieur de flammes de Fer", -- [1]
 					"Fonderie des Rochenoires", -- [2]
 				},
+				[164707] = {
+					"Gelée figée", -- [1]
+					"Malepeste", -- [2]
+				},
 				[71395] = {
 					"Golem d’anima modifié", -- [1]
 					"Siège d’Orgrimmar", -- [2]
+				},
+				[120651] = {
+					"Explosifs", -- [1]
+					"Malepeste", -- [2]
+				},
+				[166915] = {
+					"Soigneur possédé", -- [1]
+					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
 				},
 				[168058] = {
 					"Plume imprégnée", -- [1]
 					"Profondeurs Sanguines", -- [2]
 				},
+				[75452] = {
+					"Ossegueule", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
+				},
+				[78801] = {
+					"Acide-dorsal sombréclat", -- [1]
+					"Fonderie des Rochenoires", -- [2]
+				},
 				[113103] = {
 					"Rapace corrompu", -- [1]
 					"Le Cauchemar d’émeraude", -- [2]
+				},
+				[132126] = {
+					"Prêtresse dorée", -- [1]
+					"Atal’Dazar", -- [2]
+				},
+				[76973] = {
+					"Hans’gar", -- [1]
+					"Fonderie des Rochenoires", -- [2]
 				},
 				[105299] = {
 					"Elémentaire résurgent", -- [1]
 					"Palais Sacrenuit", -- [2]
 				},
+				[105427] = {
+					"Totem Fureur-du-ciel", -- [1]
+					"L’Œil du cyclone", -- [2]
+				},
+				[91967] = {
+					"Brise-siège infernal", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
 				[166524] = {
 					"Marche-Mort", -- [1]
 					"Théâtre de la Souffrance", -- [2]
+				},
+				[39616] = {
+					"Envahisseur naz'jar", -- [1]
+					"Trône des marées", -- [2]
+				},
+				[111563] = {
+					"Vigile de la Garde crépusculaire", -- [1]
+					"Cour des Étoiles", -- [2]
+				},
+				[166917] = {
+					"Casseur du bosquet", -- [1]
+					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				},
+				[166921] = {
+					"Rampant chancreux", -- [1]
+					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
 				},
 				[30179] = {
 					"Apôtre du Crépuscule", -- [1]
@@ -4759,9 +5266,37 @@ PlaterDB = {
 					"Tempétueux fongique", -- [1]
 					"Malepeste", -- [2]
 				},
+				[85711] = {
+					"Technicien aquatique", -- [1]
+					"Fonderie des Rochenoires", -- [2]
+				},
 				[152708] = {
 					"Chercheur antrelige", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
+				},
+				[171461] = {
+					"Serviteur chancreux", -- [1]
+					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				},
+				[98759] = {
+					"Crochet-de-mana vicieux", -- [1]
+					"L’Arcavia", -- [2]
+				},
+				[129517] = {
+					"Raptor réanimé", -- [1]
+					"Atal’Dazar", -- [2]
+				},
+				[113013] = {
+					"Lame-de-l'ombre gangrelige", -- [1]
+					"Palais Sacrenuit", -- [2]
+				},
+				[72421] = {
+					"Surveillant kor’kron", -- [1]
+					"Siège d’Orgrimmar", -- [2]
+				},
+				[105301] = {
+					"Elémentaire entropique", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
 				[73188] = {
 					"Chauve-souris des grottes captive", -- [1]
@@ -4803,21 +5338,41 @@ PlaterDB = {
 					"Formerune forge-foudre", -- [1]
 					"Les salles de Foudre", -- [2]
 				},
-				[72421] = {
-					"Surveillant kor’kron", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[43391] = {
+					"Milhouse Tempête-de-Mana", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
-				[105301] = {
-					"Elémentaire entropique", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[163457] = {
+					"Avant-garde désavoué", -- [1]
+					"Flèches de l’Ascension", -- [2]
 				},
 				[157572] = {
 					"Mandefeu antrelige", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
+				[171521] = {
+					"Evocatrice d'effroi", -- [1]
+					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				},
+				[80411] = {
+					"Tireur d’élite de Fer", -- [1]
+					"Fonderie des Rochenoires", -- [2]
+				},
+				[173655] = {
+					"Matriarche voile-de-brume", -- [1]
+					"Brumes de Tirna Scithe", -- [2]
+				},
 				[164737] = {
 					"Embusqué de la couvée", -- [1]
 					"Malepeste", -- [2]
+				},
+				[71979] = {
+					"Porteguerre kor’kron", -- [1]
+					"Siège d’Orgrimmar", -- [2]
+				},
+				[87771] = {
+					"Ouvrière de l’atelier des scories", -- [1]
+					"Fonderie des Rochenoires", -- [2]
 				},
 				[163458] = {
 					"Fustigatrice désavouée", -- [1]
@@ -4831,9 +5386,25 @@ PlaterDB = {
 					"D'zorykx le Trappeur", -- [1]
 					"Palais Sacrenuit", -- [2]
 				},
+				[98521] = {
+					"Seigneur Etheldrin Corvaltus", -- [1]
+					"Bastion du Freux", -- [2]
+				},
+				[72351] = {
+					"Porte-drapeau gueule-de-dragon", -- [1]
+					"Siège d’Orgrimmar", -- [2]
+				},
 				[162691] = {
 					"Chancros", -- [1]
 					"Sillage nécrotique", -- [2]
+				},
+				[103673] = {
+					"Regard-noir", -- [1]
+					"L’Œil du cyclone", -- [2]
+				},
+				[112678] = {
+					"Naturaliste shal’dorei", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
 				[163459] = {
 					"Soigneur désavoué", -- [1]
@@ -4843,17 +5414,41 @@ PlaterDB = {
 					"Infuseuse d'âme", -- [1]
 					"Château Nathria", -- [2]
 				},
+				[105921] = {
+					"Sorcépée sacrenuit", -- [1]
+					"L’Arcavia", -- [2]
+				},
+				[40577] = {
+					"Sentinelle naz'jar", -- [1]
+					"Trône des marées", -- [2]
+				},
+				[168713] = {
+					"Mande-effroi Skulfir", -- [1]
+					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				},
 				[162692] = {
 					"Amarth", -- [1]
 					"Sillage nécrotique", -- [2]
+				},
+				[127725] = {
+					"Troupier de choc gangrelame", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
 				[165251] = {
 					"Vulpin illusoire", -- [1]
 					"Brumes de Tirna Scithe", -- [2]
 				},
+				[79200] = {
+					"Spécialiste de forge rochenoire", -- [1]
+					"Fonderie des Rochenoires", -- [2]
+				},
 				[112595] = {
 					"Archimage shal’dorei", -- [1]
 					"Palais Sacrenuit", -- [2]
+				},
+				[172312] = {
+					"Goinfre gueule-épine", -- [1]
+					"Brumes de Tirna Scithe", -- [2]
 				},
 				[166275] = {
 					"Façonneur voile-de-brume", -- [1]
@@ -4866,6 +5461,14 @@ PlaterDB = {
 				[162693] = {
 					"Nalthor le Lieur-de-Givre", -- [1]
 					"Sillage nécrotique", -- [2]
+				},
+				[113012] = {
+					"Mage du chaos gangrelige", -- [1]
+					"Palais Sacrenuit", -- [2]
+				},
+				[75451] = {
+					"Esprit profané", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
 				},
 				[123726] = {
 					"Purificateur alimenté par la corruption", -- [1]
@@ -4883,41 +5486,85 @@ PlaterDB = {
 					"Gardien voile-de-brume", -- [1]
 					"Brumes de Tirna Scithe", -- [2]
 				},
+				[54688] = {
+					"Sabre-de-nuit distordu par le temps", -- [1]
+					"La Fin des temps", -- [2]
+				},
 				[170882] = {
 					"Magus des os", -- [1]
 					"Théâtre de la Souffrance", -- [2]
+				},
+				[162763] = {
+					"Saccage-os forgé d'âmes", -- [1]
+					"Théâtre de la Souffrance", -- [2]
+				},
+				[113106] = {
+					"Puma malade", -- [1]
+					"Le Cauchemar d’émeraude", -- [2]
+				},
+				[112671] = {
+					"Mage de bataille de la Garde crépusculaire", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
 				[173953] = {
 					"Gargon loyal", -- [1]
 					"Château Nathria", -- [2]
 				},
-				[88288] = {
-					"Mannequin d’entraînement de donjonage", -- [1]
-					"FW Horde Garrison Level 3", -- [2]
+				[174802] = {
+					"Tireur d'élite venimeux", -- [1]
+					"Malepeste", -- [2]
+				},
+				[30276] = {
+					"Tisseuse ahn'kahar", -- [1]
+					"Ahn’kahet : l’Ancien royaume", -- [2]
 				},
 				[168580] = {
 					"Ronge-peste", -- [1]
 					"Malepeste", -- [2]
 				},
+				[105682] = {
+					"Destructeur gangregarde", -- [1]
+					"L’Arcavia", -- [2]
+				},
+				[170690] = {
+					"Horreur infectieuse", -- [1]
+					"Théâtre de la Souffrance", -- [2]
+				},
+				[76518] = {
+					"Rituel des ossements", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
+				},
 				[105304] = {
 					"Tentacule du dominateur", -- [1]
 					"Le Cauchemar d’émeraude", -- [2]
+				},
+				[81117] = {
+					"Karnor le Cruel", -- [1]
+					"Fonderie des Rochenoires", -- [2]
 				},
 				[174210] = {
 					"Crache-vase chancreux", -- [1]
 					"Théâtre de la Souffrance", -- [2]
 				},
-				[103769] = {
-					"Xavius", -- [1]
-					"Le Cauchemar d’émeraude", -- [2]
-				},
 				[168837] = {
 					"Camouflin", -- [1]
 					"Malepeste", -- [2]
 				},
+				[103769] = {
+					"Xavius", -- [1]
+					"Le Cauchemar d’émeraude", -- [2]
+				},
+				[103897] = {
+					"Entourloupeur embrasé", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
 				[28581] = {
 					"Tacticien forge-foudre", -- [1]
 					"Les salles de Foudre", -- [2]
+				},
+				[171396] = {
+					"Goliath kyrian", -- [1]
+					"Trône des marées", -- [2]
 				},
 				[71529] = {
 					"Thok le Sanguinaire", -- [1]
@@ -4927,9 +5574,21 @@ PlaterDB = {
 					"Commandant Duffy", -- [1]
 					"Vallée d’Alterac", -- [2]
 				},
+				[87448] = {
+					"Ouvrier de Fer", -- [1]
+					"Fonderie des Rochenoires", -- [2]
+				},
 				[168326] = {
 					"Visage démoli", -- [1]
 					"L’Autre côté", -- [2]
+				},
+				[87521] = {
+					"Sculpte-scories de Fer", -- [1]
+					"Fonderie des Rochenoires", -- [2]
+				},
+				[127724] = {
+					"Pyromancienne fanatique", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
 				[28837] = {
 					"Sentinelle forge-foudre", -- [1]
@@ -4939,6 +5598,10 @@ PlaterDB = {
 					"Caramain", -- [1]
 					"Château Nathria", -- [2]
 				},
+				[125549] = {
+					"Traqueur affamé", -- [1]
+					"Antorus, le Trône ardent", -- [2]
+				},
 				[13447] = {
 					"Caporal Noreg Foudrepique", -- [1]
 					"Vallée d’Alterac", -- [2]
@@ -4946,6 +5609,18 @@ PlaterDB = {
 				[28965] = {
 					"Foudroyeur en titane", -- [1]
 					"Les salles de Foudre", -- [2]
+				},
+				[98810] = {
+					"Seigneur des lames garde-courroux", -- [1]
+					"Bastion du Freux", -- [2]
+				},
+				[104251] = {
+					"Factionnaire de la Garde crépusculaire", -- [1]
+					"Cour des Étoiles", -- [2]
+				},
+				[98770] = {
+					"Gangrelame garde-courroux", -- [1]
+					"L’Arcavia", -- [2]
 				},
 				[173189] = {
 					"Oeil-de-faucon nathrian", -- [1]
@@ -4955,9 +5630,29 @@ PlaterDB = {
 					"Sindrel", -- [1]
 					"Château Nathria", -- [2]
 				},
+				[26483] = {
+					"Condor os-de-dragon", -- [1]
+					"L’Heure du Crépuscule", -- [2]
+				},
+				[54512] = {
+					"Sentinelle distordue par le temps", -- [1]
+					"La Fin des temps", -- [2]
+				},
 				[155790] = {
 					"Acolyte antrelige", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
+				},
+				[163524] = {
+					"Magistrate kyriane sombre", -- [1]
+					"Flèches de l’Ascension", -- [2]
+				},
+				[112153] = {
+					"Chaman redoutable", -- [1]
+					"Le Cauchemar d’émeraude", -- [2]
+				},
+				[69792] = {
+					"Полюбэ", -- [1]
+					"L’Œil du cyclone", -- [2]
 				},
 				[173190] = {
 					"Oeil-de-faucon de cour", -- [1]
@@ -4967,13 +5662,25 @@ PlaterDB = {
 					"Hargitas", -- [1]
 					"Château Nathria", -- [2]
 				},
+				[105876] = {
+					"Rejeton enchanté", -- [1]
+					"L’Arcavia", -- [2]
+				},
+				[30111] = {
+					"Adorateur du Crépuscule", -- [1]
+					"Ahn’kahet : l’Ancien royaume", -- [2]
+				},
 				[72810] = {
 					"Bâton d’eau résonnante", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[168966] = {
-					"Brasillon", -- [1]
-					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				[40579] = {
+					"Chasseur murloc des profondeurs", -- [1]
+					"Trône des marées", -- [2]
+				},
+				[73194] = {
+					"Scorpion de fer kor’kron", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
 				[29573] = {
 					"Elémentaire drakkari", -- [1]
@@ -4995,45 +5702,45 @@ PlaterDB = {
 					"Gardien de la forge", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[123533] = {
-					"Tarneth", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[125977] = {
+					"Totem de réanimation", -- [1]
+					"Atal’Dazar", -- [2]
 				},
-				[168967] = {
-					"Gerwyn", -- [1]
-					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				[156142] = {
+					"Chercheuse d'âmes", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
-				[168713] = {
-					"Mande-effroi Skulfir", -- [1]
-					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				[163157] = {
+					"Amarth", -- [1]
+					"Sillage nécrotique", -- [2]
 				},
 				[29829] = {
 					"Trembleterre drakkari", -- [1]
 					"Gundrak", -- [2]
 				},
-				[162298] = {
-					"Yulkatar le Cruel", -- [1]
-					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				[127723] = {
+					"Imperator Deconix", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
 				[72427] = {
 					"Péon d'Orgrimmar", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[168960] = {
-					"Fulfir le Balafré", -- [1]
-					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				[95072] = {
+					"Elémentaire de terre supérieur", -- [1]
+					"Goulet des Chanteguerres", -- [2]
 				},
 				[157584] = {
 					"Maître forgeflamme", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[168961] = {
-					"Les Affamés", -- [1]
-					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				[76877] = {
+					"Gruul", -- [1]
+					"Fonderie des Rochenoires", -- [2]
 				},
-				[168683] = {
-					"Gorak Zhar", -- [1]
-					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				[171805] = {
+					"Scribe chercheuse", -- [1]
+					"Profondeurs Sanguines", -- [2]
 				},
 				[79208] = {
 					"Massacreur rochenoire", -- [1]
@@ -5043,21 +5750,21 @@ PlaterDB = {
 					"Geôlier kor'kron", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[171521] = {
-					"Evocatrice d'effroi", -- [1]
-					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				[112596] = {
+					"Gardien de la Garde crépusculaire", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
 				[87780] = {
 					"Brute de l’atelier des scories", -- [1]
 					"Fonderie des Rochenoires", -- [2]
 				},
-				[122963] = {
-					"Rezan", -- [1]
-					"Atal’Dazar", -- [2]
+				[168986] = {
+					"Raptor squelette", -- [1]
+					"L’Autre côté", -- [2]
 				},
-				[168396] = {
-					"Crache-peste", -- [1]
-					"Malepeste", -- [2]
+				[87520] = {
+					"Scorie animée", -- [1]
+					"Fonderie des Rochenoires", -- [2]
 				},
 				[16150] = {
 					"Cavalier spectral", -- [1]
@@ -5067,41 +5774,41 @@ PlaterDB = {
 					"Briseur ahn'kahar", -- [1]
 					"Ahn’kahet : l’Ancien royaume", -- [2]
 				},
-				[166920] = {
-					"Serviteur chancreux", -- [1]
-					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				[71385] = {
+					"Bombardier sri’thik", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
 				[168844] = {
 					"Lakésis", -- [1]
 					"Flèches de l’Ascension", -- [2]
 				},
-				[166917] = {
-					"Casseur du bosquet", -- [1]
-					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				[102263] = {
+					"Skorpyron", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
-				[166921] = {
-					"Rampant chancreux", -- [1]
-					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				[162051] = {
+					"Goule frénétique", -- [1]
+					"Profondeurs Sanguines", -- [2]
 				},
-				[85711] = {
-					"Technicien aquatique", -- [1]
-					"Fonderie des Rochenoires", -- [2]
+				[122477] = {
+					"F'harg", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
-				[132126] = {
-					"Prêtresse dorée", -- [1]
-					"Atal’Dazar", -- [2]
+				[155250] = {
+					"Thanatoratrice", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
 				[76906] = {
 					"Conducteur Thogar", -- [1]
 					"Fonderie des Rochenoires", -- [2]
 				},
-				[128455] = {
-					"T'lonja", -- [1]
-					"Atal’Dazar", -- [2]
+				[73191] = {
+					"Défenseur aqueux", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
-				[129552] = {
-					"Monzumi", -- [1]
-					"Atal’Dazar", -- [2]
+				[42691] = {
+					"Adjurateur de faille du Cœur-de-Pierre", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
 				[168845] = {
 					"Astronos", -- [1]
@@ -5119,21 +5826,21 @@ PlaterDB = {
 					"Assassin aile-morne", -- [1]
 					"Château Nathria", -- [2]
 				},
-				[98207] = {
-					"Nal’tira", -- [1]
-					"L’Arcavia", -- [2]
-				},
-				[125977] = {
-					"Totem de réanimation", -- [1]
-					"Atal’Dazar", -- [2]
-				},
-				[76974] = {
-					"Franzok", -- [1]
+				[80422] = {
+					"Tireuse d’élite de Fer", -- [1]
 					"Fonderie des Rochenoires", -- [2]
 				},
-				[163857] = {
-					"Fidèle peste-liée", -- [1]
-					"Malepeste", -- [2]
+				[122778] = {
+					"Annihilateur", -- [1]
+					"Antorus, le Trône ardent", -- [2]
+				},
+				[174012] = {
+					"Exécutrice Ophélia", -- [1]
+					"Château Nathria", -- [2]
+				},
+				[26861] = {
+					"Roi Ymiron", -- [1]
+					"Cime d’Utgarde", -- [2]
 				},
 				[113113] = {
 					"Essence du Cauchemar", -- [1]
@@ -5143,21 +5850,21 @@ PlaterDB = {
 					"Avant-garde en titane", -- [1]
 					"Les salles de Foudre", -- [2]
 				},
-				[164707] = {
-					"Gelée figée", -- [1]
-					"Malepeste", -- [2]
+				[123476] = {
+					"Démolisseur massif", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
 				[173708] = {
 					"Rune d'ancrage", -- [1]
 					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
 				},
-				[166915] = {
-					"Soigneur possédé", -- [1]
-					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				[125547] = {
+					"Rampante corrompue", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
-				[156142] = {
-					"Chercheuse d'âmes", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[80409] = {
+					"Markog Aba’dir", -- [1]
+					"Fonderie des Rochenoires", -- [2]
 				},
 				[72941] = {
 					"Grunt gueule-de-dragon", -- [1]
@@ -5171,13 +5878,13 @@ PlaterDB = {
 					"Flaque de sha inférieure", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[104251] = {
-					"Factionnaire de la Garde crépusculaire", -- [1]
-					"Cour des Étoiles", -- [2]
+				[160495] = {
+					"Lieur d'âme dément", -- [1]
+					"Théâtre de la Souffrance", -- [2]
 				},
-				[104247] = {
-					"Arcaniste de la Garde crépusculaire", -- [1]
-					"Cour des Étoiles", -- [2]
+				[127315] = {
+					"Totem de réanimation", -- [1]
+					"Atal’Dazar", -- [2]
 				},
 				[165521] = {
 					"Dame Inerva Sombreveine", -- [1]
@@ -5191,73 +5898,73 @@ PlaterDB = {
 					"Vol'kaal", -- [1]
 					"Atal’Dazar", -- [2]
 				},
+				[166079] = {
+					"Arbalétrier os-vermoulu", -- [1]
+					"Sillage nécrotique", -- [2]
+				},
 				[4255] = {
 					"Brogus Tonnebière", -- [1]
 					"Vallée d’Alterac", -- [2]
 				},
-				[127315] = {
-					"Totem de réanimation", -- [1]
-					"Atal’Dazar", -- [2]
-				},
-				[74158] = {
-					"Mitrailleur kor’kron", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[162047] = {
+					"Brute insatiable", -- [1]
+					"Profondeurs Sanguines", -- [2]
 				},
 				[54590] = {
 					"Arcurion", -- [1]
 					"L’Heure du Crépuscule", -- [2]
 				},
-				[104246] = {
-					"Vigile de la Garde crépusculaire", -- [1]
-					"Cour des Étoiles", -- [2]
+				[166396] = {
+					"Tirailleur noble", -- [1]
+					"Profondeurs Sanguines", -- [2]
 				},
-				[111563] = {
-					"Vigile de la Garde crépusculaire", -- [1]
-					"Cour des Étoiles", -- [2]
+				[152644] = {
+					"Dériveur âme-morte", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
 				[171919] = {
 					"Tortionnaire d'Ayeleth", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[165481] = {
-					"Assassin de la cour", -- [1]
-					"Château Nathria", -- [2]
+				[111413] = {
+					"Sombre dévoreur", -- [1]
+					"Le Cauchemar d’émeraude", -- [2]
 				},
 				[72942] = {
 					"Porte-drapeau gueule-de-dragon", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[105682] = {
-					"Destructeur gangregarde", -- [1]
-					"L’Arcavia", -- [2]
+				[42692] = {
+					"Cogneur du Cœur-de-Pierre", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
-				[164555] = {
-					"Millificent Tempête-de-Mana", -- [1]
-					"L’Autre côté", -- [2]
-				},
-				[113090] = {
-					"Gardienne de portail corrompue", -- [1]
-					"Le Cauchemar d’émeraude", -- [2]
-				},
-				[98759] = {
-					"Crochet-de-mana vicieux", -- [1]
-					"L’Arcavia", -- [2]
-				},
-				[172312] = {
-					"Goinfre gueule-épine", -- [1]
+				[164804] = {
+					"Dromane Oulfarran", -- [1]
 					"Brumes de Tirna Scithe", -- [2]
+				},
+				[163089] = {
+					"Rebut répugnant", -- [1]
+					"Théâtre de la Souffrance", -- [2]
+				},
+				[104247] = {
+					"Arcaniste de la Garde crépusculaire", -- [1]
+					"Cour des Étoiles", -- [2]
+				},
+				[123452] = {
+					"Gangreseigneur", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
 				[112603] = {
 					"Soigne-bosquet des terrasses", -- [1]
 					"Palais Sacrenuit", -- [2]
 				},
-				[162039] = {
-					"Oppresseuse malfaisante", -- [1]
-					"Profondeurs Sanguines", -- [2]
+				[72249] = {
+					"Galakras", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
-				[105629] = {
-					"Pillard langue-de-wyrm", -- [1]
-					"L’Arcavia", -- [2]
+				[113048] = {
+					"Daim corrompu", -- [1]
+					"Le Cauchemar d’émeraude", -- [2]
 				},
 				[168594] = {
 					"Sentinelle de la chambre", -- [1]
@@ -5271,25 +5978,25 @@ PlaterDB = {
 					"Gangregarde antoréen", -- [1]
 					"Antorus, le Trône ardent", -- [2]
 				},
-				[165066] = {
-					"Altimor le Veneur", -- [1]
-					"Château Nathria", -- [2]
+				[172265] = {
+					"Vestige de fureur", -- [1]
+					"Profondeurs Sanguines", -- [2]
 				},
 				[84841] = {
 					"Portefaix de Fer", -- [1]
 					"Fonderie des Rochenoires", -- [2]
 				},
-				[162763] = {
-					"Saccage-os forgé d'âmes", -- [1]
-					"Théâtre de la Souffrance", -- [2]
+				[123477] = {
+					"Garde funeste antoréen", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
-				[163457] = {
-					"Avant-garde désavoué", -- [1]
-					"Flèches de l’Ascension", -- [2]
+				[128060] = {
+					"Prêtresse du délire", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
-				[154010] = {
-					"Prisonnier croupissant", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[72943] = {
+					"Proto-drake gueule-de-dragon", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
 				[164501] = {
 					"Mandebrume", -- [1]
@@ -5299,9 +6006,9 @@ PlaterDB = {
 					"Skeer le Cherche-sang", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[79200] = {
-					"Spécialiste de forge rochenoire", -- [1]
-					"Fonderie des Rochenoires", -- [2]
+				[98275] = {
+					"Archère ressuscitée", -- [1]
+					"Bastion du Freux", -- [2]
 				},
 				[30278] = {
 					"Lanceur de sorts ahn'kahar", -- [1]
@@ -5327,53 +6034,53 @@ PlaterDB = {
 					"Traqueur affamé", -- [1]
 					"Antorus, le Trône ardent", -- [2]
 				},
-				[81117] = {
-					"Karnor le Cruel", -- [1]
-					"Fonderie des Rochenoires", -- [2]
-				},
-				[171557] = {
-					"Ombre de Bargast", -- [1]
-					"Château Nathria", -- [2]
-				},
-				[105876] = {
-					"Rejeton enchanté", -- [1]
-					"L’Arcavia", -- [2]
-				},
-				[166411] = {
-					"Usurpateur désavoué", -- [1]
-					"Flèches de l’Ascension", -- [2]
-				},
-				[54701] = {
-					"Chasseresse distordue par le temps", -- [1]
-					"La Fin des temps", -- [2]
-				},
-				[76877] = {
-					"Gruul", -- [1]
-					"Fonderie des Rochenoires", -- [2]
-				},
-				[162047] = {
-					"Brute insatiable", -- [1]
+				[162046] = {
+					"Tique affamée", -- [1]
 					"Profondeurs Sanguines", -- [2]
 				},
-				[87520] = {
-					"Scorie animée", -- [1]
-					"Fonderie des Rochenoires", -- [2]
+				[71405] = {
+					"Manieur de vent set’thik", -- [1]
+					"Siège d’Orgrimmar", -- [2]
+				},
+				[167612] = {
+					"Saccageuse vive-pierre", -- [1]
+					"Salles de l’Expiation", -- [2]
+				},
+				[63508] = {
+					"Xuen", -- [1]
+					"L’Œil du cyclone", -- [2]
+				},
+				[14188] = {
+					"Dirk Lembrouille", -- [1]
+					"Vallée d’Alterac", -- [2]
+				},
+				[104415] = {
+					"Anomalie chronomatique", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
 				[71153] = {
 					"Hisek le Gardien de l’essaim", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
+				[105715] = {
+					"Inquisiteur vigilant", -- [1]
+					"Cour des Étoiles", -- [2]
+				},
+				[105952] = {
+					"Ame en peine de mana flétrie", -- [1]
+					"L’Arcavia", -- [2]
+				},
 				[28583] = {
 					"Ragevapeur caustique", -- [1]
 					"Les salles de Foudre", -- [2]
 				},
-				[174093] = {
-					"Forestière nathriane", -- [1]
-					"Château Nathria", -- [2]
+				[111151] = {
+					"Siphonneur de minuit", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
-				[173191] = {
-					"Traqueur d'âmes V'lara", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[14283] = {
+					"Hibou foudrepique", -- [1]
+					"Vallée d’Alterac", -- [2]
 				},
 				[13320] = {
 					"Commandant Karl Philips", -- [1]
@@ -5383,13 +6090,13 @@ PlaterDB = {
 					"Yazma", -- [1]
 					"Atal’Dazar", -- [2]
 				},
-				[71921] = {
-					"Sombre-Croc", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[26696] = {
+					"Berserker ymirjar", -- [1]
+					"Cime d’Utgarde", -- [2]
 				},
-				[171461] = {
-					"Serviteur chancreux", -- [1]
-					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
+				[29931] = {
+					"Rhinocéros drakkari", -- [1]
+					"Gundrak", -- [2]
 				},
 				[111070] = {
 					"Fragment d’âme d’Azzinoth", -- [1]
@@ -5399,17 +6106,17 @@ PlaterDB = {
 					"Championne antoréenne", -- [1]
 					"Antorus, le Trône ardent", -- [2]
 				},
-				[80409] = {
-					"Markog Aba’dir", -- [1]
-					"Fonderie des Rochenoires", -- [2]
+				[72451] = {
+					"Sombre chaman kor’kron", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
-				[129517] = {
-					"Raptor réanimé", -- [1]
-					"Atal’Dazar", -- [2]
+				[157340] = {
+					"Squelette", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
-				[113013] = {
-					"Lame-de-l'ombre gangrelige", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[174093] = {
+					"Forestière nathriane", -- [1]
+					"Château Nathria", -- [2]
 				},
 				[154014] = {
 					"Cabaliste emprisonné", -- [1]
@@ -5427,13 +6134,13 @@ PlaterDB = {
 					"Ka’roz la Sauterelle", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[30111] = {
-					"Adorateur du Crépuscule", -- [1]
-					"Ahn’kahet : l’Ancien royaume", -- [2]
+				[104154] = {
+					"Gul'dan", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
-				[81315] = {
-					"Fine gâchette de Fer", -- [1]
-					"Fonderie des Rochenoires", -- [2]
+				[164363] = {
+					"Démon de pierre immortel", -- [1]
+					"Salles de l’Expiation", -- [2]
 				},
 				[165529] = {
 					"Collectrice dépravée", -- [1]
@@ -5447,9 +6154,9 @@ PlaterDB = {
 					"Féticheuse zanchuli", -- [1]
 					"Atal’Dazar", -- [2]
 				},
-				[54123] = {
-					"Echo de Sylvanas", -- [1]
-					"La Fin des temps", -- [2]
+				[154015] = {
+					"Ritualiste évadée", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
 				[164506] = {
 					"Ancien capitaine", -- [1]
@@ -5459,9 +6166,9 @@ PlaterDB = {
 					"Pulsauron", -- [1]
 					"Palais Sacrenuit", -- [2]
 				},
-				[154129] = {
-					"Garde-braise ardent", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[167615] = {
+					"Sombrelame dépravée", -- [1]
+					"Salles de l’Expiation", -- [2]
 				},
 				[72434] = {
 					"Garde du trésor", -- [1]
@@ -5471,41 +6178,41 @@ PlaterDB = {
 					"Totem d’éclair de poison", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[164926] = {
-					"Elagueur drust", -- [1]
-					"Brumes de Tirna Scithe", -- [2]
+				[16060] = {
+					"Gothik le Moissonneur", -- [1]
+					"Naxxramas", -- [2]
 				},
-				[152644] = {
-					"Dériveur âme-morte", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[122450] = {
+					"Brise-monde garothi", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
 				[154016] = {
 					"Soigne-âme fuyarde", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[54699] = {
-					"Sabre-de-nuit distordu par le temps", -- [1]
-					"La Fin des temps", -- [2]
+				[122890] = {
+					"Pyromancienne fanatique", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
 				[71155] = {
 					"Korven le Premier", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[173146] = {
-					"Ravageur ailé", -- [1]
-					"Château Nathria", -- [2]
+				[61245] = {
+					"Totem condensateur", -- [1]
+					"L’Œil du cyclone", -- [2]
 				},
-				[103685] = {
-					"Tichondrius", -- [1]
-					"Palais Sacrenuit", -- [2]
-				},
-				[102683] = {
-					"Emeriss", -- [1]
+				[111856] = {
+					"Gardien Gorroc", -- [1]
 					"Le Cauchemar d’émeraude", -- [2]
 				},
-				[71923] = {
-					"Griffesang", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[166299] = {
+					"Soigneuse voile-de-brume", -- [1]
+					"Brumes de Tirna Scithe", -- [2]
+				},
+				[43014] = {
+					"Diablotin", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
 				[122970] = {
 					"Lame-de-l'ombre traqueur", -- [1]
@@ -5515,17 +6222,17 @@ PlaterDB = {
 					"Constelleur désigné", -- [1]
 					"Antorus, le Trône ardent", -- [2]
 				},
-				[127725] = {
-					"Troupier de choc gangrelame", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[169861] = {
+					"Ickor Aigrechair", -- [1]
+					"Malepeste", -- [2]
 				},
-				[54688] = {
-					"Sabre-de-nuit distordu par le temps", -- [1]
-					"La Fin des temps", -- [2]
+				[28695] = {
+					"Golem en fusion", -- [1]
+					"Les salles de Foudre", -- [2]
 				},
-				[26492] = {
-					"Terrassier du désert", -- [1]
-					"L’Heure du Crépuscule", -- [2]
+				[168418] = {
+					"Inquisitrice désavouée", -- [1]
+					"Flèches de l’Ascension", -- [2]
 				},
 				[173464] = {
 					"Deplina", -- [1]
@@ -5539,53 +6246,53 @@ PlaterDB = {
 					"Homme d’armes grom’kar", -- [1]
 					"Fonderie des Rochenoires", -- [2]
 				},
-				[113012] = {
-					"Mage du chaos gangrelige", -- [1]
-					"Palais Sacrenuit", -- [2]
-				},
 				[105699] = {
 					"Sabre-de-mana", -- [1]
 					"Cour des Étoiles", -- [2]
 				},
-				[112596] = {
-					"Gardien de la Garde crépusculaire", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[72947] = {
+					"Démolisseur kor’kron", -- [1]
+					"Siège d’Orgrimmar", -- [2]
+				},
+				[97510] = {
+					"Destructeur lié", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
 				[71156] = {
 					"Kaz’tik le Manipulateur", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[14188] = {
-					"Dirk Lembrouille", -- [1]
-					"Vallée d’Alterac", -- [2]
+				[55659] = {
+					"Diablotin sauvage", -- [1]
+					"L’Œil du cyclone", -- [2]
 				},
-				[152995] = {
-					"Veilleur des âmes", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[75506] = {
+					"Loyaliste ombrelune", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
 				},
-				[111413] = {
-					"Sombre dévoreur", -- [1]
-					"Le Cauchemar d’émeraude", -- [2]
+				[103217] = {
+					"Scorpide cristallin", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
-				[16167] = {
-					"Assemblage osseux", -- [1]
-					"Naxxramas", -- [2]
+				[109040] = {
+					"Arcaniste Tel’arn", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
 				[122971] = {
 					"Mastodonte dazar'ai", -- [1]
 					"Atal’Dazar", -- [2]
 				},
-				[166301] = {
-					"Traqueur voile-de-brume", -- [1]
-					"Brumes de Tirna Scithe", -- [2]
+				[16167] = {
+					"Assemblage osseux", -- [1]
+					"Naxxramas", -- [2]
 				},
 				[164510] = {
 					"Arbalestrier titubant", -- [1]
 					"Théâtre de la Souffrance", -- [2]
 				},
-				[69792] = {
-					"Полюбэ", -- [1]
-					"L’Œil du cyclone", -- [2]
+				[127050] = {
+					"Gangreportail", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
 				[16215] = {
 					"Bâton impie", -- [1]
@@ -5595,25 +6302,25 @@ PlaterDB = {
 					"Fara", -- [1]
 					"Château Nathria", -- [2]
 				},
-				[71715] = {
-					"Fidèle d’Orgrimmar", -- [1]
-					"Siège d’Orgrimmar", -- [2]
-				},
-				[162046] = {
-					"Tique affamée", -- [1]
-					"Profondeurs Sanguines", -- [2]
-				},
-				[170690] = {
-					"Horreur infectieuse", -- [1]
-					"Théâtre de la Souffrance", -- [2]
-				},
-				[160161] = {
-					"Créature des brumes", -- [1]
+				[155225] = {
+					"Chantebois faëillu", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[80422] = {
-					"Tireuse d’élite de Fer", -- [1]
-					"Fonderie des Rochenoires", -- [2]
+				[154018] = {
+					"Marteleur fuyard", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
+				},
+				[104676] = {
+					"Particule temporelle en déclin", -- [1]
+					"Palais Sacrenuit", -- [2]
+				},
+				[40584] = {
+					"Envahisseur naz'jar", -- [1]
+					"Trône des marées", -- [2]
+				},
+				[42695] = {
+					"Factionnaire du Cœur-de-Pierre", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
 				[71157] = {
 					"Xaril l’Esprit empoisonné", -- [1]
@@ -5623,61 +6330,61 @@ PlaterDB = {
 					"Tempête-de-feu déchaînée", -- [1]
 					"Les salles de Foudre", -- [2]
 				},
-				[72770] = {
-					"Sombre long-voyant kor’kron", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[111405] = {
+					"Marteleur des ombres", -- [1]
+					"Le Cauchemar d’émeraude", -- [2]
 				},
 				[122972] = {
 					"Augure dazar'ai", -- [1]
 					"Atal’Dazar", -- [2]
 				},
-				[176026] = {
-					"Fous dansants", -- [1]
-					"Château Nathria", -- [2]
+				[98280] = {
+					"Arcaniste ressuscité", -- [1]
+					"Bastion du Freux", -- [2]
 				},
-				[5135] = {
-					"Svalbrad Mont-lointain", -- [1]
-					"Vallée d’Alterac", -- [2]
+				[155812] = {
+					"Ritualiste antrelige", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
-				[104154] = {
-					"Gul'dan", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[41096] = {
+					"Soignesprit naz'jar", -- [1]
+					"Trône des marées", -- [2]
 				},
-				[127724] = {
-					"Pyromancienne fanatique", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[72535] = {
+					"Statue de pierre", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
-				[125549] = {
-					"Traqueur affamé", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[98792] = {
+					"Pillard langue-de-wyrm", -- [1]
+					"Bastion du Freux", -- [2]
 				},
-				[164804] = {
-					"Dromane Oulfarran", -- [1]
+				[165108] = {
+					"Clone illusoire", -- [1]
 					"Brumes de Tirna Scithe", -- [2]
 				},
-				[122890] = {
-					"Pyromancienne fanatique", -- [1]
+				[104881] = {
+					"Sorcelame Aluriel", -- [1]
+					"Palais Sacrenuit", -- [2]
+				},
+				[151814] = {
+					"Ombre âme-morte", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
+				},
+				[124158] = {
+					"Imonar le Chasseur d'âmes", -- [1]
 					"Antorus, le Trône ardent", -- [2]
 				},
-				[104415] = {
-					"Anomalie chronomatique", -- [1]
-					"Palais Sacrenuit", -- [2]
-				},
-				[112956] = {
-					"Ecaille-de-mana chatoyante", -- [1]
-					"Palais Sacrenuit", -- [2]
-				},
-				[162051] = {
-					"Goule frénétique", -- [1]
-					"Profondeurs Sanguines", -- [2]
+				[111398] = {
+					"Amalgame du Cauchemar", -- [1]
+					"Le Cauchemar d’émeraude", -- [2]
 				},
 				[166304] = {
 					"Aiguillonneur voile-de-brume", -- [1]
 					"Brumes de Tirna Scithe", -- [2]
 				},
-				[72249] = {
-					"Galakras", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[165560] = {
+					"Larve gormeline", -- [1]
+					"Brumes de Tirna Scithe", -- [2]
 				},
 				[71158] = {
 					"Rik’kal le Disséqueur", -- [1]
@@ -5691,61 +6398,61 @@ PlaterDB = {
 					"Grand lance-bananes illusoire", -- [1]
 					"Ordalie", -- [2]
 				},
-				[173145] = {
-					"Acarus vorace", -- [1]
-					"Château Nathria", -- [2]
-				},
-				[14283] = {
-					"Hibou foudrepique", -- [1]
-					"Vallée d’Alterac", -- [2]
-				},
-				[30419] = {
-					"Elémentaire d'eau lié", -- [1]
-					"Ahn’kahet : l’Ancien royaume", -- [2]
-				},
-				[168418] = {
-					"Inquisitrice désavouée", -- [1]
+				[168843] = {
+					"Klotos", -- [1]
 					"Flèches de l’Ascension", -- [2]
 				},
-				[122778] = {
-					"Annihilateur", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[165415] = {
+					"Bedeau diligent", -- [1]
+					"Salles de l’Expiation", -- [2]
+				},
+				[55559] = {
+					"Elémentaire cristallin", -- [1]
+					"L’Heure du Crépuscule", -- [2]
+				},
+				[166264] = {
+					"Membres de rechange", -- [1]
+					"Sillage nécrotique", -- [2]
+				},
+				[171384] = {
+					"Scribe chercheuse", -- [1]
+					"Profondeurs Sanguines", -- [2]
 				},
 				[111075] = {
 					"Chaotoïde", -- [1]
 					"Palais Sacrenuit", -- [2]
 				},
-				[123476] = {
-					"Démolisseur massif", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[173448] = {
+					"Dragost", -- [1]
+					"Château Nathria", -- [2]
 				},
 				[157094] = {
 					"Conservatrice impériale", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[113041] = {
-					"Dimeurtrodon infecté", -- [1]
-					"Le Cauchemar d’émeraude", -- [2]
-				},
-				[123452] = {
-					"Gangreseigneur", -- [1]
-					"Antorus, le Trône ardent", -- [2]
-				},
-				[127723] = {
-					"Imperator Deconix", -- [1]
-					"Antorus, le Trône ardent", -- [2]
-				},
-				[160495] = {
-					"Lieur d'âme dément", -- [1]
+				[174197] = {
+					"Ritualiste du champ de bataille", -- [1]
 					"Théâtre de la Souffrance", -- [2]
 				},
-				[127050] = {
-					"Gangreportail", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[168337] = {
+					"Moldovaak", -- [1]
+					"Château Nathria", -- [2]
 				},
-				[104295] = {
-					"Diablotin flamboyant", -- [1]
-					"Cour des Étoiles", -- [2]
+				[75509] = {
+					"Sadana Rougefurie", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
+				},
+				[28587] = {
+					"Volkhan", -- [1]
+					"Les salles de Foudre", -- [2]
+				},
+				[42696] = {
+					"Porteguerre du Cœur-de-Pierre", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
+				},
+				[71543] = {
+					"Immerseus", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
 				[55106] = {
 					"Assassin du Crépuscule", -- [1]
@@ -5755,13 +6462,13 @@ PlaterDB = {
 					"Petit lance-bananes illusoire", -- [1]
 					"Ordalie", -- [2]
 				},
-				[71543] = {
-					"Immerseus", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[104295] = {
+					"Diablotin flamboyant", -- [1]
+					"Cour des Étoiles", -- [2]
 				},
-				[170480] = {
-					"Marche-mort atal'ai", -- [1]
-					"L’Autre côté", -- [2]
+				[77182] = {
+					"Mangeroc", -- [1]
+					"Fonderie des Rochenoires", -- [2]
 				},
 				[168098] = {
 					"Agent cœur-algide renforcé", -- [1]
@@ -5771,29 +6478,29 @@ PlaterDB = {
 					"Constricteur inflexible", -- [1]
 					"Gundrak", -- [2]
 				},
-				[71515] = {
-					"Général Nazgrim", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[84859] = {
+					"Fendeur de Fer", -- [1]
+					"Fonderie des Rochenoires", -- [2]
 				},
 				[29832] = {
 					"Golem drakkari", -- [1]
 					"Gundrak", -- [2]
 				},
-				[16061] = {
-					"Instructeur Razuvious", -- [1]
-					"Naxxramas", -- [2]
-				},
-				[55659] = {
-					"Diablotin sauvage", -- [1]
-					"L’Œil du cyclone", -- [2]
-				},
-				[113048] = {
-					"Daim corrompu", -- [1]
+				[105393] = {
+					"Il'gynoth", -- [1]
 					"Le Cauchemar d’émeraude", -- [2]
 				},
-				[122477] = {
-					"F'harg", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[170147] = {
+					"Mémoire volatile", -- [1]
+					"L’Autre côté", -- [2]
+				},
+				[61056] = {
+					"Elémentaire de terre primordial", -- [1]
+					"Île des Conquérants", -- [2]
+				},
+				[174071] = {
+					"Gargon vicieux", -- [1]
+					"Château Nathria", -- [2]
 				},
 				[168099] = {
 					"Javelineur cœur-algide renforcé", -- [1]
@@ -5819,29 +6526,29 @@ PlaterDB = {
 					"Amiral Gar’an", -- [1]
 					"Fonderie des Rochenoires", -- [2]
 				},
-				[165479] = {
-					"Massacreuse de la cour", -- [1]
-					"Château Nathria", -- [2]
+				[105704] = {
+					"Manifestation arcanique", -- [1]
+					"Cour des Étoiles", -- [2]
 				},
-				[155250] = {
-					"Thanatoratrice", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[94189] = {
+					"Brasier infernal vivant", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
 				[112740] = {
 					"Ombre spirituelle", -- [1]
 					"Le Cauchemar d’émeraude", -- [2]
 				},
-				[163089] = {
-					"Rebut répugnant", -- [1]
-					"Théâtre de la Souffrance", -- [2]
+				[152508] = {
+					"Sismide obscur", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
 				[71161] = {
 					"Kil’ruk le Saccageur des vents", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[174012] = {
-					"Exécutrice Ophélia", -- [1]
-					"Château Nathria", -- [2]
+				[71515] = {
+					"Général Nazgrim", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
 				[171171] = {
 					"Archer antrelige", -- [1]
@@ -5851,41 +6558,41 @@ PlaterDB = {
 					"Trompeur cœur-corrompu", -- [1]
 					"Le Cauchemar d’émeraude", -- [2]
 				},
-				[26861] = {
-					"Roi Ymiron", -- [1]
-					"Cime d’Utgarde", -- [2]
-				},
 				[150958] = {
 					"Garde antrelige", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
+				},
+				[94190] = {
+					"Factionnaire ardent", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
 				[168101] = {
 					"Ombre âme-morte renforcée", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[105704] = {
-					"Manifestation arcanique", -- [1]
-					"Cour des Étoiles", -- [2]
+				[40586] = {
+					"Dame Naz'jar", -- [1]
+					"Trône des marées", -- [2]
 				},
-				[125547] = {
-					"Rampante corrompue", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[171173] = {
+					"Traque-ombre antrelige", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
 				[13257] = {
 					"Murgot Forge-Profonde", -- [1]
 					"Vallée d’Alterac", -- [2]
 				},
-				[171172] = {
-					"Entraveur antrelige", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[28585] = {
+					"Scorie", -- [1]
+					"Les salles de Foudre", -- [2]
 				},
 				[157099] = {
 					"Censeur impérial", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[128060] = {
-					"Prêtresse du délire", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[173469] = {
+					"Kullan", -- [1]
+					"Château Nathria", -- [2]
 				},
 				[169893] = {
 					"Sombre orateur néfaste", -- [1]
@@ -5895,65 +6602,65 @@ PlaterDB = {
 					"Echo âme-morte renforcé", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[168310] = {
-					"Pesteroc", -- [1]
-					"Malepeste", -- [2]
+				[76407] = {
+					"Ner’zhul", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
 				},
-				[113307] = {
-					"Chronâme en peine", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[165763] = {
+					"Occultiste infâme", -- [1]
+					"Château Nathria", -- [2]
 				},
 				[162729] = {
 					"Soldat recousu", -- [1]
 					"Sillage nécrotique", -- [2]
 				},
-				[171173] = {
-					"Traque-ombre antrelige", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[125535] = {
+					"Assistante des failles", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
 				[150959] = {
 					"Intercepteur antrelige", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[166079] = {
-					"Arbalétrier os-vermoulu", -- [1]
-					"Sillage nécrotique", -- [2]
-				},
-				[164255] = {
-					"Globgrog", -- [1]
+				[168627] = {
+					"Lieur de peste", -- [1]
 					"Malepeste", -- [2]
 				},
-				[154018] = {
-					"Marteleur fuyard", -- [1]
+				[151329] = {
+					"Veilleur Skoldus", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
+				},
+				[166266] = {
+					"Membres de rechange", -- [1]
+					"Sillage nécrotique", -- [2]
 				},
 				[154030] = {
 					"Rat de l'Antre surdimensionné", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[105705] = {
-					"Energie liée", -- [1]
-					"Cour des Étoiles", -- [2]
+				[109038] = {
+					"Solariste Tel’arn", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
-				[165108] = {
-					"Clone illusoire", -- [1]
-					"Brumes de Tirna Scithe", -- [2]
+				[154128] = {
+					"Elémentaire flamboyant", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
-				[30276] = {
-					"Tisseuse ahn'kahar", -- [1]
-					"Ahn’kahet : l’Ancien royaume", -- [2]
+				[13577] = {
+					"Commandant chevaucheur de bélier foudrepique", -- [1]
+					"Vallée d’Alterac", -- [2]
 				},
-				[16148] = {
-					"Chevalier de la mort spectral", -- [1]
-					"Naxxramas", -- [2]
+				[164267] = {
+					"Margrave Stradama", -- [1]
+					"Malepeste", -- [2]
 				},
 				[77687] = {
 					"Homme d’armes grom’kar", -- [1]
 					"Fonderie des Rochenoires", -- [2]
 				},
-				[13577] = {
-					"Commandant chevaucheur de bélier foudrepique", -- [1]
-					"Vallée d’Alterac", -- [2]
+				[94191] = {
+					"Molosse de la terreur ardent", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
 				[168104] = {
 					"Maître forgeflamme renforcé", -- [1]
@@ -5963,17 +6670,17 @@ PlaterDB = {
 					"Domina Lamevenin", -- [1]
 					"Malepeste", -- [2]
 				},
-				[168361] = {
-					"Frelon du marais", -- [1]
-					"Malepeste", -- [2]
+				[29834] = {
+					"Frénétique drakkari", -- [1]
+					"Gundrak", -- [2]
 				},
-				[156157] = {
-					"Ascendant cœur-algide", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[164427] = {
+					"Guerrier réanimé", -- [1]
+					"Sillage nécrotique", -- [2]
 				},
-				[125535] = {
-					"Assistante des failles", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[113321] = {
+					"Assoiffé harassé", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
 				[157102] = {
 					"Consulaire impérial", -- [1]
@@ -5999,45 +6706,45 @@ PlaterDB = {
 					"Gardienne de l’atelier", -- [1]
 					"Fonderie des Rochenoires", -- [2]
 				},
-				[104881] = {
-					"Sorcelame Aluriel", -- [1]
-					"Palais Sacrenuit", -- [2]
-				},
-				[171432] = {
-					"Suppresseur Hersi", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[168318] = {
+					"Goliath désavoué", -- [1]
+					"Flèches de l’Ascension", -- [2]
 				},
 				[85748] = {
 					"Marteleur de Fer", -- [1]
 					"Fonderie des Rochenoires", -- [2]
 				},
-				[72535] = {
-					"Statue de pierre", -- [1]
+				[171432] = {
+					"Suppresseur Hersi", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
+				},
+				[122718] = {
+					"Troupier de choc gangrelame", -- [1]
+					"Antorus, le Trône ardent", -- [2]
+				},
+				[73342] = {
+					"Soigne-bassin déchu", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
 				[168106] = {
 					"Garde antrelige renforcé", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[155824] = {
-					"Création chancelante", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[98542] = {
+					"Amalgame d’âmes", -- [1]
+					"Bastion du Freux", -- [2]
 				},
-				[173469] = {
-					"Kullan", -- [1]
-					"Château Nathria", -- [2]
+				[105705] = {
+					"Energie liée", -- [1]
+					"Cour des Étoiles", -- [2]
 				},
-				[169753] = {
-					"Tique affamée", -- [1]
-					"Profondeurs Sanguines", -- [2]
+				[171188] = {
+					"Fidèle peste-liée", -- [1]
+					"Malepeste", -- [2]
 				},
-				[73414] = {
-					"Moissonneur kor’kron", -- [1]
-					"Siège d’Orgrimmar", -- [2]
-				},
-				[168843] = {
-					"Klotos", -- [1]
-					"Flèches de l’Ascension", -- [2]
+				[129050] = {
+					"Gangregarde antoréen", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
 				[171433] = {
 					"Suppresseur Cer", -- [1]
@@ -6047,33 +6754,33 @@ PlaterDB = {
 					"Tirailleur désavoué", -- [1]
 					"Flèches de l’Ascension", -- [2]
 				},
-				[153382] = {
-					"Gueule de l'Antre", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[105451] = {
+					"Totem de réplique", -- [1]
+					"Pics-Jumeaux", -- [2]
 				},
 				[168107] = {
 					"Intercepteur antrelige renforcé", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[72276] = {
-					"Amalgame de corruption", -- [1]
+				[174842] = {
+					"Serveur querelleur", -- [1]
+					"Château Nathria", -- [2]
+				},
+				[73415] = {
+					"Ichor d’Y’Shaarj", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[170488] = {
-					"Fils d'Hakkar", -- [1]
-					"L’Autre côté", -- [2]
-				},
-				[153011] = {
-					"Lieur Baritas", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[111081] = {
+					"Fulminant", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
 				[122467] = {
 					"Asara, mère de la Nuit", -- [1]
 					"Antorus, le Trône ardent", -- [2]
 				},
-				[71420] = {
-					"Kunchong affamé", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[153011] = {
+					"Lieur Baritas", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
 				[104300] = {
 					"Maîtresse de l'ombre", -- [1]
@@ -6087,16 +6794,16 @@ PlaterDB = {
 					"Création chancelante renforcée", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[105715] = {
-					"Inquisiteur vigilant", -- [1]
-					"Cour des Étoiles", -- [2]
+				[163503] = {
+					"Plonge-éther", -- [1]
+					"Flèches de l’Ascension", -- [2]
 				},
-				[71405] = {
-					"Manieur de vent set’thik", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[171431] = {
+					"Suppresseur Vellon", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
-				[111081] = {
-					"Fulminant", -- [1]
+				[113128] = {
+					"Furtif flétri", -- [1]
 					"Palais Sacrenuit", -- [2]
 				},
 				[16216] = {
@@ -6107,13 +6814,13 @@ PlaterDB = {
 					"Entraveur antrelige", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[163503] = {
-					"Plonge-éther", -- [1]
-					"Flèches de l’Ascension", -- [2]
+				[113512] = {
+					"Vase putride", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
-				[168109] = {
-					"Ritualiste antrelige renforcé", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[113130] = {
+					"Factionnaire ardent", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
 				[72828] = {
 					"Esprit de marche-vent sans nom", -- [1]
@@ -6123,61 +6830,61 @@ PlaterDB = {
 					"Fongeur soignechampi", -- [1]
 					"Malepeste", -- [2]
 				},
-				[29931] = {
-					"Rhinocéros drakkari", -- [1]
-					"Gundrak", -- [2]
-				},
-				[28586] = {
-					"Général Bjarngrim", -- [1]
-					"Les salles de Foudre", -- [2]
+				[162056] = {
+					"Lutin pierre-lié", -- [1]
+					"Profondeurs Sanguines", -- [2]
 				},
 				[122468] = {
 					"Noura, mère des Flammes", -- [1]
 					"Antorus, le Trône ardent", -- [2]
 				},
-				[163862] = {
-					"Défenseur aux innombrables yeux", -- [1]
-					"Malepeste", -- [2]
+				[55109] = {
+					"Marcheuse des ombres du Crépuscule", -- [1]
+					"L’Heure du Crépuscule", -- [2]
 				},
 				[155828] = {
 					"Colosse gravé de runes", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
+				},
+				[168110] = {
+					"Duelliste impériale renforcée", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
 				[73724] = {
 					"Zu Yin", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[168110] = {
-					"Duelliste impériale renforcée", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[75899] = {
+					"Ame possédée", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
 				},
-				[73184] = {
-					"Yéti affamé", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[113131] = {
+					"Brasier infernal vivant", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
-				[124158] = {
-					"Imonar le Chasseur d'âmes", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[168882] = {
+					"Manifestation fuyante", -- [1]
+					"Profondeurs Sanguines", -- [2]
 				},
 				[168878] = {
 					"Ronge-peste piégé", -- [1]
 					"Malepeste", -- [2]
 				},
-				[171181] = {
-					"Lamebec territorial", -- [1]
-					"L’Autre côté", -- [2]
+				[111210] = {
+					"Infernal incendiaire", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
 				[173484] = {
 					"Manifestation conjurée", -- [1]
 					"Château Nathria", -- [2]
 				},
-				[14765] = {
-					"Maréchal de Gîtepierre", -- [1]
-					"Vallée d’Alterac", -- [2]
+				[73104] = {
+					"Etincelle instable", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
-				[155225] = {
-					"Chantebois faëillu", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[171181] = {
+					"Lamebec territorial", -- [1]
+					"L’Autre côté", -- [2]
 				},
 				[168111] = {
 					"Conservatrice impériale renforcée", -- [1]
@@ -6191,9 +6898,9 @@ PlaterDB = {
 					"Seigneur Eilgar", -- [1]
 					"Antorus, le Trône ardent", -- [2]
 				},
-				[166264] = {
-					"Membres de rechange", -- [1]
-					"Sillage nécrotique", -- [2]
+				[170488] = {
+					"Fils d'Hakkar", -- [1]
+					"L’Autre côté", -- [2]
 				},
 				[122469] = {
 					"Diima, mère de l'Obscurité", -- [1]
@@ -6215,33 +6922,33 @@ PlaterDB = {
 					"Disciple antrelige", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[173448] = {
-					"Dragost", -- [1]
-					"Château Nathria", -- [2]
+				[28586] = {
+					"Général Bjarngrim", -- [1]
+					"Les salles de Foudre", -- [2]
 				},
-				[104676] = {
-					"Particule temporelle en déclin", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[42188] = {
+					"Ozruk", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
 				[170927] = {
 					"Limon éruptif", -- [1]
 					"Malepeste", -- [2]
 				},
-				[111405] = {
-					"Marteleur des ombres", -- [1]
-					"Le Cauchemar d’émeraude", -- [2]
-				},
-				[154020] = {
-					"Rôdeur maudit fuyard", -- [1]
+				[168109] = {
+					"Ritualiste antrelige renforcé", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[26684] = {
-					"Furbolg vorace", -- [1]
-					"Cime d’Utgarde", -- [2]
-				},
-				[151814] = {
-					"Ombre âme-morte", -- [1]
+				[152500] = {
+					"Amalgame âme-morte", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
+				},
+				[71420] = {
+					"Kunchong affamé", -- [1]
+					"Siège d’Orgrimmar", -- [2]
+				},
+				[30279] = {
+					"Rampante des profondeurs", -- [1]
+					"Ahn’kahet : l’Ancien royaume", -- [2]
 				},
 				[155831] = {
 					"Lieur d'âmes antrelige", -- [1]
@@ -6249,6 +6956,10 @@ PlaterDB = {
 				},
 				[72958] = {
 					"Chaman des marées gueule-de-dragon", -- [1]
+					"Siège d’Orgrimmar", -- [2]
+				},
+				[72131] = {
+					"Maître-lame aveugle", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
 				[128095] = {
@@ -6259,57 +6970,53 @@ PlaterDB = {
 					"Mythresh, Serres des Cieux", -- [1]
 					"L’Autre côté", -- [2]
 				},
-				[73342] = {
-					"Soigne-bassin déchu", -- [1]
-					"Siège d’Orgrimmar", -- [2]
-				},
-				[55109] = {
-					"Marcheuse des ombres du Crépuscule", -- [1]
-					"L’Heure du Crépuscule", -- [2]
-				},
-				[168337] = {
-					"Moldovaak", -- [1]
-					"Château Nathria", -- [2]
-				},
-				[169905] = {
-					"Seigneur de guerre ressuscité", -- [1]
-					"L’Autre côté", -- [2]
-				},
-				[109040] = {
-					"Arcaniste Tel’arn", -- [1]
-					"Palais Sacrenuit", -- [2]
-				},
-				[170417] = {
-					"Stygie animée", -- [1]
+				[155824] = {
+					"Création chancelante", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
-				},
-				[29834] = {
-					"Frénétique drakkari", -- [1]
-					"Gundrak", -- [2]
-				},
-				[72191] = {
-					"Seigneur Runthak", -- [1]
-					"Siège d’Orgrimmar", -- [2]
 				},
 				[30385] = {
 					"Volontaire du Crépuscule", -- [1]
 					"Ahn’kahet : l’Ancien royaume", -- [2]
 				},
-				[165415] = {
-					"Bedeau diligent", -- [1]
-					"Salles de l’Expiation", -- [2]
+				[169905] = {
+					"Seigneur de guerre ressuscité", -- [1]
+					"L’Autre côté", -- [2]
+				},
+				[168361] = {
+					"Frelon du marais", -- [1]
+					"Malepeste", -- [2]
+				},
+				[170417] = {
+					"Stygie animée", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
+				},
+				[16148] = {
+					"Chevalier de la mort spectral", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[72191] = {
+					"Seigneur Runthak", -- [1]
+					"Siège d’Orgrimmar", -- [2]
+				},
+				[14765] = {
+					"Maréchal de Gîtepierre", -- [1]
+					"Vallée d’Alterac", -- [2]
+				},
+				[164414] = {
+					"Mage réanimé", -- [1]
+					"Sillage nécrotique", -- [2]
 				},
 				[165556] = {
 					"Manifestation fuyante", -- [1]
 					"Profondeurs Sanguines", -- [2]
 				},
-				[174197] = {
-					"Ritualiste du champ de bataille", -- [1]
-					"Théâtre de la Souffrance", -- [2]
+				[151127] = {
+					"Seigneur du tourment", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
-				[103217] = {
-					"Scorpide cristallin", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[73745] = {
+					"Sentinelle kor’kronne", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
 				[111852] = {
 					"Rothos", -- [1]
@@ -6319,64 +7026,64 @@ PlaterDB = {
 					"Noctemère ", -- [1]
 					"Le Cauchemar d’émeraude", -- [2]
 				},
-				[162056] = {
-					"Lutin pierre-lié", -- [1]
-					"Profondeurs Sanguines", -- [2]
+				[153174] = {
+					"Guetteurs de mort", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
-				[174842] = {
-					"Serveur querelleur", -- [1]
-					"Château Nathria", -- [2]
+				[154020] = {
+					"Rôdeur maudit fuyard", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
 				[98035] = {
 					"Traqueffroi", -- [1]
 					"L’Œil du cyclone", -- [2]
 				},
+				[126558] = {
+					"Gangregarde antoréen", -- [1]
+					"Antorus, le Trône ardent", -- [2]
+				},
+				[163126] = {
+					"Mage os-vermoulu", -- [1]
+					"Sillage nécrotique", -- [2]
+				},
+				[171172] = {
+					"Entraveur antrelige", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
+				},
+				[170419] = {
+					"Purotin perdu", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
+				},
+				[55107] = {
+					"Forestier du Crépuscule", -- [1]
+					"L’Heure du Crépuscule", -- [2]
+				},
+				[113132] = {
+					"Molosse de la terreur ardent", -- [1]
+					"Scénario du rivage Brisé", -- [2]
+				},
 				[171422] = {
 					"Grand suppresseur Laguas", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[174071] = {
-					"Gargon vicieux", -- [1]
-					"Château Nathria", -- [2]
+				[105703] = {
+					"Wyrm de mana", -- [1]
+					"Cour des Étoiles", -- [2]
 				},
-				[171431] = {
-					"Suppresseur Vellon", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
-				},
-				[167493] = {
-					"Tireur d'élite venimeux", -- [1]
+				[165010] = {
+					"Gelée figée", -- [1]
 					"Malepeste", -- [2]
 				},
-				[165560] = {
-					"Larve gormeline", -- [1]
-					"Brumes de Tirna Scithe", -- [2]
+				[165260] = {
+					"Restes suintants", -- [1]
+					"Théâtre de la Souffrance", -- [2]
 				},
-				[152508] = {
-					"Sismide obscur", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[122783] = {
+					"Diablotin flamboyant", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
-				[84859] = {
-					"Fendeur de Fer", -- [1]
-					"Fonderie des Rochenoires", -- [2]
-				},
-				[168882] = {
-					"Manifestation fuyante", -- [1]
-					"Profondeurs Sanguines", -- [2]
-				},
-				[166266] = {
-					"Membres de rechange", -- [1]
-					"Sillage nécrotique", -- [2]
-				},
-				[55559] = {
-					"Elémentaire cristallin", -- [1]
-					"L’Heure du Crépuscule", -- [2]
-				},
-				[77182] = {
-					"Mangeroc", -- [1]
-					"Fonderie des Rochenoires", -- [2]
-				},
-				[171188] = {
-					"Fidèle peste-liée", -- [1]
+				[163862] = {
+					"Défenseur aux innombrables yeux", -- [1]
 					"Malepeste", -- [2]
 				},
 				[152253] = {
@@ -6391,105 +7098,105 @@ PlaterDB = {
 					"Nervi du Crépuscule", -- [1]
 					"L’Heure du Crépuscule", -- [2]
 				},
-				[151329] = {
-					"Veilleur Skoldus", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
-				},
-				[113512] = {
-					"Vase putride", -- [1]
-					"Palais Sacrenuit", -- [2]
-				},
-				[72131] = {
-					"Maître-lame aveugle", -- [1]
+				[73184] = {
+					"Yéti affamé", -- [1]
 					"Siège d’Orgrimmar", -- [2]
+				},
+				[71504] = {
+					"Ingé-siège Boîte-Noire", -- [1]
+					"Siège d’Orgrimmar", -- [2]
+				},
+				[172282] = {
+					"Entoilage", -- [1]
+					"Malepeste", -- [2]
 				},
 				[26668] = {
 					"Svala Tristetombe", -- [1]
 					"Cime d’Utgarde", -- [2]
 				},
-				[28587] = {
-					"Volkhan", -- [1]
-					"Les salles de Foudre", -- [2]
+				[73414] = {
+					"Moissonneur kor’kron", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
-				[164427] = {
-					"Guerrier réanimé", -- [1]
+				[166302] = {
+					"Moissonneur de cadavres", -- [1]
 					"Sillage nécrotique", -- [2]
 				},
 				[168886] = {
 					"Virulax Tissechancre", -- [1]
 					"Malepeste", -- [2]
 				},
-				[168318] = {
-					"Goliath désavoué", -- [1]
-					"Flèches de l’Ascension", -- [2]
+				[113307] = {
+					"Chronâme en peine", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
-				[168627] = {
-					"Lieur de peste", -- [1]
-					"Malepeste", -- [2]
+				[169753] = {
+					"Tique affamée", -- [1]
+					"Profondeurs Sanguines", -- [2]
 				},
 				[167607] = {
 					"Balafreur vive-pierre", -- [1]
 					"Salles de l’Expiation", -- [2]
 				},
-				[109038] = {
-					"Solariste Tel’arn", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[26684] = {
+					"Furbolg vorace", -- [1]
+					"Cime d’Utgarde", -- [2]
 				},
-				[73415] = {
-					"Ichor d’Y’Shaarj", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[153382] = {
+					"Gueule de l'Antre", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
-				[73104] = {
-					"Etincelle instable", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[26536] = {
+					"Serviteur décérébré", -- [1]
+					"Cime d’Utgarde", -- [2]
 				},
-				[30279] = {
-					"Rampante des profondeurs", -- [1]
-					"Ahn’kahet : l’Ancien royaume", -- [2]
+				[152612] = {
+					"Subjugateur Klontzas", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
 				[172981] = {
 					"Kyrian suturé", -- [1]
 					"Sillage nécrotique", -- [2]
 				},
-				[129050] = {
-					"Gangregarde antoréen", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[168310] = {
+					"Pesteroc", -- [1]
+					"Malepeste", -- [2]
 				},
-				[163126] = {
-					"Mage os-vermoulu", -- [1]
-					"Sillage nécrotique", -- [2]
+				[5135] = {
+					"Svalbrad Mont-lointain", -- [1]
+					"Vallée d’Alterac", -- [2]
 				},
-				[113128] = {
-					"Furtif flétri", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[176026] = {
+					"Fous dansants", -- [1]
+					"Château Nathria", -- [2]
 				},
-				[122718] = {
-					"Troupier de choc gangrelame", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[160161] = {
+					"Créature des brumes", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
-				[111210] = {
-					"Infernal incendiaire", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[164255] = {
+					"Globgrog", -- [1]
+					"Malepeste", -- [2]
 				},
-				[111398] = {
-					"Amalgame du Cauchemar", -- [1]
-					"Le Cauchemar d’émeraude", -- [2]
+				[165479] = {
+					"Massacreuse de la cour", -- [1]
+					"Château Nathria", -- [2]
 				},
-				[113321] = {
-					"Assoiffé harassé", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[98677] = {
+					"Jeune araignée du Freux", -- [1]
+					"Bastion du Freux", -- [2]
 				},
 				[72194] = {
 					"Démolisseur de Hurlenfer", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[154128] = {
-					"Elémentaire flamboyant", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[166301] = {
+					"Traqueur voile-de-brume", -- [1]
+					"Brumes de Tirna Scithe", -- [2]
 				},
-				[164414] = {
-					"Mage réanimé", -- [1]
-					"Sillage nécrotique", -- [2]
+				[152995] = {
+					"Veilleur des âmes", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
 				[84860] = {
 					"Lieur de terre de Fer", -- [1]
@@ -6499,21 +7206,21 @@ PlaterDB = {
 					"Masque enragé", -- [1]
 					"L’Autre côté", -- [2]
 				},
-				[73745] = {
-					"Sentinelle kor’kronne", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[71064] = {
+					"Grand gardien illusoire", -- [1]
+					"Ordalie", -- [2]
 				},
 				[54920] = {
 					"Suppresseur infini", -- [1]
 					"La Fin des temps", -- [2]
 				},
-				[165010] = {
-					"Gelée figée", -- [1]
-					"Malepeste", -- [2]
+				[108361] = {
+					"Scorpide cristallin", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
-				[126558] = {
-					"Gangregarde antoréen", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[71923] = {
+					"Griffesang", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
 				[55112] = {
 					"Cogneur du Crépuscule", -- [1]
@@ -6527,21 +7234,21 @@ PlaterDB = {
 					"Démon de pierre mord-cheville", -- [1]
 					"Salles de l’Expiation", -- [2]
 				},
-				[122783] = {
-					"Diablotin flamboyant", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[112956] = {
+					"Ecaille-de-mana chatoyante", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
-				[105393] = {
-					"Il'gynoth", -- [1]
-					"Le Cauchemar d’émeraude", -- [2]
-				},
-				[165763] = {
-					"Occultiste infâme", -- [1]
+				[173145] = {
+					"Acarus vorace", -- [1]
 					"Château Nathria", -- [2]
 				},
-				[165260] = {
-					"Restes suintants", -- [1]
-					"Théâtre de la Souffrance", -- [2]
+				[71715] = {
+					"Fidèle d’Orgrimmar", -- [1]
+					"Siège d’Orgrimmar", -- [2]
+				},
+				[43214] = {
+					"Peau-de-Pierre", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
 				[109041] = {
 					"Naturaliste Tel’arn", -- [1]
@@ -6551,25 +7258,25 @@ PlaterDB = {
 					"Diablotin flamboyant", -- [1]
 					"Antorus, le Trône ardent", -- [2]
 				},
-				[72451] = {
-					"Sombre chaman kor’kron", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[105203] = {
+					"Envahisseur gangregarde", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
 				[167611] = {
 					"Eviscératrice vive-pierre", -- [1]
 					"Salles de l’Expiation", -- [2]
 				},
-				[153174] = {
-					"Guetteurs de mort", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[71921] = {
+					"Sombre-Croc", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
-				[152500] = {
-					"Amalgame âme-morte", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[89] = {
+					"Infernal", -- [1]
+					"Goulet des Chanteguerres", -- [2]
 				},
-				[111856] = {
-					"Gardien Gorroc", -- [1]
-					"Le Cauchemar d’émeraude", -- [2]
+				[43662] = {
+					"Enrageterre délié", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
 				[73091] = {
 					"Mercenaire de Boîte-Noire", -- [1]
@@ -6579,25 +7286,25 @@ PlaterDB = {
 					"Ronge-peste piégé", -- [1]
 					"Malepeste", -- [2]
 				},
-				[71504] = {
-					"Ingé-siège Boîte-Noire", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[164463] = {
+					"Paceran le Virulent", -- [1]
+					"Théâtre de la Souffrance", -- [2]
 				},
-				[171384] = {
-					"Scribe chercheuse", -- [1]
-					"Profondeurs Sanguines", -- [2]
+				[113041] = {
+					"Dimeurtrodon infecté", -- [1]
+					"Le Cauchemar d’émeraude", -- [2]
 				},
-				[167612] = {
-					"Saccageuse vive-pierre", -- [1]
-					"Salles de l’Expiation", -- [2]
+				[98167] = {
+					"Tentacule du Vide", -- [1]
+					"Île des Conquérants", -- [2]
 				},
 				[26125] = {
 					"Goule ressuscitée", -- [1]
 					"Mines d’Éclargent", -- [2]
 				},
-				[28585] = {
-					"Scorie", -- [1]
-					"Les salles de Foudre", -- [2]
+				[30419] = {
+					"Elémentaire d'eau lié", -- [1]
+					"Ahn’kahet : l’Ancien royaume", -- [2]
 				},
 				[30283] = {
 					"Marcheur de peste", -- [1]
@@ -6607,85 +7314,85 @@ PlaterDB = {
 					"Arme animée", -- [1]
 					"Profondeurs Sanguines", -- [2]
 				},
-				[172282] = {
-					"Entoilage", -- [1]
-					"Malepeste", -- [2]
+				[154010] = {
+					"Prisonnier croupissant", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
-				[166302] = {
-					"Moissonneur de cadavres", -- [1]
-					"Sillage nécrotique", -- [2]
+				[127231] = {
+					"Décimateur garothi", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
 				[72452] = {
 					"Loup redoutable kor’kron", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[164267] = {
-					"Margrave Stradama", -- [1]
+				[168747] = {
+					"Croc-venin", -- [1]
 					"Malepeste", -- [2]
 				},
 				[157634] = {
 					"Massacreur forgeflamme", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[155908] = {
-					"Nécrorateur", -- [1]
+				[154129] = {
+					"Garde-braise ardent", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
 				[72964] = {
 					"Goro’dan", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[55107] = {
-					"Forestier du Crépuscule", -- [1]
-					"L’Heure du Crépuscule", -- [2]
+				[72770] = {
+					"Sombre long-voyant kor’kron", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
 				[152517] = {
 					"Vole-vie âme-morte", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[166396] = {
-					"Tirailleur noble", -- [1]
-					"Profondeurs Sanguines", -- [2]
+				[164967] = {
+					"Professeur Ickus", -- [1]
+					"Malepeste", -- [2]
 				},
-				[16060] = {
-					"Gothik le Moissonneur", -- [1]
-					"Naxxramas", -- [2]
+				[165515] = {
+					"Sombrelame dépravé", -- [1]
+					"Salles de l’Expiation", -- [2]
 				},
 				[163520] = {
 					"Chef d'escouade désavoué", -- [1]
 					"Flèches de l’Ascension", -- [2]
 				},
-				[152612] = {
-					"Subjugateur Klontzas", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[166920] = {
+					"Serviteur chancreux", -- [1]
+					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
 				},
 				[26669] = {
 					"Sauvage ymirjar", -- [1]
 					"Cime d’Utgarde", -- [2]
 				},
-				[26536] = {
-					"Serviteur décérébré", -- [1]
-					"Cime d’Utgarde", -- [2]
+				[54123] = {
+					"Echo de Sylvanas", -- [1]
+					"La Fin des temps", -- [2]
 				},
-				[151127] = {
-					"Seigneur du tourment", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[164702] = {
+					"Ver putride", -- [1]
+					"Sillage nécrotique", -- [2]
 				},
-				[71064] = {
-					"Grand gardien illusoire", -- [1]
-					"Ordalie", -- [2]
+				[166411] = {
+					"Usurpateur désavoué", -- [1]
+					"Flèches de l’Ascension", -- [2]
 				},
 				[136398] = {
 					"Satyre illidari", -- [1]
 					"Mines d’Éclargent", -- [2]
 				},
-				[123477] = {
-					"Garde funeste antoréen", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[122963] = {
+					"Rezan", -- [1]
+					"Atal’Dazar", -- [2]
 				},
-				[167615] = {
-					"Sombrelame dépravée", -- [1]
-					"Salles de l’Expiation", -- [2]
+				[173756] = {
+					"Bodza", -- [1]
+					"Pics-Jumeaux", -- [2]
 				},
 				[165824] = {
 					"Nar'zudah", -- [1]
@@ -6699,49 +7406,49 @@ PlaterDB = {
 					"Gardien Rurson", -- [1]
 					"Le Cauchemar d’émeraude", -- [2]
 				},
-				[164363] = {
-					"Démon de pierre immortel", -- [1]
-					"Salles de l’Expiation", -- [2]
+				[71772] = {
+					"Assassin kor’kron", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
-				[108361] = {
-					"Scorpide cristallin", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[26694] = {
+					"Chaman du crépuscule ymirjar", -- [1]
+					"Cime d’Utgarde", -- [2]
 				},
 				[73349] = {
 					"Initié tourmenté", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[105703] = {
-					"Wyrm de mana", -- [1]
-					"Cour des Étoiles", -- [2]
+				[26492] = {
+					"Terrassier du désert", -- [1]
+					"L’Heure du Crépuscule", -- [2]
 				},
-				[102263] = {
-					"Skorpyron", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[75652] = {
+					"Rejeton du Vide", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
 				},
-				[89] = {
-					"Infernal", -- [1]
-					"Goulet des Chanteguerres", -- [2]
+				[162039] = {
+					"Oppresseuse malfaisante", -- [1]
+					"Profondeurs Sanguines", -- [2]
 				},
 				[98425] = {
 					"Amalgame instable", -- [1]
 					"L’Arcavia", -- [2]
 				},
-				[166299] = {
-					"Soigneuse voile-de-brume", -- [1]
+				[164926] = {
+					"Elagueur drust", -- [1]
 					"Brumes de Tirna Scithe", -- [2]
 				},
-				[169861] = {
-					"Ickor Aigrechair", -- [1]
-					"Malepeste", -- [2]
+				[113090] = {
+					"Gardienne de portail corrompue", -- [1]
+					"Le Cauchemar d’émeraude", -- [2]
 				},
-				[28695] = {
-					"Golem en fusion", -- [1]
-					"Les salles de Foudre", -- [2]
+				[88288] = {
+					"Mannequin d’entraînement de donjonage", -- [1]
+					"FW Horde Garrison Level 3", -- [2]
 				},
-				[111151] = {
-					"Siphonneur de minuit", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[168967] = {
+					"Gerwyn", -- [1]
+					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
 				},
 				[171455] = {
 					"Gargon de la Muraille", -- [1]
@@ -6751,53 +7458,53 @@ PlaterDB = {
 					"Sang amalgamé", -- [1]
 					"Uldir", -- [2]
 				},
-				[72947] = {
-					"Démolisseur kor’kron", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[173191] = {
+					"Traqueur d'âmes V'lara", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
-				[122450] = {
-					"Brise-monde garothi", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[164897] = {
+					"Créature des brumes", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
 				[14762] = {
 					"Maréchal de Dun Baldar nord", -- [1]
 					"Vallée d’Alterac", -- [2]
 				},
-				[172265] = {
-					"Vestige de fureur", -- [1]
-					"Profondeurs Sanguines", -- [2]
+				[103685] = {
+					"Tichondrius", -- [1]
+					"Palais Sacrenuit", -- [2]
 				},
 				[172991] = {
 					"Tranchâmes drust", -- [1]
 					"Brumes de Tirna Scithe", -- [2]
 				},
-				[168747] = {
-					"Croc-venin", -- [1]
-					"Malepeste", -- [2]
+				[30625] = {
+					"Bløød", -- [1]
+					"Ahn’kahet : l’Ancien royaume", -- [2]
 				},
-				[71385] = {
-					"Bombardier sri’thik", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[104246] = {
+					"Vigile de la Garde crépusculaire", -- [1]
+					"Cour des Étoiles", -- [2]
 				},
-				[163524] = {
-					"Magistrate kyriane sombre", -- [1]
-					"Flèches de l’Ascension", -- [2]
+				[77700] = {
+					"Exhumeuse d’âmes ombrelune", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
 				},
-				[127231] = {
-					"Décimateur garothi", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[102683] = {
+					"Emeriss", -- [1]
+					"Le Cauchemar d’émeraude", -- [2]
 				},
 				[98426] = {
 					"Limon instable", -- [1]
 					"L’Arcavia", -- [2]
 				},
-				[171805] = {
-					"Scribe chercheuse", -- [1]
-					"Profondeurs Sanguines", -- [2]
+				[54701] = {
+					"Chasseresse distordue par le temps", -- [1]
+					"La Fin des temps", -- [2]
 				},
-				[168986] = {
-					"Raptor squelette", -- [1]
-					"L’Autre côté", -- [2]
+				[10467] = {
+					"Totem de vague de mana", -- [1]
+					"Île des Conquérants", -- [2]
 				},
 				[29836] = {
 					"Chevaucheur de combat drakkari", -- [1]
@@ -6811,13 +7518,13 @@ PlaterDB = {
 					"Surveillant Komak", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[26696] = {
-					"Berserker ymirjar", -- [1]
-					"Cime d’Utgarde", -- [2]
+				[81315] = {
+					"Fine gâchette de Fer", -- [1]
+					"Fonderie des Rochenoires", -- [2]
 				},
-				[155812] = {
-					"Ritualiste antrelige", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[4257] = {
+					"Lana Tonnebière", -- [1]
+					"Vallée d’Alterac", -- [2]
 				},
 				[105591] = {
 					"Horreur cauchemardesque", -- [1]
@@ -6835,25 +7542,25 @@ PlaterDB = {
 					"Pterreurdactyle", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[73191] = {
-					"Défenseur aqueux", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[157571] = {
+					"Couve-flamme antrelige", -- [1]
+					"Tourment, la tour des Damnés", -- [2]
 				},
-				[164967] = {
-					"Professeur Ickus", -- [1]
+				[163857] = {
+					"Fidèle peste-liée", -- [1]
 					"Malepeste", -- [2]
 				},
-				[63508] = {
-					"Xuen", -- [1]
-					"L’Œil du cyclone", -- [2]
+				[123533] = {
+					"Tarneth", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
 				[167876] = {
 					"Inquisiteur Sigor", -- [1]
 					"Salles de l’Expiation", -- [2]
 				},
-				[26694] = {
-					"Chaman du crépuscule ymirjar", -- [1]
-					"Cime d’Utgarde", -- [2]
+				[54700] = {
+					"Sabre-de-nuit distordu par le temps", -- [1]
+					"La Fin des temps", -- [2]
 				},
 				[30284] = {
 					"Broyeur d'os", -- [1]
@@ -6863,41 +7570,41 @@ PlaterDB = {
 					"Limon glissant", -- [1]
 					"Malepeste", -- [2]
 				},
-				[78801] = {
-					"Acide-dorsal sombréclat", -- [1]
-					"Fonderie des Rochenoires", -- [2]
+				[24207] = {
+					"Armée des morts", -- [1]
+					"L’Œil du cyclone", -- [2]
 				},
-				[30625] = {
-					"Bløød", -- [1]
-					"Ahn’kahet : l’Ancien royaume", -- [2]
+				[81114] = {
+					"Travailleur gronnlin", -- [1]
+					"Fonderie des Rochenoires", -- [2]
 				},
 				[72456] = {
 					"Korgra la Vipère", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[165515] = {
-					"Sombrelame dépravé", -- [1]
-					"Salles de l’Expiation", -- [2]
+				[74158] = {
+					"Mitrailleur kor’kron", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
 				[169924] = {
 					"Vétéran garde-de-pierre", -- [1]
 					"Château Nathria", -- [2]
 				},
-				[71772] = {
-					"Assassin kor’kron", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[98207] = {
+					"Nal’tira", -- [1]
+					"L’Arcavia", -- [2]
 				},
 				[54923] = {
 					"Gardien infini", -- [1]
 					"La Fin des temps", -- [2]
 				},
-				[164463] = {
-					"Paceran le Virulent", -- [1]
-					"Théâtre de la Souffrance", -- [2]
+				[44752] = {
+					"Sapeur sans-visage", -- [1]
+					"Trône des marées", -- [2]
 				},
-				[112671] = {
-					"Mage de bataille de la Garde crépusculaire", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[105629] = {
+					"Pillard langue-de-wyrm", -- [1]
+					"L’Arcavia", -- [2]
 				},
 				[169157] = {
 					"Tadboue", -- [1]
@@ -6907,9 +7614,9 @@ PlaterDB = {
 					"Etincelle de vie", -- [1]
 					"Siège d’Orgrimmar", -- [2]
 				},
-				[164702] = {
-					"Ver putride", -- [1]
-					"Sillage nécrotique", -- [2]
+				[129552] = {
+					"Monzumi", -- [1]
+					"Atal’Dazar", -- [2]
 				},
 				[169925] = {
 					"Serveur maugréant", -- [1]
@@ -6919,9 +7626,9 @@ PlaterDB = {
 					"Chasseur de chair ymirjar", -- [1]
 					"Cime d’Utgarde", -- [2]
 				},
-				[112153] = {
-					"Chaman redoutable", -- [1]
-					"Le Cauchemar d’émeraude", -- [2]
+				[72276] = {
+					"Amalgame de corruption", -- [1]
+					"Siège d’Orgrimmar", -- [2]
 				},
 				[164552] = {
 					"Gelée putremoelle", -- [1]
@@ -6943,13 +7650,13 @@ PlaterDB = {
 					"Destructeur gangrimprégné", -- [1]
 					"Antorus, le Trône ardent", -- [2]
 				},
-				[164897] = {
-					"Créature des brumes", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[43537] = {
+					"Sculpte-terre du Cœur-de-Pierre", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
-				[105952] = {
-					"Ame en peine de mana flétrie", -- [1]
-					"L’Arcavia", -- [2]
+				[164589] = {
+					"Graine sauvage régénératrice", -- [1]
+					"Goulet des Chanteguerres", -- [2]
 				},
 				[105721] = {
 					"Ichor cauchemardesque", -- [1]
@@ -6967,29 +7674,29 @@ PlaterDB = {
 					"Réservoir instable", -- [1]
 					"Malepeste", -- [2]
 				},
-				[174802] = {
-					"Tireur d'élite venimeux", -- [1]
-					"Malepeste", -- [2]
+				[121975] = {
+					"Aggramar", -- [1]
+					"Antorus, le Trône ardent", -- [2]
 				},
-				[72351] = {
-					"Porte-drapeau gueule-de-dragon", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[168961] = {
+					"Les Affamés", -- [1]
+					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
 				},
 				[169927] = {
 					"Boucher putride", -- [1]
 					"Théâtre de la Souffrance", -- [2]
 				},
-				[4257] = {
-					"Lana Tonnebière", -- [1]
-					"Vallée d’Alterac", -- [2]
+				[168960] = {
+					"Fulfir le Balafré", -- [1]
+					"9.0 Ardenweald Covenant Finale Drust Scenario", -- [2]
 				},
-				[113106] = {
-					"Puma malade", -- [1]
-					"Le Cauchemar d’émeraude", -- [2]
+				[174126] = {
+					"Baron Brunevide", -- [1]
+					"Château Nathria", -- [2]
 				},
-				[72943] = {
-					"Proto-drake gueule-de-dragon", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[78116] = {
+					"Wasserelementar", -- [1]
+					"Goulet des Chanteguerres", -- [2]
 				},
 				[27278] = {
 					"Zélote plaineige", -- [1]
@@ -6999,21 +7706,21 @@ PlaterDB = {
 					"Gosier-acide gueule-épine", -- [1]
 					"Brumes de Tirna Scithe", -- [2]
 				},
-				[173655] = {
-					"Matriarche voile-de-brume", -- [1]
-					"Brumes de Tirna Scithe", -- [2]
+				[34924] = {
+					"Haut-commandant Halford Verroctone", -- [1]
+					"Île des Conquérants", -- [2]
 				},
-				[26483] = {
-					"Condor os-de-dragon", -- [1]
-					"L’Heure du Crépuscule", -- [2]
+				[53006] = {
+					"Totem de lien d'esprit", -- [1]
+					"L’Œil du cyclone", -- [2]
 				},
 				[153552] = {
 					"Ame en peine larmoyante", -- [1]
 					"Tourment, la tour des Damnés", -- [2]
 				},
-				[98770] = {
-					"Gangrelame garde-courroux", -- [1]
-					"L’Arcavia", -- [2]
+				[128142] = {
+					"Engeance du Vide", -- [1]
+					"L’Œil du cyclone", -- [2]
 				},
 				[168393] = {
 					"Crache-peste", -- [1]
@@ -7031,21 +7738,21 @@ PlaterDB = {
 					"Margore", -- [1]
 					"Château Nathria", -- [2]
 				},
-				[105921] = {
-					"Sorcépée sacrenuit", -- [1]
-					"L’Arcavia", -- [2]
+				[76057] = {
+					"Ver putride", -- [1]
+					"Terres sacrées d’Ombrelune", -- [2]
 				},
-				[163157] = {
-					"Amarth", -- [1]
-					"Sillage nécrotique", -- [2]
+				[110993] = {
+					"Général Tel’arn", -- [1]
+					"Bastion du Freux", -- [2]
 				},
-				[54700] = {
-					"Sabre-de-nuit distordu par le temps", -- [1]
-					"La Fin des temps", -- [2]
+				[98900] = {
+					"Entourloupeur langue-de-wyrm", -- [1]
+					"Bastion du Freux", -- [2]
 				},
-				[54512] = {
-					"Sentinelle distordue par le temps", -- [1]
-					"La Fin des temps", -- [2]
+				[101667] = {
+					"Ancre blindée", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
 				[168394] = {
 					"Morceau gélatineux", -- [1]
@@ -7055,29 +7762,29 @@ PlaterDB = {
 					"Milhouse Tempête-de-Mana", -- [1]
 					"L’Autre côté", -- [2]
 				},
-				[157571] = {
-					"Couve-flamme antrelige", -- [1]
-					"Tourment, la tour des Damnés", -- [2]
+				[42808] = {
+					"Ecorcheur du Cœur-de-Pierre", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
-				[87448] = {
-					"Ouvrier de Fer", -- [1]
-					"Fonderie des Rochenoires", -- [2]
+				[43286] = {
+					"Eclat de cristal", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
-				[87521] = {
-					"Sculpte-scories de Fer", -- [1]
-					"Fonderie des Rochenoires", -- [2]
+				[110618] = {
+					"Cristal d’ancrage", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
-				[87771] = {
-					"Ouvrière de l’atelier des scories", -- [1]
-					"Fonderie des Rochenoires", -- [2]
+				[91970] = {
+					"Envahisseur gangregarde", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
-				[71979] = {
-					"Porteguerre kor’kron", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[102702] = {
+					"Lame-d'effroi garde-courroux", -- [1]
+					"Scénario du rivage Brisé", -- [2]
 				},
-				[73194] = {
-					"Scorpion de fer kor’kron", -- [1]
-					"Siège d’Orgrimmar", -- [2]
+				[110995] = {
+					"Général des forestiers Feleor", -- [1]
+					"Bastion du Freux", -- [2]
 				},
 				[11948] = {
 					"Vanndar Foudrepique", -- [1]
@@ -7095,17 +7802,17 @@ PlaterDB = {
 					"Saccageur gueule-épine", -- [1]
 					"Brumes de Tirna Scithe", -- [2]
 				},
-				[98733] = {
-					"Démon flétri", -- [1]
-					"L’Arcavia", -- [2]
+				[170480] = {
+					"Marche-mort atal'ai", -- [1]
+					"L’Autre côté", -- [2]
 				},
-				[81114] = {
-					"Travailleur gronnlin", -- [1]
-					"Fonderie des Rochenoires", -- [2]
+				[165481] = {
+					"Assassin de la cour", -- [1]
+					"Château Nathria", -- [2]
 				},
-				[80411] = {
-					"Tireur d’élite de Fer", -- [1]
-					"Fonderie des Rochenoires", -- [2]
+				[16061] = {
+					"Instructeur Razuvious", -- [1]
+					"Naxxramas", -- [2]
 				},
 				[16154] = {
 					"Ecuyer ressuscité", -- [1]
@@ -7119,9 +7826,9 @@ PlaterDB = {
 					"Hakkar, l'écorcheur d'âmes", -- [1]
 					"L’Autre côté", -- [2]
 				},
-				[112678] = {
-					"Naturaliste shal’dorei", -- [1]
-					"Palais Sacrenuit", -- [2]
+				[42845] = {
+					"Perforeuse des roches", -- [1]
+					"Le Cœur-de-Pierre", -- [2]
 				},
 				[167117] = {
 					"Larve gueule-épine", -- [1]
@@ -7131,28 +7838,28 @@ PlaterDB = {
 					"Athramanis", -- [1]
 					"Vallée d’Alterac", -- [2]
 				},
-				[76973] = {
-					"Hans’gar", -- [1]
-					"Fonderie des Rochenoires", -- [2]
+				[98733] = {
+					"Démon flétri", -- [1]
+					"L’Arcavia", -- [2]
 				},
-				[121975] = {
-					"Aggramar", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[40633] = {
+					"Garde d'honneur naz'jar", -- [1]
+					"Trône des marées", -- [2]
 				},
-				[122532] = {
-					"Braise de Taeshalach", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[40935] = {
+					"Chasseur gloubelin", -- [1]
+					"Trône des marées", -- [2]
 				},
-				[124828] = {
-					"Argus l'Annihilateur", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[40943] = {
+					"Aquamage gloubelin", -- [1]
+					"Trône des marées", -- [2]
 				},
-				[127809] = {
-					"Module de réorigination", -- [1]
-					"Antorus, le Trône ardent", -- [2]
+				[6112] = {
+					"Totem Furie-des-vents", -- [1]
+					"Goulet des Chanteguerres", -- [2]
 				},
-				[174126] = {
-					"Baron Brunevide", -- [1]
+				[171557] = {
+					"Ombre de Bargast", -- [1]
 					"Château Nathria", -- [2]
 				},
 			},
@@ -7210,1036 +7917,1120 @@ PlaterDB = {
 				["Dont Have Aura"] = 1,
 				["Players Targetting Amount"] = 4,
 				["Color Automation"] = 1,
-				["Hide Neutral Units"] = 1,
+				["Combo Points"] = 4,
 				["Cast Bar Icon Config"] = 2,
 				["Aura Reorder"] = 3,
-				["Combo Points"] = 4,
+				["Hide Neutral Units"] = 1,
 				["Extra Border"] = 2,
 				["Target Color"] = 3,
-				["Attacking Specific Unit"] = 1,
 				["Execute Range"] = 1,
+				["Attacking Specific Unit"] = 1,
 			},
 			["captured_spells"] = {
 				[164815] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
 					["source"] = "Kotlin",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[280375] = {
+					["source"] = "Ëdwïnd-LesSentinelles",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[53390] = {
-					["source"] = "Warogh",
+					["type"] = "BUFF",
+					["source"] = "Sacocacola-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[266047] = {
+					["source"] = "Auradon",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[115192] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Phaleon-ConfrérieduThorium",
+				[332063] = {
+					["source"] = "Shøôöt-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[326434] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Eldrades-LesSentinelles",
+					["source"] = "Balarasse-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[320805] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Magistrate convertie",
-					["npcID"] = 166867,
-				},
-				[333600] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 176334,
-				},
-				[183752] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Smullyan-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[308525] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[152279] = {
 					["type"] = "BUFF",
-					["source"] = "Zosc",
+					["source"] = "Deathx-Sinstralis",
+					["encounterID"] = 2392,
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[255909] = {
+				[193475] = {
+					["type"] = "BUFF",
+					["source"] = "Feldhoof-KirinTor",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Phaleon-ConfrérieduThorium",
 					["npcID"] = 0,
 				},
-				[323878] = {
-					["type"] = "DEBUFF",
-					["source"] = "Oryphrione",
-					["npcID"] = 162060,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2358,
-				},
-				[334625] = {
-					["npcID"] = 162061,
+				[104318] = {
+					["source"] = "Diablotin sauvage",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Déva",
-					["encounterID"] = 2359,
+					["npcID"] = 55659,
 				},
 				[342814] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
 					["source"] = "Kotlin",
 					["npcID"] = 0,
-				},
-				[331044] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Chasseur aile-d'argent",
-					["npcID"] = 169313,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[85256] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Pallanain-LesSentinelles",
 					["npcID"] = 0,
-				},
-				[331045] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Terogriffe aile-sauvage",
-					["npcID"] = 170067,
+					["source"] = "Radokan-CultedelaRivenoire",
+					["encounterID"] = 2398,
 				},
-				[17364] = {
+				[321834] = {
+					["encounterID"] = 2392,
+					["source"] = "Mandebrume",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
+					["npcID"] = 164501,
 				},
-				[331046] = {
+				[326952] = {
+					["source"] = "Plume imprégnée",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Jeune aile-d'argent",
-					["npcID"] = 169382,
+					["npcID"] = 168058,
 				},
 				[342817] = {
+					["source"] = "Güts-ConseildesOmbres",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Smullyan-LesClairvoyants",
 					["npcID"] = 0,
 				},
-				[270661] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[123254] = {
+					["source"] = "Durkydeath-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Caadius-CultedelaRivenoire",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[325418] = {
+					["source"] = "Gosier-acide gueule-épine",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 167113,
+				},
+				[270661] = {
+					["source"] = "Amartheader",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[275779] = {
+					["source"] = "Ëdwïnd-LesSentinelles",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Darkastily",
 					["npcID"] = 0,
 				},
-				[408] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Nyght-LesClairvoyants",
+				[48018] = {
+					["type"] = "BUFF",
+					["source"] = "Araena-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[118905] = {
+				[324909] = {
+					["type"] = "BUFF",
+					["source"] = "Elagueur drust",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 164926,
+				},
+				[116858] = {
+					["source"] = "Rëapër-CultedelaRivenoire",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Totem condensateur",
-					["npcID"] = 61245,
+					["npcID"] = 0,
 				},
 				[6552] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[329516] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Briseur d'os poil-de-pin",
-					["npcID"] = 167385,
-				},
-				[224953] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Luméra",
-					["npcID"] = 170661,
-				},
-				[50769] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
 				[162264] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Smullyan-LesClairvoyants",
+					["source"] = "Güts-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[221883] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Coujirouitou-CultedelaRivenoire",
 					["type"] = "BUFF",
-					["source"] = "Jookd-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[333612] = {
+				[194249] = {
+					["type"] = "BUFF",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[190411] = {
+					["source"] = "Khargan",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Chancraile vorace",
-					["npcID"] = 164623,
-				},
-				[118522] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zarkhan-ConseildesOmbres",
 					["npcID"] = 0,
 				},
-				[308026] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Protecteur de la flamme",
-					["npcID"] = 157824,
-				},
-				[115196] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Tytannya-KirinTor",
-					["npcID"] = 0,
-				},
-				[228537] = {
+				[49234] = {
+					["source"] = "Noctimus-LesClairvoyants",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Smullyan-LesClairvoyants",
+					["npcID"] = 0,
+				},
+				[324914] = {
+					["type"] = "BUFF",
+					["source"] = "Soigneuse voile-de-brume",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 166299,
+				},
+				[344361] = {
+					["source"] = "Linøtte-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[341291] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Durkydeath-KirinTor",
 					["type"] = "DEBUFF",
-					["source"] = "Charisma-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[333104] = {
+					["type"] = "BUFF",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[342316] = {
+					["source"] = "Thrent-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[118779] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Zosc",
+					["source"] = "Boros-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[3409] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Nyght-LesClairvoyants",
-					["npcID"] = 0,
+				[316218] = {
+					["source"] = "Travailleur dévoué",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 159114,
 				},
-				[203975] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[221886] = {
+					["source"] = "Edyliam-Shen'dralar",
 					["type"] = "BUFF",
-					["source"] = "Nelria-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[1715] = {
+				[64843] = {
+					["type"] = "BUFF",
+					["source"] = "Okotha-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[278350] = {
 					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["encounterID"] = 2357,
+					["source"] = "Tinéka",
+					["encounterID"] = 2398,
 				},
-				[1719] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Cassecrâne-LesClairvoyants",
+				[316220] = {
+					["type"] = "DEBUFF",
+					["source"] = "Shikamaruu-Elune",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[290121] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Nalaos-LesClairvoyants",
+					["source"] = "Evilkên-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[280398] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[323385] = {
 					["type"] = "BUFF",
-					["source"] = "Felïna-KirinTor",
+					["source"] = "Tinéka",
 					["npcID"] = 0,
-				},
-				[330038] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Narnak-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[288075] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Maluras-LesClairvoyants",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
 				[167898] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Indriya-ConfrérieduThorium",
 					["type"] = "BUFF",
-					["source"] = "Blöødeath-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[258222] = {
-					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Putriciole gavée",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 170768,
 				},
-				[327481] = {
-					["npcID"] = 162059,
+				[326457] = {
+					["source"] = "Kakyoinu",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kin-Tara",
-					["encounterID"] = 2357,
+					["npcID"] = 0,
+				},
+				[337716] = {
+					["type"] = "BUFF",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[345393] = {
+					["source"] = "Feldhoof-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eidjaz",
 					["npcID"] = 0,
 				},
 				[235450] = {
-					["source"] = "Bouloncube-ConseildesOmbres",
+					["source"] = "Shyøri-ConseildesOmbres",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[23922] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Zosc",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
 				[157153] = {
-					["source"] = "Shayleen-ConseildesOmbres",
+					["source"] = "Ixion-ConseildesOmbres",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[188370] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Ëdwïnd-LesSentinelles",
 					["type"] = "BUFF",
-					["source"] = "Darkastily",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[50259] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Eramus-ConseildesOmbres",
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[199373] = {
-					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Armée des morts",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 24207,
 				},
-				[228287] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Kedroht",
+				[64844] = {
+					["type"] = "BUFF",
+					["source"] = "Okotha-KirinTor",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[212423] = {
-					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Furtif ressuscité",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 99541,
 				},
-				[267611] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[345397] = {
+					["npcID"] = 164406,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Hurlaile",
+					["encounterID"] = 2398,
+				},
+				[290640] = {
 					["type"] = "BUFF",
-					["source"] = "Phelo",
+					["source"] = "Høpi",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[336187] = {
-					["source"] = "Ahja",
+				[3561] = {
+					["source"] = "Belledelfine",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
+				},
+				[116095] = {
+					["type"] = "DEBUFF",
+					["source"] = "Ðemoliciouz-Kazzak",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[324417] = {
+					["source"] = "Général Kaal",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162133,
 				},
 				[304971] = {
 					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Radokan-CultedelaRivenoire",
-					["encounterID"] = 2357,
+					["encounterID"] = 2398,
 				},
-				[45334] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Xzwy-KirinTor",
-					["npcID"] = 0,
+				[334653] = {
+					["source"] = "Tique gloutonne",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165076,
 				},
 				[203981] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Hamakaze-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Foeh-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[5217] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
+				[343355] = {
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["encounterID"] = 2398,
 				},
 				[5225] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Somsa-KirinTor",
-					["npcID"] = 0,
-				},
-				[335680] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Assassin |2 Kurokamy-KirinTor",
-					["npcID"] = 161846,
-				},
-				[1833] = {
+					["source"] = "Seika",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Nyght-LesClairvoyants",
 					["npcID"] = 0,
-				},
-				[335681] = {
-					["source"] = "Antre des Ulterres",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 171803,
 				},
 				[298836] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Jülïüs-LesSentinelles",
+					["source"] = "Kilaria-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[196819] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Shikamaruu-Elune",
+					["encounterID"] = 2398,
 				},
 				[7384] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Aliboulala",
 					["type"] = "BUFF",
-					["source"] = "Zosc",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[341824] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[298837] = {
 					["type"] = "BUFF",
-					["source"] = "Nakhy-LesClairvoyants",
+					["source"] = "Hioni-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[324425] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
 					["source"] = "Recrue vorkaï",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 170033,
 				},
 				[61391] = {
-					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Kotlin",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[465] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
 					["source"] = "Radokan-CultedelaRivenoire",
 					["npcID"] = 0,
-				},
-				[213708] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[121471] = {
 					["type"] = "BUFF",
-					["source"] = "Xzwy-KirinTor",
+					["source"] = "Shikamaruu-Elune",
 					["npcID"] = 0,
-				},
-				[341826] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Karukinus-KirinTor",
-					["npcID"] = 0,
-				},
-				[324427] = {
-					["npcID"] = 162060,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Oryphrione",
-					["encounterID"] = 2358,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[155625] = {
 					["type"] = "DEBUFF",
-					["source"] = "Eramus-ConseildesOmbres",
+					["source"] = "Hâze-Sargeras",
+					["encounterID"] = 2397,
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2357,
 				},
-				[114051] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[201427] = {
+					["source"] = "Güts-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[298841] = {
 					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
+					["source"] = "Grümback-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[324429] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
 					["source"] = "Recrue vorkaï",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 170033,
 				},
 				[33757] = {
+					["source"] = "Totoletaurën-CultedelaRivenoire",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
+					["npcID"] = 0,
+				},
+				[102793] = {
+					["source"] = "Høpi",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[214222] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Lolipoppy-Ysondre",
 					["type"] = "DEBUFF",
-					["source"] = "Radokan-CultedelaRivenoire",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[24275] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
-				[114052] = {
-					["source"] = "Warogh",
+				[251836] = {
+					["source"] = "Biscoteque-KirinTor",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[126462] = {
-					["source"] = "Lysia-KirinTor",
+				[305497] = {
+					["type"] = "BUFF",
+					["source"] = "Høpi",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[316244] = {
+					["source"] = "Serviteur sculpté",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 159458,
+				},
+				[205523] = {
+					["source"] = "Shiitako-Sargeras",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[198103] = {
+				[193753] = {
+					["type"] = "BUFF",
+					["source"] = "Kurm",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
-					["encounterID"] = 2359,
 				},
 				[251837] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Rhapsody-KirinTor",
+					["source"] = "Oration-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[127230] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Tyrandar-ConfrérieduThorium",
 					["type"] = "BUFF",
-					["source"] = "Ellannà-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[125439] = {
-					["source"] = "Darkmike-LesSentinelles",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[288613] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Elpistor-Sinstralis",
 					["type"] = "BUFF",
-					["source"] = "Kub",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[1943] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Phaleon-ConfrérieduThorium",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Shikamaruu-Elune",
+					["encounterID"] = 2398,
 				},
 				[185311] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Nyght-LesClairvoyants",
+					["source"] = "Shikamaruu-Elune",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[344907] = {
+					["type"] = "DEBUFF",
+					["source"] = "Smashlz-ArgentDawn",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[5761] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[1953] = {
+					["source"] = "Nuked-CultedelaRivenoire",
 					["type"] = "BUFF",
-					["source"] = "Jéroboam-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[251839] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Dèmønn-LesClairvoyants",
 					["type"] = "BUFF",
-					["source"] = "Gunthorus-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[330067] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[46168] = {
 					["type"] = "BUFF",
-					["source"] = "Panshu-Uldaman",
+					["source"] = "Zosc",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[207317] = {
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[52437] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Aliboulala",
 					["type"] = "BUFF",
-					["source"] = "Zosc",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[327509] = {
-					["source"] = "Ergheïz-LesSentinelles",
+					["source"] = "Mosiren-Anub'arak",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[334162] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[156910] = {
 					["type"] = "BUFF",
-					["source"] = "Malifis",
-					["npcID"] = 166908,
+					["source"] = "Baloz-TarrenMill",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
-				[335187] = {
+				[327510] = {
+					["source"] = "Ëdwïnd-LesSentinelles",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[342863] = {
+					["npcID"] = 164406,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Baslat",
-					["npcID"] = 176334,
+					["source"] = "Hurlaile",
+					["encounterID"] = 2398,
+				},
+				[195292] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[185313] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Shikamaruu-Elune",
+					["encounterID"] = 2398,
 				},
 				[208086] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Aliboulala",
 					["type"] = "DEBUFF",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[192222] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kahmia-KirinTor",
-					["npcID"] = 0,
-				},
-				[498] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Radokan-CultedelaRivenoire",
 					["npcID"] = 0,
 				},
-				[82326] = {
+				[327000] = {
+					["source"] = "Somango-LesSentinelles",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Radokan-CultedelaRivenoire",
 					["npcID"] = 0,
 				},
-				[322908] = {
+				[319836] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[19574] = {
 					["type"] = "BUFF",
-					["source"] = "Déva",
-					["npcID"] = 162061,
+					["source"] = "Varkhun-KirinTor",
+					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2359,
+					["encounterID"] = 2398,
+				},
+				[345936] = {
+					["npcID"] = 164406,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Hurlaile",
+					["encounterID"] = 2398,
+				},
+				[337749] = {
+					["type"] = "BUFF",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[317791] = {
-					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Magus de la mort",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 163366,
 				},
-				[324444] = {
-					["npcID"] = 162060,
+				[317792] = {
+					["source"] = "Magus de la mort",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Oryphrione",
-					["encounterID"] = 2358,
+					["npcID"] = 163366,
 				},
-				[334168] = {
+				[210391] = {
+					["type"] = "BUFF",
+					["source"] = "Varagorn-LesSentinelles",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Cytosine-KirinTor",
 					["npcID"] = 0,
 				},
-				[187874] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
+				[255937] = {
 					["npcID"] = 0,
-				},
-				[325469] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Rejeton de bile décrépit",
-					["npcID"] = 166928,
-				},
-				[324447] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zarkin",
-					["npcID"] = 170660,
+					["source"] = "Radokan-CultedelaRivenoire",
+					["encounterID"] = 2398,
 				},
 				[192225] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Sankàà-LesSentinelles",
 					["type"] = "BUFF",
-					["source"] = "Convërge-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[319843] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Traînard putride",
-					["npcID"] = 167033,
+				[48792] = {
+					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
-				[334684] = {
+				[309608] = {
+					["source"] = "Saduhem-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[73500] = {
+					["source"] = "Tanjirou",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[2050] = {
 					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["encounterID"] = 2359,
+					["source"] = "Okotha-KirinTor",
+					["encounterID"] = 2398,
 				},
-				[192226] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[309609] = {
+					["source"] = "Suçame-LesSentinelles",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[345432] = {
+					["source"] = "Mosiren-Anub'arak",
 					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 97369,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[309610] = {
+					["source"] = "Neose",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[6201] = {
+					["source"] = "Shyina-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
 				},
 				[147193] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Krile-ConseildesOmbres",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["encounterID"] = 2398,
 				},
 				[188389] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
+					["type"] = "DEBUFF",
+					["source"] = "Kakumô-ConfrérieduThorium",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[2098] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Nyght-LesClairvoyants",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Dhamballa-KirinTor",
+					["encounterID"] = 2398,
 				},
-				[335711] = {
-					["source"] = "Seigneur Herne",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 171835,
+				[309612] = {
+					["source"] = "Manzazuu-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
 				},
 				[318312] = {
+					["source"] = "Nécromancien novice",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Tisse-haine spectrale",
-					["npcID"] = 170803,
-				},
-				[329059] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[255941] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Pallanain-LesSentinelles",
-					["npcID"] = 0,
+					["npcID"] = 170026,
 				},
 				[309613] = {
-					["source"] = "Ehku-KirinTor",
+					["source"] = "Belledelfine",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[329060] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[8512] = {
+					["source"] = "Bokle-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[309614] = {
+					["source"] = "Manzazuu-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[12654] = {
+					["source"] = "Skydo-Sargeras",
 					["type"] = "DEBUFF",
-					["source"] = "Cytosine-KirinTor",
-					["npcID"] = 0,
-				},
-				[62738] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[323943] = {
-					["npcID"] = 162061,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Déva",
-					["encounterID"] = 2359,
-				},
-				[204255] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Sathyana-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[329062] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Cytosine-KirinTor",
+					["npcID"] = 0,
+				},
+				[309615] = {
+					["source"] = "Saduhem-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[309616] = {
+					["source"] = "Korregan-LesClairvoyants",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Jerone-LesSentinelles",
+					["npcID"] = 0,
+				},
+				[345439] = {
+					["source"] = "Mosiren-Anub'arak",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[546] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Kojima-ConseildesOmbres",
 					["type"] = "BUFF",
-					["source"] = "Gurukaïn",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[309617] = {
-					["source"] = "Nüts-LesSentinelles",
+					["source"] = "Pierrodiablo",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[321388] = {
-					["source"] = "Bouloncube-ConseildesOmbres",
+				[343393] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Tinéka",
+					["encounterID"] = 2398,
+				},
+				[331623] = {
+					["source"] = "Skøøs",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[309618] = {
-					["source"] = "Mæzy-KirinTor",
+				[331624] = {
+					["source"] = "Noxra-ChamberofAspects",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[338788] = {
+				[340324] = {
+					["npcID"] = 0,
+					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Darkastily",
-					["npcID"] = 0,
-				},
-				[323436] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[205025] = {
-					["source"] = "Yézod-LesClairvoyants",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
 				[556] = {
+					["source"] = "Edren-LesSentinelles",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
 					["npcID"] = 0,
 				},
-				[339301] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Akumà-KirinTor",
-					["npcID"] = 0,
-				},
-				[33697] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[89751] = {
+					["source"] = "Krenvazul",
 					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 17252,
+				},
+				[343396] = {
+					["type"] = "BUFF",
+					["source"] = "Tinéka",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[102417] = {
-					["npcID"] = 0,
-					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Kotlin",
-					["encounterID"] = 2359,
-				},
-				[145152] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[309623] = {
-					["source"] = "Mailyn-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[278919] = {
-					["source"] = "Rôdeur drust",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167696,
-				},
-				[200166] = {
+				[343399] = {
+					["type"] = "BUFF",
+					["source"] = "Shiitako-Sargeras",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Smullyan-LesClairvoyants",
 					["npcID"] = 0,
 				},
-				[322930] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Céphalochère brise-échine",
-					["npcID"] = 166930,
+				[338282] = {
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
 				},
 				[118922] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Trollfurieux-ConseildesOmbres",
+					["source"] = "Varkhun-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[11327] = {
+					["type"] = "BUFF",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[585] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Okotha-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[586] = {
+					["source"] = "Vanisia-Kazzak",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[322931] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Céphalochère brise-échine",
-					["npcID"] = 166930,
-				},
 				[309627] = {
-					["source"] = "Zalol-LesSentinelles",
+					["source"] = "Mørphine-LesClairvoyants",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[589] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Krile-ConseildesOmbres",
+					["source"] = "Kirrai-ConseildesOmbres",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[236502] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Erwinette-KirinTor",
+					["source"] = "Teldarian",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[91800] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Mâchegale",
-					["npcID"] = 26125,
+				[89753] = {
+					["source"] = "Krenvazul",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 17252,
 				},
 				[204262] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Kårine",
 					["type"] = "BUFF",
-					["source"] = "Eltaïr-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[323446] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
 					["source"] = "Phalarden flétrissant",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 170769,
 				},
-				[272272] = {
+				[596] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Baslat",
-					["npcID"] = 176334,
-				},
-				[54680] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Diablosaure",
-					["npcID"] = 165189,
+					["source"] = "Okotha-KirinTor",
+					["encounterID"] = 2398,
 				},
 				[190446] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Вугамания-СвежевательДуш",
 					["type"] = "BUFF",
-					["source"] = "Akumà-KirinTor",
-					["npcID"] = 0,
-				},
-				[111759] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Lücïfër-ConfrérieduThorium",
 					["npcID"] = 0,
 				},
 				[310143] = {
 					["type"] = "BUFF",
-					["source"] = "Kotlin",
+					["source"] = "Chatøun-LesSentinelles",
 					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2358,
-				},
-				[324984] = {
-					["source"] = "Capitaine de l'Hallali Korayn",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167951,
+					["encounterID"] = 2398,
 				},
 				[199658] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Zosc",
+					["encounterID"] = 2398,
+				},
+				[77472] = {
+					["source"] = "Sacocacola-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[53209] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zoobida-CultedelaRivenoire",
-					["npcID"] = 0,
+				[322938] = {
+					["type"] = "BUFF",
+					["source"] = "Moissonneur drust",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 164921,
 				},
 				[34914] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Krile-ConseildesOmbres",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["encounterID"] = 2398,
 				},
 				[106898] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Phaaegis-ConfrérieduThorium",
+					["source"] = "Chatøun-LesSentinelles",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[338804] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Aeshesdh-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Carnash-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[274837] = {
-					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
+				[324987] = {
+					["source"] = "Traqueur voile-de-brume",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 166301,
+				},
+				[322429] = {
+					["source"] = "Sentinelle de la chambre",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162057,
+				},
+				[309636] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Rarkem-CultedelaRivenoire",
 					["npcID"] = 0,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2357,
 				},
 				[124682] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Atec",
+					["source"] = "Linøtte-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[33763] = {
-					["source"] = "Nelunya-KirinTor",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Chatøun-LesSentinelles",
+					["encounterID"] = 2398,
 				},
-				[274838] = {
-					["type"] = "DEBUFF",
-					["source"] = "Eramus-ConseildesOmbres",
+				[309637] = {
+					["source"] = "Pretrasoin-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2357,
 				},
 				[164862] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
 					["source"] = "Kotlin",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[309638] = {
+					["source"] = "Noctimus-LesClairvoyants",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Lastdream-LesClairvoyants",
 					["npcID"] = 0,
 				},
-				[633] = {
+				[30451] = {
+					["source"] = "Shyøri-ConseildesOmbres",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Pallanain-LesSentinelles",
 					["npcID"] = 0,
 				},
 				[231390] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Loavia-ConfrérieduThorium",
 					["type"] = "BUFF",
-					["source"] = "Wahyna-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[328062] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[143625] = {
+					["source"] = "Kalhas-CultedelaRivenoire",
 					["type"] = "BUFF",
-					["source"] = "Pataugeur perturbé",
-					["npcID"] = 172070,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[288146] = {
+					["type"] = "BUFF",
+					["source"] = "Dranis-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[642] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
 					["source"] = "Radokan-CultedelaRivenoire",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
-				[340858] = {
+				[49244] = {
+					["source"] = "Noctimus-LesClairvoyants",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Briseur d'os poil-de-pin",
-					["npcID"] = 167385,
+					["npcID"] = 0,
+				},
+				[326018] = {
+					["type"] = "DEBUFF",
+					["source"] = "Larve gueule-épine",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 167117,
 				},
 				[324483] = {
-					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Recrue vorkaï",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 170033,
 				},
-				[345466] = {
+				[339324] = {
+					["type"] = "BUFF",
+					["source"] = "Orkidy-ConfrérieduThorium",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Deathdemon-ConseildesOmbres",
 					["npcID"] = 0,
+				},
+				[345466] = {
+					["type"] = "DEBUFF",
+					["source"] = "Shikamaruu-Elune",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[336767] = {
+					["source"] = "Esmiralda-ConfrérieduThorium",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kotlin",
 					["npcID"] = 0,
 				},
-				[309645] = {
+				[326021] = {
+					["source"] = "Goinfre gueule-épine",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Saigneurdr-KirinTor",
+					["npcID"] = 172312,
+				},
+				[341374] = {
+					["source"] = "Vanisia-Kazzak",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[335233] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Baslat",
-					["npcID"] = 176334,
-				},
-				[328069] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Pataugeur perturbé",
-					["npcID"] = 172070,
+				[267171] = {
+					["type"] = "BUFF",
+					["source"] = "Araena-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[335234] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
 					["source"] = "Zosc",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[131347] = {
+					["source"] = "Hamakaze-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Lemunt-LesClairvoyants",
 					["npcID"] = 0,
 				},
 				[222695] = {
-					["source"] = "Hystérique-ConfrérieduThorium",
+					["source"] = "Goldina-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[267685] = {
+					["type"] = "BUFF",
+					["source"] = "Watchmeplz-Archimonde",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[5394] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["encounterID"] = 2398,
 				},
 				[53595] = {
+					["source"] = "Ëdwïnd-LesSentinelles",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Darkastily",
 					["npcID"] = 0,
 				},
 				[190456] = {
@@ -8247,891 +9038,1082 @@ PlaterDB = {
 					["source"] = "Zosc",
 					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2357,
+					["encounterID"] = 2398,
 				},
-				[79140] = {
+				[12975] = {
+					["type"] = "BUFF",
+					["source"] = "Zosc",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[686] = {
+					["source"] = "Skøøs",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Phaleon-ConfrérieduThorium",
 					["npcID"] = 0,
 				},
 				[87840] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Devilkid-ConseildesOmbres",
+					["source"] = "Näella-KirinTor",
+					["npcID"] = 0,
+				},
+				[196342] = {
+					["type"] = "DEBUFF",
+					["source"] = "Araena-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[135700] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
+					["source"] = "Rawrpower-Kazzak",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[289184] = {
-					["source"] = "Nìco-LesClairvoyants",
+				[277925] = {
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Shikamaruu-Elune",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[346500] = {
+					["type"] = "BUFF",
+					["source"] = "Tinéka",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[2782] = {
-					["source"] = "Looloot",
+					["source"] = "Tyleena-LesClairvoyants",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[697] = {
+					["source"] = "Ryukä-LesSentinelles",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[339848] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
 					["source"] = "Inconnu",
-					["npcID"] = 58965,
-				},
-				[338825] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Isilwen-LesClairvoyants",
-					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 17252,
 				},
-				[703] = {
+				[273321] = {
+					["type"] = "BUFF",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[336267] = {
+					["type"] = "BUFF",
+					["source"] = "Okotha-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[322450] = {
+					["encounterID"] = 2393,
+					["source"] = "Tred'ova",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Tytannya-KirinTor",
-					["npcID"] = 0,
-				},
-				[61336] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
+					["npcID"] = 164517,
 				},
 				[20473] = {
+					["source"] = "Lolipoppy-Ysondre",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Radokan-CultedelaRivenoire",
+					["npcID"] = 0,
+				},
+				[288675] = {
+					["type"] = "BUFF",
+					["source"] = "Shandraï-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[49246] = {
+					["source"] = "Noctimus-LesClairvoyants",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[271788] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Arcantus-KirinTor",
 					["type"] = "DEBUFF",
-					["source"] = "Nalaos-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[341898] = {
+				[193530] = {
+					["type"] = "BUFF",
+					["source"] = "Varkhun-KirinTor",
+					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Valfir le Tenace",
-					["npcID"] = 168647,
+					["encounterID"] = 2398,
 				},
-				[281000] = {
+				[204021] = {
+					["source"] = "Hamakaze-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
 					["npcID"] = 0,
 				},
-				[331152] = {
+				[328593] = {
+					["encounterID"] = 2362,
+					["source"] = "Grande déléguée Beryllia",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Vaillant inébranlable",
-					["npcID"] = 167164,
+					["npcID"] = 162102,
 				},
 				[184575] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Pallanain-LesSentinelles",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["encounterID"] = 2398,
 				},
 				[307101] = {
+					["source"] = "Arhama-Silvermoon",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Nøsferatü-Hyjal",
 					["npcID"] = 0,
 				},
 				[16827] = {
+					["source"] = "Bearnie",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Rainbow",
 					["npcID"] = 165189,
 				},
 				[330131] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Kahmia-KirinTor",
+					["source"] = "Manau-CultedelaRivenoire",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
-				},
-				[308126] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Destructeur fongique",
-					["npcID"] = 157720,
 				},
 				[337296] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Shannyhwi-KirinTor",
+					["source"] = "Piloutte-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[115989] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Arhymann-KirinTor",
-					["npcID"] = 0,
+				[322968] = {
+					["source"] = "Malegriffe drust",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165111,
 				},
-				[331157] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[327574] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[326039] = {
+					["encounterID"] = 2362,
+					["source"] = "Grande déléguée Beryllia",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162102,
+				},
+				[113942] = {
 					["type"] = "DEBUFF",
-					["source"] = "Vaillant inébranlable",
-					["npcID"] = 167164,
+					["source"] = "Tinéka",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[337299] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Shyøri-ConseildesOmbres",
 					["type"] = "BUFF",
-					["source"] = "Akumà-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[740] = {
+					["type"] = "BUFF",
+					["source"] = "Høpi",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[193534] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Elpistor-Sinstralis",
 					["type"] = "BUFF",
-					["source"] = "Sheliss-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[57755] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Zosc",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
 				[41635] = {
 					["type"] = "BUFF",
-					["source"] = "Thadaôsx-ConseildesOmbres",
+					["source"] = "Okotha-KirinTor",
+					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[187650] = {
+					["source"] = "Athest-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[93985] = {
+					["source"] = "Hâze-Sargeras",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eramus-ConseildesOmbres",
 					["npcID"] = 0,
+				},
+				[325021] = {
+					["type"] = "DEBUFF",
+					["source"] = "Traqueur voile-de-brume",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 166301,
 				},
 				[139546] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Nyght-LesClairvoyants",
+					["source"] = "Dhamballa-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[759] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[117014] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zarkhan-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[343445] = {
+				[342423] = {
 					["type"] = "BUFF",
+					["source"] = "Borné",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[319906] = {
+				[195072] = {
+					["source"] = "Sankàà-LesSentinelles",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Etripeur suture-guerre",
-					["npcID"] = 167022,
-				},
-				[118038] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zosc",
 					["npcID"] = 0,
 				},
-				[333724] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Thhorr-ConfrérieduThorium",
-					["npcID"] = 0,
+				[325024] = {
+					["source"] = "Grand poil-granit",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 158978,
 				},
 				[768] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
+					["source"] = "Chatøun-LesSentinelles",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[345495] = {
+					["npcID"] = 175519,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Pustule écumante",
+					["encounterID"] = 2398,
+				},
+				[343960] = {
+					["type"] = "BUFF",
+					["source"] = "Dîâblotte",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[343448] = {
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[196608] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Rhudra-KirinTor",
-					["npcID"] = 0,
-				},
-				[59547] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Cytosine-KirinTor",
+				[49248] = {
+					["source"] = "Noctimus-LesClairvoyants",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[314791] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Фрудия-Ревущийфьорд",
 					["type"] = "BUFF",
-					["source"] = "Ninaea-Dalaran",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[321444] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Mylenas-KirinTor",
+					["source"] = "Kimeilljin-ConseildesOmbres",
 					["npcID"] = 0,
-				},
-				[333215] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Ame en peine aile-écorchée",
-					["npcID"] = 170822,
+					["encounterID"] = 2398,
 				},
-				[180745] = {
-					["source"] = "Frapâdingue-ConfrérieduThorium",
+				[47585] = {
 					["type"] = "BUFF",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[3110] = {
+					["npcID"] = 416,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Zigkol",
+					["encounterID"] = 2398,
+				},
+				[338333] = {
+					["type"] = "BUFF",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[111898] = {
+					["source"] = "Araena-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[781] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Trollfurieux-ConseildesOmbres",
+					["source"] = "Varkhun-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[264130] = {
+					["source"] = "Skøøs",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[783] = {
+					["source"] = "Ashame-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eramus-ConseildesOmbres",
 					["npcID"] = 0,
 				},
 				[52127] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Setenris-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Bounce",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[345499] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Linøtte-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Isilwen-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[307118] = {
-					["source"] = "Pandagero-ConfrérieduThorium",
+					["source"] = "Taopingping-LesSentinelles",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[307119] = {
-					["source"] = "Lysia-KirinTor",
+				[62618] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["encounterID"] = 2398,
+				},
+				[23161] = {
+					["source"] = "Demolis-LesClairvoyants",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[337824] = {
+					["source"] = "Ärkaneis-Hyjal",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[196099] = {
-					["source"] = "Diazepàm-KirinTor",
 					["type"] = "BUFF",
+					["source"] = "Ebori-Hyjal",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[262115] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Aliboulala",
 					["type"] = "DEBUFF",
-					["source"] = "Zosc",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[213243] = {
-					["source"] = "Ahja",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[111771] = {
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Tinéka",
+					["encounterID"] = 2398,
 				},
 				[347037] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Deathdemon-ConseildesOmbres",
+					["source"] = "Dhamballa-KirinTor",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[158486] = {
+					["source"] = "Aurelia-Sargeras",
 					["type"] = "BUFF",
-					["source"] = "Hystérique-ConfrérieduThorium",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[342432] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Chatøun-LesSentinelles",
+					["encounterID"] = 2398,
 				},
 				[8690] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eramus-ConseildesOmbres",
+					["source"] = "Chatøun-LesSentinelles",
 					["npcID"] = 0,
 				},
 				[329127] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Pusessa-ChamberofAspects",
 					["type"] = "DEBUFF",
-					["source"] = "Zoobida-CultedelaRivenoire",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[21562] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Olorin-ConfrérieduThorium",
+					["source"] = "Okotha-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[333734] = {
+					["source"] = "Linøtte-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[325034] = {
-					["source"] = "Capitaine de l'Hallali Korayn",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167951,
-				},
-				[324523] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[338340] = {
 					["type"] = "BUFF",
-					["source"] = "Varham-CultedelaRivenoire",
+					["source"] = "Ixion-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[194310] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Arhymann-KirinTor",
-					["npcID"] = 0,
-				},
-				[326059] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Skinwalker-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[115994] = {
+					["source"] = "Cúailnge-Sargeras",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Arhymann-KirinTor",
 					["npcID"] = 0,
 				},
-				[325036] = {
-					["source"] = "Capitaine de l'Hallali Korayn",
+				[153626] = {
+					["source"] = "Shyøri-ConseildesOmbres",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167951,
+					["npcID"] = 0,
+				},
+				[342435] = {
+					["type"] = "BUFF",
+					["source"] = "Chatøun-LesSentinelles",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[190984] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kotlin",
+					["encounterID"] = 2398,
+				},
+				[187146] = {
+					["type"] = "BUFF",
+					["source"] = "Quieth-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[85673] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Radokan-CultedelaRivenoire",
+					["encounterID"] = 2398,
+				},
+				[56222] = {
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
 				},
 				[108446] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
 					["source"] = "Inconnu",
-					["npcID"] = 58965,
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 17252,
 				},
 				[818] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Redhoriel-KirinTor",
+					["source"] = "Zosc",
 					["npcID"] = 0,
 				},
-				[339368] = {
+				[321968] = {
+					["source"] = "Villageoise tirnenn",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Abomination",
-					["npcID"] = 158259,
+					["npcID"] = 164929,
 				},
-				[217597] = {
+				[83243] = {
+					["source"] = "Flaiche-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[228600] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Souffle-LesClairvoyants",
 					["npcID"] = 0,
 				},
-				[326064] = {
+				[338858] = {
+					["source"] = "Nurgash Fangeformé",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Calista-LesSentinelles",
+					["npcID"] = 167526,
+				},
+				[335276] = {
+					["source"] = "Aeshesdh-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[317877] = {
+					["source"] = "Commandant sombraile",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165267,
 				},
 				[15407] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Krile-ConseildesOmbres",
+					["source"] = "Kirrai-ConseildesOmbres",
 					["npcID"] = 0,
-				},
-				[298431] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Krile-ConseildesOmbres",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
 				[185358] = {
+					["source"] = "Elpistor-Sinstralis",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Trollfurieux-ConseildesOmbres",
 					["npcID"] = 0,
 				},
 				[53600] = {
+					["source"] = "Ëdwïnd-LesSentinelles",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Darkastily",
 					["npcID"] = 0,
 				},
-				[327602] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Gorm de guerre",
-					["npcID"] = 170933,
+				[316855] = {
+					["source"] = "Commandant sombraile",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165267,
 				},
 				[321973] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Vanisia-Kazzak",
 					["type"] = "BUFF",
-					["source"] = "Krile-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[845] = {
+				[83244] = {
+					["source"] = "Elpistor-Sinstralis",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Пейнтер-Борейскаятундра",
 					["npcID"] = 0,
 				},
 				[53] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Maëlendra-KirinTor",
-					["npcID"] = 0,
+					["source"] = "Shikamaruu-Elune",
+					["encounterID"] = 2398,
 				},
-				[337327] = {
-					["type"] = "BUFF",
-					["source"] = "Azathot-LesSentinelles",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[225788] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[853] = {
+				[334768] = {
+					["source"] = "Doboros-ConfrérieduThorium",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Radokan-CultedelaRivenoire",
 					["npcID"] = 0,
 				},
-				[339376] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[309181] = {
+					["source"] = "Katah-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[338863] = {
+					["source"] = "Nurgash Fangeformé",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 167526,
+				},
+				[34026] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Varkhun-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[317882] = {
 					["type"] = "DEBUFF",
-					["source"] = "Kementai-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[338864] = {
+					["source"] = "Nurgash Fangeformé",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 167526,
 				},
 				[160029] = {
 					["type"] = "DEBUFF",
-					["source"] = "Kotlin",
+					["source"] = "Mimes-KirinTor",
 					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2358,
+					["encounterID"] = 2398,
 				},
-				[27576] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Phaleon-ConfrérieduThorium",
+				[324536] = {
 					["npcID"] = 0,
-				},
-				[257518] = {
-					["source"] = "Saccageur tombedrust",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167694,
+					["source"] = "Tinéka",
+					["encounterID"] = 2398,
+				},
+				[232698] = {
+					["type"] = "BUFF",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[338867] = {
+					["source"] = "Nurgash Fangeformé",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 167526,
 				},
 				[871] = {
 					["type"] = "BUFF",
 					["source"] = "Zosc",
 					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2357,
+					["encounterID"] = 2398,
 				},
-				[257519] = {
-					["source"] = "Saccageur tombedrust",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 167694,
-				},
-				[345521] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[338868] = {
+					["source"] = "Nurgash Fangeformé",
 					["type"] = "BUFF",
-					["source"] = "Incinérateur stygien",
-					["npcID"] = 156203,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 167526,
+				},
+				[341427] = {
+					["source"] = "Imlerïth-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
 				},
 				[176151] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Shashïn-LesClairvoyants",
 					["type"] = "BUFF",
-					["source"] = "Nÿnnä-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[263642] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Sathyana-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[319935] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Etripeur suture-guerre",
-					["npcID"] = 167022,
-				},
-				[4987] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[345523] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Incinérateur stygien",
-					["npcID"] = 156203,
-				},
-				[883] = {
-					["source"] = "Zëkhæ",
+					["source"] = "Hamakaze-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[330683] = {
-					["type"] = "DEBUFF",
-					["source"] = "Throrik-Hyjal",
+				[77489] = {
+					["type"] = "BUFF",
+					["source"] = "Okotha-KirinTor",
 					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2359,
+					["encounterID"] = 2398,
 				},
-				[16191] = {
-					["source"] = "Shayleen-ConseildesOmbres",
+				[334776] = {
+					["source"] = "Aurelia-Sargeras",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[321471] = {
+					["type"] = "BUFF",
+					["source"] = "Mandebrume",
+					["encounterID"] = 2392,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 164501,
+				},
+				[264667] = {
+					["npcID"] = 165189,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Fenryr",
+					["encounterID"] = 2398,
+				},
+				[224001] = {
+					["type"] = "BUFF",
+					["source"] = "Faitpeur-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[307143] = {
+					["source"] = "Chämalö-LesSentinelles",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[26297] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Kotlin",
+					["source"] = "Kakumô-ConfrérieduThorium",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[338872] = {
+					["source"] = "Nurgash Fangeformé",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 167526,
 				},
 				[30455] = {
+					["source"] = "Вугамания-СвежевательДуш",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Carhiba-LesSentinelles",
 					["npcID"] = 0,
 				},
-				[319938] = {
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[333756] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Xiraël-KirinTor",
+				[69046] = {
+					["source"] = "Vitalysia",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[261616] = {
-					["source"] = "Inconnu",
 					["type"] = "BUFF",
+					["source"] = "Katy Siffletimbre",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 132969,
 				},
-				[323010] = {
+				[327104] = {
+					["source"] = "Linøtte-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Déva",
-					["npcID"] = 162061,
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2359,
+					["npcID"] = 0,
 				},
 				[203277] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Imkà-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Nabucor-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[335805] = {
-					["npcID"] = 0,
-					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2359,
+					["npcID"] = 0,
 				},
-				[324547] = {
+				[119582] = {
+					["source"] = "Shiitako-Sargeras",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Khaaha-ConfrérieduThorium",
 					["npcID"] = 0,
 				},
 				[107428] = {
+					["source"] = "Linøtte-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Convërge-KirinTor",
 					["npcID"] = 0,
 				},
 				[24858] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
 					["source"] = "Kotlin",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[196881] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Crispyrolls",
+				[334271] = {
+					["type"] = "BUFF",
+					["source"] = "Myyr-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[5211] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Awaki-LesSentinelles",
+				[269279] = {
+					["type"] = "BUFF",
+					["source"] = "Dranis-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[320966] = {
-					["npcID"] = 162059,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kin-Tara",
-					["encounterID"] = 2357,
+				[345530] = {
+					["source"] = "Arcantus-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[228354] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Вугамания-СвежевательДуш",
 					["type"] = "DEBUFF",
-					["source"] = "Akumà-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[345019] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Zosc",
+					["source"] = "Alyana-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[116768] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[308685] = {
+					["source"] = "Gratoss-LesClairvoyants",
 					["type"] = "BUFF",
-					["source"] = "Convërge-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[336322] = {
-					["source"] = "Dromane Aliothe",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 167288,
-				},
-				[213771] = {
+				[265187] = {
+					["source"] = "Skøøs",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eramus-ConseildesOmbres",
+					["npcID"] = 0,
+				},
+				[297941] = {
+					["type"] = "BUFF",
+					["source"] = "Zélome-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[286171] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Anorexic-LesSentinelles",
 					["npcID"] = 0,
 				},
 				[315341] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Deathdemon-ConseildesOmbres",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Dhamballa-KirinTor",
+					["encounterID"] = 2398,
 				},
 				[132403] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Ëdwïnd-LesSentinelles",
 					["type"] = "BUFF",
-					["source"] = "Darkastily",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[345535] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[3714] = {
 					["type"] = "BUFF",
-					["source"] = "Varham-CultedelaRivenoire",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[196884] = {
+				[331718] = {
+					["type"] = "BUFF",
+					["source"] = "Défenseur voile-de-brume",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 171772,
+				},
+				[307666] = {
+					["source"] = "Meuhhoui-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Crispyrolls",
+					["npcID"] = 0,
+				},
+				[322507] = {
+					["type"] = "BUFF",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[132404] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
 					["source"] = "Zosc",
 					["npcID"] = 0,
-				},
-				[273892] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Traqueur des ombres affamé",
-					["npcID"] = 168620,
-				},
-				[202770] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Glapie-CultedelaRivenoire",
+					["encounterID"] = 2398,
+				},
+				[323020] = {
+					["source"] = "Malegriffe drust",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165111,
+				},
+				[157736] = {
+					["source"] = "Rëapër-CultedelaRivenoire",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[101545] = {
+					["source"] = "Shaär-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Convërge-KirinTor",
 					["npcID"] = 0,
 				},
 				[228358] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Вугамания-СвежевательДуш",
 					["type"] = "DEBUFF",
-					["source"] = "Akumà-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[342980] = {
+				[326092] = {
+					["type"] = "DEBUFF",
+					["source"] = "Saccageur gueule-épine",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Hibinos-KirinTor",
-					["npcID"] = 0,
-				},
-				[324046] = {
-					["type"] = "BUFF",
-					["source"] = "Oryphrione",
-					["npcID"] = 162060,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2358,
+					["npcID"] = 167116,
 				},
 				[227847] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Aliboulala",
 					["type"] = "BUFF",
-					["source"] = "Zosc",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[335305] = {
+					["source"] = "Gardien des profondeurs",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 171799,
 				},
 				[203795] = {
+					["source"] = "Hamakaze-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Foeh-LesSentinelles",
 					["npcID"] = 0,
-				},
-				[320465] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ecorchaile le Cruel",
-					["npcID"] = 167078,
 				},
 				[339400] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Trollfurieux-ConseildesOmbres",
+					["source"] = "Varkhun-KirinTor",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
-				[188443] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
+				[264173] = {
+					["source"] = "Skøøs",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[101546] = {
+					["source"] = "Fienad-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kedroht",
-					["npcID"] = 0,
-				},
-				[330701] = {
-					["source"] = "Kirgvald",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 172231,
-				},
-				[325584] = {
-					["source"] = "Kotlin",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[341449] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Maxximiliane-ConfrérieduThorium",
 					["type"] = "BUFF",
-					["source"] = "Amonir",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[325585] = {
-					["source"] = "Kotlin",
+				[307162] = {
+					["source"] = "Mosiren-Anub'arak",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[203285] = {
+					["type"] = "BUFF",
+					["source"] = "Tutine-Hyjal",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[88625] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Okotha-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[307675] = {
+					["source"] = "Yrélia-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[319956] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Rejeton de bile décrépit",
-					["npcID"] = 166928,
-				},
-				[157228] = {
+				[336845] = {
+					["source"] = "Noxra-ChamberofAspects",
 					["type"] = "BUFF",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2357,
+					["npcID"] = 0,
 				},
 				[345545] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Keyenn-KirinTor",
+					["source"] = "Dhamballa-KirinTor",
 					["npcID"] = 0,
 				},
-				[215056] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Sabrecroc illusoire",
-					["npcID"] = 170879,
-				},
-				[11426] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[22812] = {
 					["type"] = "BUFF",
-					["source"] = "Akumà-KirinTor",
+					["source"] = "Chatøun-LesSentinelles",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[264689] = {
+					["type"] = "DEBUFF",
+					["source"] = "Varkhun-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[345546] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Cytosine-KirinTor",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[264178] = {
+					["source"] = "Skøøs",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[974] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[265202] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Okotha-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[31224] = {
+					["source"] = "Katrana-LesClairvoyants",
 					["type"] = "BUFF",
-					["source"] = "Zarkhan-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[270831] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Trompeur voile-de-brume",
-					["npcID"] = 170879,
-				},
-				[307166] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Petitpetit-ConseildesOmbres",
+				[346059] = {
+					["source"] = "Kotlin",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
+				},
+				[980] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Tinéka",
+					["encounterID"] = 2398,
 				},
 				[100780] = {
+					["source"] = "Linøtte-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kedroht",
 					["npcID"] = 0,
 				},
-				[982] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Marianagetth-CultedelaRivenoire",
+				[346060] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wuzzu-LesClairvoyants",
 					["npcID"] = 0,
 				},
-				[334802] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Emmý-KirinTor",
+				[146739] = {
+					["type"] = "DEBUFF",
+					["source"] = "Tinéka",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[315356] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
 					["source"] = "Sac de caravanier",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 162001,
 				},
-				[290793] = {
-					["source"] = "Astekaw-KirinTor",
+				[334292] = {
 					["type"] = "BUFF",
+					["source"] = "Myyr-KirinTor",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[334292] = {
-					["source"] = "Alunÿs-KirinTor",
-					["type"] = "BUFF",
+				[145205] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Chatøun-LesSentinelles",
+					["encounterID"] = 2398,
+				},
+				[330711] = {
+					["npcID"] = 164406,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Hurlaile",
+					["encounterID"] = 2398,
+				},
+				[304612] = {
+					["type"] = "DEBUFF",
+					["source"] = "Poupondegerr-LesSentinelles",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[201754] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Diablosaure",
 					["npcID"] = 165189,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Fenryr",
+					["encounterID"] = 2398,
+				},
+				[197916] = {
+					["source"] = "Linøtte-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[111400] = {
-					["source"] = "Appollyon-LesSentinelles",
 					["type"] = "BUFF",
+					["source"] = "Viserya-KirinTor",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[347600] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Edren-LesSentinelles",
 					["type"] = "BUFF",
-					["source"] = "Daëva-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[115750] = {
-					["npcID"] = 0,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["encounterID"] = 2357,
-				},
-				[319966] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[334295] = {
+					["source"] = "Adés-LesClairvoyants",
 					["type"] = "BUFF",
-					["source"] = "Ecorchaile le Cruel",
-					["npcID"] = 167078,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[105771] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Aliboulala",
 					["type"] = "DEBUFF",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[207640] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Bawonsamedi-ConseildesOmbres",
 					["npcID"] = 0,
 				},
-				[8042] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zarkhan-ConseildesOmbres",
+				[236298] = {
+					["source"] = "Фрудия-Ревущийфьорд",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[132157] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["encounterID"] = 2398,
 				},
 				[317920] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "ßrolii-CultedelaRivenoire",
 					["type"] = "BUFF",
-					["source"] = "Mouèlleuse-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[32216] = {
@@ -9140,360 +10122,410 @@ PlaterDB = {
 					["source"] = "Zosc",
 					["npcID"] = 0,
 				},
-				[262652] = {
+				[320991] = {
+					["source"] = "Danse-brume régalien",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162038,
+				},
+				[322527] = {
+					["type"] = "DEBUFF",
+					["source"] = "Tred'ova",
+					["encounterID"] = 2393,
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 164517,
+				},
+				[132158] = {
 					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
+					["source"] = "Chatøun-LesSentinelles",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[263165] = {
+					["type"] = "BUFF",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[207386] = {
+					["source"] = "Plantmaster-Arthas",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[197919] = {
+					["source"] = "Linøtte-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[188196] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["encounterID"] = 2398,
 				},
-				[327648] = {
+				[321507] = {
+					["source"] = "Shyøri-ConseildesOmbres",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Inquisitrice désavouée",
-					["npcID"] = 168418,
+					["npcID"] = 0,
 				},
-				[345048] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[121253] = {
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[331743] = {
 					["type"] = "BUFF",
-					["source"] = "Xzwy-KirinTor",
+					["source"] = "Gardien voile-de-brume",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 166276,
+				},
+				[49576] = {
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
 				},
-				[80313] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Xzwy-KirinTor",
-					["npcID"] = 0,
-				},
-				[345561] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 163077,
-				},
-				[194594] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[210714] = {
 					["type"] = "BUFF",
-					["source"] = "Lîra",
+					["source"] = "Kakumô-ConfrérieduThorium",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[193315] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Nyght-LesClairvoyants",
+					["source"] = "Dhamballa-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[257284] = {
+					["source"] = "Arcantus-KirinTor",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[331234] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Vaillant inébranlable",
-					["npcID"] = 167164,
-				},
-				[325605] = {
-					["source"] = "Ecraseur infâme",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 167697,
-				},
-				[1064] = {
+				[320999] = {
+					["source"] = "Danse-brume régalien",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
+					["npcID"] = 164852,
+				},
+				[323558] = {
+					["type"] = "BUFF",
+					["source"] = "Shikamaruu-Elune",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[343005] = {
+					["npcID"] = 164406,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Hurlaile",
+					["encounterID"] = 2398,
 				},
 				[100784] = {
+					["source"] = "Linøtte-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kedroht",
 					["npcID"] = 0,
 				},
 				[323559] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Kiorahh-ConseildesOmbres",
+					["source"] = "Shikamaruu-Elune",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[2139] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[309231] = {
-					["source"] = "Katsuragî-ConfrérieduThorium",
+				[257541] = {
+					["source"] = "Skydo-Sargeras",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[339424] = {
+					["source"] = "Hamakaze-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[323560] = {
+					["type"] = "BUFF",
+					["source"] = "Shikamaruu-Elune",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[254471] = {
+					["source"] = "Feaz",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[209693] = {
+					["source"] = "Hamakaze-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Foeh-LesSentinelles",
 					["npcID"] = 0,
 				},
 				[55078] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Disaenera-KirinTor",
+					["source"] = "Mimes-KirinTor",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[8676] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Phaleon-ConfrérieduThorium",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Dhamballa-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[325097] = {
+					["type"] = "BUFF",
+					["source"] = "Inconnu",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 167996,
 				},
 				[29722] = {
+					["source"] = "Rëapër-CultedelaRivenoire",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Filmine-LesSentinelles",
 					["npcID"] = 0,
 				},
 				[53351] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Trollfurieux-ConseildesOmbres",
-					["npcID"] = 0,
+					["source"] = "Varkhun-KirinTor",
+					["encounterID"] = 2398,
 				},
-				[330727] = {
-					["source"] = "Kirgvald",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 172231,
-				},
-				[307187] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[254472] = {
 					["type"] = "BUFF",
-					["source"] = "Kaeen-KirinTor",
+					["source"] = "Junnon-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[329704] = {
+					["source"] = "Orbe funeste",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 169447,
 				},
 				[271877] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Deathdemon-ConseildesOmbres",
 					["npcID"] = 0,
-				},
-				[309235] = {
-					["source"] = "Katsuragî-ConfrérieduThorium",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
+					["source"] = "Dhamballa-KirinTor",
+					["encounterID"] = 2398,
 				},
 				[289277] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Kirath-LesClairvoyants",
+					["source"] = "Zosc",
 					["npcID"] = 0,
 				},
 				[343011] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Hamakaze-KirinTor",
 					["type"] = "DEBUFF",
-					["source"] = "Kurokamy-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[203554] = {
-					["source"] = "Nelunya-KirinTor",
 					["type"] = "BUFF",
+					["source"] = "Høpi",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[309236] = {
-					["source"] = "Katsuragî-ConfrérieduThorium",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[317936] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Soigneur désavoué",
-					["npcID"] = 163459,
-				},
-				[330730] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[336871] = {
 					["type"] = "BUFF",
-					["source"] = "Wéifeng",
+					["source"] = "Kakumô-ConfrérieduThorium",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[325101] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
 					["source"] = "Régisseur",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 166663,
 				},
-				[309237] = {
-					["source"] = "Katsuragî-ConfrérieduThorium",
-					["event"] = "SPELL_CAST_SUCCESS",
+				[184364] = {
+					["type"] = "BUFF",
+					["source"] = "Kélèvra-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[343013] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Hamakaze-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Foeh-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[339943] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
 					["source"] = "Kotlin",
 					["npcID"] = 0,
-				},
-				[321009] = {
-					["npcID"] = 162059,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kin-Tara",
-					["encounterID"] = 2357,
-				},
-				[81340] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Arhymann-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[116011] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[335851] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Katsïn",
-					["npcID"] = 0,
-				},
-				[77758] = {
+				[325104] = {
+					["source"] = "Amashyr-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eramus-ConseildesOmbres",
 					["npcID"] = 0,
 				},
 				[339946] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
 					["source"] = "Kotlin",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[69826] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Kooh-KirinTor",
+					["source"] = "Barakouda-KirinTor",
 					["npcID"] = 0,
 				},
 				[1160] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Zosc",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
-				[262161] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[291843] = {
+				[53480] = {
+					["source"] = "Pdt-TwistingNether",
 					["type"] = "BUFF",
-					["source"] = "Jeanfrançois-KirinTor",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[309243] = {
-					["source"] = "Katsuragî-ConfrérieduThorium",
+				[262161] = {
+					["source"] = "Aliboulala",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[184367] = {
+					["source"] = "Boros-Sinstralis",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[332272] = {
-					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Oisillon régisseur",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 170039,
 				},
-				[331249] = {
-					["type"] = "DEBUFF",
-					["source"] = "Azules",
-					["npcID"] = 163077,
+				[203814] = {
+					["type"] = "BUFF",
+					["source"] = "Bug-KirinTor",
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2357,
-				},
-				[132169] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Zosc",
 					["npcID"] = 0,
 				},
 				[334320] = {
 					["type"] = "BUFF",
-					["source"] = "Invojin-ConseildesOmbres",
+					["source"] = "Ebori-Hyjal",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[6795] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eramus-ConseildesOmbres",
+				[48107] = {
+					["source"] = "Skydo-Sargeras",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[321527] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[2383] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Bounce",
+					["source"] = "Okotha-KirinTor",
 					["npcID"] = 0,
-				},
-				[331251] = {
-					["type"] = "DEBUFF",
-					["source"] = "Azules",
-					["npcID"] = 163077,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2357,
 				},
 				[195627] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Nyght-LesClairvoyants",
+					["source"] = "Dhamballa-KirinTor",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[292359] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Tsukuyomi-LesClairvoyants",
 					["type"] = "BUFF",
-					["source"] = "Jazken-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[97462] = {
 					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Zosc",
-					["encounterID"] = 2359,
+					["encounterID"] = 2398,
 				},
 				[292360] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Zorca-LesSentinelles",
+					["source"] = "Zephýria-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[259597] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Plume-des-nuées en manque d'anima",
-					["npcID"] = 158110,
+				[324089] = {
+					["type"] = "BUFF",
+					["source"] = "Kotlin",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[343024] = {
+					["type"] = "DEBUFF",
+					["source"] = "Hurlaile",
+					["npcID"] = 164406,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[292361] = {
 					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
+					["source"] = "Radokan-CultedelaRivenoire",
 					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2358,
+					["encounterID"] = 2398,
 				},
 				[336372] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Pusessa-ChamberofAspects",
 					["type"] = "BUFF",
-					["source"] = "Glapie-CultedelaRivenoire",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[345072] = {
-					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Oisillon régisseur",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 170039,
 				},
-				[292362] = {
-					["type"] = "BUFF",
-					["source"] = "Ashima-KirinTor",
+				[321020] = {
+					["type"] = "DEBUFF",
+					["source"] = "Maître chasseur effroyable",
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
+					["npcID"] = 171448,
 				},
-				[185394] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Lyandre-LesSentinelles",
-					["npcID"] = 0,
+				[340467] = {
+					["npcID"] = 173756,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["encounterID"] = 2398,
 				},
 				[345073] = {
-					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Recrue vorkaï",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 170033,
 				},
 				[292363] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Kwaptof-KirinTor",
-					["npcID"] = 0,
-				},
-				[107570] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
+					["source"] = "Dhamballa-KirinTor",
 					["npcID"] = 0,
 				},
 				[97463] = {
@@ -9501,1469 +10533,3193 @@ PlaterDB = {
 					["source"] = "Zosc",
 					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2359,
+					["encounterID"] = 2398,
 				},
-				[207400] = {
-					["source"] = "Warogh",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[47788] = {
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Okotha-KirinTor",
+					["encounterID"] = 2398,
 				},
 				[292364] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "ßrolii-CultedelaRivenoire",
 					["type"] = "BUFF",
-					["source"] = "Tyardouf-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[195630] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Rhudra-KirinTor",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[187698] = {
+					["source"] = "Noxra-ChamberofAspects",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Marianagetth-CultedelaRivenoire",
 					["npcID"] = 0,
 				},
-				[336887] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Naelandy-Vol'jin",
-					["npcID"] = 0,
-				},
-				[327164] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[48108] = {
+					["source"] = "Skydo-Sargeras",
 					["type"] = "BUFF",
-					["source"] = "Skinwalker-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[12051] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[334329] = {
+					["source"] = "Rondier en chef Javlo",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 171376,
 				},
 				[119085] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Zemirato-LesSentinelles",
 					["type"] = "BUFF",
-					["source"] = "Rhudra-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[271896] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Deathdemon-ConseildesOmbres",
+				[308742] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kumaroku-KirinTor",
 					["npcID"] = 0,
 				},
 				[203819] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Hamakaze-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Kurokamy-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[202028] = {
+				[134477] = {
+					["source"] = "Inconnu",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 17252,
+				},
+				[307720] = {
+					["source"] = "Oregan-Pozzodell'Eternità",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Hibinos-KirinTor",
 					["npcID"] = 0,
 				},
-				[324608] = {
-					["npcID"] = 162060,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Oryphrione",
-					["encounterID"] = 2358,
+				[236060] = {
+					["source"] = "Skydo-Sargeras",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[228128] = {
+					["type"] = "BUFF",
+					["source"] = "Papalegbå-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[108211] = {
-					["source"] = "Estor-KirinTor",
 					["type"] = "BUFF",
+					["source"] = "Amûthiel-LesClairvoyants",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[5116] = {
+					["source"] = "Noxra-ChamberofAspects",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Sheliss-KirinTor",
 					["npcID"] = 0,
 				},
 				[77762] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Zarkhan-ConseildesOmbres",
+					["source"] = "Kakumô-ConfrérieduThorium",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[264735] = {
+					["source"] = "Bearnie",
 					["type"] = "BUFF",
-					["source"] = "Bambou",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 165189,
 				},
-				[338939] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Lance-putréfaction",
-					["npcID"] = 167055,
-				},
 				[260881] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Edren-LesSentinelles",
 					["type"] = "BUFF",
-					["source"] = "Valicane-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[317959] = {
+				[33076] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Fustigatrice désavouée",
-					["npcID"] = 163458,
+					["source"] = "Okotha-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[321029] = {
+					["source"] = "Dvorak-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[160067] = {
+					["source"] = "Itsy",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165189,
 				},
 				[345082] = {
 					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[257044] = {
+				[56041] = {
+					["source"] = "Noctimus-LesClairvoyants",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Lîra",
 					["npcID"] = 0,
 				},
-				[320007] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Ecorchaile le Cruel",
-					["npcID"] = 167078,
-				},
-				[342525] = {
-					["source"] = "Rune d'ancrage",
+				[257044] = {
+					["source"] = "Elpistor-Sinstralis",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 173708,
+					["npcID"] = 0,
 				},
 				[2643] = {
+					["source"] = "Hakkan-Hyjal",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Marianagetth-CultedelaRivenoire",
 					["npcID"] = 0,
 				},
-				[340479] = {
+				[320009] = {
+					["type"] = "BUFF",
+					["source"] = "Chatøun-LesSentinelles",
+					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Ecorchaile le Cruel",
-					["npcID"] = 167078,
+					["encounterID"] = 2398,
 				},
 				[8613] = {
+					["source"] = "Kotlin",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Isilwen-LesClairvoyants",
+					["npcID"] = 0,
+				},
+				[322569] = {
+					["type"] = "BUFF",
+					["source"] = "Tranchâmes drust",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 172991,
+				},
+				[325640] = {
+					["source"] = "Skøøs",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[77764] = {
-					["source"] = "Smallwill-KirinTor",
 					["type"] = "BUFF",
+					["source"] = "Kysoke-ConfrérieduThorium",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[195125] = {
+				[332294] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "DEBUFF",
+					["source"] = "Destructeur affamé",
+					["npcID"] = 164261,
+				},
+				[108853] = {
+					["source"] = "Skydo-Sargeras",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Trollfurieux-ConseildesOmbres",
 					["npcID"] = 0,
 				},
 				[325130] = {
+					["source"] = "Фрудия-Ревущийфьорд",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ninaea-Dalaran",
 					["npcID"] = 0,
 				},
 				[289308] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Carhiba-LesSentinelles",
+					["source"] = "Netrake-Stormscale",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[329737] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Phaleon-ConfrérieduThorium",
+				[107574] = {
+					["type"] = "BUFF",
+					["source"] = "Zosc",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[334343] = {
-					["source"] = "Morati",
 					["type"] = "BUFF",
+					["source"] = "Myyr-KirinTor",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[328203] = {
+				[321038] = {
+					["source"] = "Oppresseuse malfaisante",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162039,
+				},
+				[344067] = {
+					["type"] = "DEBUFF",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[338438] = {
 					["type"] = "BUFF",
-					["source"] = "Hellion désavoué",
-					["npcID"] = 168681,
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[345091] = {
-					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Oisillon régisseur",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 170039,
 				},
 				[155722] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Eramus-ConseildesOmbres",
+					["source"] = "Chatøun-LesSentinelles",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[334345] = {
 					["type"] = "BUFF",
-					["source"] = "Ärès-KirinTor",
+					["source"] = "Myyr-KirinTor",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[32379] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Krile-ConseildesOmbres",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["encounterID"] = 2398,
 				},
-				[330765] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[58729] = {
 					["type"] = "BUFF",
-					["source"] = "Shirõ-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[320019] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Etripeur suture-guerre",
-					["npcID"] = 167022,
-				},
-				[192058] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[132951] = {
+					["source"] = "Guide spirituel taunka",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Baedos",
-					["npcID"] = 160629,
+					["npcID"] = 31841,
+				},
+				[324623] = {
+					["type"] = "BUFF",
+					["source"] = "Inconnu",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 166589,
+				},
+				[263725] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[191034] = {
+					["type"] = "BUFF",
+					["source"] = "Kotlin",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[55211] = {
+					["source"] = "Noctimus-LesClairvoyants",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[204596] = {
+					["source"] = "Hamakaze-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
 				},
 				[2823] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Phaleon-ConfrérieduThorium",
+					["source"] = "Xayne-LesSentinelles",
 					["npcID"] = 0,
 				},
 				[338955] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Inconnu",
+					["source"] = "Ravageur sombre-terrier",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 166179,
 				},
 				[18562] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kotlin",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Chatøun-LesSentinelles",
+					["encounterID"] = 2398,
 				},
 				[345097] = {
-					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Purotin dégoulinant",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 170045,
 				},
-				[346121] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[328210] = {
 					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 171581,
-				},
-				[16739] = {
+					["source"] = "Vaderrhyzer-KirinTor",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Convërge-KirinTor",
 					["npcID"] = 0,
 				},
-				[49966] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Coursier",
-					["npcID"] = 165189,
+				[16739] = {
+					["source"] = "Døuleur-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
-				[344587] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Salhyndra-CultedelaRivenoire",
+				[199736] = {
+					["type"] = "BUFF",
+					["source"] = "Strykher-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[204598] = {
+					["source"] = "Hamakaze-KirinTor",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[165961] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Ashame-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[185152] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Lieur de flamme magmatique",
-					["npcID"] = 157820,
-				},
-				[337936] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[334353] = {
 					["type"] = "BUFF",
-					["source"] = "Ankehl-KirinTor",
+					["source"] = "Aldonne-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[36213] = {
-					["npcID"] = 95072,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Elémentaire de terre supérieur",
-					["encounterID"] = 2359,
-				},
-				[1464] = {
-					["event"] = "SPELL_CAST_SUCCESS",
+				[327701] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
 					["source"] = "Zosc",
 					["npcID"] = 0,
 				},
-				[327704] = {
-					["source"] = "Mahs",
-					["type"] = "BUFF",
+				[324631] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Wuzzu-LesClairvoyants",
 					["npcID"] = 0,
 				},
-				[320028] = {
+				[1464] = {
+					["source"] = "Aliboulala",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Chair de guerre massive",
-					["npcID"] = 166932,
+					["npcID"] = 0,
 				},
-				[199483] = {
+				[323609] = {
+					["source"] = "Saduhem-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[327704] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Luciole-ConfrérieduThorium",
+					["source"] = "Okotha-KirinTor",
+					["npcID"] = 0,
+				},
+				[316958] = {
+					["source"] = "Ëdwïnd-LesSentinelles",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[327705] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Gearraï-KirinTor",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+				},
+				[268854] = {
+					["type"] = "BUFF",
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[1490] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Hamakaze-KirinTor",
 					["type"] = "DEBUFF",
-					["source"] = "Foeh-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[327706] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[2983] = {
 					["type"] = "BUFF",
-					["source"] = "Hornain",
+					["source"] = "Shikamaruu-Elune",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[190784] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
-				[51886] = {
-					["npcID"] = 0,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
-					["encounterID"] = 2359,
-				},
-				[339990] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[265273] = {
+					["source"] = "Skøøs",
 					["type"] = "BUFF",
-					["source"] = "Radokan-CultedelaRivenoire",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[317985] = {
+				[268856] = {
+					["type"] = "BUFF",
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[345107] = {
+					["source"] = "Lolipoppy-Ysondre",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Chef d'escouade désavouée",
-					["npcID"] = 163520,
+					["npcID"] = 0,
+				},
+				[287280] = {
+					["source"] = "Lolipoppy-Ysondre",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[327709] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Dælhynã",
-					["npcID"] = 0,
-				},
-				[344597] = {
-					["source"] = "Celèste-ConfrérieduThorium",
-					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Leelvael-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[115767] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
 					["source"] = "Zosc",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
-				[307753] = {
+				[324128] = {
+					["source"] = "Deathx-Sinstralis",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Xzwy-KirinTor",
 					["npcID"] = 0,
 				},
-				[319012] = {
+				[345110] = {
+					["source"] = "Plantmaster-Arthas",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Traqueur patte-d'or",
-					["npcID"] = 168943,
+					["npcID"] = 0,
+				},
+				[320035] = {
+					["source"] = "Mosiren-Anub'arak",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[267325] = {
+					["type"] = "BUFF",
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[18499] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Zosc",
+					["source"] = "Dvo-Uldum",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[334877] = {
+					["source"] = "Général Kaal",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162099,
 				},
 				[341530] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
 					["source"] = "Zonkill-CultedelaRivenoire",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[334879] = {
-					["source"] = "Bannière",
+				[337948] = {
 					["type"] = "BUFF",
+					["source"] = "Okotha-KirinTor",
+					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 171510,
+					["encounterID"] = 2398,
+				},
+				[267327] = {
+					["type"] = "BUFF",
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[335903] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Bokle-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Crispyrolls",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[118455] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Hakkan-Hyjal",
 					["type"] = "BUFF",
-					["source"] = "Marianagetth-CultedelaRivenoire",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[267329] = {
+					["type"] = "BUFF",
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[341533] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Phaleon-ConfrérieduThorium",
+					["source"] = "Kaemä-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[335904] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Bokle-KirinTor",
 					["type"] = "DEBUFF",
-					["source"] = "Crispyrolls",
-					["npcID"] = 0,
-				},
-				[347163] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Forgerune stygien",
-					["npcID"] = 170157,
-				},
-				[99] = {
-					["source"] = "Looloot",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[289848] = {
-					["source"] = "Traqueur des ombres sombre-croc",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 173024,
-				},
-				[340512] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ecorchaile le Cruel",
-					["npcID"] = 167078,
-				},
-				[124213] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Eraria-LesClairvoyants",
 					["npcID"] = 0,
+				},
+				[267330] = {
+					["type"] = "BUFF",
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[212283] = {
+					["type"] = "BUFF",
+					["source"] = "Shikamaruu-Elune",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[267331] = {
+					["type"] = "BUFF",
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[101568] = {
+					["type"] = "BUFF",
+					["source"] = "Deathly-Hyjal",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[59052] = {
+					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[187464] = {
+					["type"] = "DEBUFF",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[100] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Zosc",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
 				[235313] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Skydo-Sargeras",
 					["type"] = "BUFF",
-					["source"] = "Ecsy-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[1604] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Duelliste honorée",
 					["type"] = "DEBUFF",
-					["source"] = "Wyrm d'éther insatiable",
-					["npcID"] = 172704,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 165265,
 				},
-				[319022] = {
+				[198793] = {
+					["source"] = "Quieth-LesSentinelles",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[212743] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Shikamaruu-Elune",
+					["encounterID"] = 2398,
+				},
+				[1822] = {
+					["source"] = "Droodjam-LesSentinelles",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[309620] = {
+					["source"] = "Admonk-LesSentinelles",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[307096] = {
+					["source"] = "Jhiera-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[256739] = {
+					["type"] = "BUFF",
+					["source"] = "Nykytok-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[325163] = {
+					["source"] = "Défenseur voile-de-brume",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 171772,
+				},
+				[308899] = {
+					["source"] = "Kotlin",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[5211] = {
+					["source"] = "Kotlin",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[108280] = {
+					["type"] = "BUFF",
+					["source"] = "Watchmeplz-Archimonde",
+					["encounterID"] = 2393,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[326281] = {
+					["encounterID"] = 2393,
+					["source"] = "Tred'ova",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 164517,
+				},
+				[323629] = {
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[322654] = {
+					["encounterID"] = 2393,
+					["source"] = "Tred'ova",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 164517,
+				},
+				[101643] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Abomination",
-					["npcID"] = 158259,
-				},
-				[225080] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Throrik-Hyjal",
+					["source"] = "Atec",
 					["npcID"] = 0,
+				},
+				[326046] = {
+					["type"] = "BUFF",
+					["source"] = "Corne-cerf gueule-épine",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 167111,
+				},
+				[280615] = {
+					["type"] = "BUFF",
+					["source"] = "Watchmeplz-Archimonde",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[338471] = {
+					["encounterID"] = 2360,
+					["source"] = "Kryxis le Vorace",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162100,
+				},
+				[312372] = {
+					["type"] = "BUFF",
+					["source"] = "Exonard-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[326090] = {
+					["source"] = "Saccageur gueule-épine",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 167116,
 				},
 				[6572] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Zosc",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
-				[56814] = {
-					["type"] = "BUFF",
-					["source"] = "Skruteftw-Ysondre",
+				[326017] = {
+					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[1066] = {
+					["type"] = "BUFF",
+					["source"] = "Kotlin",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[331574] = {
+					["source"] = "Mandebrume",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 170217,
 				},
 				[317491] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Aliboulala",
 					["type"] = "DEBUFF",
-					["source"] = "Ædann-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[248622] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[321669] = {
+					["encounterID"] = 2392,
+					["source"] = "Clone illusoire",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165108,
+				},
+				[314421] = {
+					["source"] = "Razmokët-CultedelaRivenoire",
 					["type"] = "BUFF",
-					["source"] = "Varham-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[228920] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Temis",
-					["npcID"] = 0,
-				},
-				[324146] = {
-					["npcID"] = 162058,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ventunax",
-					["encounterID"] = 2356,
-				},
-				[51505] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zarkhan-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[3355] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[114108] = {
+					["type"] = "BUFF",
+					["source"] = "Chatøun-LesSentinelles",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[321725] = {
+					["type"] = "BUFF",
+					["source"] = "Clone illusoire",
+					["encounterID"] = 2392,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 165108,
+				},
+				[322098] = {
+					["source"] = "Vanisia-Kazzak",
 					["type"] = "DEBUFF",
-					["source"] = "Animous-KirinTor",
-					["npcID"] = 0,
-				},
-				[20707] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Gratoss-LesClairvoyants",
 					["npcID"] = 0,
 				},
-				[343594] = {
+				[290467] = {
+					["source"] = "Sankàà-LesSentinelles",
+					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Falhannar-KirinTor",
 					["npcID"] = 0,
 				},
-				[324148] = {
-					["npcID"] = 162058,
+				[336752] = {
+					["type"] = "DEBUFF",
+					["source"] = "Mandebrume",
+					["encounterID"] = 2392,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 164501,
+				},
+				[49376] = {
+					["source"] = "Hâze-Sargeras",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ventunax",
-					["encounterID"] = 2356,
+					["npcID"] = 0,
 				},
-				[62124] = {
+				[268877] = {
+					["source"] = "Hakkan-Hyjal",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[78675] = {
+					["source"] = "Kotlin",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Darkastily",
 					["npcID"] = 0,
 				},
-				[203846] = {
-					["type"] = "BUFF",
-					["source"] = "Ecko",
+				[203123] = {
+					["type"] = "DEBUFF",
+					["source"] = "Hâze-Sargeras",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[334896] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[185422] = {
 					["type"] = "BUFF",
-					["source"] = "Arhymann-KirinTor",
+					["source"] = "Shikamaruu-Elune",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[22570] = {
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[1680] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Zosc",
+					["encounterID"] = 2398,
+				},
+				[290372] = {
+					["type"] = "BUFF",
+					["source"] = "Silentmagic-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[334381] = {
+					["source"] = "Scribe chercheuse",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 171384,
+				},
+				[196937] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Dhamballa-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[49184] = {
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[207684] = {
+					["source"] = "Güts-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[49143] = {
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[324149] = {
+					["source"] = "Pusessa-ChamberofAspects",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[117952] = {
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[6788] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Krile-ConseildesOmbres",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[755] = {
+					["source"] = "Araena-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[324662] = {
-					["type"] = "DEBUFF",
-					["source"] = "Kin-Tara",
-					["npcID"] = 162059,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2357,
+				[124506] = {
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
 				},
-				[193356] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[267326] = {
 					["type"] = "BUFF",
-					["source"] = "Deathdemon-ConseildesOmbres",
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[3411] = {
+					["source"] = "Ichiramen-Hyjal",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[323639] = {
+					["source"] = "Zergerie-Ysondre",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[109248] = {
+					["source"] = "Athest-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[119611] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Linøtte-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Wéifeng",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[340528] = {
+				[324164] = {
+					["type"] = "DEBUFF",
+					["source"] = "Deathx-Sinstralis",
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[19236] = {
 					["type"] = "BUFF",
-					["source"] = "Ecorchaile le Cruel",
-					["npcID"] = 167078,
+					["source"] = "Wuzzu-LesClairvoyants",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[324165] = {
+					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[17253] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Diablosaure",
 					["npcID"] = 165189,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Fenryr",
+					["encounterID"] = 2398,
 				},
 				[193357] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Deathdemon-ConseildesOmbres",
+					["source"] = "Dhamballa-KirinTor",
 					["npcID"] = 0,
-				},
-				[206151] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
-				[314942] = {
+				[319547] = {
+					["source"] = "Assemblage stèle du vice",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Goliath sombre",
-					["npcID"] = 166869,
+					["npcID"] = 159233,
 				},
-				[324154] = {
-					["type"] = "DEBUFF",
-					["source"] = "Ventunax",
-					["npcID"] = 162058,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2356,
-				},
-				[327225] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[211805] = {
 					["type"] = "BUFF",
-					["source"] = "Darkastily",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[322109] = {
+				[326712] = {
+					["source"] = "Acolyte noire",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Convërge-KirinTor",
+					["npcID"] = 167956,
+				},
+				[321019] = {
+					["source"] = "Danse-brume régalien",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162038,
+				},
+				[51124] = {
+					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[211793] = {
+					["type"] = "DEBUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[196770] = {
+					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[193358] = {
+					["type"] = "BUFF",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[279303] = {
+					["type"] = "DEBUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[331721] = {
+					["type"] = "DEBUFF",
+					["source"] = "Défenseur voile-de-brume",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 171772,
+				},
+				[47540] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["encounterID"] = 2398,
+				},
+				[207203] = {
+					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[64044] = {
+					["source"] = "Vanisia-Kazzak",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[196941] = {
+					["source"] = "Lolipoppy-Ysondre",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[205385] = {
+					["source"] = "Célesto-ConseildesOmbres",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Lücïfër-ConfrérieduThorium",
 					["npcID"] = 0,
 				},
-				[297034] = {
+				[193359] = {
 					["type"] = "BUFF",
-					["source"] = "Ombelyne-KirinTor",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[45524] = {
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[51271] = {
+					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[274838] = {
+					["type"] = "DEBUFF",
+					["source"] = "Hâze-Sargeras",
+					["encounterID"] = 2397,
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[116670] = {
+					["source"] = "Linøtte-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Mewko-Ysondre",
 					["npcID"] = 0,
 				},
 				[297035] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Carhiba-LesSentinelles",
+					["source"] = "Schana-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[330299] = {
-					["source"] = "Yulkatar le Cruel",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 162298,
-				},
-				[1776] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Létal-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[325183] = {
+				[1766] = {
+					["source"] = "Orphilla-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Destructeur fongique",
-					["npcID"] = 157720,
+					["npcID"] = 0,
+				},
+				[274837] = {
+					["type"] = "BUFF",
+					["source"] = "Hâze-Sargeras",
+					["encounterID"] = 2397,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[47541] = {
+					["encounterID"] = 2397,
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[323059] = {
+					["encounterID"] = 2397,
+					["source"] = "Dromane Oulfarran",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 164804,
+				},
+				[2825] = {
+					["type"] = "BUFF",
+					["source"] = "Watchmeplz-Archimonde",
+					["encounterID"] = 2397,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[127801] = {
+					["type"] = "BUFF",
+					["source"] = "Sac de frappe de navets",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 65310,
+				},
+				[194384] = {
+					["type"] = "BUFF",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[344118] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Ëdwïnd-LesSentinelles",
 					["type"] = "BUFF",
-					["source"] = "Zarkhan-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[323057] = {
+					["encounterID"] = 2397,
+					["source"] = "Ingra Maloch",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 164567,
 				},
 				[1784] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Nyght-LesClairvoyants",
+					["source"] = "Shikamaruu-Elune",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[24450] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Roxor",
 					["type"] = "BUFF",
-					["source"] = "Rainbow",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 165189,
 				},
-				[320067] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Poustouf",
-					["npcID"] = 170643,
+				[321772] = {
+					["type"] = "BUFF",
+					["source"] = "Dromane Oulfarran",
+					["encounterID"] = 2397,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 164804,
 				},
-				[20484] = {
+				[261424] = {
+					["source"] = "Ertael-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[212552] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[102342] = {
 					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kotlin",
-					["encounterID"] = 2358,
+					["source"] = "Chatøun-LesSentinelles",
+					["encounterID"] = 2398,
 				},
 				[297039] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Tylos-KirinTor",
+					["source"] = "Blackâ-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[184662] = {
+					["type"] = "BUFF",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[115008] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Rhudra-KirinTor",
+					["source"] = "Atec",
+					["npcID"] = 0,
+				},
+				[321006] = {
+					["type"] = "BUFF",
+					["source"] = "Ingra Maloch",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 164567,
+				},
+				[297040] = {
+					["source"] = "Chuun-LesClairvoyants",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[200015] = {
+					["source"] = "Troian",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[78674] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Kotlin",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
 				[182104] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Ëdwïnd-LesSentinelles",
 					["type"] = "BUFF",
-					["source"] = "Darkastily",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[333887] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Astronos",
-					["npcID"] = 168845,
+				[321005] = {
+					["source"] = "Ingra Maloch",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 164567,
 				},
 				[260402] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Elpistor-Sinstralis",
 					["type"] = "BUFF",
-					["source"] = "Nalaos-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
+				[338274] = {
+					["type"] = "DEBUFF",
+					["source"] = "Graine d'hydre",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 172995,
+				},
 				[5221] = {
+					["source"] = "Hâze-Sargeras",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eramus-ConseildesOmbres",
 					["npcID"] = 0,
 				},
 				[342076] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Nalaos-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[1822] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[16870] = {
-					["source"] = "Shubert-KirinTor",
+					["source"] = "Arcantus-KirinTor",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[319560] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Wyrm d'éther insatiable",
-					["npcID"] = 172704,
-				},
-				[5277] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Létal-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[309326] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Caadius-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[78675] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[34428] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[1850] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Hibinos-KirinTor",
-					["npcID"] = 0,
-				},
-				[55090] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Arhymann-KirinTor",
-					["npcID"] = 0,
-				},
-				[8679] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Nyght-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[51124] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Ankehl-KirinTor",
-					["npcID"] = 0,
-				},
-				[340546] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kylaea-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[205648] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[325706] = {
-					["source"] = "Fulfir le Balafré",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 168960,
-				},
-				[31935] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Darkastily",
-					["npcID"] = 0,
-				},
-				[218954] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Traqueur de la clairière alarmé par le brouillard",
-					["npcID"] = 172071,
-				},
-				[66906] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kirath-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[175456] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Létal-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[32223] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kirath-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[33917] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[326733] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Pallanain-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[106951] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[48438] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[320081] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Poustouf",
-					["npcID"] = 170643,
-				},
-				[218956] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Traqueur de la clairière alarmé par le brouillard",
-					["npcID"] = 172071,
-				},
-				[156779] = {
-					["type"] = "BUFF",
-					["source"] = "Hëmera-KirinTor",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[192090] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[206931] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Disaenera-KirinTor",
-					["npcID"] = 0,
-				},
-				[20549] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Awaki-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[223819] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[281178] = {
 					["type"] = "BUFF",
 					["source"] = "Radokan-CultedelaRivenoire",
 					["npcID"] = 0,
-				},
-				[211793] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[16870] = {
+					["type"] = "BUFF",
+					["source"] = "Chatøun-LesSentinelles",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[73685] = {
+					["type"] = "BUFF",
+					["source"] = "Watchmeplz-Archimonde",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[342077] = {
 					["type"] = "DEBUFF",
-					["source"] = "Ankehl-KirinTor",
+					["source"] = "Hurlaile",
+					["npcID"] = 164406,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[338268] = {
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[5277] = {
+					["type"] = "BUFF",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[207693] = {
+					["source"] = "Hamakaze-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[340162] = {
+					["type"] = "BUFF",
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[318038] = {
+					["source"] = "Patcham-LesClairvoyants",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
+					["npcID"] = 0,
+				},
+				[298068] = {
+					["source"] = "Attryon-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[345078] = {
+					["source"] = "Nécromancien novice",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 170026,
+				},
+				[275699] = {
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[252216] = {
+					["type"] = "BUFF",
+					["source"] = "Lolicat-TarrenMill",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[81340] = {
+					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[1850] = {
+					["type"] = "BUFF",
+					["source"] = "Chatøun-LesSentinelles",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[2061] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Okotha-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[8679] = {
+					["source"] = "Amartheader",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[1856] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Dhamballa-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[308474] = {
+					["source"] = "Shashïn-LesClairvoyants",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[198838] = {
+					["source"] = "Watchmeplz-Archimonde",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[340546] = {
+					["type"] = "BUFF",
+					["source"] = "Chatøun-LesSentinelles",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[325027] = {
+					["type"] = "DEBUFF",
+					["source"] = "Elagueur drust",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 164926,
+				},
+				[118905] = {
+					["source"] = "Totem condensateur",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 61245,
+				},
+				[313424] = {
+					["type"] = "BUFF",
+					["source"] = "Gnöm-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[31935] = {
+					["source"] = "Ëdwïnd-LesSentinelles",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[334918] = {
+					["source"] = "Brute insatiable",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162047,
+				},
+				[322939] = {
+					["type"] = "DEBUFF",
+					["source"] = "Moissonneur drust",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 164921,
+				},
+				[61999] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[324923] = {
+					["source"] = "Elagueur drust",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 164926,
+				},
+				[192058] = {
+					["source"] = "Watchmeplz-Archimonde",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[341572] = {
+					["type"] = "BUFF",
+					["source"] = "Shikamaruu-Elune",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[106839] = {
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[247454] = {
+					["source"] = "Nephelene-Al'Akir",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[32223] = {
+					["source"] = "Pâlâdînâ-Proudmoore",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[51514] = {
+					["source"] = "Watchmeplz-Archimonde",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[300155] = {
+					["source"] = "Villageoise tirnenn",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 164929,
+				},
+				[210824] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[320592] = {
+					["source"] = "Essaim de piqueurs",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 175566,
+				},
+				[106951] = {
+					["type"] = "BUFF",
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[48438] = {
+					["type"] = "BUFF",
+					["source"] = "Chatøun-LesSentinelles",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[121536] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["encounterID"] = 2398,
+				},
+				[42650] = {
+					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[266030] = {
+					["source"] = "Rëapër-CultedelaRivenoire",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[223306] = {
+					["type"] = "BUFF",
+					["source"] = "Vælephør-CultedelaRivenoire",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[113860] = {
+					["type"] = "BUFF",
+					["source"] = "Tinéka",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[99659] = {
+					["source"] = "Hydria-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[16191] = {
+					["source"] = "Watchmeplz-Archimonde",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[156779] = {
+					["source"] = "Abie-CultedelaRivenoire",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[322487] = {
+					["type"] = "DEBUFF",
+					["source"] = "Villageoise tirnenn",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 164929,
+				},
+				[192090] = {
+					["type"] = "DEBUFF",
+					["source"] = "Mërcî-Ysondre",
+					["encounterID"] = 2361,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[22568] = {
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[322486] = {
+					["source"] = "Villageoise tirnenn",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 164929,
+				},
+				[20549] = {
+					["source"] = "Høpi",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[223819] = {
+					["source"] = "Lolipoppy-Ysondre",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[209746] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Izî-CultedelaRivenoire",
+					["npcID"] = 0,
+				},
+				[185438] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Shikamaruu-Elune",
+					["encounterID"] = 2398,
+				},
+				[11366] = {
+					["source"] = "Skydo-Sargeras",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[77130] = {
+					["source"] = "Watchmeplz-Archimonde",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[325203] = {
+					["type"] = "DEBUFF",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[267611] = {
+					["type"] = "BUFF",
+					["source"] = "Waankha-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[340556] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Eramus-ConseildesOmbres",
+					["source"] = "Rawrpower-Kazzak",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[152175] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Convërge-KirinTor",
-					["npcID"] = 0,
-				},
-				[328275] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[64695] = {
 					["type"] = "DEBUFF",
-					["source"] = "Marianagetth-CultedelaRivenoire",
-					["npcID"] = 0,
+					["source"] = "Totem de poigne de terre",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 60561,
 				},
-				[310877] = {
+				[51485] = {
+					["source"] = "Watchmeplz-Archimonde",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Bellora-LesClairvoyants",
 					["npcID"] = 0,
 				},
-				[117828] = {
+				[197721] = {
+					["type"] = "BUFF",
+					["source"] = "Chatøun-LesSentinelles",
+					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Nôstra-LesSentinelles",
+					["encounterID"] = 2398,
+				},
+				[122] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[291944] = {
+				[115994] = {
+					["type"] = "DEBUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[115989] = {
 					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[332514] = {
+					["type"] = "BUFF",
+					["source"] = "Zosc",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[330323] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2359,
+					["encounterID"] = 2398,
 				},
-				[246851] = {
+				[245686] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Marianagetth-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[46968] = {
-					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Zosc",
 					["npcID"] = 0,
 				},
-				[49143] = {
+				[310877] = {
+					["source"] = "Kahzä",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ankehl-KirinTor",
+					["npcID"] = 0,
+				},
+				[322767] = {
+					["source"] = "Moissonneur drust",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 164921,
+				},
+				[1966] = {
+					["type"] = "BUFF",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[73920] = {
+					["source"] = "Watchmeplz-Archimonde",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[202028] = {
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[117828] = {
+					["source"] = "Rëapër-CultedelaRivenoire",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[330325] = {
+					["source"] = "Boros-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[319255] = {
+					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[319245] = {
+					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[323673] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["encounterID"] = 2398,
+				},
+				[46968] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Zosc",
+					["encounterID"] = 2398,
+				},
+				[316509] = {
+					["source"] = "Séide malveillant",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 159577,
+				},
+				[325209] = {
+					["type"] = "BUFF",
+					["source"] = "Hurrycané-Alleria",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[319233] = {
+					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[53365] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Bigfout-ConseildesOmbres",
+					["source"] = "Ethériam-Archimonde",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[13877] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Nyght-LesClairvoyants",
+				[63560] = {
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[308410] = {
+					["source"] = "Vulfpex-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[246852] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Marianagetth-CultedelaRivenoire",
+					["source"] = "Varkhun-KirinTor",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[91800] = {
+					["type"] = "DEBUFF",
+					["source"] = "Grondepierre",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 26125,
+				},
+				[316511] = {
+					["source"] = "Serviteur sculpté",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 159458,
 				},
 				[8004] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["encounterID"] = 2398,
 				},
 				[19750] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Radokan-CultedelaRivenoire",
+					["encounterID"] = 2398,
+				},
+				[340564] = {
+					["source"] = "Hydre dévorante",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 169206,
+				},
+				[148539] = {
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[17735] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 1860,
-				},
-				[17767] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[322557] = {
 					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 1860,
+					["source"] = "Tranchâmes drust",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 172991,
 				},
-				[326236] = {
-					["source"] = "Kotlin",
+				[325092] = {
+					["type"] = "BUFF",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[191840] = {
+					["source"] = "Linøtte-KirinTor",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[324701] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ecsy-LesSentinelles",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Chatøun-LesSentinelles",
+					["encounterID"] = 2398,
+				},
+				[227151] = {
+					["type"] = "BUFF",
+					["source"] = "Shikamaruu-Elune",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[331866] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ghuulkarn",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
 				},
-				[326237] = {
-					["source"] = "Kotlin",
+				[323043] = {
+					["source"] = "Malegriffe drust",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
+					["npcID"] = 165111,
 				},
 				[8092] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Krile-ConseildesOmbres",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["encounterID"] = 2398,
+				},
+				[85948] = {
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[292463] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[194509] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["encounterID"] = 2398,
+				},
+				[328285] = {
+					["source"] = "Duelliste honoré",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165265,
+				},
+				[315496] = {
 					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
+					["source"] = "Shikamaruu-Elune",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[292463] = {
+					["type"] = "BUFF",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[325727] = {
+					["source"] = "Høpi",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[344662] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Kementai-LesClairvoyants",
+					["source"] = "Sôngröku-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[347221] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Marz",
-					["npcID"] = 158259,
-				},
-				[344663] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[328906] = {
 					["type"] = "BUFF",
-					["source"] = "Ecorchaile le Cruel",
-					["npcID"] = 167078,
+					["source"] = "Hollybuffle-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
-				[328799] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Champion osséin",
-					["npcID"] = 170820,
+				[322967] = {
+					["type"] = "BUFF",
+					["source"] = "Malegriffe drust",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 165111,
+				},
+				[321010] = {
+					["type"] = "DEBUFF",
+					["source"] = "Ingra Maloch",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 164567,
+				},
+				[328287] = {
+					["source"] = "Duelliste honorée",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 165265,
+				},
+				[321952] = {
+					["type"] = "BUFF",
+					["source"] = "Villageoise tirnenn",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 164929,
 				},
 				[12294] = {
+					["source"] = "Aliboulala",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
 					["npcID"] = 0,
 				},
-				[323682] = {
+				[338011] = {
+					["source"] = "Boue primordiale",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Tirailleur désavoué",
-					["npcID"] = 163501,
+					["npcID"] = 166206,
 				},
-				[328288] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Veilleur désavoué",
-					["npcID"] = 168718,
+				[2060] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Okotha-KirinTor",
+					["encounterID"] = 2398,
 				},
 				[45242] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Krile-ConseildesOmbres",
+					["source"] = "Wuzzu-LesClairvoyants",
 					["npcID"] = 0,
-				},
-				[207707] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Avant-garde désavouée",
-					["npcID"] = 163457,
+					["encounterID"] = 2398,
+				},
+				[17962] = {
+					["source"] = "Rëapër-CultedelaRivenoire",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
 				},
 				[191587] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Arhymann-KirinTor",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[342618] = {
+				[238259] = {
+					["source"] = "Revnaki-Outland",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Marz",
-					["npcID"] = 158259,
+					["npcID"] = 0,
 				},
-				[105421] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[238269] = {
+					["source"] = "Revnaki-Outland",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[115804] = {
+					["source"] = "Aliboulala",
 					["type"] = "DEBUFF",
-					["source"] = "Radokan-CultedelaRivenoire",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[344154] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Ankehl-KirinTor",
+					["source"] = "Mimes-KirinTor",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[281209] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Vaderrhyzer-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Ankehl-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[341084] = {
-					["source"] = "Ingra Drif",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167702,
+				[273947] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
-				[324197] = {
-					["source"] = "Mynoi-KirinTor",
+				[104773] = {
+					["type"] = "BUFF",
+					["source"] = "Araena-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[193635] = {
+					["npcID"] = 98167,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Tentacule du Vide",
+					["encounterID"] = 2398,
+				},
+				[334432] = {
+					["type"] = "BUFF",
+					["source"] = "Myyr-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[201072] = {
+					["type"] = "BUFF",
+					["source"] = "Shacola-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[102351] = {
+					["type"] = "BUFF",
+					["source"] = "Høpi",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[342627] = {
+					["source"] = "Général Draven",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 166219,
+				},
+				[133] = {
+					["source"] = "Skydo-Sargeras",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[202335] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[342624] = {
+					["source"] = "Général Draven",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 166219,
+				},
+				[203975] = {
+					["source"] = "Yùhé-LesClairvoyants",
 					["type"] = "BUFF",
-					["source"] = "Seiichi-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[109132] = {
+					["source"] = "Wongchan-Draenor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Atec",
 					["npcID"] = 0,
 				},
-				[54710] = {
-					["source"] = "Fyfie-ConseildesOmbres",
+				[332777] = {
+					["source"] = "Esmiralda-ConfrérieduThorium",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[323821] = {
+					["encounterID"] = 2363,
+					["source"] = "Général Kaal",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162099,
+				},
+				[328231] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Varkhun-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[311406] = {
+					["source"] = "Boljin-ConseildesOmbres",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
+				},
+				[301683] = {
+					["source"] = "Gazally-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[108294] = {
+					["type"] = "BUFF",
+					["source"] = "Mërcî-Ysondre",
+					["encounterID"] = 2363,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[326718] = {
+					["source"] = "Cadet sanguin",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 167955,
 				},
 				[114250] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Phelo",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[8680] = {
+					["source"] = "Amartheader",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[328295] = {
+				[331401] = {
+					["type"] = "BUFF",
+					["source"] = "Général Kaal",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 162133,
+				},
+				[345695] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Veilleur désavoué",
-					["npcID"] = 168718,
+					["source"] = "Okotha-KirinTor",
+					["encounterID"] = 2398,
 				},
-				[343648] = {
+				[327814] = {
+					["type"] = "DEBUFF",
+					["source"] = "Général Kaal",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kotlin",
+					["npcID"] = 162133,
+				},
+				[324202] = {
 					["npcID"] = 0,
-				},
-				[329831] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Ædann-KirinTor",
-					["npcID"] = 0,
-				},
-				[340578] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Fleur gloutonne",
-					["npcID"] = 169205,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["encounterID"] = 2398,
 				},
 				[106830] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Eramus-ConseildesOmbres",
+					["source"] = "Tanjirou",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[345696] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Norgildor-LesClairvoyants",
 					["type"] = "BUFF",
-					["source"] = "Kotlin",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[212061] = {
+				[289212] = {
+					["type"] = "DEBUFF",
+					["source"] = "Барабара-Гордунни",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 170665,
+					["npcID"] = 0,
 				},
-				[340579] = {
+				[334438] = {
+					["type"] = "BUFF",
+					["source"] = "Myyr-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[347047] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["encounterID"] = 2398,
+				},
+				[342122] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["npcID"] = 0,
+				},
+				[135299] = {
+					["source"] = "Noxra-ChamberofAspects",
 					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[118345] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Elémentaire de terre primordial",
-					["npcID"] = 61056,
+				[139] = {
+					["type"] = "BUFF",
+					["source"] = "Okotha-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
-				[324205] = {
-					["npcID"] = 162058,
+				[334753] = {
+					["type"] = "BUFF",
+					["source"] = "Cadet sanguin",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 167955,
+				},
+				[337510] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[50842] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ventunax",
-					["encounterID"] = 2356,
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[108238] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Chatøun-LesSentinelles",
+					["encounterID"] = 2398,
 				},
 				[108366] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Krùhl-KirinTor",
+					["source"] = "Tinéka",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[337511] = {
+					["source"] = "Pahanamage-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[339560] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Пейнтер-Борейскаятундра",
+				[206930] = {
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[327107] = {
+					["type"] = "BUFF",
+					["encounterID"] = 2362,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[325254] = {
+					["encounterID"] = 2362,
+					["source"] = "Grande déléguée Beryllia",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162102,
+				},
+				[337512] = {
+					["source"] = "ßrolii-CultedelaRivenoire",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[311413] = {
+					["source"] = "Dvorak-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[322554] = {
+					["encounterID"] = 2361,
+					["source"] = "Exécuteur Tarvold",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162103,
+				},
+				[343142] = {
+					["source"] = "Katrana-LesClairvoyants",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[322212] = {
+					["type"] = "DEBUFF",
+					["source"] = "Vestige de doute",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 162049,
 				},
 				[315508] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Deathdemon-ConseildesOmbres",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Dhamballa-KirinTor",
+					["encounterID"] = 2398,
 				},
-				[334443] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Ecsy-LesSentinelles",
+				[34433] = {
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["encounterID"] = 2398,
+				},
+				[331278] = {
+					["type"] = "BUFF",
+					["source"] = "Inconnu",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 170109,
 				},
 				[335467] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Krile-ConseildesOmbres",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["encounterID"] = 2398,
 				},
 				[55095] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Ankehl-KirinTor",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[335306] = {
+					["type"] = "DEBUFF",
+					["source"] = "Gardien des profondeurs",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 171799,
 				},
 				[192106] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
+					["source"] = "Kakumô-ConfrérieduThorium",
 					["npcID"] = 0,
 				},
+				[335308] = {
+					["source"] = "Gardien des profondeurs",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 171799,
+				},
+				[334377] = {
+					["source"] = "Scribe chercheuse",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 171805,
+				},
 				[90328] = {
+					["type"] = "BUFF",
+					["source"] = "Inconnu",
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 165189,
+				},
+				[186265] = {
+					["type"] = "BUFF",
+					["source"] = "Coupdouz-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[61684] = {
 					["type"] = "BUFF",
 					["source"] = "Hati",
 					["npcID"] = 165189,
-				},
-				[61684] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Diablosaure",
-					["npcID"] = 165189,
+					["encounterID"] = 2398,
 				},
 				[329840] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Zosc",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
 				[328305] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Phaleon-ConfrérieduThorium",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Dhamballa-KirinTor",
+					["encounterID"] = 2398,
 				},
 				[2336] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Zonkill-CultedelaRivenoire",
 					["type"] = "BUFF",
-					["source"] = "Stewarts-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[340077] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[337517] = {
+					["source"] = "Vornafeîn-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Nelria-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[194679] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[227291] = {
+					["source"] = "Niuzao",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 73967,
+				},
+				[105809] = {
+					["source"] = "Ëdwïnd-LesSentinelles",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[132578] = {
+					["type"] = "BUFF",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[73313] = {
+					["type"] = "BUFF",
+					["source"] = "Stanislâs-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[334448] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Springsnow-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Ecsy-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[336496] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[346537] = {
 					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 168843,
+					["source"] = "Surveillant suprême",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 162040,
 				},
-				[292486] = {
+				[3600] = {
+					["type"] = "DEBUFF",
+					["source"] = "Totem de lien terrestre",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Tyardouf-ConseildesOmbres",
+					["npcID"] = 2630,
+				},
+				[116705] = {
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
+				},
+				[326837] = {
+					["source"] = "Surveillant suprême",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162040,
+				},
+				[213602] = {
+					["type"] = "BUFF",
+					["source"] = "Kaldiria-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[337520] = {
+					["source"] = "Guetteur du donjon",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 159412,
+				},
+				[270481] = {
+					["source"] = "Tyran démoniaque",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 135002,
+				},
+				[328170] = {
+					["source"] = "Sentinelle de la chambre",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162057,
+				},
+				[336891] = {
+					["type"] = "DEBUFF",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[276111] = {
+					["type"] = "BUFF",
+					["source"] = "Kalyzadin-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[324156] = {
+					["source"] = "Pusessa-ChamberofAspects",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[322169] = {
+					["source"] = "Vestige de doute",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162049,
 				},
 				[13750] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Deathdemon-ConseildesOmbres",
+					["source"] = "Dhamballa-KirinTor",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[345710] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Throrik-Hyjal",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[199786] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[126664] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Zosc",
+					["encounterID"] = 2398,
+				},
+				[212580] = {
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[190319] = {
+					["source"] = "Skydo-Sargeras",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[315536] = {
+					["type"] = "BUFF",
+					["source"] = "Inconnu",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 162057,
 				},
 				[45181] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Nelmara",
+					["source"] = "Shikamaruu-Elune",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[195181] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Lyncis",
+					["source"] = "Mimes-KirinTor",
 					["npcID"] = 0,
-				},
-				[323195] = {
-					["type"] = "DEBUFF",
-					["source"] = "Oryphrione",
-					["npcID"] = 162060,
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2358,
+					["encounterID"] = 2398,
+				},
+				[59638] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 31216,
 				},
 				[338036] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Palatëk-ConfrérieduThorium",
 					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[320125] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[202090] = {
+					["source"] = "Linøtte-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Kahmia-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[281744] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[319657] = {
 					["type"] = "BUFF",
-					["source"] = "Caadius-CultedelaRivenoire",
-					["npcID"] = 0,
+					["source"] = "Kryxis le Vorace",
+					["encounterID"] = 2360,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 162100,
 				},
 				[202602] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
 					["source"] = "Zosc",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[329849] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
 					["source"] = "Zosc",
 					["npcID"] = 0,
-				},
-				[344179] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[319654] = {
 					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
+					["source"] = "Kryxis le Vorace",
+					["encounterID"] = 2360,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 162100,
+				},
+				[195182] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[2484] = {
+					["source"] = "Watchmeplz-Archimonde",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[346227] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[114255] = {
 					["type"] = "BUFF",
-					["source"] = "Victorfreeze-ConfrérieduThorium",
+					["source"] = "Okotha-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[311477] = {
+					["source"] = "Vanisia-Kazzak",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[335994] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[348139] = {
 					["type"] = "BUFF",
-					["source"] = "Ædann-KirinTor",
+					["source"] = "Mërcî-Ysondre",
+					["encounterID"] = 2360,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[8042] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["encounterID"] = 2398,
+				},
+				[196718] = {
+					["source"] = "Hacheder-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[34428] = {
+					["source"] = "Boros-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[334921] = {
+					["source"] = "Brute insatiable",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162047,
+				},
+				[115151] = {
+					["source"] = "Linøtte-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[321401] = {
+					["source"] = "Tique gloutonne",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165076,
+				},
+				[321402] = {
+					["type"] = "BUFF",
+					["source"] = "Tique gloutonne",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 165076,
+				},
+				[248473] = {
+					["source"] = "Tiks-LesSentinelles",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[337529] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[338041] = {
+					["type"] = "BUFF",
+					["source"] = "Bhoom-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[93402] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Kotlin",
+					["encounterID"] = 2398,
+				},
+				[324736] = {
+					["type"] = "BUFF",
+					["source"] = "Défenseur voile-de-brume",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 163058,
+				},
+				[124274] = {
+					["type"] = "DEBUFF",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[321178] = {
+					["source"] = "Brute insatiable",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162047,
 				},
 				[49020] = {
+					["source"] = "Deathx-Sinstralis",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ankehl-KirinTor",
 					["npcID"] = 0,
 				},
-				[328831] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Champion déterminé",
-					["npcID"] = 167404,
-				},
-				[327808] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[324737] = {
 					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 163520,
-				},
-				[324226] = {
+					["source"] = "Défenseur voile-de-brume",
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 171772,
+				},
+				[46924] = {
 					["type"] = "BUFF",
-					["source"] = "Darkastily",
+					["source"] = "Boros-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[2641] = {
-					["source"] = "Tytpest",
+				[124503] = {
+					["source"] = "Shiitako-Sargeras",
 					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[330367] = {
+					["type"] = "BUFF",
+					["source"] = "Kyrionne-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[307187] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Zosc",
 					["npcID"] = 0,
 				},
 				[2580] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[68992] = {
-					["type"] = "BUFF",
-					["source"] = "Galdric-ConfrérieduThorium",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[163201] = {
-					["event"] = "SPELL_CAST_SUCCESS",
 					["source"] = "Zosc",
 					["npcID"] = 0,
 				},
-				[345209] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Xzwy-KirinTor",
-					["npcID"] = 0,
-				},
-				[288477] = {
+				[1719] = {
 					["type"] = "BUFF",
-					["source"] = "Палкатян-Гордунни",
+					["source"] = "Boros-Sinstralis",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[338045] = {
+				[330368] = {
+					["source"] = "Arcantus-KirinTor",
+					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[324739] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Zosc",
+					["encounterID"] = 2398,
+				},
+				[334567] = {
+					["source"] = "Maître chasseur effroyable",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 171448,
+				},
+				[35395] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["encounterID"] = 2398,
+				},
+				[280776] = {
+					["type"] = "BUFF",
+					["source"] = "Boros-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[85288] = {
+					["source"] = "Boros-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[310923] = {
+					["source"] = "Amnesique-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[327811] = {
+					["source"] = "Général Kaal",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162133,
+				},
+				[184362] = {
+					["type"] = "BUFF",
+					["source"] = "Boros-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[257620] = {
+					["source"] = "Elpistor-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[306830] = {
+					["source"] = "Hamakaze-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[340094] = {
+					["source"] = "Zonkill-CultedelaRivenoire",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[311948] = {
+					["source"] = "Molpik-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[23881] = {
+					["source"] = "Boros-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[80354] = {
+					["source"] = "Omacarena-KirinTor",
 					["type"] = "DEBUFF",
-					["source"] = "Nalaos-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[196742] = {
+				[324609] = {
+					["source"] = "Tirailleur noble",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 166396,
+				},
+				[5302] = {
+					["type"] = "BUFF",
+					["source"] = "Zosc",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[328837] = {
+					["type"] = "BUFF",
+					["source"] = "Varkhun-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[347480] = {
+					["type"] = "DEBUFF",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[113746] = {
+					["source"] = "Linøtte-KirinTor",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[209261] = {
+					["source"] = "Nephelene-Al'Akir",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[202225] = {
+					["type"] = "BUFF",
+					["source"] = "Boros-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[123725] = {
+					["type"] = "DEBUFF",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[45182] = {
+					["type"] = "BUFF",
+					["source"] = "Shikamaruu-Elune",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[345772] = {
+					["source"] = "Gardienne faë",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 175579,
+				},
+				[257622] = {
+					["source"] = "Elpistor-Sinstralis",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[124275] = {
+					["type"] = "DEBUFF",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[205604] = {
+					["source"] = "Azäzël-DunModr",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[196980] = {
+					["source"] = "Zonkill-CultedelaRivenoire",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[215479] = {
+					["type"] = "BUFF",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[329352] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[80483] = {
+					["source"] = "Noxra-ChamberofAspects",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[320843] = {
+					["source"] = "Tique gloutonne",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165076,
+				},
+				[224871] = {
+					["source"] = "Anasterïon-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[330528] = {
+					["type"] = "BUFF",
+					["source"] = "Inconnu",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 162046,
+				},
+				[196725] = {
+					["type"] = "BUFF",
+					["source"] = "Fienad-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[334246] = {
+					["type"] = "DEBUFF",
+					["source"] = "Inconnu",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 162047,
+				},
+				[324748] = {
+					["type"] = "BUFF",
+					["source"] = "Chatøun-LesSentinelles",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[138130] = {
+					["type"] = "BUFF",
+					["source"] = "Esprit de la terre",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 69792,
+				},
+				[8921] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kotlin",
+					["encounterID"] = 2398,
+				},
+				[172] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Tinéka",
+					["encounterID"] = 2398,
+				},
+				[308525] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Convërge-KirinTor",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["npcID"] = 0,
+				},
+				[331402] = {
+					["source"] = "Oisillon régisseur",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 170039,
+				},
+				[311444] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[137619] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Dhamballa-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[343173] = {
+					["type"] = "BUFF",
+					["source"] = "Insec-CultedelaRivenoire",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[210065] = {
+					["type"] = "BUFF",
+					["source"] = "Tralli-CultedelaRivenoire",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[310522] = {
+					["source"] = "Macoumcoum-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[330380] = {
+					["source"] = "Kotlin",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[307611] = {
+					["source"] = "Youlye-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[44544] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[89342] = {
+					["type"] = "BUFF",
+					["source"] = "Noîrdésir-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[307124] = {
+					["source"] = "Ertael-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[15286] = {
+					["type"] = "BUFF",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[136] = {
+					["source"] = "Noxra-ChamberofAspects",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[55208] = {
+					["source"] = "Noctimus-LesClairvoyants",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[307865] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Zosc",
+					["encounterID"] = 2398,
+				},
+				[279302] = {
+					["source"] = "Naohuki-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[203407] = {
+					["type"] = "BUFF",
+					["source"] = "Deasheen-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[196728] = {
+					["source"] = "Niuzao",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 73967,
+				},
+				[116947] = {
+					["type"] = "DEBUFF",
+					["source"] = "Totem de poigne de terre",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 60561,
+				},
+				[339664] = {
+					["type"] = "BUFF",
+					["source"] = "Waankha-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[43265] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[236645] = {
+					["source"] = "Pahanamage-ConfrérieduThorium",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[49245] = {
+					["source"] = "Noctimus-LesClairvoyants",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[345225] = {
+					["source"] = "Recrue vorkaï",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 170033,
+				},
+				[273428] = {
+					["type"] = "BUFF",
+					["source"] = "Архонтос-Разувий",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[178306] = {
+					["source"] = "Marcherêve-LesSentinelles",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[330385] = {
+					["source"] = "Vespéricole hurlant",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 158976,
+				},
+				[79206] = {
+					["type"] = "BUFF",
+					["source"] = "Avoria",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[329362] = {
+					["type"] = "BUFF",
+					["source"] = "Hurlaile",
+					["npcID"] = 164406,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[280746] = {
+					["type"] = "BUFF",
+					["source"] = "Macoumcoum-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[330386] = {
+					["source"] = "Vespéricole hurlant",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 158976,
+				},
+				[324724] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["encounterID"] = 2398,
+				},
+				[345739] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["encounterID"] = 2398,
+				},
+				[217200] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Varkhun-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[31884] = {
+					["type"] = "BUFF",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[345228] = {
+					["type"] = "BUFF",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[199545] = {
+					["source"] = "Neodium-ConfrérieduThorium",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[341550] = {
+					["type"] = "BUFF",
+					["source"] = "Kaemä-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[307871] = {
+					["type"] = "DEBUFF",
+					["source"] = "Zosc",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[243435] = {
+					["type"] = "BUFF",
+					["source"] = "Vyh-AzjolNerub",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[198368] = {
+					["type"] = "BUFF",
+					["source"] = "Orphilla-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[309658] = {
+					["type"] = "BUFF",
+					["source"] = "Unulia-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[49258] = {
+					["source"] = "Noctimus-LesClairvoyants",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[345230] = {
+					["type"] = "BUFF",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[339601] = {
+					["source"] = "Poing-de-Pierre",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 159503,
+				},
+				[212084] = {
+					["source"] = "Hamakaze-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[311625] = {
+					["source"] = "Darkgûardian-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[345231] = {
+					["type"] = "BUFF",
+					["source"] = "Høpi",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[308897] = {
@@ -10971,1500 +13727,3164 @@ PlaterDB = {
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[186265] = {
+				[326733] = {
 					["type"] = "BUFF",
-					["source"] = "Cactusjack-ConfrérieduThorium",
+					["source"] = "Amalliia-CultedelaRivenoire",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[273947] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[180612] = {
 					["type"] = "BUFF",
-					["source"] = "Bigfout-ConseildesOmbres",
+					["source"] = "Mimes-KirinTor",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
-				[272679] = {
-					["source"] = "Sêverus-LesClairvoyants",
+				[298151] = {
+					["source"] = "Hoffah-LesSentinelles",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[5246] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[306830] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Smullyan-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[327812] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[123904] = {
 					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 163520,
-				},
-				[311948] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Crépusculle-LesSentinelles",
+					["source"] = "Vyh-AzjolNerub",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[173184] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[311457] = {
 					["type"] = "BUFF",
-					["source"] = "Zarkhan-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[80354] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Paleros-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[197995] = {
-					["source"] = "Shayleen-ConseildesOmbres",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[5302] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[328837] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Marianagetth-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[73313] = {
-					["type"] = "BUFF",
-					["source"] = "Sacaboulette-LesSentinelles",
+					["source"] = "Xaei-Ravencrest",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
-				},
-				[113746] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Kedroht",
-					["npcID"] = 0,
-				},
-				[209261] = {
-					["source"] = "Shänna-ConfrérieduThorium",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[194384] = {
-					["type"] = "BUFF",
-					["source"] = "Tali-KirinTor",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[331939] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[173183] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zarkhan-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[309244] = {
-					["source"] = "Katsuragî-ConfrérieduThorium",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[257622] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kub",
-					["npcID"] = 0,
-				},
-				[300693] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Krile-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[333957] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[196980] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zonkill-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[309232] = {
-					["source"] = "Katsuragî-ConfrérieduThorium",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[309233] = {
-					["source"] = "Katsuragî-ConfrérieduThorium",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[53563] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[309234] = {
-					["source"] = "Katsuragî-ConfrérieduThorium",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[161414] = {
-					["source"] = "Lysia-KirinTor",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[196718] = {
-					["source"] = "Zharbaëbelrë-KirinTor",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[131476] = {
-					["source"] = "Hatamahima-KirinTor",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[209746] = {
-					["type"] = "BUFF",
-					["source"] = "Svarv-ShatteredHand",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[324748] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[138130] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Esprit de la terre",
-					["npcID"] = 69792,
-				},
-				[8921] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[328331] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Justicière désavouée",
-					["npcID"] = 168717,
-				},
-				[3567] = {
-					["source"] = "Aquinas-LesClairvoyants",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[331402] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Oisillon régisseur",
-					["npcID"] = 170039,
-				},
-				[17962] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Nôstra-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[137619] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Nemestrîa-Blackrock",
-					["npcID"] = 0,
-				},
-				[343173] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Syb-KirinTor",
-					["npcID"] = 0,
-				},
-				[134522] = {
-					["type"] = "BUFF",
-					["source"] = "Aleafaith-ConseildesOmbres",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[171517] = {
-					["source"] = "Fresikild-LesClairvoyants",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[256133] = {
-					["source"] = "Zharbaëbelrë-KirinTor",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[254473] = {
-					["type"] = "BUFF",
-					["source"] = "Aravel-KirinTor",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[44544] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Carhiba-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[331497] = {
-					["type"] = "DEBUFF",
-					["source"] = "Ahja",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[298845] = {
-					["source"] = "Lysia-KirinTor",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[328846] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Champion déterminé",
-					["npcID"] = 167404,
-				},
-				[126892] = {
-					["type"] = "BUFF",
-					["source"] = "Noraeesh-ConfrérieduThorium",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[333964] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[307865] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[114780] = {
-					["source"] = "Lysia-KirinTor",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[139176] = {
-					["source"] = "Lysia-KirinTor",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[22568] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[93622] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Xzwy-KirinTor",
-					["npcID"] = 0,
-				},
-				[329289] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Skøøs",
-					["npcID"] = 0,
-				},
-				[134644] = {
-					["source"] = "Arkrilen",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[236645] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Ecsy-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[340619] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Traqueur de la clairière",
-					["npcID"] = 165094,
-				},
-				[307120] = {
-					["source"] = "Lörêlêï-KirinTor",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[311475] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Felïna-KirinTor",
-					["npcID"] = 0,
-				},
-				[308899] = {
-					["source"] = "Deekiz",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[329666] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Trollfurieux-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[72968] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Solreen-KirinTor",
-					["npcID"] = 0,
-				},
-				[319127] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 165685,
-				},
-				[337329] = {
-					["type"] = "BUFF",
-					["source"] = "Azathot-LesSentinelles",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[337328] = {
-					["type"] = "BUFF",
-					["source"] = "Azathot-LesSentinelles",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[124217] = {
-					["type"] = "BUFF",
-					["source"] = "Morkline-KirinTor",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[131474] = {
-					["source"] = "Hatamahima-KirinTor",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[217200] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Marianagetth-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[326293] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Championne fervente",
-					["npcID"] = 168874,
-				},
-				[345228] = {
-					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2356,
-				},
-				[199545] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Choca-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[308520] = {
-					["source"] = "Phlega-KirinTor",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[307871] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[334935] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Karabin-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[221886] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Papyzzeria-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[319266] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Traînard putride",
-					["npcID"] = 167033,
-				},
-				[307611] = {
-					["source"] = "Oró-KirinTor",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[345230] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[325232] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Janda",
-					["npcID"] = 170663,
-				},
-				[212084] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Foeh-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[210391] = {
-					["source"] = "Lyxö-LesSentinelles",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[19434] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Lîra",
-					["npcID"] = 0,
-				},
-				[310944] = {
-					["type"] = "BUFF",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2358,
-				},
-				[213858] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Awmagedo",
-					["npcID"] = 0,
-				},
-				[334485] = {
-					["type"] = "BUFF",
-					["source"] = "Ventunax",
-					["npcID"] = 162058,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2356,
-				},
-				[339463] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Nerdsp-Antonidas",
-					["npcID"] = 0,
-				},
-				[176644] = {
-					["source"] = "Trollinaro-CultedelaRivenoire",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[323739] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Chef d'escouade désavouée",
-					["npcID"] = 163520,
 				},
 				[57723] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Yùhé-LesClairvoyants",
 					["type"] = "DEBUFF",
-					["source"] = "Dulmarre-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[176458] = {
-					["source"] = "Sujet forgeron de la Horde",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 88402,
+				[328857] = {
+					["npcID"] = 164406,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Hurlaile",
+					["encounterID"] = 2398,
 				},
 				[190336] = {
-					["source"] = "Stardonga-ConseildesOmbres",
+					["source"] = "Pozy-CultedelaRivenoire",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[323740] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Chef d'escouade désavouée",
-					["npcID"] = 163520,
-				},
-				[309619] = {
-					["source"] = "Azÿrac-LesSentinelles",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[198688] = {
-					["source"] = "Нпимл-Галакронд",
-					["type"] = "DEBUFF",
+				[311458] = {
+					["source"] = "Dirktur-KirinTor",
+					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[316220] = {
+				[257506] = {
+					["type"] = "BUFF",
+					["source"] = "Nøctürne-KirinTor",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Nemestrîa-Blackrock",
+					["npcID"] = 0,
+				},
+				[196742] = {
+					["type"] = "BUFF",
+					["source"] = "Mîräcle-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[155777] = {
+					["type"] = "BUFF",
+					["source"] = "Titoon-Archimonde",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[311459] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Skøøs",
 					["type"] = "BUFF",
-					["source"] = "Belennos",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[198013] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Smullyan-LesClairvoyants",
+					["source"] = "Güts-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[320671] = {
+				[331523] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Résidu putréfié",
-					["npcID"] = 166925,
+					["source"] = "Dhamballa-KirinTor",
+					["encounterID"] = 2398,
 				},
-				[334438] = {
-					["source"] = "Alunÿs-KirinTor",
+				[188290] = {
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Mimes-KirinTor",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[311460] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Setenris-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Luciole-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[1706] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Lücïfër-ConfrérieduThorium",
+				[330067] = {
+					["type"] = "BUFF",
+					["source"] = "Zarakiel-Archimonde",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[345236] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Forgerune stygien",
-					["npcID"] = 170157,
+				[339463] = {
+					["type"] = "BUFF",
+					["source"] = "Domonox-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
-				[256865] = {
-					["source"] = "Ecorcheur d'ombre drust",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167695,
+				[343312] = {
+					["type"] = "BUFF",
+					["source"] = "Babypluto-CultedelaRivenoire",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[119381] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Naelandy-Vol'jin",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[334295] = {
-					["source"] = "Alunÿs-KirinTor",
+				[32182] = {
 					["type"] = "BUFF",
+					["source"] = "Avoria",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[334271] = {
-					["source"] = "Alunÿs-KirinTor",
+				[343440] = {
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[58875] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Simple-ConfrérieduThorium",
 					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[323744] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 163506,
+				[319650] = {
+					["encounterID"] = 2360,
+					["source"] = "Kryxis le Vorace",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162100,
 				},
 				[85222] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[320674] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[334863] = {
-					["source"] = "Alunÿs-KirinTor",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[347601] = {
-					["source"] = "Spadeshade-LesClairvoyants",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[321536] = {
-					["source"] = "Mæzy-KirinTor",
+					["source"] = "Lolipoppy-Ysondre",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[268877] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[81256] = {
 					["type"] = "BUFF",
-					["source"] = "Marianagetth-CultedelaRivenoire",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[324031] = {
+					["source"] = "Magalis-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[298837] = {
-					["source"] = "Hermiane-LesSentinelles",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[307679] = {
+					["source"] = "Yrélia-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
+				},
+				[307667] = {
+					["source"] = "Yrélia-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[119996] = {
+					["source"] = "Gìnki-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[89766] = {
+					["source"] = "Gangregarde",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 17252,
 				},
 				[311464] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Nÿnnä-ConseildesOmbres",
+					["source"] = "Kirrai-ConseildesOmbres",
 					["npcID"] = 0,
-				},
-				[31884] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
-				[343193] = {
-					["source"] = "Katsuragî-ConfrérieduThorium",
+				[205180] = {
+					["type"] = "BUFF",
+					["source"] = "Tinéka",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[308414] = {
+					["source"] = "Vulfpex-ConseildesOmbres",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[195457] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Deathdemon-ConseildesOmbres",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Dhamballa-KirinTor",
+					["encounterID"] = 2398,
 				},
 				[311465] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Isilwen-LesClairvoyants",
+					["source"] = "Kirrai-ConseildesOmbres",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[57724] = {
+					["source"] = "Umbrella-LesClairvoyants",
 					["type"] = "DEBUFF",
-					["source"] = "Throrik-Hyjal",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2357,
 				},
-				[327701] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[216251] = {
 					["type"] = "BUFF",
-					["source"] = "Naphrael-LesClairvoyants",
+					["source"] = "Sacocacola-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[106839] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eramus-ConseildesOmbres",
+				[48181] = {
+					["type"] = "DEBUFF",
+					["source"] = "Crovax-Sanguino",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[311466] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Arakara",
+					["source"] = "Kirrai-ConseildesOmbres",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
-				[316072] = {
+				[324260] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Purotin dégoulinant",
-					["npcID"] = 170045,
+					["source"] = "Shikamaruu-Elune",
+					["encounterID"] = 2398,
 				},
 				[12472] = {
-					["source"] = "Ergheïz-LesSentinelles",
+					["source"] = "Mosiren-Anub'arak",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[193475] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Aleister-ConseildesOmbres",
+				[307719] = {
+					["source"] = "Yrélia-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[331937] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
+					["source"] = "Mimes-KirinTor",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
-				[341427] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kotlin",
+				[6262] = {
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
 				},
 				[324773] = {
-					["source"] = "Malvin-ConseildesOmbres",
+					["source"] = "Thauhrím-LesSentinelles",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[327332] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Soigneur désavoué",
-					["npcID"] = 163459,
+				[204255] = {
+					["source"] = "Hamakaze-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
 				},
 				[311468] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Isilwen-LesClairvoyants",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[277181] = {
+					["type"] = "BUFF",
+					["source"] = "Watchmeplz-Archimonde",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[188550] = {
-					["source"] = "Shubert-KirinTor",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[338256] = {
-					["source"] = "Monica-ConfrérieduThorium",
+				[688] = {
+					["source"] = "Araena-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[115078] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Naelandy-Vol'jin",
-					["npcID"] = 0,
-				},
-				[311469] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[278989] = {
 					["type"] = "BUFF",
-					["source"] = "Arakara",
-					["npcID"] = 0,
-				},
-				[196941] = {
+					["source"] = "Waankha-LesSentinelles",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Darkastily",
 					["npcID"] = 0,
 				},
-				[320130] = {
-					["source"] = "Justyne-ConfrérieduThorium",
+				[331939] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[343184] = {
+					["source"] = "Oregan-Pozzodell'Eternità",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[307166] = {
+					["source"] = "Ghuulkarn",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[297037] = {
-					["source"] = "Elphye-ConseildesOmbres",
+				[343963] = {
 					["type"] = "BUFF",
+					["source"] = "Maelys-KirinTor",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[311470] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Isilwen-LesClairvoyants",
+					["source"] = "Kirrai-ConseildesOmbres",
 					["npcID"] = 0,
-				},
-				[341263] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Krile-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[260708] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zosc",
+					["encounterID"] = 2398,
+				},
+				[207230] = {
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[202168] = {
+				[322729] = {
+					["source"] = "Jcvd",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
+					["npcID"] = 0,
+				},
+				[267972] = {
+					["source"] = "Skøøs",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[311471] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Isilwen-LesClairvoyants",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[156084] = {
+					["type"] = "BUFF",
+					["source"] = "Bobête-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[309534] = {
-					["source"] = "Himéä-KirinTor",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[275773] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
+				[343995] = {
+					["type"] = "BUFF",
+					["source"] = "Hurlaile",
+					["npcID"] = 164406,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[325289] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Filmine-LesSentinelles",
 					["npcID"] = 0,
-				},
-				[336323] = {
-					["source"] = "Zayhad la Bâtisseuse",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167289,
+					["source"] = "Tinéka",
+					["encounterID"] = 2398,
 				},
-				[340642] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Mangeur d'âme coeur-de-chêne",
-					["npcID"] = 172078,
-				},
-				[123904] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[29166] = {
+					["source"] = "Plantmaster-Arthas",
 					["type"] = "BUFF",
-					["source"] = "Convërge-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[342496] = {
-					["source"] = "Les Affamés",
+				[698] = {
+					["source"] = "Araena-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 168961,
+					["npcID"] = 0,
+				},
+				[88423] = {
+					["source"] = "Høpi",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[116847] = {
+					["type"] = "BUFF",
+					["source"] = "Jcvd",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[344225] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Falhannar-KirinTor",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[8212] = {
+					["type"] = "BUFF",
+					["source"] = "Gulfora-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[325549] = {
-					["source"] = "Fulfir le Balafré",
+				[115546] = {
+					["source"] = "Shiitako-Sargeras",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 168960,
-				},
-				[311476] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Alevya-ConfrérieduThorium",
 					["npcID"] = 0,
 				},
-				[317103] = {
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[342601] = {
+					["source"] = "Araena-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[311474] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Vanisia-Kazzak",
 					["type"] = "BUFF",
-					["source"] = "Sïann-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[131493] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Sâw-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Kâruta-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[265931] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Nôstra-LesSentinelles",
-					["npcID"] = 0,
+				[326827] = {
+					["source"] = "Surveillant suprême",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162040,
 				},
 				[300728] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ghuulkarn",
 					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
 				},
 				[344227] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Falhannar-KirinTor",
+					["source"] = "Kimeilljin-ConseildesOmbres",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
-				[49998] = {
+				[228260] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ankehl-KirinTor",
-					["npcID"] = 0,
+					["source"] = "Wuzzu-LesClairvoyants",
+					["encounterID"] = 2398,
 				},
-				[114165] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[307383] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Billbøquet-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[307382] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Nøsferatü-Hyjal",
-					["npcID"] = 0,
-				},
-				[203651] = {
-					["source"] = "Nelunya-KirinTor",
+				[261602] = {
+					["source"] = "Meltielle-ConfrérieduThorium",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[319628] = {
+				[198533] = {
+					["source"] = "Statue du Serpent de jade",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Volion étalon",
-					["npcID"] = 157761,
+					["npcID"] = 60849,
+				},
+				[311476] = {
+					["source"] = "Vanisia-Kazzak",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[308426] = {
+					["source"] = "Salamurhaaja-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[311405] = {
+					["source"] = "Boljin-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
 				},
 				[258920] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Hamakaze-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Sathyana-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[344229] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Falhannar-KirinTor",
+					["source"] = "Kimeilljin-ConseildesOmbres",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[84714] = {
+					["source"] = "Mosiren-Anub'arak",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ninaea-Dalaran",
 					["npcID"] = 0,
 				},
 				[310454] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Convërge-KirinTor",
-					["npcID"] = 0,
-				},
-				[195072] = {
-					["source"] = "Ahja",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[323760] = {
-					["source"] = "Nüts-LesSentinelles",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[32645] = {
+					["source"] = "Blackâ-LesSentinelles",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Phaleon-ConfrérieduThorium",
 					["npcID"] = 0,
 				},
-				[232698] = {
+				[288477] = {
+					["type"] = "BUFF",
+					["source"] = "Анатейл-Гордунни",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Nÿnnä-ConseildesOmbres",
 					["npcID"] = 0,
 				},
-				[256874] = {
-					["source"] = "Ecorcheur d'ombre drust",
+				[311478] = {
+					["source"] = "Vanisia-Kazzak",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[326319] = {
+					["source"] = "Moissonneur drust",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167695,
+					["npcID"] = 164921,
+				},
+				[176785] = {
+					["type"] = "BUFF",
+					["source"] = "Hektör-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[332862] = {
+					["type"] = "BUFF",
+					["source"] = "Lucifair",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[311479] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Vanisia-Kazzak",
 					["type"] = "BUFF",
-					["source"] = "Niobé-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[348837] = {
-					["source"] = "Kerizan-ConfrérieduThorium",
+					["source"] = "Shaelindra-KirinTor",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[188499] = {
-					["source"] = "Ahja",
+				[196608] = {
 					["type"] = "BUFF",
+					["source"] = "Mîräcle-KirinTor",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[5672] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Totem guérisseur",
-					["npcID"] = 3527,
+				[112870] = {
+					["source"] = "Araena-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
 				},
 				[311480] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Vanisia-Kazzak",
 					["type"] = "BUFF",
-					["source"] = "Felïna-KirinTor",
-					["npcID"] = 0,
-				},
-				[285381] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[348838] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Atec",
 					["npcID"] = 0,
 				},
-				[343721] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Pallanain-LesSentinelles",
+				[32752] = {
+					["type"] = "BUFF",
+					["source"] = "Araena-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[335021] = {
+					["source"] = "Hamakaze-KirinTor",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[321712] = {
+					["source"] = "Skydo-Sargeras",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[311481] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Vanisia-Kazzak",
 					["type"] = "BUFF",
-					["source"] = "Katsunya-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[232893] = {
-					["source"] = "Ahja",
+				[322589] = {
+					["source"] = "Meltielle-ConfrérieduThorium",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[77761] = {
-					["source"] = "Looloot",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
+				[341163] = {
+					["npcID"] = 171396,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Goliath kyrian",
+					["encounterID"] = 2398,
 				},
 				[186254] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Marianagetth-CultedelaRivenoire",
+					["source"] = "Varkhun-KirinTor",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[323764] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
 					["source"] = "Kotlin",
 					["npcID"] = 0,
-				},
-				[334511] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Temis",
+					["encounterID"] = 2398,
+				},
+				[307120] = {
+					["source"] = "Yséria-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[345863] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[334863] = {
 					["type"] = "BUFF",
-					["source"] = "Gearraï-KirinTor",
+					["source"] = "Myyr-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[108294] = {
-					["source"] = "Looloot",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+				[308415] = {
+					["source"] = "Salamurhaaja-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
 				[311483] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Solreen-KirinTor",
+					["source"] = "Varkhun-KirinTor",
 					["npcID"] = 0,
-				},
-				[335817] = {
-					["npcID"] = 162061,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Déva",
-					["encounterID"] = 2359,
-				},
-				[278920] = {
-					["source"] = "Rôdeur drust",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167696,
-				},
-				[343724] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Pallanain-LesSentinelles",
+					["encounterID"] = 2398,
+				},
+				[85739] = {
+					["type"] = "BUFF",
+					["source"] = "Boros-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[218164] = {
+					["source"] = "Amashyr-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[329395] = {
+					["source"] = "Lame d'effroi de la Domination",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 159104,
 				},
 				[311484] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Thaløs-ConfrérieduThorium",
+					["source"] = "Varkhun-KirinTor",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[137639] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Kedroht",
+					["source"] = "Vyh-AzjolNerub",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[322743] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[3408] = {
+					["source"] = "Zonkill-CultedelaRivenoire",
 					["type"] = "BUFF",
-					["source"] = "Guetteur fragile",
-					["npcID"] = 167151,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
-				[224125] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[341678] = {
 					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 100820,
+					["source"] = "Kalinkha-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[311485] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Patapouffe-ConseildesOmbres",
+					["source"] = "Varkhun-KirinTor",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
-				[340655] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Essence vengeresse",
-					["npcID"] = 172077,
-				},
-				[55342] = {
-					["source"] = "Ergheïz-LesSentinelles",
+				[348843] = {
+					["source"] = "Kotlin",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[11196] = {
-					["type"] = "DEBUFF",
-					["source"] = "Zosc",
-					["npcID"] = 0,
+				[90985] = {
+					["source"] = "Setsuna-KirinTor",
+					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2358,
+					["npcID"] = 0,
+				},
+				[345773] = {
+					["type"] = "BUFF",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
 				},
 				[311486] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Kementai-LesClairvoyants",
+					["source"] = "Varkhun-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[197003] = {
+					["type"] = "BUFF",
+					["source"] = "Râuro-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[205191] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[81262] = {
 					["type"] = "BUFF",
-					["source"] = "Pallanain-LesSentinelles",
+					["source"] = "Efflorescence",
+					["npcID"] = 47649,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[116189] = {
+					["type"] = "DEBUFF",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
-				},
-				[322745] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Jeune daim runique",
-					["npcID"] = 170205,
-				},
-				[224126] = {
-					["type"] = "BUFF",
-					["source"] = "Esprit du loup",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 100820,
 				},
 				[311487] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Keyenn-KirinTor",
+					["source"] = "Varkhun-KirinTor",
 					["npcID"] = 0,
-				},
-				[96231] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Scores-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[8936] = {
 					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[343594] = {
 					["type"] = "BUFF",
-					["source"] = "Kotlin",
+					["source"] = "Hellburnx-Draenor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[325305] = {
-					["source"] = "Celèste-ConfrérieduThorium",
+				[325202] = {
+					["type"] = "BUFF",
+					["source"] = "Laotchi-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[186257] = {
+					["source"] = "Pusessa-ChamberofAspects",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[311488] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Kafeh-KirinTor",
-					["npcID"] = 0,
-				},
-				[134477] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 17252,
-				},
-				[202164] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[224127] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 100820,
-				},
-				[311489] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Golbur-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[245686] = {
-					["type"] = "BUFF",
-					["source"] = "Zosc",
+					["source"] = "Varkhun-KirinTor",
 					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2359,
+					["encounterID"] = 2398,
 				},
-				[261602] = {
-					["source"] = "Ðemeter-LesClairvoyants",
+				[156064] = {
+					["type"] = "BUFF",
+					["source"] = "Elfina-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[205448] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["encounterID"] = 2398,
+				},
+				[301578] = {
+					["source"] = "Barbello-LesSentinelles",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[228477] = {
+					["source"] = "Hamakaze-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[323762] = {
+					["source"] = "Sôngröku-LesClairvoyants",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[337571] = {
+					["type"] = "BUFF",
+					["source"] = "Mîräcle-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[186258] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Pusessa-ChamberofAspects",
 					["type"] = "BUFF",
-					["source"] = "Marianagetth-CultedelaRivenoire",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[311490] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Borsdeganis-LesSentinelles",
+					["source"] = "Varkhun-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[323755] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
 					["npcID"] = 0,
 				},
-				[340500] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ecorchaile le Cruel",
-					["npcID"] = 167078,
-				},
 				[225919] = {
+					["source"] = "Hamakaze-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Sathyana-LesClairvoyants",
 					["npcID"] = 0,
 				},
 				[242551] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Eidjaz",
+					["source"] = "Wuzzu-LesClairvoyants",
 					["npcID"] = 0,
 				},
 				[311491] = {
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Noxra-ChamberofAspects",
 					["type"] = "BUFF",
-					["source"] = "Kementai-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[316068] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Purotin dégoulinant",
-					["npcID"] = 170045,
-				},
-				[328891] = {
+				[30151] = {
+					["source"] = "Krenvazul",
+					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Picions-LesClairvoyants",
+					["npcID"] = 17252,
+				},
+				[114282] = {
+					["type"] = "BUFF",
+					["source"] = "Droodinsky-Ravencrest",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[327948] = {
-					["source"] = "Kotlin",
+				[338825] = {
 					["type"] = "BUFF",
+					["source"] = "Droodinsky-Ravencrest",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
 				[311492] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[212520] = {
+					["source"] = "Piuma-CultedelaRivenoire",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[340662] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Mangeur d'âme coeur-de-chêne",
-					["npcID"] = 172078,
-				},
-				[345495] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Pustule écumante",
-					["npcID"] = 175519,
-				},
-				[311457] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[265258] = {
 					["type"] = "BUFF",
-					["source"] = "Neptunio-KirinTor",
+					["source"] = "Methradir-Draenor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
+				},
+				[32390] = {
+					["type"] = "DEBUFF",
+					["source"] = "Tinéka",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[311493] = {
-					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[316099] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Tinéka",
+					["encounterID"] = 2398,
+				},
+				[343724] = {
+					["type"] = "DEBUFF",
+					["source"] = "Selentha-Kazzak",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[80576] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Leithfor",
-					["npcID"] = 170665,
+				[202636] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Soraefir",
+					["npcID"] = 0,
 				},
-				[327947] = {
+				[311494] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[338617] = {
+					["source"] = "Hÿllde-LesSentinelles",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[225921] = {
+					["source"] = "Hamakaze-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[337315] = {
+					["type"] = "BUFF",
+					["source"] = "Papypal-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[311495] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[49028] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[55233] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[336465] = {
+					["type"] = "BUFF",
+					["source"] = "Zosc",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[311496] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[5143] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[330943] = {
+					["source"] = "Biscoteque-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[205708] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[311497] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[3409] = {
+					["type"] = "DEBUFF",
+					["source"] = "Xarao-Outland",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[328897] = {
+					["type"] = "DEBUFF",
+					["source"] = "Hurlaile",
+					["npcID"] = 164406,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[190356] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[311498] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[57984] = {
+					["npcID"] = 95061,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Elémentaire de feu supérieur",
+					["encounterID"] = 2398,
+				},
+				[5215] = {
+					["type"] = "BUFF",
+					["source"] = "Nickferry-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[254474] = {
+					["type"] = "BUFF",
+					["source"] = "Qualasi-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[311499] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[271071] = {
+					["type"] = "BUFF",
+					["source"] = "Watchmeplz-Archimonde",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[290608] = {
+					["type"] = "BUFF",
+					["source"] = "Ktala-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[186263] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["encounterID"] = 2398,
+				},
+				[340158] = {
+					["type"] = "BUFF",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[156070] = {
+					["source"] = "Nafryk-ConfrérieduThorium",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[308430] = {
+					["type"] = "BUFF",
+					["source"] = "Dsylphidein-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[339353] = {
+					["source"] = "Cure-Dents",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 158259,
+				},
+				[56641] = {
+					["source"] = "Elpistor-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[48517] = {
+					["type"] = "BUFF",
+					["source"] = "Kotlin",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[138927] = {
+					["type"] = "BUFF",
+					["source"] = "Perfèct-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[853] = {
+					["source"] = "Lolipoppy-Ysondre",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[322101] = {
+					["source"] = "Chivâss-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[309524] = {
+					["source"] = "Neose",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[114018] = {
+					["type"] = "BUFF",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[309619] = {
+					["source"] = "Neose",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[280398] = {
+					["source"] = "Aleanore-LesSentinelles",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[322109] = {
+					["source"] = "Linøtte-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[192999] = {
+					["type"] = "BUFF",
+					["source"] = "Haazhel-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[3716] = {
+					["source"] = "Sarmon",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 1860,
+				},
+				[270564] = {
+					["type"] = "BUFF",
+					["source"] = "Elpeonleo-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[134644] = {
+					["source"] = "Viserya-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[308434] = {
+					["source"] = "Doncamillo-ConfrérieduThorium",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[51460] = {
+					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[344314] = {
+					["type"] = "BUFF",
+					["source"] = "Kalemba-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[334534] = {
+					["source"] = "Scribe chercheuse",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 171805,
+				},
+				[304603] = {
+					["type"] = "DEBUFF",
+					["source"] = "Poupondegerr-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[87024] = {
+					["source"] = "Tasos-CultedelaRivenoire",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[304611] = {
+					["type"] = "DEBUFF",
+					["source"] = "Poupondegerr-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[83245] = {
+					["source"] = "Galvabar-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[322765] = {
+					["source"] = "Jeune daim runique",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 170205,
+				},
+				[323760] = {
+					["source"] = "Carsharoth",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[5487] = {
+					["type"] = "BUFF",
+					["source"] = "Chatøun-LesSentinelles",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[69369] = {
+					["source"] = "Droodjam-LesSentinelles",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[30146] = {
+					["source"] = "Ashalka-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[333889] = {
+					["type"] = "BUFF",
+					["source"] = "Ashalka-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[193473] = {
+					["type"] = "DEBUFF",
+					["source"] = "Tentacule du Vide",
+					["npcID"] = 98167,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[337989] = {
+					["type"] = "DEBUFF",
+					["source"] = "Downskie-Kazzak",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[337096] = {
+					["type"] = "DEBUFF",
+					["source"] = "Tinéka",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[51714] = {
+					["type"] = "DEBUFF",
+					["source"] = "Downskie-Kazzak",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[342242] = {
+					["type"] = "BUFF",
+					["source"] = "Ignavus-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[48518] = {
+					["type"] = "BUFF",
+					["source"] = "Kotlin",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[202425] = {
+					["source"] = "Beamboy-Sargeras",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[270058] = {
+					["type"] = "BUFF",
+					["source"] = "Ertael-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[315584] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+				},
+				[20572] = {
+					["source"] = "Aliboulala",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[219788] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[336126] = {
+					["type"] = "BUFF",
+					["source"] = "Shaytah-CultedelaRivenoire",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[154796] = {
+					["type"] = "BUFF",
+					["source"] = "Eliliel-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[162530] = {
+					["source"] = "Fienad-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[325748] = {
+					["type"] = "BUFF",
+					["source"] = "Høpi",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[339604] = {
+					["source"] = "Poing-de-Pierre",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 159503,
+				},
+				[329666] = {
+					["type"] = "BUFF",
+					["source"] = "Varkhun-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[336588] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[316531] = {
+					["source"] = "Ichiramen-Hyjal",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[66] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[154797] = {
+					["source"] = "Ashame-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[16591] = {
+					["type"] = "BUFF",
+					["source"] = "Ciolh-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[337341] = {
+					["source"] = "Sashagrey-Aman'thul",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[345801] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["encounterID"] = 2398,
+				},
+				[5217] = {
+					["source"] = "Droodjam-LesSentinelles",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[81141] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[5761] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+				},
+				[271896] = {
+					["type"] = "BUFF",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[1064] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["encounterID"] = 2398,
+				},
+				[336832] = {
+					["source"] = "Skydo-Sargeras",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[54212] = {
+					["type"] = "BUFF",
+					["source"] = "Hëmera-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[7814] = {
+					["source"] = "Angora",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 120526,
+				},
+				[269571] = {
+					["type"] = "BUFF",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[227723] = {
 					["source"] = "Kotlin",
 					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[202636] = {
-					["source"] = "Fredarne-KirinTor",
+				[196741] = {
 					["type"] = "BUFF",
+					["source"] = "Böb-KirinTor",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[311494] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[116] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Akumà-KirinTor",
-					["npcID"] = 0,
-				},
-				[225921] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Sathyana-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[325312] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Janda",
-					["npcID"] = 170663,
-				},
-				[311495] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[113942] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[312645] = {
+					["source"] = "Kotlin",
 					["type"] = "DEBUFF",
-					["source"] = "Voclox-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[326848] = {
+				[325846] = {
+					["source"] = "Haine déchaînée",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 159442,
+				},
+				[44425] = {
+					["source"] = "Фрудия-Ревущийфьорд",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Gorm de guerre",
-					["npcID"] = 170933,
+					["npcID"] = 0,
 				},
-				[339825] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[7870] = {
 					["type"] = "BUFF",
-					["source"] = "Temis",
-					["npcID"] = 0,
-				},
-				[311496] = {
+					["source"] = "Angora",
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 120526,
+				},
+				[345805] = {
 					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[198837] = {
+					["source"] = "Furtif ressuscité",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 99541,
+				},
+				[156079] = {
+					["type"] = "BUFF",
+					["source"] = "Ashalka-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[205708] = {
+				[320212] = {
+					["source"] = "Aïssata-KirinTor",
+					["type"] = "BUFF",
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Akumà-KirinTor",
 					["npcID"] = 0,
 				},
-				[330943] = {
+				[327851] = {
+					["type"] = "BUFF",
+					["source"] = "Elfina-LesSentinelles",
 					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[328908] = {
 					["type"] = "BUFF",
 					["source"] = "Radokan-CultedelaRivenoire",
 					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
-				[315079] = {
+				[326863] = {
+					["source"] = "Hamakaze-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[81782] = {
+					["npcID"] = 0,
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[191837] = {
+					["source"] = "Linøtte-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[323802] = {
+					["source"] = "Zergerie-Ysondre",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[156080] = {
+					["type"] = "BUFF",
+					["source"] = "Newtt-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[240263] = {
+					["source"] = "Araena-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[342181] = {
+					["type"] = "BUFF",
+					["source"] = "Okotha-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[25771] = {
+					["type"] = "DEBUFF",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[102560] = {
+					["source"] = "Beamboy-Sargeras",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[328921] = {
+					["type"] = "BUFF",
+					["source"] = "Hurlaile",
+					["npcID"] = 164406,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[270070] = {
+					["type"] = "BUFF",
+					["source"] = "Amûthiel-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[14914] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Okotha-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[193356] = {
+					["type"] = "BUFF",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[260734] = {
+					["type"] = "BUFF",
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[48778] = {
+					["type"] = "BUFF",
+					["source"] = "Haar-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[203651] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Chatøun-LesSentinelles",
+					["encounterID"] = 2398,
+				},
+				[54149] = {
+					["source"] = "Lolipoppy-Ysondre",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[54861] = {
+					["type"] = "BUFF",
+					["source"] = "Râuro-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[12042] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[313571] = {
+					["type"] = "BUFF",
+					["source"] = "Vishael-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[8936] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Chatøun-LesSentinelles",
+					["encounterID"] = 2398,
+				},
+				[330971] = {
+					["type"] = "BUFF",
+					["source"] = "Inconnu",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 171467,
+				},
+				[115175] = {
+					["source"] = "Linøtte-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[340183] = {
+					["source"] = "Agaa-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[112042] = {
+					["source"] = "Inconnu",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 1860,
+				},
+				[341207] = {
+					["type"] = "BUFF",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[309212] = {
+					["source"] = "Shøôöt-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[338137] = {
+					["type"] = "BUFF",
+					["source"] = "Graine d'hydre",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 172995,
+				},
+				[328414] = {
+					["source"] = "Arcaniste royale",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165270,
+				},
+				[240266] = {
+					["source"] = "Exonard-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[51505] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["encounterID"] = 2398,
+				},
+				[290819] = {
+					["source"] = "Noxra-ChamberofAspects",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[328411] = {
+					["source"] = "Arcaniste royale",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165270,
+				},
+				[34767] = {
+					["source"] = "Eärendihl-CultedelaRivenoire",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[330713] = {
+					["type"] = "DEBUFF",
+					["source"] = "Hurlaile",
+					["npcID"] = 164406,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[323810] = {
+					["encounterID"] = 2363,
+					["source"] = "Général Kaal",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 166085,
+				},
+				[246152] = {
+					["type"] = "BUFF",
+					["source"] = "Varkhun-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[51399] = {
+					["type"] = "DEBUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[207771] = {
+					["source"] = "Hamakaze-KirinTor",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[308798] = {
+					["type"] = "BUFF",
+					["source"] = "Dionée",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 158259,
+				},
+				[334558] = {
+					["source"] = "Maître chasseur effroyable",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 171448,
+				},
+				[163505] = {
+					["type"] = "DEBUFF",
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[83958] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["npcID"] = 0,
+				},
+				[55342] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[164273] = {
+					["source"] = "Elpistor-Sinstralis",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[254232] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["encounterID"] = 2398,
+				},
+				[272126] = {
+					["source"] = "Tyrandar-ConfrérieduThorium",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[58180] = {
+					["source"] = "Droodjam-LesSentinelles",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[344795] = {
+					["type"] = "BUFF",
+					["source"] = "Zephýria-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[292473] = {
+					["type"] = "DEBUFF",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[102383] = {
+					["source"] = "Advìtam-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[198817] = {
+					["type"] = "BUFF",
+					["source"] = "Lagale-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[48265] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[294133] = {
+					["type"] = "BUFF",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[118038] = {
+					["source"] = "Aliboulala",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[109304] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Varkhun-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[257413] = {
+					["source"] = "Hsylphidemg-LesClairvoyants",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[212036] = {
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["npcID"] = 0,
+				},
+				[6343] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Zosc",
+					["encounterID"] = 2398,
+				},
+				[256134] = {
+					["source"] = "Mynna-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[1079] = {
+					["source"] = "Hâze-Sargeras",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[68992] = {
+					["type"] = "BUFF",
+					["source"] = "Smokèr-LesClairvoyants",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[201633] = {
+					["type"] = "BUFF",
+					["source"] = "Totem de mur terrestre",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 100943,
+				},
+				[17] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["encounterID"] = 2398,
+				},
+				[334443] = {
+					["type"] = "BUFF",
+					["source"] = "Elfina-LesSentinelles",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[329703] = {
+					["source"] = "Afflige-âme de la Domination",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 159106,
+				},
+				[121557] = {
+					["type"] = "BUFF",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[116841] = {
+					["source"] = "Thryss-LesSentinelles",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[326377] = {
+					["type"] = "BUFF",
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[221885] = {
+					["type"] = "BUFF",
+					["source"] = "Narkaly-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[308509] = {
+					["type"] = "BUFF",
+					["source"] = "Evilkên-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[307443] = {
+					["source"] = "Pahanamage-ConfrérieduThorium",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[193538] = {
+					["type"] = "BUFF",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[322796] = {
+					["encounterID"] = 2363,
+					["source"] = "Général Kaal",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162099,
+				},
+				[329449] = {
+					["source"] = "Noxra-ChamberofAspects",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[221887] = {
+					["type"] = "BUFF",
+					["source"] = "Ikebukuro-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[113899] = {
+					["npcID"] = 59262,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Porte des démons",
+					["encounterID"] = 2398,
+				},
+				[205473] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[73325] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Okotha-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[199844] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[344803] = {
+					["source"] = "Vanisia-Kazzak",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[269576] = {
+					["source"] = "Elpistor-Sinstralis",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[774] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Chatøun-LesSentinelles",
+					["encounterID"] = 2398,
+				},
+				[315076] = {
+					["source"] = "Nécromancien novice",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 170026,
+				},
+				[34861] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Okotha-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[46585] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[321264] = {
+					["source"] = "Lutin pierre-lié",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162056,
+				},
+				[334058] = {
+					["type"] = "DEBUFF",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[157228] = {
+					["source"] = "Kotlin",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[204883] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Okotha-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[212653] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[20271] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["encounterID"] = 2398,
+				},
+				[113900] = {
+					["npcID"] = 59271,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Porte des démons",
+					["encounterID"] = 2398,
+				},
+				[147833] = {
+					["source"] = "Ichiramen-Hyjal",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[325360] = {
+					["encounterID"] = 2362,
+					["source"] = "Grande déléguée Beryllia",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162102,
+				},
+				[212431] = {
+					["source"] = "Elpistor-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[332525] = {
+					["npcID"] = 171396,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Goliath kyrian",
+					["encounterID"] = 2398,
+				},
+				[30213] = {
+					["source"] = "Krenvazul",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 17252,
+				},
+				[346012] = {
+					["source"] = "Aliboulala",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[327164] = {
+					["type"] = "BUFF",
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[332526] = {
+					["npcID"] = 171396,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Goliath kyrian",
+					["encounterID"] = 2398,
+				},
+				[1161] = {
+					["source"] = "Aliboulala",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[197690] = {
+					["source"] = "Piuma-CultedelaRivenoire",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[44614] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[204197] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["encounterID"] = 2398,
+				},
+				[261769] = {
+					["type"] = "BUFF",
+					["source"] = "Mîräcle-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[321388] = {
+					["source"] = "Shaelindra-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[336885] = {
+					["source"] = "Aliboulala",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[326064] = {
+					["source"] = "Kotlin",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[207400] = {
+					["source"] = "Decoter-TarrenMill",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[163201] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Zosc",
+					["encounterID"] = 2398,
+				},
+				[343144] = {
+					["type"] = "BUFF",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[257420] = {
+					["type"] = "BUFF",
+					["source"] = "Zepec",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[328275] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Varkhun-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[105174] = {
+					["source"] = "Skøøs",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[116844] = {
+					["source"] = "Fae-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[90361] = {
+					["source"] = "Bearnie",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165189,
+				},
+				[341282] = {
+					["source"] = "Durkydeath-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[115181] = {
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[23214] = {
+					["event"] = "SPELL_AURA_APPLIED",
+					["type"] = "BUFF",
+					["source"] = "Anthem-ConseildesOmbres",
+					["npcID"] = 0,
+				},
+				[311489] = {
+					["type"] = "BUFF",
+					["source"] = "Varkhun-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[275773] = {
+					["source"] = "Lolipoppy-Ysondre",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[325299] = {
+					["type"] = "BUFF",
+					["source"] = "Tinéka",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[334067] = {
+					["source"] = "Momohalouf",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[307185] = {
+					["source"] = "Ashame-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[68996] = {
+					["source"] = "Azshani-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[339697] = {
+					["source"] = "Caladhiel-LesClairvoyants",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[222367] = {
+					["source"] = "Aeshesdh-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[194153] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kotlin",
+					["encounterID"] = 2398,
+				},
+				[320763] = {
+					["source"] = "Totem de vague de mana",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 10467,
+				},
+				[342272] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "DEBUFF",
-					["source"] = "Recouseur ricanant",
-					["npcID"] = 170821,
+					["source"] = "Oeil-de-faucon de cour",
+					["npcID"] = 173190,
 				},
-				[311497] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[188592] = {
 					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[334581] = {
+					["source"] = "Skøøs",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[58867] = {
+				[339187] = {
+					["type"] = "BUFF",
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[320130] = {
+					["source"] = "Aïssata-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[332023] = {
+					["source"] = "Shøôöt-ConfrérieduThorium",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Esprit du loup",
-					["npcID"] = 29264,
-				},
-				[338041] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Glapie-CultedelaRivenoire",
 					["npcID"] = 0,
 				},
-				[190356] = {
+				[330765] = {
+					["source"] = "Kahzä",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[196840] = {
+					["npcID"] = 0,
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ninaea-Dalaran",
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["encounterID"] = 2398,
+				},
+				[342309] = {
+					["source"] = "Pouvoirs-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[311498] = {
+				[345088] = {
+					["source"] = "Recrue vorkaï",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 170033,
+				},
+				[205025] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[2481] = {
+					["type"] = "BUFF",
+					["source"] = "Gumbï-ConfrérieduThorium",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[193455] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Varkhun-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[61295] = {
+					["source"] = "Decoter-TarrenMill",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[290512] = {
+					["source"] = "Sashagrey-Aman'thul",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[194223] = {
+					["source"] = "Kotlin",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[323547] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Shikamaruu-Elune",
+					["encounterID"] = 2398,
+				},
+				[325885] = {
+					["type"] = "DEBUFF",
+					["source"] = "Z'rali",
+					["encounterID"] = 2362,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 166642,
+				},
+				[335150] = {
 					["event"] = "SPELL_AURA_APPLIED",
 					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
+					["source"] = "Dhamballa-KirinTor",
 					["npcID"] = 0,
+				},
+				[345863] = {
+					["source"] = "Nécron-ConseildesOmbres",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[10060] = {
+					["type"] = "BUFF",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[327706] = {
+					["source"] = "ßrolii-CultedelaRivenoire",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[187827] = {
+					["source"] = "Hamakaze-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[65081] = {
+					["type"] = "BUFF",
+					["source"] = "Wuzzu-LesClairvoyants",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[214621] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["encounterID"] = 2398,
+				},
+				[332028] = {
+					["source"] = "Shøôöt-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[333049] = {
+					["source"] = "Skydo-Sargeras",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[308488] = {
+					["source"] = "Ashame-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[355] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Zosc",
+					["encounterID"] = 2398,
+				},
+				[199854] = {
+					["source"] = "Aliboulala",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[26573] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["encounterID"] = 2398,
+				},
+				[345335] = {
+					["source"] = "Zergerie-Ysondre",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[2565] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Zosc",
+					["encounterID"] = 2398,
+				},
+				[8221] = {
+					["source"] = "Gnöm-LesClairvoyants",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[36554] = {
+					["type"] = "BUFF",
+					["source"] = "Shikamaruu-Elune",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[152262] = {
+					["type"] = "BUFF",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[2948] = {
+					["source"] = "Skydo-Sargeras",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[147362] = {
+					["source"] = "Pusessa-ChamberofAspects",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[5176] = {
+					["encounterID"] = 2360,
+					["source"] = "Tsutey-Krasus",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[324867] = {
+					["type"] = "BUFF",
+					["source"] = "Okotha-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[337661] = {
+					["type"] = "BUFF",
+					["source"] = "Kaldiria-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[260242] = {
+					["source"] = "Elpistor-Sinstralis",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[20707] = {
+					["source"] = "Rëapër-CultedelaRivenoire",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[208772] = {
+					["type"] = "DEBUFF",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[199600] = {
+					["type"] = "BUFF",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[323845] = {
+					["encounterID"] = 2363,
+					["source"] = "Général Kaal",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 162099,
+				},
+				[207640] = {
+					["type"] = "BUFF",
+					["source"] = "Chatøun-LesSentinelles",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[246851] = {
+					["type"] = "BUFF",
+					["source"] = "Varkhun-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[185763] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Dhamballa-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[260243] = {
+					["source"] = "Elpistor-Sinstralis",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[162243] = {
+					["source"] = "Güts-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[2641] = {
+					["source"] = "Hydria-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[2645] = {
+					["type"] = "BUFF",
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[2649] = {
+					["source"] = "Alpha",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 165189,
+				},
+				[340118] = {
+					["source"] = "Stenoox-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[327276] = {
+					["source"] = "Linøtte-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[157980] = {
+					["source"] = "Фрудия-Ревущийфьорд",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[329989] = {
+					["source"] = "Grand poil-granit",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 158978,
+				},
+				[205231] = {
+					["npcID"] = 103673,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Regard-noir",
+					["encounterID"] = 2398,
+				},
+				[157982] = {
+					["type"] = "BUFF",
+					["source"] = "Høpi",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[347901] = {
+					["source"] = "Ashame-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[329990] = {
+					["source"] = "Grand poil-granit",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 158978,
+				},
+				[198067] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["encounterID"] = 2398,
+				},
+				[322978] = {
+					["source"] = "Poing-de-Pierre",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 159503,
+				},
+				[311469] = {
+					["type"] = "BUFF",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[314793] = {
+					["source"] = "Mosiren-Anub'arak",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[231843] = {
+					["type"] = "BUFF",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[267558] = {
+					["type"] = "BUFF",
+					["source"] = "Artimont-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[199603] = {
+					["type"] = "BUFF",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[332039] = {
+					["source"] = "Molpik-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[53563] = {
+					["source"] = "Lolipoppy-Ysondre",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[196277] = {
+					["source"] = "Skøøs",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[116014] = {
+					["source"] = "Shyøri-ConseildesOmbres",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[316068] = {
+					["source"] = "Purotin dégoulinant",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 170045,
+				},
+				[77535] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[204242] = {
+					["source"] = "Lolipoppy-Ysondre",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[266120] = {
+					["source"] = "Hydre dévorante",
+					["type"] = "DEBUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 169206,
+				},
+				[336135] = {
+					["source"] = "Ørea-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[198069] = {
+					["type"] = "BUFF",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[272678] = {
+					["source"] = "Noxra-ChamberofAspects",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[129250] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["encounterID"] = 2398,
+				},
+				[272679] = {
+					["source"] = "Pusessa-ChamberofAspects",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[82326] = {
+					["source"] = "Lolipoppy-Ysondre",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[323654] = {
+					["source"] = "Katrana-LesClairvoyants",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[115313] = {
+					["source"] = "Linøtte-KirinTor",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[204157] = {
+					["source"] = "Zergerie-Ysondre",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[202164] = {
+					["source"] = "Aliboulala",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[253595] = {
+					["source"] = "Mörghrim",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[278310] = {
+					["source"] = "Mosiren-Anub'arak",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[334091] = {
+					["type"] = "DEBUFF",
+					["source"] = "Varycgosa-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[72968] = {
+					["source"] = "Aurelia-Sargeras",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[308504] = {
+					["type"] = "BUFF",
+					["source"] = "Lothia",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[330334] = {
+					["source"] = "Aliboulala",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[309528] = {
+					["source"] = "Neose",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[311648] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[203720] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kurokamy-KirinTor",
-					["npcID"] = 0,
-				},
-				[5215] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[228477] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Sathyana-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[311499] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[319245] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Arhymann-KirinTor",
-					["npcID"] = 0,
-				},
-				[327655] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Champion désavoué",
-					["npcID"] = 168420,
-				},
-				[342122] = {
-					["source"] = "Zämbo-KirinTor",
+					["source"] = "Hamakaze-KirinTor",
 					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
 				},
-				[51714] = {
+				[257946] = {
+					["type"] = "BUFF",
+					["source"] = "Varkhun-KirinTor",
+					["npcID"] = 0,
 					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[198839] = {
+					["type"] = "BUFF",
+					["source"] = "Totem de mur terrestre",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 100943,
+				},
+				[48707] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[308506] = {
+					["source"] = "Vanisia-Kazzak",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[5672] = {
+					["type"] = "BUFF",
+					["source"] = "Totem guérisseur",
+					["npcID"] = 3527,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[309530] = {
+					["source"] = "Admonk-LesSentinelles",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[204213] = {
 					["type"] = "DEBUFF",
-					["source"] = "Ankehl-KirinTor",
+					["source"] = "Kimeilljin-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[247456] = {
+					["source"] = "Biscoteque-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[340670] = {
+				[157644] = {
+					["source"] = "Skydo-Sargeras",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[292486] = {
+					["type"] = "BUFF",
+					["source"] = "Mimes-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[57994] = {
+					["source"] = "Watchmeplz-Archimonde",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[191634] = {
+					["type"] = "BUFF",
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[331537] = {
+					["type"] = "DEBUFF",
+					["source"] = "Totem d'emprise de l'ombre",
+					["npcID"] = 170190,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[49998] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Mimes-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[77575] = {
+					["source"] = "Deathx-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[5760] = {
+					["type"] = "DEBUFF",
+					["source"] = "Dhamballa-KirinTor",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[272790] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Varkhun-KirinTor",
+					["encounterID"] = 2398,
+				},
+				[11426] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[210053] = {
+					["source"] = "Digitaline-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[1449] = {
+					["source"] = "Pozy-CultedelaRivenoire",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[339727] = {
+					["source"] = "Ranulia-LesSentinelles",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[309534] = {
+					["source"] = "Admonk-LesSentinelles",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[202168] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Zosc",
+					["encounterID"] = 2398,
+				},
+				[341263] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["encounterID"] = 2398,
+				},
+				[1459] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[309535] = {
+					["source"] = "Admonk-LesSentinelles",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[289577] = {
+					["type"] = "BUFF",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[124273] = {
+					["type"] = "DEBUFF",
+					["source"] = "Shiitako-Sargeras",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[343648] = {
+					["type"] = "BUFF",
+					["source"] = "Kotlin",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[316072] = {
+					["source"] = "Purotin dégoulinant",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 170045,
+				},
+				[49039] = {
+					["type"] = "BUFF",
+					["source"] = "Maelys-KirinTor",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[13819] = {
+					["source"] = "Adés-LesClairvoyants",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[43308] = {
+					["source"] = "Loavia-ConfrérieduThorium",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[274738] = {
+					["source"] = "Darzul-ConseildesOmbres",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[370] = {
+					["source"] = "Watchmeplz-Archimonde",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[308514] = {
+					["source"] = "Athaure-ConfrérieduThorium",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[164812] = {
+					["type"] = "DEBUFF",
+					["source"] = "Kotlin",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[274739] = {
+					["type"] = "BUFF",
+					["source"] = "Darzul-ConseildesOmbres",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[197277] = {
+					["type"] = "DEBUFF",
+					["source"] = "Radokan-CultedelaRivenoire",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[47568] = {
+					["type"] = "BUFF",
+					["source"] = "Deathx-Sinstralis",
+					["encounterID"] = 2392,
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[132951] = {
+					["source"] = "Mylodie-KirinTor",
 					["type"] = "DEBUFF",
 					["event"] = "SPELL_AURA_APPLIED",
 					["npcID"] = 0,
 				},
-				[308430] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Krùhl-KirinTor",
+				[15487] = {
+					["source"] = "Vanisia-Kazzak",
+					["event"] = "SPELL_CAST_SUCCESS",
 					["npcID"] = 0,
+				},
+				[344179] = {
+					["source"] = "Bokle-KirinTor",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[23920] = {
+					["type"] = "BUFF",
+					["source"] = "Zosc",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
+				},
+				[334428] = {
+					["source"] = "Aurelia-Sargeras",
+					["type"] = "BUFF",
+					["event"] = "SPELL_AURA_APPLIED",
+					["npcID"] = 0,
+				},
+				[116] = {
+					["source"] = "Вугамания-СвежевательДуш",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[19434] = {
+					["source"] = "Elpistor-Sinstralis",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[52174] = {
+					["npcID"] = 0,
+					["event"] = "SPELL_CAST_SUCCESS",
+					["source"] = "Zosc",
+					["encounterID"] = 2398,
+				},
+				[345094] = {
+					["source"] = "Nécromancien novice",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 170026,
+				},
+				[332058] = {
+					["source"] = "Shøôöt-ConfrérieduThorium",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[307119] = {
+					["source"] = "Lhhymn-Elune",
+					["event"] = "SPELL_CAST_SUCCESS",
+					["npcID"] = 0,
+				},
+				[311467] = {
+					["type"] = "BUFF",
+					["source"] = "Kirrai-ConseildesOmbres",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 2398,
 				},
 				[6673] = {
 					["event"] = "SPELL_AURA_APPLIED",
@@ -12472,2064 +16892,84 @@ PlaterDB = {
 					["source"] = "Zosc",
 					["npcID"] = 0,
 				},
-				[56641] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Sheliss-KirinTor",
-					["npcID"] = 0,
-				},
-				[48517] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[348176] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 173149,
-				},
-				[348840] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Tirik-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[322921] = {
-					["npcID"] = 0,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["encounterID"] = 2359,
-				},
-				[256374] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Ecsy-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[315496] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Phaleon-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[22812] = {
-					["type"] = "BUFF",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2357,
-				},
-				[336642] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Taillette-KirinTor",
-					["npcID"] = 0,
-				},
-				[321527] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Marÿ",
-					["npcID"] = 0,
-				},
-				[322762] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[3716] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Thannagma",
-					["npcID"] = 1860,
-				},
-				[323786] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Magistrate kyriane sombre",
-					["npcID"] = 163524,
-				},
-				[322101] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Mewko-Ysondre",
-					["npcID"] = 0,
-				},
-				[308434] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Trisplok-KirinTor",
-					["npcID"] = 0,
-				},
-				[51460] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Arhymann-KirinTor",
-					["npcID"] = 0,
-				},
-				[1329] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Phaleon-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[115356] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[201846] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[87024] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Djéli-Eitrigg",
-					["npcID"] = 0,
-				},
-				[210152] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Smullyan-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[248473] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Charisma-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[322765] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Jeune daim runique",
-					["npcID"] = 170205,
-				},
-				[328452] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Klotos",
-					["npcID"] = 168843,
-				},
-				[5487] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[64382] = {
-					["npcID"] = 0,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["encounterID"] = 2359,
-				},
-				[69369] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[324541] = {
-					["source"] = "Capitaine de l'Hallali Korayn",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167951,
-				},
-				[48518] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[340678] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Hurleuse nocturne coeur-de-chêne",
-					["npcID"] = 172079,
-				},
-				[328908] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[323385] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Atec",
-					["npcID"] = 0,
-				},
-				[345094] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Nécromancien novice",
-					["npcID"] = 170026,
-				},
-				[34189] = {
-					["source"] = "Traqueur des ombres sombre-croc",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 173024,
-				},
-				[8512] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[270058] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Natalÿa-KirinTor",
-					["npcID"] = 0,
-				},
-				[323792] = {
-					["type"] = "DEBUFF",
-					["source"] = "Anima amalgamé",
-					["npcID"] = 165807,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2358,
-				},
-				[44614] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Akumà-KirinTor",
-					["npcID"] = 0,
-				},
-				[210065] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Falhannar-KirinTor",
-					["npcID"] = 0,
-				},
-				[201427] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Smullyan-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[154796] = {
-					["source"] = "Crhom-CultedelaRivenoire",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[346502] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Smullyan-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[342309] = {
-					["type"] = "BUFF",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2358,
-				},
-				[315584] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Furrax-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[190984] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[320212] = {
-					["source"] = "Justyne-ConfrérieduThorium",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[328084] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Pataugeur perturbé",
-					["npcID"] = 172070,
-				},
-				[329425] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Protecteur de la flamme",
-					["npcID"] = 157824,
-				},
-				[154797] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Wahyna-KirinTor",
-					["npcID"] = 0,
-				},
-				[340683] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Hurleuse nocturne coeur-de-chêne",
-					["npcID"] = 172079,
-				},
-				[202090] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Atec",
-					["npcID"] = 0,
-				},
-				[345801] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Skinwalker-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[338570] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zoobida-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[198793] = {
-					["source"] = "Ahja",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[8680] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Nyght-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[324260] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Akumà-KirinTor",
-					["npcID"] = 0,
-				},
-				[327935] = {
-					["source"] = "Zayhad la Bâtisseuse",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167289,
-				},
-				[320009] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Solreen-KirinTor",
-					["npcID"] = 0,
-				},
-				[322817] = {
-					["type"] = "DEBUFF",
-					["source"] = "Déva",
-					["npcID"] = 162061,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2359,
-				},
-				[156910] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[185123] = {
-					["source"] = "Ahja",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[227723] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[204242] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[317361] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Atec",
-					["npcID"] = 0,
-				},
-				[49184] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ankehl-KirinTor",
-					["npcID"] = 0,
-				},
-				[196840] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zarkhan-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[319233] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Arhymann-KirinTor",
-					["npcID"] = 0,
-				},
-				[345805] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Skinwalker-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[339664] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Scores-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[325299] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Filmine-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[20572] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kub",
-					["npcID"] = 0,
-				},
-				[49376] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[319504] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Tytannya-KirinTor",
-					["npcID"] = 0,
-				},
-				[311467] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Arakara",
-					["npcID"] = 0,
-				},
-				[325850] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Oeil de Zolramus",
-					["npcID"] = 166942,
-				},
-				[266120] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Hydre dévorante",
-					["npcID"] = 169206,
-				},
-				[317661] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Plonge-éther",
-					["npcID"] = 163503,
-				},
-				[338643] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Fredarne-KirinTor",
-					["npcID"] = 0,
-				},
-				[197277] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Phelo",
-					["npcID"] = 0,
-				},
-				[193641] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Phaleon-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[25771] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[330456] = {
-					["source"] = "Yulkatar le Cruel",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 162298,
-				},
-				[275699] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Arhymann-KirinTor",
-					["npcID"] = 0,
-				},
-				[54149] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[323804] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Magistrate kyriane sombre",
-					["npcID"] = 163524,
-				},
-				[3408] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Nelmara",
-					["npcID"] = 0,
-				},
-				[260734] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zarkhan-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[329435] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 158628,
-				},
-				[319711] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Phalynx ombreux",
-					["npcID"] = 166872,
-				},
-				[185763] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Nyght-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[275983] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Lieur de flamme magmatique",
-					["npcID"] = 157820,
-				},
-				[83958] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Chöwper-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[198813] = {
-					["source"] = "Ahja",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[322893] = {
-					["type"] = "BUFF",
-					["source"] = "Déva",
-					["npcID"] = 162061,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2359,
-				},
-				[311477] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Mylenas-KirinTor",
-					["npcID"] = 0,
-				},
-				[115175] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Atec",
-					["npcID"] = 0,
-				},
-				[337984] = {
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2359,
-				},
-				[197214] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[341207] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Karukinus-KirinTor",
-					["npcID"] = 0,
-				},
-				[342049] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Lîra",
-					["npcID"] = 0,
-				},
-				[199603] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Deathdemon-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[318181] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Wyrm d'éther insatiable",
-					["npcID"] = 172704,
-				},
-				[106785] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[192081] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[331997] = {
-					["type"] = "DEBUFF",
-					["source"] = "Oryphrione",
-					["npcID"] = 162060,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2358,
-				},
-				[257410] = {
-					["source"] = "Emmanuel-KirinTor",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[34767] = {
-					["source"] = "Valgar-ConseildesOmbres",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[336604] = {
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2359,
-				},
-				[246152] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Marianagetth-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[156084] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Létal-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[311864] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Nylsa-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[207771] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Kurokamy-KirinTor",
-					["npcID"] = 0,
-				},
-				[19574] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Marianagetth-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[186257] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Marianagetth-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[330976] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Bigfout-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[328231] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Marÿ",
-					["npcID"] = 0,
-				},
-				[143625] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Deathdemon-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[164273] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zyha-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[272790] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Marianagetth-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[272126] = {
-					["type"] = "BUFF",
-					["source"] = "Farnox-KirinTor",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[58180] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[48265] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Disaenera-KirinTor",
-					["npcID"] = 0,
-				},
-				[35395] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[102383] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[196770] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Ankehl-KirinTor",
-					["npcID"] = 0,
-				},
-				[332514] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Tauras-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[294133] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[257946] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Marianagetth-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[336097] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Crispyrolls",
-					["npcID"] = 0,
-				},
-				[257413] = {
-					["source"] = "Pleômax-KirinTor",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[317963] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Fustigatrice désavouée",
-					["npcID"] = 163458,
-				},
-				[6343] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[221887] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Agertha-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[1079] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[269571] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Scores-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[257420] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zarul-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[17] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Krile-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[107079] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Naelandy-Vol'jin",
-					["npcID"] = 0,
-				},
-				[301578] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kanapesh-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[43308] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Chibouchen-KirinTor",
-					["npcID"] = 0,
-				},
-				[334053] = {
-					["npcID"] = 162060,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Oryphrione",
-					["encounterID"] = 2358,
-				},
-				[61295] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Vìkendi-Draenor",
-					["npcID"] = 0,
-				},
-				[86392] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Nyght-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[332862] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Polnareffu",
-					["npcID"] = 0,
-				},
-				[162997] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Androméede-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[305752] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Zoobida-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[331174] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Vaillant inébranlable",
-					["npcID"] = 167164,
-				},
-				[329449] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Kementai-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[210053] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Xenophon-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[331624] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kementai-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[205473] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Akumà-KirinTor",
-					["npcID"] = 0,
-				},
-				[323309] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Chair de guerre massive",
-					["npcID"] = 166932,
-				},
-				[774] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[211805] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Ankehl-KirinTor",
-					["npcID"] = 0,
-				},
-				[269576] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Lîra",
-					["npcID"] = 0,
-				},
-				[50842] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Disaenera-KirinTor",
-					["npcID"] = 0,
-				},
-				[160331] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Convërge-KirinTor",
-					["npcID"] = 0,
-				},
-				[330475] = {
-					["source"] = "Kirgvald",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 172231,
-				},
-				[327708] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kwaptof-KirinTor",
-					["npcID"] = 0,
-				},
-				[187878] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[108271] = {
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2357,
-				},
-				[279303] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Ankehl-KirinTor",
-					["npcID"] = 0,
-				},
-				[264689] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Zoobida-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[325359] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Tireur d'élite inébranlable",
-					["npcID"] = 167043,
-				},
-				[20271] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Pallanain-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[48778] = {
-					["source"] = "Grëmi-KirinTor",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[116841] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Redhoriel-KirinTor",
-					["npcID"] = 0,
-				},
-				[212431] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Trollfurieux-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[336885] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Ankehl-KirinTor",
-					["npcID"] = 0,
-				},
-				[257418] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Riholai-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[191034] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[27638] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Griffe-furtive désavouée",
-					["npcID"] = 163506,
-				},
-				[327920] = {
-					["source"] = "Gayelle-LesClairvoyants",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[59052] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Ankehl-KirinTor",
-					["npcID"] = 0,
-				},
-				[308474] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Calista-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[325362] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 167067,
-				},
-				[327921] = {
-					["source"] = "Gayelle-LesClairvoyants",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[333351] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Hibinos-KirinTor",
-					["npcID"] = 0,
-				},
-				[261769] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Convërge-KirinTor",
-					["npcID"] = 0,
-				},
-				[122] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Salhyndra-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[260643] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Varham-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[328434] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Klotos",
-					["npcID"] = 168843,
-				},
-				[193456] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Yrris-KirinTor",
-					["npcID"] = 0,
-				},
-				[330106] = {
-					["source"] = "Yulkatar le Cruel",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 162298,
-				},
-				[198300] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[328435] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 168843,
-				},
-				[121557] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kaisinel-KirinTor",
-					["npcID"] = 0,
-				},
-				[18960] = {
-					["source"] = "Zsixpo-LesSentinelles",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[343294] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Arhymann-KirinTor",
-					["npcID"] = 0,
-				},
-				[6807] = {
-					["source"] = "Looloot",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[317943] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Avant-garde désavoué",
-					["npcID"] = 163457,
-				},
-				[327413] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Goliath désavoué",
-					["npcID"] = 168318,
-				},
-				[23214] = {
-					["source"] = "Pleômax-KirinTor",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[47541] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Arhymann-KirinTor",
-					["npcID"] = 0,
-				},
-				[112042] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 1860,
-				},
-				[163505] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[334067] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[324392] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Goliath désavoué",
-					["npcID"] = 168318,
-				},
-				[68996] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Jarred-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[1680] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[102359] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[199736] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Klementieff-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[320763] = {
-					["source"] = "Totem de vague de mana",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 10467,
-				},
-				[327416] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Goliath désavoué",
-					["npcID"] = 168318,
-				},
-				[345088] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Recrue vorkaï",
-					["npcID"] = 170033,
-				},
-				[53385] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Pallanain-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[330847] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Inconnu",
-					["npcID"] = 168244,
-				},
-				[197548] = {
-					["type"] = "BUFF",
-					["source"] = "Tali-KirinTor",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[279709] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Glapie-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[326830] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Gorm de guerre",
-					["npcID"] = 170933,
-				},
-				[194153] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[324368] = {
-					["npcID"] = 163077,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Azules",
-					["encounterID"] = 2357,
-				},
-				[12975] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[340724] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Poustouf",
-					["npcID"] = 170643,
-				},
-				[340094] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zonkill-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[193455] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Marianagetth-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[2818] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Phaleon-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[325202] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Mewko-Ysondre",
-					["npcID"] = 0,
-				},
-				[194223] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[162794] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Smullyan-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[327932] = {
-					["source"] = "Kotlin",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[310869] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Bellora-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[326909] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Gorm de guerre",
-					["npcID"] = 170933,
-				},
-				[10060] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kahapriest-Archimonde",
-					["npcID"] = 0,
-				},
-				[772] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Varham-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[187827] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Foeh-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[193538] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Phaleon-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[196741] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Convërge-KirinTor",
-					["npcID"] = 0,
-				},
-				[322999] = {
-					["npcID"] = 162061,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Déva",
-					["encounterID"] = 2359,
-				},
-				[338935] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Gobeur des Stipes",
-					["npcID"] = 167124,
-				},
-				[308488] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Rody-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[85948] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Arhymann-KirinTor",
-					["npcID"] = 0,
-				},
-				[199854] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[26573] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[322818] = {
-					["npcID"] = 162061,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Déva",
-					["encounterID"] = 2359,
-				},
-				[2565] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[116847] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Monkikine-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[346871] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Assassin |2 Kurokamy-KirinTor",
-					["npcID"] = 161846,
-				},
-				[324307] = {
-					["npcID"] = 165807,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Anima amalgamé",
-					["encounterID"] = 2358,
-				},
-				[136] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Nalaos-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[327937] = {
-					["source"] = "Dromane Aliothe",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 167288,
-				},
-				[310026] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Boggart changeant",
-					["npcID"] = 172047,
-				},
-				[308491] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kub",
-					["npcID"] = 0,
-				},
-				[51723] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Phaleon-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[260242] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Lîra",
-					["npcID"] = 0,
-				},
-				[16591] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Souffle-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[60103] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[199600] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Deathdemon-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[336003] = {
-					["source"] = "Kotlin",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[101568] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Ankehl-KirinTor",
-					["npcID"] = 0,
-				},
-				[197690] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Varham-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[320123] = {
-					["source"] = "Brasillon",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 168966,
-				},
-				[260243] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Narnak-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[162243] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Smullyan-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[288024] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Seiichi-KirinTor",
-					["npcID"] = 0,
-				},
-				[2645] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[2649] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Diablosaure",
-					["npcID"] = 165189,
-				},
-				[328453] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Lakésis",
-					["npcID"] = 168844,
-				},
-				[308495] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kub",
-					["npcID"] = 0,
-				},
-				[311054] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Convërge-KirinTor",
-					["npcID"] = 0,
-				},
-				[327942] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Totem Furie-des-vents",
-					["npcID"] = 6112,
-				},
-				[328454] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Lakésis",
-					["npcID"] = 168844,
-				},
-				[317792] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Magus de la mort",
-					["npcID"] = 163366,
-				},
-				[347901] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Khornn-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[281178] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Karadok",
-					["npcID"] = 0,
-				},
-				[257620] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Trollfurieux-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[132168] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[334776] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Emmý-KirinTor",
-					["npcID"] = 0,
-				},
-				[115804] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[231843] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[344006] = {
+					["source"] = "Linøtte-KirinTor",
 					["type"] = "BUFF",
-					["source"] = "Pallanain-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[308498] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Sheliss-KirinTor",
-					["npcID"] = 0,
-				},
-				[339] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Somsa-KirinTor",
 					["npcID"] = 0,
 				},
-				[107574] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[311475] = {
+					["source"] = "Vanisia-Kazzak",
 					["type"] = "BUFF",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[324739] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[212653] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Carhiba-LesSentinelles",
 					["npcID"] = 0,
 				},
-				[338731] = {
-					["type"] = "DEBUFF",
-					["source"] = "Oryphrione",
-					["npcID"] = 162060,
+				[974] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2358,
-				},
-				[327946] = {
-					["source"] = "Kotlin",
 					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
+					["source"] = "Faithlessxd-CultedelaRivenoire",
 					["npcID"] = 0,
-				},
-				[328458] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Lakésis",
-					["npcID"] = 168844,
 				},
-				[273428] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Naphrael-LesClairvoyants",
+				[198590] = {
 					["npcID"] = 0,
-				},
-				[315076] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Recouseur ricanant",
-					["npcID"] = 170821,
-				},
-				[336135] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Trollfurieux-ConseildesOmbres",
-					["npcID"] = 0,
+					["source"] = "Tinéka",
+					["encounterID"] = 2398,
 				},
-				[327851] = {
-					["event"] = "SPELL_AURA_APPLIED",
+				[307496] = {
 					["type"] = "BUFF",
-					["source"] = "Naks-KirinTor",
+					["source"] = "Kimeilljin-ConseildesOmbres",
 					["npcID"] = 0,
-				},
-				[65081] = {
 					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Krile-ConseildesOmbres",
-					["npcID"] = 0,
+					["encounterID"] = 2398,
 				},
-				[307185] = {
-					["type"] = "BUFF",
-					["source"] = "Zosc",
+				[326059] = {
 					["npcID"] = 0,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2359,
-				},
-				[198837] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Furtif ressuscité",
-					["npcID"] = 99541,
-				},
-				[310037] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Sabrecroc illusoire",
-					["npcID"] = 172047,
-				},
-				[121536] = {
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Celesna-KirinTor",
-					["npcID"] = 0,
+					["source"] = "Kakumô-ConfrérieduThorium",
+					["encounterID"] = 2398,
 				},
-				[34026] = {
+				[152277] = {
+					["source"] = "Arako-ConseildesOmbres",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Marianagetth-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[311458] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kirath-LesClairvoyants",
 					["npcID"] = 0,
 				},
 				[348] = {
+					["source"] = "Rëapër-CultedelaRivenoire",
 					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Nôstra-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[253595] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Ðæñìå",
-					["npcID"] = 0,
-				},
-				[278310] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Carhiba-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[193358] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Deathdemon-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[328462] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Astronos",
-					["npcID"] = 168845,
-				},
-				[308504] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Rhudra-KirinTor",
-					["npcID"] = 0,
-				},
-				[343104] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Incinérateur stygien",
-					["npcID"] = 156203,
-				},
-				[336139] = {
-					["type"] = "DEBUFF",
-					["source"] = "Malvin-ConseildesOmbres",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[157131] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Snikoulz-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[183998] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Radokan-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[266030] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Nôstra-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[2825] = {
-					["type"] = "BUFF",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-					["event"] = "SPELL_AURA_APPLIED",
-					["encounterID"] = 2357,
-				},
-				[310041] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Boggart changeant",
-					["npcID"] = 172047,
-				},
-				[308506] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Tarlan",
-					["npcID"] = 0,
-				},
-				[355] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[51533] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[16595] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Souffle-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[334428] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Kilocalorie-KirinTor",
-					["npcID"] = 0,
-				},
-				[330704] = {
-					["source"] = "Kirgvald",
-					["type"] = "DEBUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 172231,
-				},
-				[311478] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Flavià-KirinTor",
-					["npcID"] = 0,
-				},
-				[57994] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[325033] = {
-					["source"] = "Capitaine de l'Hallali Korayn",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167951,
-				},
-				[319255] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Arhymann-KirinTor",
-					["npcID"] = 0,
-				},
-				[309532] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Chöwper-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[325582] = {
-					["source"] = "Kotlin",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[5760] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Deathdemon-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[325397] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Baslat",
-					["npcID"] = 176334,
-				},
-				[320463] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ecorchaile le Cruel",
-					["npcID"] = 167078,
-				},
-				[16979] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Xzwy-KirinTor",
-					["npcID"] = 0,
-				},
-				[1449] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Ninaea-Dalaran",
-					["npcID"] = 0,
-				},
-				[329492] = {
-					["type"] = "DEBUFF",
-					["source"] = "Viktorius-KirinTor",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[21169] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[109304] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Sheliss-KirinTor",
-					["npcID"] = 0,
-				},
-				[347404] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Lieur de flamme magmatique",
-					["npcID"] = 157820,
-				},
-				[1459] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Jahjahtox-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[22842] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Eramus-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[193530] = {
-					["source"] = "Elphye-ConseildesOmbres",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[234153] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Filmine-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[2983] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Phaleon-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[179057] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Smullyan-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[286031] = {
-					["source"] = "Monserrat-KirinTor",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[343312] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Smullyan-LesClairvoyants",
-					["npcID"] = 0,
-				},
-				[252216] = {
-					["source"] = "Arcatera-LesSentinelles",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[63560] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Arhymann-KirinTor",
-					["npcID"] = 0,
-				},
-				[370] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Throrik-Hyjal",
-					["npcID"] = 0,
-				},
-				[308514] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zapindis-ConseildesOmbres",
-					["npcID"] = 0,
-				},
-				[164812] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Kotlin",
-					["npcID"] = 0,
-				},
-				[323438] = {
-					["source"] = "Grand phalarden",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 166073,
-				},
-				[71092] = {
-					["source"] = "Mídníght-LesClairvoyants",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[204021] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Kurokamy-KirinTor",
-					["npcID"] = 0,
-				},
-				[345155] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Ame drainée",
-					["npcID"] = 175938,
-				},
-				[117952] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Wéifeng",
-					["npcID"] = 0,
-				},
-				[116858] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Nôstra-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[157736] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Nôstra-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[255937] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Pallanain-LesSentinelles",
-					["npcID"] = 0,
-				},
-				[319775] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Phalynx ombreux",
-					["npcID"] = 166872,
-				},
-				[188034] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Epioul-CultedelaRivenoire",
-					["npcID"] = 0,
-				},
-				[52174] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zosc",
-					["npcID"] = 0,
-				},
-				[254474] = {
-					["source"] = "Risitia-KirinTor",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[287280] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Angegabi-KirinTor",
-					["npcID"] = 0,
-				},
-				[222256] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Nège-KirinTor",
-					["npcID"] = 0,
-				},
-				[332777] = {
-					["source"] = "Scipia-ConfrérieduThorium",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[115191] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Phaleon-ConfrérieduThorium",
-					["npcID"] = 0,
-				},
-				[197835] = {
-					["source"] = "Necrom-ConfrérieduThorium",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 0,
-				},
-				[340759] = {
-					["source"] = "Ingra Drif",
-					["event"] = "SPELL_CAST_SUCCESS",
-					["npcID"] = 167702,
-				},
-				[124219] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Zeman-KirinTor",
-					["npcID"] = 0,
-				},
-				[113656] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Convërge-KirinTor",
-					["npcID"] = 0,
-				},
-				[332121] = {
-					["source"] = "Morati",
-					["type"] = "BUFF",
-					["event"] = "SPELL_AURA_APPLIED",
-					["npcID"] = 0,
-				},
-				[318243] = {
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Tisse-haine spectral",
-					["npcID"] = 170803,
-				},
-				[124275] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "DEBUFF",
-					["source"] = "Rhudra-KirinTor",
-					["npcID"] = 0,
-				},
-				[3714] = {
-					["event"] = "SPELL_AURA_APPLIED",
-					["type"] = "BUFF",
-					["source"] = "Atalkaz-ConseildesOmbres",
 					["npcID"] = 0,
 				},
 			},
 			["aura2_x_offset"] = 0,
 			["saved_cvars"] = {
-				["nameplateShowFriends"] = "0",
+				["ShowClassColorInNameplate"] = "1",
+				["ShowNamePlateLoseAggroFlash"] = "1",
+				["nameplateShowEnemyMinus"] = "1",
+				["nameplateMotionSpeed"] = "0.05",
 				["NamePlateClassificationScale"] = "1",
+				["nameplateShowFriendlyTotems"] = "0",
+				["nameplateShowEnemyMinions"] = "1",
+				["nameplateShowFriendlyPets"] = "0",
+				["nameplateShowFriendlyNPCs"] = "0",
+				["nameplateSelectedScale"] = "1.15",
+				["nameplateTargetRadialPosition"] = "1",
+				["nameplateShowFriends"] = "0",
+				["nameplateShowSelf"] = "0",
+				["nameplateMinScale"] = "1",
+				["nameplateShowAll"] = "1",
+				["nameplateMaxDistance"] = "100",
+				["nameplateShowFriendlyMinions"] = "0",
+				["nameplatePersonalHideDelaySeconds"] = "0.2",
+				["nameplateOtherTopInset"] = "0.085",
+				["nameplateTargetBehindMaxDistance"] = "30",
+				["nameplateShowFriendlyGuardians"] = "0",
 				["NamePlateHorizontalScale"] = "1",
-				["nameplateShowEnemyMinus"] = "0",
+				["nameplateLargeTopInset"] = "0.085",
 				["nameplateShowEnemies"] = "1",
-				["nameplateShowEnemyMinions"] = "0",
+				["nameplateResourceOnTarget"] = "0",
 				["NamePlateVerticalScale"] = "1",
 			},
-			["login_counter"] = 880,
+			["login_counter"] = 1085,
 			["OptionsPanelDB"] = {
 				["PlaterOptionsPanelFrame"] = {
 					["scale"] = 1,
@@ -14571,18 +17011,18 @@ PlaterDB = {
 						},
 					},
 					["Author"] = "Kastfall-Azralon",
-					["Name"] = "Color Automation [Plater]",
+					["version"] = -1,
 					["Desc"] = "Easy way to change the color of an unit. Open the constructor script and follow the examples.",
 					["Hooks"] = {
 						["Nameplate Updated"] = "function (self, unitId, unitFrame, envTable)\n    \n    --attempt to get the color from the unit color list\n    local color = envTable.NpcColors [unitFrame.namePlateUnitNameLower] or envTable.NpcColors [unitFrame.namePlateUnitName] or envTable.NpcColors [unitFrame.namePlateNpcId]\n    \n    --if the color exists, set the health bar color\n    if (color) then\n        Plater.SetNameplateColor (unitFrame, color)\n    end\n    \nend\n\n\n\n\n\n\n\n\n\n\n\n",
 						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --list of npcs and their colors, can be inserted:\n    --name of the unit\n    --name of the unit in lower case\n    --npcID of the unit\n    \n    --color can be added as:\n    --color names: \"red\", \"yellow\"\n    --color hex: \"#FF0000\", \"#FFFF00\"\n    --color table: {1, 0, 0}, {1, 1, 0}    \n    \n    envTable.NpcColors = {\n        \n        --examples, using the unit name in lower case, regular unit name and the unitID:\n        \n        [\"Thunderlord Windreader\"] = \"red\", --using regular mob name and color it as red\n        [\"thunderlord crag-leaper\"] = {1, 1, 0}, --using lower case and coloring it yellow\n        [75790] = \"#00FF00\", --using the ID of the unit and using green as color\n        \n        --insert the new mobs here:\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n    } --close custom color bracket\n    \nend\n\n\n\n\n",
 					},
-					["version"] = -1,
+					["Time"] = 1547392935,
 					["PlaterCore"] = 1,
 					["LastHookEdited"] = "",
 					["url"] = "",
 					["Icon"] = "Interface\\AddOns\\Plater\\images\\color_bar",
-					["Time"] = 1547392935,
+					["Name"] = "Color Automation [Plater]",
 				}, -- [1]
 				{
 					["HooksTemp"] = {
@@ -14864,18 +17304,18 @@ PlaterDB = {
 						},
 					},
 					["Author"] = "Ahwa-Azralon",
-					["Name"] = "Execute Range [Plater]",
+					["version"] = -1,
 					["Desc"] = "Add extra effects to execute range. See the constructor script for options.",
 					["Hooks"] = {
 						["Nameplate Updated"] = "function (self, unitId, unitFrame, envTable)\n    \n    if (envTable.UseCustomExecutePercent) then\n        \n        --manual detection\n        local healthBar = unitFrame.healthBar\n        if (healthBar.CurrentHealth / healthBar.CurrentHealthMax <= envTable.ExecutePercent) then\n            envTable.UnitInExecuteRange (unitFrame)\n        end        \n        \n    else\n        \n        --auto detection\n        if (unitFrame.InExecuteRange) then\n            envTable.UnitInExecuteRange (unitFrame)\n        end\n        \n    end\n    \nend\n\n\n\n\n\n\n\n\n\n\n\n\n",
 						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --execute detection, if true the script will handle the execute percent\n    --while false Plater will automatically trigger the execute range\n    --you only want to set this to true in case of Plater not detecting the execute range correctly\n    envTable.UseCustomExecutePercent = false\n    --execute percent, if not detecting automatic, this is the percent to active the execute range\n    --use from zero to one, 0.20 is equal to 20% of the unit life\n    envTable.ExecutePercent = 0.20\n    \n    --allow this script to change the nameplate color when the unit is in execute range\n    envTable.CanChangeColor = true\n    --change the health bar color to this color when the unit is in execute range\n    --color can be set as:\n    --color names: \"red\", \"yellow\"\n    --color hex: \"#FF0000\", \"#FFFF00\"\n    --color table: {1, 0, 0}, {1, 1, 0}\n    envTable.ExecuteColor = \"green\"\n    \n    --border color\n    envTable.CanChangeBorderColor = false\n    envTable.BorderColor = \"red\"\n    \n    --hide the default health divisor and the health execute indicator\n    envTable.HideHealthDivisor = false\n    --if not hidden, adjust the health divisor settings and the health execute indicator\n    envTable.HealthDivisorAlpha = 0.5\n    envTable.HealthDivisorColor = \"white\"\n    envTable.HealthExecuteIndicatorAlpha = 0.15\n    envTable.HealthExecuteIndicatorColor = \"darkred\"\n    \n    \n    --private (internal functions)\n    do\n        function envTable.UnitInExecuteRange (unitFrame)\n            --check if can change the execute color\n            if (envTable.CanChangeColor) then\n                Plater.SetNameplateColor (unitFrame, envTable.ExecuteColor)\n            end\n            \n            if (envTable.CanChangeBorderColor) then\n                Plater.SetBorderColor (unitFrame, envTable.BorderColor)\n            end\n            \n            if (envTable.HideHealthDivisor) then\n                unitFrame.healthBar.healthCutOff:Hide() \n                unitFrame.healthBar.executeRange:Hide()\n                \n            else\n                envTable.UpdateHealthDivisor (unitFrame)\n                \n            end\n        end\n        \n        function envTable.UpdateHealthDivisor (unitFrame)\n            local healthBar = unitFrame.healthBar\n            \n            healthBar.healthCutOff:Show()\n            healthBar.healthCutOff:SetVertexColor (DetailsFramework:ParseColors (envTable.HealthDivisorColor))\n            healthBar.healthCutOff:SetAlpha (envTable.HealthDivisorAlpha)\n            \n            healthBar.executeRange:Show()\n            healthBar.executeRange:SetVertexColor (DetailsFramework:ParseColors (envTable.HealthExecuteIndicatorColor))\n            healthBar.executeRange:SetAlpha (envTable.HealthExecuteIndicatorAlpha)\n            \n            if (envTable.UseCustomExecutePercent) then\n                healthBar.healthCutOff:ClearAllPoints()\n                healthBar.executeRange:ClearAllPoints()\n                \n                healthBar.healthCutOff:SetSize (healthBar:GetHeight(), healthBar:GetHeight())\n                healthBar.healthCutOff:SetPoint (\"center\", healthBar, \"left\", healthBar:GetWidth() * envTable.ExecutePercent, 0)\n                \n                healthBar.executeRange:SetTexCoord (0, envTable.ExecutePercent, 0, 1)\n                healthBar.executeRange:SetHeight (healthBar:GetHeight())\n                healthBar.executeRange:SetPoint (\"left\", healthBar, \"left\", 0, 0)\n                healthBar.executeRange:SetPoint (\"right\", healthBar.healthCutOff, \"center\")\n            end\n            \n        end\n    end\n    \nend",
 					},
-					["version"] = -1,
+					["Time"] = 1547406548,
 					["PlaterCore"] = 1,
 					["LastHookEdited"] = "",
 					["url"] = "",
 					["Icon"] = 135358,
-					["Time"] = 1547406548,
+					["Name"] = "Execute Range [Plater]",
 				}, -- [4]
 				{
 					["Enabled"] = false,
@@ -14906,7 +17346,7 @@ PlaterDB = {
 						},
 					},
 					["Author"] = "Izimode-Azralon",
-					["Name"] = "Hide Neutral Units [Plater]",
+					["version"] = -1,
 					["Desc"] = "Hide neutral units, show when selected, see the constructor script for options.",
 					["Hooks"] = {
 						["Leave Combat"] = "function (self, unitId, unitFrame, envTable)\n    if (unitFrame.namePlateUnitReaction == envTable.REACTION_NEUTRAL) then\n        \n        --plater already handle this\n        if (unitFrame.PlayerCannotAttack) then\n            return\n        end    \n        \n        --check if is only open world\n        if (envTable.OnlyInOpenWorld and Plater.ZoneInstanceType ~= \"none\") then\n            return \n        end\n        \n        --check for only in combat\n        if (envTable.ShowInCombat) then\n            envTable.HideNameplate (unitFrame)\n        end\n    end\nend\n\n\n",
@@ -14917,12 +17357,12 @@ PlaterDB = {
 						["Enter Combat"] = "function (self, unitId, unitFrame, envTable)\n    \n    if (unitFrame.namePlateUnitReaction == envTable.REACTION_NEUTRAL) then\n        \n        --plater already handle this\n        if (unitFrame.PlayerCannotAttack) then\n            return\n        end    \n        \n        --check if is only open world\n        if (envTable.OnlyInOpenWorld and Plater.ZoneInstanceType ~= \"none\") then\n            return \n        end\n        \n        --check for only in combat\n        if (envTable.ShowInCombat) then\n            envTable.ShowNameplate (unitFrame)\n        end\n    end\nend\n\n\n",
 						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --settings\n    envTable.OnlyInOpenWorld = true;\n    envTable.ShowInCombat = true;\n    \n    --consts\n    envTable.REACTION_NEUTRAL = 4;\n    \n    --functions to hide and show the healthBar\n    function envTable.HideNameplate (unitFrame)\n        Plater.HideHealthBar (unitFrame)\n        Plater.DisableHighlight (unitFrame)\n        envTable.IsHidden = true\n    end\n    \n    function envTable.ShowNameplate (unitFrame)\n        Plater.ShowHealthBar (unitFrame)\n        Plater.EnableHighlight (unitFrame)\n        envTable.IsHidden = false\n    end\n    \nend\n\n\n\n\n",
 					},
-					["version"] = -1,
+					["Time"] = 1541606242,
 					["PlaterCore"] = 1,
 					["LastHookEdited"] = "",
 					["url"] = "",
 					["Icon"] = 1990989,
-					["Time"] = 1541606242,
+					["Name"] = "Hide Neutral Units [Plater]",
 				}, -- [5]
 				{
 					["Enabled"] = false,
@@ -14953,18 +17393,18 @@ PlaterDB = {
 						},
 					},
 					["Author"] = "Kastfall-Azralon",
-					["Name"] = "Attacking Specific Unit [Plater]",
+					["version"] = -1,
 					["Desc"] = "Change the nameplate color if the unit is attacking a specific unit like Monk's Ox Statue or Druid's Treants. You may edit which units it track in the constructor script.",
 					["Hooks"] = {
 						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --list of npcs and their colors, can be inserted:\n    --name of the unit\n    --name of the unit in lower case\n    --npcID of the unit\n    \n    --color can be added as:\n    --color names: \"red\", \"yellow\"\n    --color hex: \"#FF0000\", \"#FFFF00\"\n    --color table: {1, 0, 0}, {1, 1, 0}    \n    \n    envTable.ListOfNpcs = {\n        [61146] = \"olive\", --monk statue npcID\n        [103822] = \"olive\", --druid treant npcID\n        \n    }\n    \n    \nend\n\n\n\n\n",
 						["Nameplate Updated"] = "function (self, unitId, unitFrame, envTable)\n    \n    --get the GUID of the target of the unit\n    local targetGUID = UnitGUID (unitId .. \"target\")\n    \n    if (targetGUID) then\n        \n        --get the npcID of the target\n        local npcID = Plater.GetNpcIDFromGUID (targetGUID)\n        --check if the npcID of this unit is in the npc list \n        if (envTable.ListOfNpcs [npcID]) then\n            Plater.SetNameplateColor (unitFrame, envTable.ListOfNpcs [npcID])\n            \n        else\n            --check if the name of ths unit is in the list\n            local unitName = UnitName (unitId .. \"target\")\n            if (envTable.ListOfNpcs [unitName]) then\n                Plater.SetNameplateColor (unitFrame, envTable.ListOfNpcs [unitName])\n                \n            else\n                --check if the name of the unit in lower case is in the npc list\n                unitName = string.lower (unitName)\n                if (envTable.ListOfNpcs [unitName]) then\n                    Plater.SetNameplateColor (unitFrame, envTable.ListOfNpcs [unitName])                \n                    \n                end\n            end\n        end\n        \n    end\nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
 					},
-					["version"] = -1,
+					["Time"] = 1547993111,
 					["PlaterCore"] = 1,
 					["LastHookEdited"] = "",
 					["url"] = "",
 					["Icon"] = "Interface\\AddOns\\Plater\\images\\icon_attacking_unit",
-					["Time"] = 1547993111,
+					["Name"] = "Attacking Specific Unit [Plater]",
 				}, -- [6]
 				{
 					["Enabled"] = false,
@@ -14995,7 +17435,7 @@ PlaterDB = {
 						},
 					},
 					["Author"] = "Tecno-Azralon",
-					["Name"] = "Extra Border [Plater]",
+					["version"] = -1,
 					["Desc"] = "Add another border with more customizations. This border can also be manipulated by other scripts.",
 					["Hooks"] = {
 						["Nameplate Created"] = "function (self, unitId, unitFrame, envTable)\n    \n    --run constructor!\n    \nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
@@ -15004,12 +17444,12 @@ PlaterDB = {
 						["Destructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    envTable.BorderFrame:Hide()\n    \nend\n\n\n",
 						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --border color\n    local borderColor = \"yellow\"\n    \n    --size of the border\n    local borderSize = 1\n    \n    --transparency\n    local borderAlpha = 1\n    \n    --enabled (set to false it you only want to use the extra border in other scripts)\n    local isEnabled = true\n    \n    --export border (allow the border to be used by other scripts)\n    --other scripts can use:\n    --unitFrame.healthBar.extraBorder:Show()\n    --unitFrame.healthBar.extraBorder:SetVertexColor (r, g, b)\n    --unitFrame.healthBar.extraBorder:SetBorderSizes (borderSize)\n    local canExportBorder = true\n    \n    --do not add the border to personal bar\n    local noPersonalBar = true\n    \n    --private\n    do\n        \n        local newBorder = CreateFrame (\"frame\", nil, unitFrame.healthBar, \"NamePlateFullBorderTemplate\")\n        envTable.BorderFrame = newBorder\n        \n        newBorder:SetBorderSizes (borderSize, borderSize, borderSize, borderSize)\n        newBorder:UpdateSizes()\n        \n        local r, g, b = DetailsFramework:ParseColors (borderColor)\n        newBorder:SetVertexColor (r, g, b, borderAlpha)\n        \n        envTable.ShowOnPersonalBar = not noPersonalBar\n        \n        if (canExportBorder) then\n            unitFrame.healthBar.extraBorder = newBorder\n        end\n        \n        if (not isEnabled) then\n            envTable.IsEnabled = false\n        else\n            envTable.IsEnabled = true\n        end\n    end\n    \nend\n\n\n",
 					},
-					["version"] = -1,
+					["Time"] = 1547409079,
 					["PlaterCore"] = 1,
 					["LastHookEdited"] = "",
 					["url"] = "",
 					["Icon"] = 133689,
-					["Time"] = 1547409079,
+					["Name"] = "Extra Border [Plater]",
 				}, -- [7]
 				{
 					["HooksTemp"] = {
@@ -15083,18 +17523,18 @@ PlaterDB = {
 						},
 					},
 					["Author"] = "Izimode-Azralon",
-					["Name"] = "Don't Have Aura [Plater]",
+					["version"] = -1,
 					["Desc"] = "Change the nameplate color when a nameplate does not have the auras set in the constructor script.",
 					["Hooks"] = {
 						["Nameplate Updated"] = "function (self, unitId, unitFrame, envTable)\n    \n    --do nothing if the player isn't in combat\n    if (not Plater.IsInCombat()) then\n        return \n    end\n    \n    --do nothing if the unit isn't in combat\n    if (not unitFrame.InCombat) then\n        return\n    end\n    \n    --do nothing if the unit is the player it self\n    if (unitFrame.IsSelf) then\n        return\n    end\n    \n    --check the auras\n    local hasAura = false\n    \n    for auraName, _ in pairs (envTable.TrackingAuras) do\n        if (Plater.NameplateHasAura (unitFrame, auraName)) then\n            hasAura = true\n            break\n        end\n    end\n    \n    if (not hasAura) then\n        Plater.SetNameplateColor (unitFrame, envTable.NameplateColor)\n    else\n        if (envTable.ForceRefreshNameplateColor) then\n            Plater.RefreshNameplateColor (unitFrame) \n        end\n    end    \n    \nend",
 						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    --Important: lines starting with double dashes are comments and are not part of the script\n    \n    --set this to true if you are not using threat colors in the health bar\n    envTable.ForceRefreshNameplateColor = true\n    \n    --if the unit does not have any of the following auras, it will be painted with the color listed below\n    --list of spells to track, can be the spell name (case-sensitive) or the spellID\n    envTable.TrackingAuras = {\n        --[\"Nightblade\"] = true, --this is an example using the spell name\n        --[195452] = true, --this is an example using the spellID\n        \n    }\n    \n    --which color the nameplate wil be changed\n    --color can be added as:\n    --color names: \"red\", \"yellow\"\n    --color hex: \"#FF0000\", \"#FFFF00\"\n    --color table: {1, 0, 0}, {1, 1, 0}    \n    --you may also use /plater colors\n    envTable.NameplateColor = \"pink\"\n    \nend",
 					},
-					["version"] = -1,
+					["Time"] = 1554138845,
 					["PlaterCore"] = 1,
 					["LastHookEdited"] = "",
 					["url"] = "",
 					["Icon"] = 136207,
-					["Time"] = 1554138845,
+					["Name"] = "Don't Have Aura [Plater]",
 				}, -- [9]
 				{
 					["OptionsValues"] = {
@@ -15170,7 +17610,7 @@ PlaterDB = {
 						},
 					},
 					["Author"] = "Izimode-Azralon",
-					["Name"] = "Players Targeting a Target [Plater]",
+					["version"] = -1,
 					["Desc"] = "Show how many raid members are targeting the unit",
 					["Hooks"] = {
 						["Leave Combat"] = "function (self, unitId, unitFrame, envTable)\n    envTable.CanShow = false;\n    envTable.TargetAmount:SetText (\"\")\nend\n\n\n",
@@ -15180,12 +17620,12 @@ PlaterDB = {
 						["Enter Combat"] = "function (self, unitId, unitFrame, envTable)\n    \n    --check if can show the amount of targets\n    envTable.CanShow = envTable.CanShowTargetAmount();\n    \n    if (not envTable.CanShow) then\n        envTable.TargetAmount:SetText (\"\") \n    end\nend\n\n\n\n\n",
 						["Constructor"] = "--all gray text like this are comments and do not run as code\n--build the settings and basic functions for the hook\n\nfunction (self, unitId, unitFrame, envTable)\n    \n    --declare setting variables:\n    local textColor = \"orange\";\n    local textSize = 12;\n    \n    local showInRaid = true;\n    local showInDungeon = true;\n    local showInArena = false;\n    local showInBattleground = false;\n    local showInOpenWorld = true;\n    \n    envTable.UpdateInterval = 2; --each 2 updates in the nameplate it'll update the amount of targets\n    \n    local anchor = {\n        side = 6, --1 = topleft 2 = left 3 = bottomleft 4 = bottom 5 = bottom right 6 = right 7 = topright 8 = top\n        x = 4, --x offset\n        y = 0, --y offset\n    };\n    \n    \n    ---------------------------------------------------------------------------------------------------------------------------------------------\n    \n    \n    --frames:\n    \n    --create the text that will show the amount of people targeting the unit\n    if (not  unitFrame.healthBar.TargetAmount) then\n        envTable.TargetAmount = Plater:CreateLabel (unitFrame.healthBar, \"\", textSize, textColor);\n        Plater.SetAnchor (envTable.TargetAmount, anchor);\n        unitFrame.healthBar.TargetAmount = envTable.TargetAmount\n    end\n    \n    --in case Plater wipes the envTable\n    envTable.TargetAmount = unitFrame.healthBar.TargetAmount\n    \n    ---------------------------------------------------------------------------------------------------------------------------------------------           \n    --private variables (they will be used in the other scripts within this hook)\n    envTable.CanShow = false;\n    envTable.UpdateCooldown = 0;\n    envTable.InRaid = false;\n    envTable.InParty = false;\n    \n    ---------------------------------------------------------------------------------------------------------------------------------------------           \n    --functions\n    \n    --update the InRaid or InParty proprieties\n    function envTable.UpdateGroupType()\n        if (IsInRaid()) then\n            envTable.InRaid = true;\n            envTable.InParty = false;     \n            \n        elseif (IsInGroup()) then\n            envTable.InRaid = false;\n            envTable.InParty = true;   \n            \n        else\n            envTable.InRaid = false;            \n            envTable.InParty = false;\n        end\n    end\n    \n    --this function controls if the amount of targets can show following the settings in the top of this script\n    function envTable.CanShowTargetAmount()\n        \n        local _, instanceType, difficultyID, _, _, _, _, instanceMapID, instanceGroupSize = GetInstanceInfo()\n        \n        if (showInRaid and instanceType == \"raid\") then\n            envTable.UpdateGroupType()\n            return true\n        end\n        \n        if (showInDungeon and instanceType == \"party\") then\n            envTable.UpdateGroupType()\n            return true\n        end\n        \n        if (showInArena and instanceType == \"arena\") then\n            envTable.UpdateGroupType()\n            return true\n        end\n        \n        if (showInBattleground and instanceType == \"pvp\") then\n            envTable.UpdateGroupType()\n            return true\n        end\n        \n        if (showInOpenWorld and instanceType == \"none\") then\n            envTable.UpdateGroupType()\n            if (envTable.InRaid or envTable.InParty) then\n                return true\n            end\n        end\n        \n        return false\n    end\n    \n    --get the amount of player targetting the unit in raid or party\n    function envTable.NumTargetsInRaid (unitFrame)\n        local amount = 0\n        for i = 1, GetNumGroupMembers() do\n            local unit = \"raid\" .. i .. \"target\"\n            if (UnitGUID (unit) == unitFrame.namePlateUnitGUID) then\n                amount = amount + 1\n            end\n        end\n        \n        return amount\n    end\n    \n    function envTable.NumTargetsInParty()\n        local amount = 0\n        for i = 1, GetNumGroupMembers() - 1 do\n            local unit = \"party\" .. i .. \"target\"\n            if (UnitGUID (unit) == unitFrame.namePlateUnitGUID) then\n                amount = amount + 1\n            end\n        end\n        \n        local unit = \"playertarget\"\n        if (UnitGUID (unit) == unitFrame.namePlateUnitGUID) then\n            amount = amount + 1\n        end        \n        \n        return amount\n    end\n    \nend",
 					},
-					["version"] = -1,
+					["Time"] = 1548278227,
 					["PlaterCore"] = 1,
 					["LastHookEdited"] = "",
 					["url"] = "",
 					["Icon"] = 1966587,
-					["Time"] = 1548278227,
+					["Name"] = "Players Targeting a Target [Plater]",
 				}, -- [11]
 				{
 					["Enabled"] = false,
@@ -15216,7 +17656,7 @@ PlaterDB = {
 						},
 					},
 					["Author"] = "Izimode-Azralon",
-					["Name"] = "Current Target Color [Plater]",
+					["version"] = -1,
 					["Desc"] = "Changes the target color to the color set in the constructor script.",
 					["Hooks"] = {
 						["Nameplate Added"] = "function (self, unitId, unitFrame, envTable)\n    envTable.UpdateColor (unitFrame)\nend",
@@ -15224,12 +17664,12 @@ PlaterDB = {
 						["Target Changed"] = "function (self, unitId, unitFrame, envTable)\n    envTable.UpdateColor (unitFrame)\nend\n\n\n\n\n\n\n\n\n\n\n",
 						["Constructor"] = "function (self, unitId, unitFrame, envTable)\n    \n    --usage: color name e.g \"red\" \"yellow\"; color table e.g {1, 0, 0} {1, 1, 0}; hex string e.g. \"#FF0000\" \"FFFF00\"\n    \n    envTable.TargetColor = \"purple\"\n    --envTable.TargetColor = \"#FF00FF\"\n    --envTable.TargetColor = {252/255, 0/255, 254/255}\n    \n    function envTable.UpdateColor (unitFrame)\n        --do not change the color of the personal bar\n        if (not unitFrame.IsSelf) then\n            \n            --if this nameplate the current target of the player?\n            if (unitFrame.namePlateIsTarget) then\n                Plater.SetNameplateColor (unitFrame, envTable.TargetColor)  --rgb\n            else\n                --refresh the nameplate color\n                Plater.RefreshNameplateColor (unitFrame)\n            end\n        end\n    end\n    \nend\n\n\n\n\n",
 					},
-					["version"] = -1,
+					["Time"] = 1552354619,
 					["PlaterCore"] = 1,
 					["LastHookEdited"] = "",
 					["url"] = "",
 					["Icon"] = 878211,
-					["Time"] = 1552354619,
+					["Name"] = "Current Target Color [Plater]",
 				}, -- [12]
 				{
 					["LastHookEdited"] = "Constructor",

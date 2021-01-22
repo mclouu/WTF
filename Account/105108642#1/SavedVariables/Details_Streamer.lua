@@ -2,6 +2,7 @@
 Details_StreamerDB = {
 	["characters"] = {
 		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Jy - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 		["Kotlin - Ysondre"] = "Kotlin - La Croisade écarlate",
 		["Atec - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 	},
@@ -31,12 +32,12 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["scale"] = 1,
-			["point"] = "TOP",
-			["y"] = -107,
+			["font_size"] = 10,
+			["main_frame_locked"] = false,
+			["use_spark"] = true,
 			["enabled"] = true,
 			["arrow_size"] = 10,
-			["author"] = "Details! Team",
+			["arrow_anchor_y"] = 0,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -44,9 +45,17 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2000000476837158, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["row_height"] = 20,
+			["row_color"] = {
+				0.1019607843137255, -- [1]
+				0.1019607843137255, -- [2]
+				0.1019607843137255, -- [3]
+				0.4000000357627869, -- [4]
+			},
+			["y"] = -107,
+			["x"] = -211.4999847412109,
+			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -54,22 +63,14 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = 4.000015258789063,
 				["x"] = 302.9999694824219,
+				["attribute_type"] = 1,
 				["update_speed"] = 0.05,
 				["size"] = 32,
-				["attribute_type"] = 1,
 			},
-			["x"] = -211.4999847412109,
-			["font_face"] = "Friz Quadrata TT",
-			["row_color"] = {
-				0.1019607843137255, -- [1]
-				0.1019607843137255, -- [2]
-				0.1019607843137255, -- [3]
-				0.4000000357627869, -- [4]
-			},
-			["arrow_anchor_y"] = 0,
-			["use_spark"] = true,
-			["main_frame_locked"] = false,
-			["font_size"] = 10,
+			["point"] = "TOP",
+			["main_frame_strata"] = "LOW",
+			["row_height"] = 20,
+			["scale"] = 1,
 		},
 	},
 }

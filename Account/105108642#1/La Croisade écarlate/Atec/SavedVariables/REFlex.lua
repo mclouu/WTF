@@ -6,6 +6,10 @@ REFlexSettings = {
 	["ShowServerName"] = false,
 	["CurrentTab"] = 1,
 	["LDBMode"] = 3,
+	["LDBSide"] = "A",
+	["ArenaStatsLimit"] = 3,
+	["ConfigVersion"] = 302,
+	["FirstTime"] = false,
 	["Filters"] = {
 		["Map"] = 1,
 		["Bracket"] = 1,
@@ -17,10 +21,6 @@ REFlexSettings = {
 		["Season"] = 0,
 		["DateMode"] = 1,
 	},
-	["ArenaStatsLimit"] = 3,
-	["FirstTime"] = false,
-	["ConfigVersion"] = 302,
-	["LDBSide"] = "A",
 }
 REFlexDatabase = {
 	{
@@ -66,8 +66,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Map"] = 566,
-		["Season"] = 30,
+		["Time"] = 1608740716,
+		["isArena"] = false,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -87,8 +87,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["isArena"] = false,
-		["Time"] = 1608740716,
+		["Season"] = 30,
+		["Map"] = 566,
 	}, -- [1]
 	{
 		["PlayerStats"] = {
@@ -134,8 +134,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Map"] = 2106,
-		["Season"] = 30,
+		["Time"] = 1608742113,
+		["isArena"] = false,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -155,8 +155,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["isArena"] = false,
-		["Time"] = 1608742113,
+		["Season"] = 30,
+		["Map"] = 2106,
 	}, -- [2]
 	{
 		["PlayerStats"] = {
@@ -202,8 +202,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Map"] = 628,
-		["Season"] = 30,
+		["Time"] = 1608744183,
+		["isArena"] = false,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -223,8 +223,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["isArena"] = false,
-		["Time"] = 1608744183,
+		["Season"] = 30,
+		["Map"] = 628,
 	}, -- [3]
 	{
 		["PlayerStats"] = {
@@ -270,8 +270,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Time"] = 1608748037,
-		["isArena"] = false,
+		["Map"] = 2245,
+		["Season"] = 30,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -291,8 +291,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["Season"] = 30,
-		["Map"] = 2245,
+		["isArena"] = false,
+		["Time"] = 1608748037,
 	}, -- [4]
 	{
 		["PlayerStats"] = {
@@ -338,8 +338,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Time"] = 1608751023,
-		["isArena"] = false,
+		["Map"] = 2245,
+		["Season"] = 30,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -359,8 +359,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 0,
-		["Season"] = 30,
-		["Map"] = 2245,
+		["isArena"] = false,
+		["Time"] = 1608751023,
 	}, -- [5]
 	{
 		["PlayerStats"] = {
@@ -405,8 +405,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Time"] = 1608751962,
-		["isArena"] = false,
+		["Map"] = 727,
+		["Season"] = 30,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -426,8 +426,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["Season"] = 30,
-		["Map"] = 727,
+		["isArena"] = false,
+		["Time"] = 1608751962,
 	}, -- [6]
 	{
 		["PlayerStats"] = {
@@ -473,8 +473,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Time"] = 1608753510,
-		["isArena"] = false,
+		["Map"] = 2107,
+		["Season"] = 30,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -494,8 +494,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["Season"] = 30,
-		["Map"] = 2107,
+		["isArena"] = false,
+		["Time"] = 1608753510,
 	}, -- [7]
 	{
 		["PlayerStats"] = {
@@ -540,8 +540,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Time"] = 1608754431,
-		["isArena"] = false,
+		["Map"] = 1803,
+		["Season"] = 30,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -561,8 +561,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 0,
-		["Season"] = 30,
-		["Map"] = 1803,
+		["isArena"] = false,
+		["Time"] = 1608754431,
 	}, -- [8]
 	{
 		["PlayerStats"] = {
@@ -608,8 +608,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Time"] = 1608756645,
-		["isArena"] = false,
+		["Map"] = 1035,
+		["Season"] = 30,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -629,8 +629,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["Season"] = 30,
-		["Map"] = 1035,
+		["isArena"] = false,
+		["Time"] = 1608756645,
 	}, -- [9]
 	{
 		["PlayerStats"] = {
@@ -675,8 +675,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Time"] = 1608757537,
-		["isArena"] = false,
+		["Map"] = 727,
+		["Season"] = 30,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -696,8 +696,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["Season"] = 30,
-		["Map"] = 727,
+		["isArena"] = false,
+		["Time"] = 1608757537,
 	}, -- [10]
 	{
 		["PlayerStats"] = {
@@ -743,8 +743,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Time"] = 1608758793,
-		["isArena"] = false,
+		["Map"] = 726,
+		["Season"] = 30,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -764,8 +764,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["Season"] = 30,
-		["Map"] = 726,
+		["isArena"] = false,
+		["Time"] = 1608758793,
 	}, -- [11]
 	{
 		["PlayerStats"] = {
@@ -811,8 +811,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Time"] = 1608759694,
-		["isArena"] = false,
+		["Map"] = 1035,
+		["Season"] = 30,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -832,8 +832,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["Season"] = 30,
-		["Map"] = 1035,
+		["isArena"] = false,
+		["Time"] = 1608759694,
 	}, -- [12]
 	{
 		["PlayerStats"] = {
@@ -878,8 +878,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Map"] = 566,
-		["Season"] = 30,
+		["Time"] = 1608768448,
+		["isArena"] = false,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -899,8 +899,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 0,
-		["isArena"] = false,
-		["Time"] = 1608768448,
+		["Season"] = 30,
+		["Map"] = 566,
 	}, -- [13]
 	{
 		["PlayerStats"] = {
@@ -946,8 +946,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Time"] = 1609391574,
-		["isArena"] = false,
+		["Map"] = 726,
+		["Season"] = 30,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -967,8 +967,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["Season"] = 30,
-		["Map"] = 726,
+		["isArena"] = false,
+		["Time"] = 1609391574,
 	}, -- [14]
 	{
 		["PlayerStats"] = {
@@ -1013,8 +1013,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Time"] = 1609597684,
-		["isArena"] = false,
+		["Map"] = 566,
+		["Season"] = 30,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -1034,8 +1034,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["Season"] = 30,
-		["Map"] = 566,
+		["isArena"] = false,
+		["Time"] = 1609597684,
 	}, -- [15]
 	{
 		["PlayerStats"] = {
@@ -1081,8 +1081,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Time"] = 1609599251,
-		["isArena"] = false,
+		["Map"] = 726,
+		["Season"] = 30,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -1102,51 +1102,11 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["Season"] = 30,
-		["Map"] = 726,
+		["isArena"] = false,
+		["Time"] = 1609599251,
 	}, -- [16]
 	{
 		["Map"] = 2118,
-		["Duration"] = 1803,
-		["Season"] = 30,
-		["Time"] = 1609690429,
-		["PlayersNum"] = 80,
-		["BGComposition"] = {
-			{
-				2, -- [1]
-				4, -- [2]
-				34, -- [3]
-			}, -- [1]
-			{
-				1, -- [1]
-				12, -- [2]
-				27, -- [3]
-			}, -- [2]
-		},
-		["PlayerNum"] = 1,
-		["isArena"] = false,
-		["Version"] = 302,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = false,
-		["BGPlace"] = {
-			{
-				29, -- [1]
-				19, -- [2]
-				10, -- [3]
-				36, -- [4]
-				12, -- [5]
-			}, -- [1]
-			{
-				41, -- [1]
-				19, -- [2]
-				10, -- [3]
-				65, -- [4]
-				31, -- [5]
-			}, -- [2]
-		},
-		["Winner"] = 0,
-		["Hidden"] = false,
 		["Players"] = {
 			{
 				"Atec", -- [1]
@@ -1168,6 +1128,46 @@ REFlexDatabase = {
 				23, -- [17]
 			}, -- [1]
 		},
+		["Hidden"] = false,
+		["Version"] = 302,
+		["PlayersNum"] = 80,
+		["BGComposition"] = {
+			{
+				2, -- [1]
+				4, -- [2]
+				34, -- [3]
+			}, -- [1]
+			{
+				1, -- [1]
+				12, -- [2]
+				27, -- [3]
+			}, -- [2]
+		},
+		["Season"] = 30,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isArena"] = false,
+		["Time"] = 1609690429,
+		["isRated"] = false,
+		["BGPlace"] = {
+			{
+				29, -- [1]
+				19, -- [2]
+				10, -- [3]
+				36, -- [4]
+				12, -- [5]
+			}, -- [1]
+			{
+				41, -- [1]
+				19, -- [2]
+				10, -- [3]
+				65, -- [4]
+				31, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 0,
+		["PlayerNum"] = 1,
+		["Duration"] = 1803,
 	}, -- [17]
 	{
 		["PlayerStats"] = {
@@ -1216,8 +1216,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Map"] = 30,
-		["Season"] = 30,
+		["Time"] = 1609692784,
+		["isArena"] = false,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -1237,8 +1237,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["isArena"] = false,
-		["Time"] = 1609692784,
+		["Season"] = 30,
+		["Map"] = 30,
 	}, -- [18]
 	{
 		["PlayerStats"] = {
@@ -1284,8 +1284,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Time"] = 1609800797,
-		["isArena"] = false,
+		["Map"] = 761,
+		["Season"] = 30,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -1305,8 +1305,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 0,
-		["Season"] = 30,
-		["Map"] = 761,
+		["isArena"] = false,
+		["Time"] = 1609800797,
 	}, -- [19]
 	{
 		["PlayerStats"] = {
@@ -1351,8 +1351,8 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Hidden"] = false,
-		["Time"] = 1609802344,
-		["isArena"] = false,
+		["Map"] = 566,
+		["Season"] = 30,
 		["Version"] = 302,
 		["isRated"] = false,
 		["BGPlace"] = {
@@ -1372,16 +1372,1090 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 		["Winner"] = 1,
-		["Season"] = 30,
-		["Map"] = 566,
+		["isArena"] = false,
+		["Time"] = 1609802344,
 	}, -- [20]
+	{
+		["PlayerStats"] = {
+			0, -- [1]
+			0, -- [2]
+		},
+		["PlayersNum"] = 20,
+		["Duration"] = 490,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["Players"] = {
+			{
+				"Atec", -- [1]
+				0, -- [2]
+				14, -- [3]
+				4, -- [4]
+				96, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Moniale", -- [8]
+				"MONK", -- [9]
+				3869, -- [10]
+				507250, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Tisse-brume", -- [16]
+				24, -- [17]
+			}, -- [1]
+		},
+		["BGComposition"] = {
+			{
+				1, -- [1]
+				2, -- [2]
+				7, -- [3]
+			}, -- [1]
+			{
+				0, -- [1]
+				2, -- [2]
+				8, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Map"] = 1035,
+		["Season"] = 30,
+		["Version"] = 302,
+		["isRated"] = false,
+		["BGPlace"] = {
+			{
+				6, -- [1]
+				6, -- [2]
+				6, -- [3]
+				10, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				15, -- [1]
+				16, -- [2]
+				16, -- [3]
+				20, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 1,
+		["isArena"] = false,
+		["Time"] = 1610681557,
+	}, -- [21]
+	{
+		["Map"] = 2118,
+		["BGComposition"] = {
+			{
+				1, -- [1]
+				4, -- [2]
+				35, -- [3]
+			}, -- [1]
+			{
+				3, -- [1]
+				4, -- [2]
+				33, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Version"] = 302,
+		["PlayersNum"] = 80,
+		["Duration"] = 1803,
+		["Season"] = 30,
+		["isArena"] = false,
+		["PlayerSide"] = 0,
+		["isBrawl"] = false,
+		["Time"] = 1610682713,
+		["isRated"] = false,
+		["BGPlace"] = {
+			{
+				32, -- [1]
+				34, -- [2]
+				36, -- [3]
+				37, -- [4]
+				27, -- [5]
+			}, -- [1]
+			{
+				71, -- [1]
+				72, -- [2]
+				76, -- [3]
+				77, -- [4]
+				53, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 1,
+		["PlayerNum"] = 1,
+		["Players"] = {
+			{
+				"Atec", -- [1]
+				0, -- [2]
+				47, -- [3]
+				4, -- [4]
+				172, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Moniale", -- [8]
+				"MONK", -- [9]
+				0, -- [10]
+				73590, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Tisse-brume", -- [16]
+				24, -- [17]
+			}, -- [1]
+		},
+	}, -- [22]
+	{
+		["PlayerStats"] = {
+			1, -- [1]
+			24, -- [2]
+		},
+		["PlayersNum"] = 20,
+		["Duration"] = 395,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["Players"] = {
+			{
+				"Atec", -- [1]
+				0, -- [2]
+				7, -- [3]
+				5, -- [4]
+				42, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Moniale", -- [8]
+				"MONK", -- [9]
+				130, -- [10]
+				196142, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Tisse-brume", -- [16]
+				24, -- [17]
+			}, -- [1]
+		},
+		["BGComposition"] = {
+			{
+				1, -- [1]
+				2, -- [2]
+				7, -- [3]
+			}, -- [1]
+			{
+				0, -- [1]
+				2, -- [2]
+				8, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Map"] = 1035,
+		["Season"] = 30,
+		["Version"] = 302,
+		["isRated"] = false,
+		["BGPlace"] = {
+			{
+				6, -- [1]
+				9, -- [2]
+				9, -- [3]
+				10, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				16, -- [1]
+				19, -- [2]
+				19, -- [3]
+				20, -- [4]
+				5, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 1,
+		["isArena"] = false,
+		["Time"] = 1610683360,
+	}, -- [23]
+	{
+		["PlayerStats"] = {
+			0, -- [1]
+			0, -- [2]
+		},
+		["PlayersNum"] = 20,
+		["Duration"] = 901,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["Players"] = {
+			{
+				"Atec", -- [1]
+				0, -- [2]
+				43, -- [3]
+				9, -- [4]
+				147, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Moniale", -- [8]
+				"MONK", -- [9]
+				1693, -- [10]
+				300991, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Tisse-brume", -- [16]
+				24, -- [17]
+			}, -- [1]
+		},
+		["BGComposition"] = {
+			{
+				0, -- [1]
+				1, -- [2]
+				9, -- [3]
+			}, -- [1]
+			{
+				0, -- [1]
+				2, -- [2]
+				8, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Map"] = 2106,
+		["Season"] = 30,
+		["Version"] = 302,
+		["isRated"] = false,
+		["BGPlace"] = {
+			{
+				9, -- [1]
+				7, -- [2]
+				9, -- [3]
+				10, -- [4]
+				1, -- [5]
+			}, -- [1]
+			{
+				17, -- [1]
+				16, -- [2]
+				19, -- [3]
+				20, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 1,
+		["isArena"] = false,
+		["Time"] = 1610734565,
+	}, -- [24]
+	{
+		["PlayerStats"] = {
+			0, -- [1]
+		},
+		["PlayersNum"] = 30,
+		["Duration"] = 687,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["Players"] = {
+			{
+				"Atec", -- [1]
+				0, -- [2]
+				54, -- [3]
+				6, -- [4]
+				372, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Moniale", -- [8]
+				"MONK", -- [9]
+				8644, -- [10]
+				346506, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Tisse-brume", -- [16]
+				24, -- [17]
+			}, -- [1]
+		},
+		["BGComposition"] = {
+			{
+				0, -- [1]
+				3, -- [2]
+				12, -- [3]
+			}, -- [1]
+			{
+				0, -- [1]
+				2, -- [2]
+				13, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Map"] = 566,
+		["Season"] = 30,
+		["Version"] = 302,
+		["isRated"] = false,
+		["BGPlace"] = {
+			{
+				11, -- [1]
+				11, -- [2]
+				14, -- [3]
+				14, -- [4]
+				4, -- [5]
+			}, -- [1]
+			{
+				21, -- [1]
+				11, -- [2]
+				14, -- [3]
+				29, -- [4]
+				8, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 0,
+		["isArena"] = false,
+		["Time"] = 1610735771,
+	}, -- [25]
+	{
+		["PlayerStats"] = {
+			0, -- [1]
+			0, -- [2]
+		},
+		["PlayersNum"] = 20,
+		["Duration"] = 371,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["Players"] = {
+			{
+				"Atec", -- [1]
+				0, -- [2]
+				4, -- [3]
+				3, -- [4]
+				122, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Moniale", -- [8]
+				"MONK", -- [9]
+				1625, -- [10]
+				255176, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Tisse-brume", -- [16]
+				24, -- [17]
+			}, -- [1]
+		},
+		["BGComposition"] = {
+			{
+				1, -- [1]
+				2, -- [2]
+				7, -- [3]
+			}, -- [1]
+			{
+				1, -- [1]
+				2, -- [2]
+				7, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Map"] = 726,
+		["Season"] = 30,
+		["Version"] = 302,
+		["isRated"] = false,
+		["BGPlace"] = {
+			{
+				6, -- [1]
+				10, -- [2]
+				10, -- [3]
+				10, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				16, -- [1]
+				20, -- [2]
+				20, -- [3]
+				20, -- [4]
+				3, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 1,
+		["isArena"] = false,
+		["Time"] = 1610737196,
+	}, -- [26]
+	{
+		["PlayerStats"] = {
+			0, -- [1]
+			0, -- [2]
+		},
+		["PlayersNum"] = 20,
+		["Duration"] = 901,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["Players"] = {
+			{
+				"Atec", -- [1]
+				0, -- [2]
+				59, -- [3]
+				2, -- [4]
+				229, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Moniale", -- [8]
+				"MONK", -- [9]
+				26771, -- [10]
+				433815, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Tisse-brume", -- [16]
+				24, -- [17]
+			}, -- [1]
+		},
+		["BGComposition"] = {
+			{
+				0, -- [1]
+				2, -- [2]
+				8, -- [3]
+			}, -- [1]
+			{
+				0, -- [1]
+				2, -- [2]
+				8, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Map"] = 2106,
+		["Season"] = 30,
+		["Version"] = 302,
+		["isRated"] = false,
+		["BGPlace"] = {
+			{
+				10, -- [1]
+				8, -- [2]
+				8, -- [3]
+				10, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				17, -- [1]
+				8, -- [2]
+				8, -- [3]
+				18, -- [4]
+				4, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 0,
+		["isArena"] = false,
+		["Time"] = 1610738471,
+	}, -- [27]
+	{
+		["PlayerStats"] = {
+			0, -- [1]
+			0, -- [2]
+		},
+		["PlayersNum"] = 20,
+		["Duration"] = 900,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["Players"] = {
+			{
+				"Atec", -- [1]
+				0, -- [2]
+				23, -- [3]
+				9, -- [4]
+				114, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Moniale", -- [8]
+				"MONK", -- [9]
+				5881, -- [10]
+				291800, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Tisse-brume", -- [16]
+				24, -- [17]
+			}, -- [1]
+		},
+		["BGComposition"] = {
+			{
+				2, -- [1]
+				2, -- [2]
+				6, -- [3]
+			}, -- [1]
+			{
+				0, -- [1]
+				2, -- [2]
+				8, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Time"] = 1610742964,
+		["isArena"] = false,
+		["Version"] = 302,
+		["isRated"] = false,
+		["BGPlace"] = {
+			{
+				9, -- [1]
+				8, -- [2]
+				8, -- [3]
+				10, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				17, -- [1]
+				18, -- [2]
+				18, -- [3]
+				19, -- [4]
+				5, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 1,
+		["Season"] = 30,
+		["Map"] = 2106,
+	}, -- [28]
+	{
+		["PlayerStats"] = {
+			0, -- [1]
+			0, -- [2]
+		},
+		["PlayersNum"] = 20,
+		["Duration"] = 943,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["Players"] = {
+			{
+				"Atec", -- [1]
+				0, -- [2]
+				2, -- [3]
+				9, -- [4]
+				184, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Moniale", -- [8]
+				"MONK", -- [9]
+				4171, -- [10]
+				139536, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Tisse-brume", -- [16]
+				24, -- [17]
+			}, -- [1]
+		},
+		["BGComposition"] = {
+			{
+				1, -- [1]
+				2, -- [2]
+				7, -- [3]
+			}, -- [1]
+			{
+				0, -- [1]
+				2, -- [2]
+				8, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Time"] = 1610744177,
+		["isArena"] = false,
+		["Version"] = 302,
+		["isRated"] = false,
+		["BGPlace"] = {
+			{
+				10, -- [1]
+				10, -- [2]
+				8, -- [3]
+				10, -- [4]
+				6, -- [5]
+			}, -- [1]
+			{
+				17, -- [1]
+				19, -- [2]
+				17, -- [3]
+				20, -- [4]
+				10, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 1,
+		["Season"] = 30,
+		["Map"] = 761,
+	}, -- [29]
+	{
+		["PlayerStats"] = {
+			0, -- [1]
+			0, -- [2]
+		},
+		["PlayersNum"] = 20,
+		["Duration"] = 686,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["Players"] = {
+			{
+				"Atec", -- [1]
+				0, -- [2]
+				24, -- [3]
+				6, -- [4]
+				177, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Moniale", -- [8]
+				"MONK", -- [9]
+				3554, -- [10]
+				266209, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Tisse-brume", -- [16]
+				24, -- [17]
+			}, -- [1]
+		},
+		["BGComposition"] = {
+			{
+				1, -- [1]
+				2, -- [2]
+				7, -- [3]
+			}, -- [1]
+			{
+				0, -- [1]
+				2, -- [2]
+				8, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Time"] = 1610746907,
+		["isArena"] = false,
+		["Version"] = 302,
+		["isRated"] = false,
+		["BGPlace"] = {
+			{
+				8, -- [1]
+				7, -- [2]
+				8, -- [3]
+				10, -- [4]
+				3, -- [5]
+			}, -- [1]
+			{
+				17, -- [1]
+				16, -- [2]
+				18, -- [3]
+				20, -- [4]
+				5, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 1,
+		["Season"] = 30,
+		["Map"] = 726,
+	}, -- [30]
+	{
+		["PlayerStats"] = {
+			0, -- [1]
+			0, -- [2]
+		},
+		["PlayersNum"] = 80,
+		["Duration"] = 883,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["Players"] = {
+			{
+				"Atec", -- [1]
+				0, -- [2]
+				77, -- [3]
+				2, -- [4]
+				332, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Moniale", -- [8]
+				"MONK", -- [9]
+				7101, -- [10]
+				212373, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Tisse-brume", -- [16]
+				24, -- [17]
+			}, -- [1]
+		},
+		["BGComposition"] = {
+			{
+				3, -- [1]
+				6, -- [2]
+				31, -- [3]
+			}, -- [1]
+			{
+				0, -- [1]
+				7, -- [2]
+				33, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Time"] = 1610748543,
+		["isArena"] = false,
+		["Version"] = 302,
+		["isRated"] = false,
+		["BGPlace"] = {
+			{
+				36, -- [1]
+				18, -- [2]
+				18, -- [3]
+				40, -- [4]
+				11, -- [5]
+			}, -- [1]
+			{
+				65, -- [1]
+				19, -- [2]
+				49, -- [3]
+				79, -- [4]
+				17, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 0,
+		["Season"] = 30,
+		["Map"] = 628,
+	}, -- [31]
+	{
+		["Map"] = 2373,
+		["Players"] = {
+			{
+				"Roele-Doomhammer", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				1139, -- [10]
+				35916, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Sacré", -- [16]
+				70, -- [17]
+			}, -- [1]
+			{
+				"Atec", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Elfe de sang", -- [7]
+				"Moniale", -- [8]
+				"MONK", -- [9]
+				0, -- [10]
+				33192, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Tisse-brume", -- [16]
+				24, -- [17]
+			}, -- [2]
+			{
+				"Röms", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Orc mag’har", -- [7]
+				"Moine", -- [8]
+				"MONK", -- [9]
+				18112, -- [10]
+				7632, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Marche-vent", -- [16]
+				73, -- [17]
+			}, -- [3]
+			{
+				"Teheiura-Garona", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Tauren de Haut-Roc", -- [7]
+				"Guerrier", -- [8]
+				"WARRIOR", -- [9]
+				24119, -- [10]
+				6936, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Armes", -- [16]
+				74, -- [17]
+			}, -- [4]
+			{
+				"Nekronudel-Anub'arak", -- [1]
+				3, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Orque", -- [7]
+				"Démoniste", -- [8]
+				"WARLOCK", -- [9]
+				111130, -- [10]
+				0, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Affliction", -- [16]
+				114, -- [17]
+			}, -- [5]
+			{
+				"Moerski-Draenor", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Démoniste", -- [8]
+				"WARLOCK", -- [9]
+				24512, -- [10]
+				0, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Démonologie", -- [16]
+				93, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 41,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isArena"] = true,
+		["Time"] = 1610748894,
+		["isRated"] = false,
+		["Version"] = 302,
+		["Winner"] = 0,
+		["PlayerNum"] = 2,
+		["Season"] = 30,
+	}, -- [32]
+	{
+		["Map"] = 1134,
+		["Players"] = {
+			{
+				"Drùßty-Draenor", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Mort-vivant", -- [7]
+				"Prêtre", -- [8]
+				"PRIEST", -- [9]
+				9276, -- [10]
+				44434, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Discipline", -- [16]
+				143, -- [17]
+			}, -- [1]
+			{
+				"Röms", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Orc mag’har", -- [7]
+				"Moine", -- [8]
+				"MONK", -- [9]
+				18169, -- [10]
+				25496, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Marche-vent", -- [16]
+				73, -- [17]
+			}, -- [2]
+			{
+				"Teheiura-Garona", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Tauren de Haut-Roc", -- [7]
+				"Guerrier", -- [8]
+				"WARRIOR", -- [9]
+				39069, -- [10]
+				11338, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Armes", -- [16]
+				74, -- [17]
+			}, -- [3]
+			{
+				"Teagodx-Draenor", -- [1]
+				3, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Moine", -- [8]
+				"MONK", -- [9]
+				122080, -- [10]
+				4952, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Marche-vent", -- [16]
+				302, -- [17]
+			}, -- [4]
+			{
+				"Gibsonsg-DefiasBrotherhood", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				9034, -- [10]
+				4906, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Protection", -- [16]
+				8, -- [17]
+			}, -- [5]
+			{
+				"Atec", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Elfe de sang", -- [7]
+				"Moniale", -- [8]
+				"MONK", -- [9]
+				0, -- [10]
+				4575, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Tisse-brume", -- [16]
+				24, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 36,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isArena"] = true,
+		["Time"] = 1610749066,
+		["isRated"] = false,
+		["Version"] = 302,
+		["Winner"] = 0,
+		["PlayerNum"] = 6,
+		["Season"] = 30,
+	}, -- [33]
+	{
+		["PlayerStats"] = {
+			0, -- [1]
+			0, -- [2]
+		},
+		["PlayersNum"] = 80,
+		["Duration"] = 874,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["Players"] = {
+			{
+				"Atec", -- [1]
+				0, -- [2]
+				88, -- [3]
+				0, -- [4]
+				301, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Moniale", -- [8]
+				"MONK", -- [9]
+				9625, -- [10]
+				88489, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Tisse-brume", -- [16]
+				24, -- [17]
+			}, -- [1]
+		},
+		["BGComposition"] = {
+			{
+				2, -- [1]
+				14, -- [2]
+				24, -- [3]
+			}, -- [1]
+			{
+				3, -- [1]
+				5, -- [2]
+				32, -- [3]
+			}, -- [2]
+		},
+		["Hidden"] = false,
+		["Time"] = 1610750802,
+		["isArena"] = false,
+		["Version"] = 302,
+		["isRated"] = false,
+		["BGPlace"] = {
+			{
+				32, -- [1]
+				22, -- [2]
+				31, -- [3]
+				40, -- [4]
+				27, -- [5]
+			}, -- [1]
+			{
+				60, -- [1]
+				22, -- [2]
+				70, -- [3]
+				79, -- [4]
+				47, -- [5]
+			}, -- [2]
+		},
+		["Winner"] = 0,
+		["Season"] = 30,
+		["Map"] = 628,
+	}, -- [34]
 }
 REFlexHonorDatabase = {
-	[1609628400] = 771,
-	[1608678000] = 1982,
-	[1609801200] = 275,
-	[1609542000] = 292,
-	[1609714800] = 340,
-	[1609369200] = 340,
 	[1608764400] = 363,
+	[1609714800] = 340,
+	[1608678000] = 1982,
+	[1609628400] = 771,
+	[1609369200] = 340,
+	[1609542000] = 292,
+	[1610665200] = 2288,
+	[1609801200] = 275,
 }

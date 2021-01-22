@@ -2,6 +2,7 @@
 EpicMusicPlayer_PlayList = nil
 EpicMusicPlayerDB = {
 	["profileKeys"] = {
+		["Jy - La Croisade écarlate"] = "Default",
 		["Kotlin - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
 		["Nylaria - La Croisade écarlate"] = "Default",

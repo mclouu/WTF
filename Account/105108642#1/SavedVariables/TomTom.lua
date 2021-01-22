@@ -1,9 +1,11 @@
 
 TomTomDB = {
 	["profileKeys"] = {
+		["Jy - La Croisade écarlate"] = "Default",
 		["Kotlin - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
 		["Nylaria - La Croisade écarlate"] = "Default",
+		["Chimay - La Croisade écarlate"] = "Default",
 		["Kotlin - Ysondre"] = "Default",
 		["Coven - La Croisade écarlate"] = "Default",
 	},
@@ -34,13 +36,17 @@ TomTomDB = {
 TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
+		["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
 		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
+		["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
 		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
 		["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
 	},
 	["profiles"] = {
+		["Jy - La Croisade écarlate"] = {
+		},
 		["Kotlin - La Croisade écarlate"] = {
 			[913] = {
 				["913:477761798.88114:367288352.70059:TomTom point de passage"] = {
@@ -236,6 +242,8 @@ TomTomWaypointsM = {
 		["Atec - La Croisade écarlate"] = {
 		},
 		["Nylaria - La Croisade écarlate"] = {
+		},
+		["Chimay - La Croisade écarlate"] = {
 		},
 		["Kotlin - Ysondre"] = {
 		},

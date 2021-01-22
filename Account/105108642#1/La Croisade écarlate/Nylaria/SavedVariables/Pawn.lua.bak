@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0408,
+	["LastVersion"] = 2.041,
 	["LastPlayerFullName"] = "Nylaria-La Croisade écarlate",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -57,10 +57,10 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:173669::::::::46:64::11:1:6416:2:9:45:28:1765:::|h[Bague d'onyx terne]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 132954,
-			["Level"] = 49,
+			["ID"] = 173669,
+			["Level"] = 50,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff1eff00|Hitem:132954::::::::46:64::11:1:4790:2:9:43:28:1705:::|h[Anneau doukacque poli]|h|r",
+			["Link"] = "|cff1eff00|Hitem:173669::::::::46:63::11:1:6416:2:9:45:28:1765:::|h[Bague d'onyx terne]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 122361,
@@ -69,10 +69,10 @@ PawnOptions = {
 			["Link"] = "|cff00ccff|Hitem:122361::::::::46:64:::1:582::::|h[Main de justice rapide]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 138776,
-			["Level"] = 37,
+			["ID"] = 122361,
+			["Level"] = 52,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:138776::::::::46:64::11:2:6691:6703:2:9:30:28:1705:::|h[Décoration de la reine banshee]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122361::::::::46:63:::1:582::::|h[Main de justice rapide]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 129090,

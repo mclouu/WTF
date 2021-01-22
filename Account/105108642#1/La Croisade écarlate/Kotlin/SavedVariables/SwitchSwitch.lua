@@ -15,7 +15,7 @@ SwitchSwitchConfig = {
 	},
 	["autoUseItems"] = true,
 	["maxTimeSuggestionFrame"] = 15,
-	["SelectedTalentsProfile"] = "pve",
+	["SelectedTalentsProfile"] = "custom",
 	["SuggestionFramePoint"] = {
 		["frameX"] = 0,
 		["frameY"] = 0,

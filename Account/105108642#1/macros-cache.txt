@@ -1,5 +1,6 @@
-VER 3 000000000000004A "/target asticot" "132351"
-/target asticot
+VER 3 0000000000000045 "aa" "136171"
+/focus [nodead]
+/targetlasttarget [nodead]
 END
 VER 3 000000000000004D "aa" "538569"
 /way 32 73
@@ -7,13 +8,9 @@ VER 3 000000000000004D "aa" "538569"
 /way 24 40
 /way 15 63
 END
-VER 3 0000000000000045 "aa" "136171"
-/focus [nodead]
-/targetlasttarget [nodead]
-END
 VER 3 000000000000004B "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use Aiguillonneur neural
+/use Bannière loup-de-givre
 END
 VER 3 0000000000000039 "clearFocus" "INV_MISC_QUESTIONMARK"
 / cast [talent: 3/2] repentance; [talent: 3/3] Lumière aveuglante
@@ -82,6 +79,9 @@ VER 3 0000000000000046 "switch focus tar" "136122"
 END
 VER 3 000000000000003C "target" "132090"
 /target Drelix étincelor
+END
+VER 3 000000000000004A "Vashj" "132351"
+/cri  Survivre est pour les faibles. Les forts triomphent… ou meurent.
 END
 VER 3 000000000000002F "Warcraft logs" "1379233"
 /combatlog

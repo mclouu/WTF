@@ -10,9 +10,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:179768::::::::60:102::11:3:7201:1514:6646:1:28:1707:::|h[Cimier cœur-de-chêne]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 183040,
-			["Level"] = 200,
-			["Link"] = "|cffa335ee|Hitem:183040::::::::60:102::3:5:7189:6652:7193:1472:6646:1:28:751:::|h[Charme de l’hiver éternel]|h|r",
+			["ID"] = 184144,
+			["Level"] = 207,
+			["Link"] = "|cffa335ee|Hitem:184144::::::::60:102::81:4:6652:7194:1492:6646:1:28:2060:::|h[Sautoir en chaîne fangeformé]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 179770,
@@ -63,16 +63,16 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:183037:6168:::::::60:102::1:3:6805:6652:7193:1:28:2060:::|h[Anneau précieux de ritualiste]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 184052,
-			["Level"] = 197,
+			["ID"] = 179350,
+			["Level"] = 216,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:184052::::::::60:102::14:3:6787:1511:6646:1:28:783:::|h[Médaillon de l’aspirant impénitent]|h|r",
+			["Link"] = "|cffa335ee|Hitem:179350::::::::60:102::35:5:7208:6652:1501:5874:6646::::|h[Appareil quantique insondable]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 178298,
-			["Level"] = 197,
+			["ID"] = 178769,
+			["Level"] = 200,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:178298::::::::60:102::14:3:6780:1511:6646:1:28:783:::|h[Insigne d’empressement de l’aspirant impénitent]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178769::::::::60:102::16:5:7208:41:1501:5858:6646:1:28:1279:::|h[Limon miscible à l’infini]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 183034,

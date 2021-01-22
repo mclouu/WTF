@@ -42,30 +42,30 @@ TipTac_Config = {
 	["classification_trivial"] = "~%s ",
 	["backdropInsets"] = 0,
 	["healthBarText"] = "value",
-	["manaBar"] = false,
-	["classification_rareelite"] = "+%s|r (Rare) ",
-	["gradientTip"] = true,
 	["colorNameByClass"] = false,
+	["colSameGuild"] = "|cffff32ff",
+	["gradientTip"] = true,
+	["manaBar"] = false,
 	["gradientColor"] = {
 		0.8, -- [1]
 		0.8, -- [2]
 		0.8, -- [3]
 		0.2, -- [4]
 	},
-	["colSameGuild"] = "|cffff32ff",
+	["classColoredBorder"] = true,
 	["hideWorldTips"] = true,
+	["fadeTime"] = 0.1,
+	["targetYouText"] = "|cffff0000<<YOU>>",
+	["fontFace"] = "Fonts\\FRIZQT__.TTF",
+	["top"] = 60.00028228759766,
 	["healthBarColor"] = {
 		0.3, -- [1]
 		0.9, -- [2]
 		0.3, -- [3]
 		1, -- [4]
 	},
-	["targetYouText"] = "|cffff0000<<YOU>>",
-	["fontFace"] = "Fonts\\FRIZQT__.TTF",
-	["top"] = 60.00028228759766,
-	["fadeTime"] = 0.1,
 	["barFontFace"] = "Fonts\\ARIALN.TTF",
-	["classColoredBorder"] = true,
+	["classification_rareelite"] = "+%s|r (Rare) ",
 	["classification_worldboss"] = "%s|r (Boss) ",
 	["barFontSize"] = 12,
 	["fontSizeDelta"] = 2,

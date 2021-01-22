@@ -1,9 +1,11 @@
 
 BasicMinimapSV = {
 	["profileKeys"] = {
+		["Jy - La Croisade écarlate"] = "Clou",
 		["Kotlin - La Croisade écarlate"] = "Clou",
 		["Atec - La Croisade écarlate"] = "Clou",
 		["Nylaria - La Croisade écarlate"] = "Clou",
+		["Chimay - La Croisade écarlate"] = "Clou",
 		["Kotlin - Ysondre"] = "Default",
 		["Coven - La Croisade écarlate"] = "Default",
 	},

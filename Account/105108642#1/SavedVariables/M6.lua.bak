@@ -1,0 +1,75 @@
+
+M6DB = {
+	["icRangeColor"] = "ffffff",
+	["groups"] = {
+	},
+	["icManaColor"] = "8080ff",
+	["actions"] = {
+	},
+	["profiles"] = {
+		["La Croisade écarlate"] = {
+			["Jy"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				[3] = {
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				},
+			},
+			["Atec"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [2]
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [3]
+			},
+			["Kotlin"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+			},
+			["Chimay"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [2]
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [3]
+			},
+		},
+	},
+}

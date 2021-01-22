@@ -1210,16 +1210,16 @@ REFlexDatabase = {
 		},
 		["PlayersNum"] = 4,
 		["Duration"] = 130,
-		["Hidden"] = false,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
+		["Season"] = 30,
 		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isBrawl"] = false,
 		["Time"] = 1609389589,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 1,
 		["PlayerNum"] = 3,
-		["Season"] = 30,
+		["Hidden"] = false,
 	}, -- [11]
 	{
 		["PlayerStats"] = {
@@ -1359,18 +1359,18 @@ REFlexDatabase = {
 	}, -- [13]
 	{
 		["Map"] = 980,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 4,
 		["Duration"] = 34,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 4,
 		["Time"] = 1610085195,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Goldnuts-Draenor", -- [1]
@@ -1452,18 +1452,18 @@ REFlexDatabase = {
 	}, -- [14]
 	{
 		["Map"] = 1825,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 4,
 		["Duration"] = 34,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 2,
 		["Time"] = 1610085387,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Grüml-LesClairvoyants", -- [1]
@@ -1545,18 +1545,18 @@ REFlexDatabase = {
 	}, -- [15]
 	{
 		["Map"] = 572,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 3,
 		["Duration"] = 18,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 3,
 		["Time"] = 1610085566,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Lathrian-Doomhammer", -- [1]
@@ -1619,18 +1619,18 @@ REFlexDatabase = {
 	}, -- [16]
 	{
 		["Map"] = 1825,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 3,
 		["Duration"] = 20,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 1,
 		["Time"] = 1610085752,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Kotlin", -- [1]
@@ -1693,18 +1693,18 @@ REFlexDatabase = {
 	}, -- [17]
 	{
 		["Map"] = 617,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 4,
 		["Duration"] = 43,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 4,
 		["Time"] = 1610085936,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Shendinghelp-Nozdormu", -- [1]
@@ -1786,18 +1786,18 @@ REFlexDatabase = {
 	}, -- [18]
 	{
 		["Map"] = 1134,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 4,
 		["Duration"] = 40,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 4,
 		["Time"] = 1610086580,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Lindro-Terenas", -- [1]
@@ -1879,18 +1879,18 @@ REFlexDatabase = {
 	}, -- [19]
 	{
 		["Map"] = 2167,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 4,
 		["Duration"] = 54,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 1,
 		["Time"] = 1610089852,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Kotlin", -- [1]
@@ -1972,18 +1972,18 @@ REFlexDatabase = {
 	}, -- [20]
 	{
 		["Map"] = 1505,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 4,
 		["Duration"] = 15,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 3,
 		["Time"] = 1610090049,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Wayza-Chantséternels", -- [1]
@@ -2064,63 +2064,19 @@ REFlexDatabase = {
 		},
 	}, -- [21]
 	{
-		["Map"] = 2222,
-		["BGComposition"] = {
-			{
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-			}, -- [1]
-			{
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-			}, -- [2]
-		},
-		["Hidden"] = true,
-		["PlayersNum"] = 0,
-		["Duration"] = 57,
-		["Season"] = 30,
-		["isArena"] = false,
-		["Version"] = 302,
-		["isBrawl"] = false,
-		["Time"] = 1610090608,
-		["isRated"] = false,
-		["BGPlace"] = {
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				1, -- [5]
-			}, -- [1]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				1, -- [5]
-			}, -- [2]
-		},
-		["Winner"] = 0,
-		["PlayerSide"] = 1,
-		["Players"] = {
-		},
-	}, -- [22]
-	{
 		["Map"] = 617,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 100,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 4,
 		["Time"] = 1610107074,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Irazor-Teldrassil", -- [1]
@@ -2237,21 +2193,21 @@ REFlexDatabase = {
 				48, -- [17]
 			}, -- [6]
 		},
-	}, -- [23]
+	}, -- [22]
 	{
 		["Map"] = 1672,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 4,
 		["Duration"] = 45,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 2,
 		["Time"] = 1610107277,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Thaesha-Draenor", -- [1]
@@ -2330,21 +2286,21 @@ REFlexDatabase = {
 				97, -- [17]
 			}, -- [4]
 		},
-	}, -- [24]
+	}, -- [23]
 	{
 		["Map"] = 980,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 3,
 		["Duration"] = 15,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 1,
 		["Time"] = 1610107451,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Kotlin", -- [1]
@@ -2404,21 +2360,21 @@ REFlexDatabase = {
 				32, -- [17]
 			}, -- [3]
 		},
-	}, -- [25]
+	}, -- [24]
 	{
 		["Map"] = 1672,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 4,
 		["Duration"] = 28,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 4,
 		["Time"] = 1610107887,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Stalinpower-Draenor", -- [1]
@@ -2497,9 +2453,13 @@ REFlexDatabase = {
 				23, -- [17]
 			}, -- [4]
 		},
-	}, -- [26]
+	}, -- [25]
 	{
 		["Map"] = 572,
+		["Duration"] = 27,
+		["Hidden"] = false,
+		["Version"] = 302,
+		["PlayersNum"] = 4,
 		["BGComposition"] = {
 			{
 				0, -- [1]
@@ -2512,10 +2472,6 @@ REFlexDatabase = {
 				2, -- [3]
 			}, -- [2]
 		},
-		["Hidden"] = false,
-		["Version"] = 302,
-		["PlayersNum"] = 4,
-		["Duration"] = 27,
 		["Season"] = 30,
 		["isArena"] = false,
 		["PlayerSide"] = 1,
@@ -2561,21 +2517,21 @@ REFlexDatabase = {
 				23, -- [17]
 			}, -- [1]
 		},
-	}, -- [27]
+	}, -- [26]
 	{
 		["Map"] = 1911,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 84,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 1,
 		["Time"] = 1610108310,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Kotlin", -- [1]
@@ -2692,21 +2648,21 @@ REFlexDatabase = {
 				85, -- [17]
 			}, -- [6]
 		},
-	}, -- [28]
+	}, -- [27]
 	{
 		["Map"] = 1505,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 56,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 4,
 		["Time"] = 1610108487,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Neyy-KirinTor", -- [1]
@@ -2823,21 +2779,21 @@ REFlexDatabase = {
 				68, -- [17]
 			}, -- [6]
 		},
-	}, -- [29]
+	}, -- [28]
 	{
 		["Map"] = 980,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 64,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 1,
 		["Time"] = 1610108805,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Kotlin", -- [1]
@@ -2954,21 +2910,21 @@ REFlexDatabase = {
 				230, -- [17]
 			}, -- [6]
 		},
-	}, -- [30]
+	}, -- [29]
 	{
 		["Map"] = 617,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 46,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 1,
 		["Time"] = 1610108926,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Kotlin", -- [1]
@@ -3085,21 +3041,21 @@ REFlexDatabase = {
 				34, -- [17]
 			}, -- [6]
 		},
-	}, -- [31]
+	}, -- [30]
 	{
 		["Map"] = 980,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 45,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 3,
 		["Time"] = 1610109043,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Highflux-Dethecus", -- [1]
@@ -3216,21 +3172,21 @@ REFlexDatabase = {
 				34, -- [17]
 			}, -- [6]
 		},
-	}, -- [32]
+	}, -- [31]
 	{
 		["Map"] = 1911,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 22,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 4,
 		["Time"] = 1610109154,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Spéx-Anub'arak", -- [1]
@@ -3347,21 +3303,21 @@ REFlexDatabase = {
 				68, -- [17]
 			}, -- [6]
 		},
-	}, -- [33]
+	}, -- [32]
 	{
 		["Map"] = 1134,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 65,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 2,
 		["Time"] = 1610109341,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Röms", -- [1]
@@ -3478,21 +3434,21 @@ REFlexDatabase = {
 				34, -- [17]
 			}, -- [6]
 		},
-	}, -- [34]
+	}, -- [33]
 	{
 		["Map"] = 1504,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 79,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 4,
 		["Time"] = 1610109510,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Rosena-Draenor", -- [1]
@@ -3609,21 +3565,21 @@ REFlexDatabase = {
 				60, -- [17]
 			}, -- [6]
 		},
-	}, -- [35]
+	}, -- [34]
 	{
 		["Map"] = 617,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 25,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 3,
 		["Time"] = 1610109612,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Takaa-Theradras", -- [1]
@@ -3740,21 +3696,21 @@ REFlexDatabase = {
 				34, -- [17]
 			}, -- [6]
 		},
-	}, -- [36]
+	}, -- [35]
 	{
 		["Map"] = 1672,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 140,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 1,
 		["Time"] = 1610109866,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Kotlin", -- [1]
@@ -3871,21 +3827,21 @@ REFlexDatabase = {
 				34, -- [17]
 			}, -- [6]
 		},
-	}, -- [37]
+	}, -- [36]
 	{
 		["Map"] = 980,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 39,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 5,
 		["Time"] = 1610110011,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Letorá-DerRatvonDalaran", -- [1]
@@ -4002,21 +3958,21 @@ REFlexDatabase = {
 				34, -- [17]
 			}, -- [6]
 		},
-	}, -- [38]
+	}, -- [37]
 	{
 		["Map"] = 572,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 84,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 4,
 		["Time"] = 1610110175,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Priestoll-Draenor", -- [1]
@@ -4133,21 +4089,21 @@ REFlexDatabase = {
 				34, -- [17]
 			}, -- [6]
 		},
-	}, -- [39]
+	}, -- [38]
 	{
 		["Map"] = 617,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 87,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 3,
 		["Time"] = 1610110341,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Letorá-DerRatvonDalaran", -- [1]
@@ -4264,21 +4220,21 @@ REFlexDatabase = {
 				34, -- [17]
 			}, -- [6]
 		},
-	}, -- [40]
+	}, -- [39]
 	{
 		["Map"] = 1911,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 34,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 2,
 		["Time"] = 1610110456,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Nerok-Teldrassil", -- [1]
@@ -4395,21 +4351,21 @@ REFlexDatabase = {
 				34, -- [17]
 			}, -- [6]
 		},
-	}, -- [41]
+	}, -- [40]
 	{
 		["Map"] = 1825,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 44,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 5,
 		["Time"] = 1610110578,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Röms", -- [1]
@@ -4526,21 +4482,21 @@ REFlexDatabase = {
 				34, -- [17]
 			}, -- [6]
 		},
-	}, -- [42]
+	}, -- [41]
 	{
 		["Map"] = 572,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 29,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 2,
 		["Time"] = 1610110820,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 302,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Hunllef-Draenor", -- [1]
@@ -4657,7 +4613,7 @@ REFlexDatabase = {
 				34, -- [17]
 			}, -- [6]
 		},
-	}, -- [43]
+	}, -- [42]
 	{
 		["Map"] = 980,
 		["Players"] = {
@@ -4766,7 +4722,7 @@ REFlexDatabase = {
 				2, -- [5]
 			}, -- [2]
 		},
-	}, -- [44]
+	}, -- [43]
 	{
 		["Map"] = 1911,
 		["Players"] = {
@@ -4875,7 +4831,7 @@ REFlexDatabase = {
 				2, -- [5]
 			}, -- [2]
 		},
-	}, -- [45]
+	}, -- [44]
 	{
 		["Map"] = 1552,
 		["Players"] = {
@@ -4984,7 +4940,7 @@ REFlexDatabase = {
 				2, -- [5]
 			}, -- [2]
 		},
-	}, -- [46]
+	}, -- [45]
 	{
 		["Map"] = 617,
 		["Players"] = {
@@ -5093,7 +5049,7 @@ REFlexDatabase = {
 				2, -- [5]
 			}, -- [2]
 		},
-	}, -- [47]
+	}, -- [46]
 	{
 		["Map"] = 1552,
 		["Players"] = {
@@ -5202,7 +5158,7 @@ REFlexDatabase = {
 				2, -- [5]
 			}, -- [2]
 		},
-	}, -- [48]
+	}, -- [47]
 	{
 		["Map"] = 1552,
 		["Players"] = {
@@ -5311,7 +5267,7 @@ REFlexDatabase = {
 				2, -- [5]
 			}, -- [2]
 		},
-	}, -- [49]
+	}, -- [48]
 	{
 		["Map"] = 2167,
 		["Players"] = {
@@ -5420,7 +5376,7 @@ REFlexDatabase = {
 				2, -- [5]
 			}, -- [2]
 		},
-	}, -- [50]
+	}, -- [49]
 	{
 		["Map"] = 2373,
 		["Players"] = {
@@ -5529,7 +5485,7 @@ REFlexDatabase = {
 				2, -- [5]
 			}, -- [2]
 		},
-	}, -- [51]
+	}, -- [50]
 	{
 		["Map"] = 1672,
 		["Players"] = {
@@ -5638,7 +5594,7 @@ REFlexDatabase = {
 				2, -- [5]
 			}, -- [2]
 		},
-	}, -- [52]
+	}, -- [51]
 	{
 		["Map"] = 2167,
 		["Players"] = {
@@ -5747,7 +5703,7 @@ REFlexDatabase = {
 				2, -- [5]
 			}, -- [2]
 		},
-	}, -- [53]
+	}, -- [52]
 	{
 		["Map"] = 2373,
 		["Players"] = {
@@ -5856,7 +5812,7 @@ REFlexDatabase = {
 				2, -- [5]
 			}, -- [2]
 		},
-	}, -- [54]
+	}, -- [53]
 	{
 		["Map"] = 1911,
 		["Players"] = {
@@ -5965,7 +5921,7 @@ REFlexDatabase = {
 				2, -- [5]
 			}, -- [2]
 		},
-	}, -- [55]
+	}, -- [54]
 	{
 		["Map"] = 1552,
 		["Players"] = {
@@ -6074,7 +6030,7 @@ REFlexDatabase = {
 				2, -- [5]
 			}, -- [2]
 		},
-	}, -- [56]
+	}, -- [55]
 	{
 		["Map"] = 572,
 		["Players"] = {
@@ -6183,7 +6139,7 @@ REFlexDatabase = {
 				2, -- [5]
 			}, -- [2]
 		},
-	}, -- [57]
+	}, -- [56]
 	{
 		["PlayerStats"] = {
 			0, -- [1]
@@ -6251,7 +6207,7 @@ REFlexDatabase = {
 		["Winner"] = 1,
 		["isArena"] = false,
 		["Time"] = 1610312753,
-	}, -- [58]
+	}, -- [57]
 	{
 		["PlayerStats"] = {
 			1, -- [1]
@@ -6319,7 +6275,7 @@ REFlexDatabase = {
 		["Winner"] = 0,
 		["isArena"] = false,
 		["Time"] = 1610314724,
-	}, -- [59]
+	}, -- [58]
 	{
 		["PlayerStats"] = {
 			1, -- [1]
@@ -6387,7 +6343,510 @@ REFlexDatabase = {
 		["Winner"] = 1,
 		["isArena"] = false,
 		["Time"] = 1610316564,
+	}, -- [59]
+	{
+		["Map"] = 572,
+		["Players"] = {
+			{
+				"Eramus-ConseildesOmbres", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Troll zandalari", -- [7]
+				"Druide", -- [8]
+				"DRUID", -- [9]
+				34631, -- [10]
+				21704, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Farouche", -- [16]
+				6, -- [17]
+			}, -- [1]
+			{
+				"Kotlin", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Troll", -- [7]
+				"Druide", -- [8]
+				"DRUID", -- [9]
+				40519, -- [10]
+				8277, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Équilibre", -- [16]
+				24, -- [17]
+			}, -- [2]
+			{
+				"Narcia-Sargeras", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Morte-vivante", -- [7]
+				"Prêtresse", -- [8]
+				"PRIEST", -- [9]
+				2193, -- [10]
+				5950, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ombre", -- [16]
+				14, -- [17]
+			}, -- [3]
+			{
+				"Theondrog-Draenor", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Vulpérin", -- [7]
+				"Voleur", -- [8]
+				"ROGUE", -- [9]
+				28489, -- [10]
+				12798, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Finesse", -- [16]
+				18, -- [17]
+			}, -- [4]
+		},
+		["PlayersNum"] = 4,
+		["Duration"] = 65,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isArena"] = true,
+		["Time"] = 1610947403,
+		["isRated"] = false,
+		["Version"] = 302,
+		["Winner"] = 1,
+		["PlayerNum"] = 2,
+		["Season"] = 30,
 	}, -- [60]
+	{
+		["Map"] = 617,
+		["Players"] = {
+			{
+				"Yoox-Drak'thul", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Mort-vivant", -- [7]
+				"Voleur", -- [8]
+				"ROGUE", -- [9]
+				58275, -- [10]
+				0, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Finesse", -- [16]
+				8, -- [17]
+			}, -- [1]
+			{
+				"Eramus-ConseildesOmbres", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Troll zandalari", -- [7]
+				"Druide", -- [8]
+				"DRUID", -- [9]
+				15735, -- [10]
+				9185, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Farouche", -- [16]
+				6, -- [17]
+			}, -- [2]
+			{
+				"Kotlin", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Troll", -- [7]
+				"Druide", -- [8]
+				"DRUID", -- [9]
+				0, -- [10]
+				1134, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Équilibre", -- [16]
+				24, -- [17]
+			}, -- [3]
+			{
+				"Tadesh-Todeswache", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Mort-vivant", -- [7]
+				"Démoniste", -- [8]
+				"WARLOCK", -- [9]
+				9320, -- [10]
+				9014, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Destruction", -- [16]
+				10, -- [17]
+			}, -- [4]
+		},
+		["PlayersNum"] = 4,
+		["Duration"] = 44,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isArena"] = true,
+		["Time"] = 1610947580,
+		["isRated"] = false,
+		["Version"] = 302,
+		["Winner"] = 0,
+		["PlayerNum"] = 3,
+		["Season"] = 30,
+	}, -- [61]
+	{
+		["Map"] = 1504,
+		["Players"] = {
+			{
+				"Sharufang-Draenor", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Tauren", -- [7]
+				"Moine", -- [8]
+				"MONK", -- [9]
+				90133, -- [10]
+				1665, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Marche-vent", -- [16]
+				5, -- [17]
+			}, -- [1]
+			{
+				"Eramus-ConseildesOmbres", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Troll zandalari", -- [7]
+				"Druide", -- [8]
+				"DRUID", -- [9]
+				8723, -- [10]
+				21875, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Farouche", -- [16]
+				6, -- [17]
+			}, -- [2]
+			{
+				"Fabi-Dethecus", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Troll", -- [7]
+				"Druide", -- [8]
+				"DRUID", -- [9]
+				0, -- [10]
+				17653, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Restauration", -- [16]
+				6, -- [17]
+			}, -- [3]
+			{
+				"Hotangel-Kael'thas", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Paladin", -- [8]
+				"PALADIN", -- [9]
+				0, -- [10]
+				23069, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Sacré", -- [16]
+				6, -- [17]
+			}, -- [4]
+			{
+				"Kotlin", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Troll", -- [7]
+				"Druide", -- [8]
+				"DRUID", -- [9]
+				21207, -- [10]
+				657, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Équilibre", -- [16]
+				24, -- [17]
+			}, -- [5]
+			{
+				"Lovelos-Draenor", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Orc", -- [7]
+				"Guerrier", -- [8]
+				"WARRIOR", -- [9]
+				34687, -- [10]
+				4952, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Armes", -- [16]
+				16, -- [17]
+			}, -- [6]
+		},
+		["PlayersNum"] = 6,
+		["Duration"] = 41,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isArena"] = true,
+		["Time"] = 1610947822,
+		["isRated"] = false,
+		["Version"] = 302,
+		["Winner"] = 0,
+		["PlayerNum"] = 5,
+		["Season"] = 30,
+	}, -- [62]
+	{
+		["Map"] = 980,
+		["Players"] = {
+			{
+				"Kotlin", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Troll", -- [7]
+				"Druide", -- [8]
+				"DRUID", -- [9]
+				76853, -- [10]
+				9837, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Équilibre", -- [16]
+				24, -- [17]
+			}, -- [1]
+			{
+				"Käbükï-Drek'Thar", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Troll", -- [7]
+				"Druide", -- [8]
+				"DRUID", -- [9]
+				39485, -- [10]
+				50408, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Équilibre", -- [16]
+				23, -- [17]
+			}, -- [2]
+			{
+				"Sylex-Turalyon", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Elfe de sang", -- [7]
+				"Voleur", -- [8]
+				"ROGUE", -- [9]
+				76546, -- [10]
+				5301, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Finesse", -- [16]
+				15, -- [17]
+			}, -- [3]
+			{
+				"Eramus-ConseildesOmbres", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Troll zandalari", -- [7]
+				"Druide", -- [8]
+				"DRUID", -- [9]
+				8987, -- [10]
+				38572, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Farouche", -- [16]
+				6, -- [17]
+			}, -- [4]
+		},
+		["PlayersNum"] = 4,
+		["Duration"] = 105,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isArena"] = true,
+		["Time"] = 1610948066,
+		["isRated"] = false,
+		["Version"] = 302,
+		["Winner"] = 0,
+		["PlayerNum"] = 1,
+		["Season"] = 30,
+	}, -- [63]
+	{
+		["Map"] = 1672,
+		["Players"] = {
+			{
+				"Käbükï-Drek'Thar", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Troll", -- [7]
+				"Druide", -- [8]
+				"DRUID", -- [9]
+				22615, -- [10]
+				23876, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Équilibre", -- [16]
+				23, -- [17]
+			}, -- [1]
+			{
+				"Eramus-ConseildesOmbres", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Troll zandalari", -- [7]
+				"Druide", -- [8]
+				"DRUID", -- [9]
+				7637, -- [10]
+				12851, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Farouche", -- [16]
+				6, -- [17]
+			}, -- [2]
+			{
+				"Kotlin", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Troll", -- [7]
+				"Druide", -- [8]
+				"DRUID", -- [9]
+				29551, -- [10]
+				5601, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Équilibre", -- [16]
+				24, -- [17]
+			}, -- [3]
+			{
+				"Sylex-Turalyon", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Elfe de sang", -- [7]
+				"Voleur", -- [8]
+				"ROGUE", -- [9]
+				51036, -- [10]
+				4720, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Finesse", -- [16]
+				15, -- [17]
+			}, -- [4]
+		},
+		["PlayersNum"] = 4,
+		["Duration"] = 50,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isArena"] = true,
+		["Time"] = 1610948250,
+		["isRated"] = false,
+		["Version"] = 302,
+		["Winner"] = 1,
+		["PlayerNum"] = 3,
+		["Season"] = 30,
+	}, -- [64]
 }
 REFlexHonorDatabase = {
 	[1610060400] = 547,
@@ -6395,4 +6854,5 @@ REFlexHonorDatabase = {
 	[1609887600] = 290,
 	[1609369200] = 40,
 	[1610233200] = 556,
+	[1610924400] = 20,
 }

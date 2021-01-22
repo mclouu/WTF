@@ -113,3 +113,7 @@ DBM-Shadowlands: enabled
 DBM-WorldEvents: enabled
 BasicMinimap_Options: enabled
 ClassicFCT: disabled
+GSE_LDB: disabled
+GSE_GUI: disabled
+GSE: disabled
+Clique: disabled

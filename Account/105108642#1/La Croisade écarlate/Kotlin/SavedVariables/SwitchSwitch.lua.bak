@@ -20,7 +20,7 @@ SwitchSwitchConfig = {
 		["point"] = "CENTER",
 		["relativePoint"] = "CENTER",
 	},
-	["SelectedTalentsProfile"] = "pve",
+	["SelectedTalentsProfile"] = "custom",
 	["maxTimeSuggestionFrame"] = 15,
 	["debug"] = false,
 }

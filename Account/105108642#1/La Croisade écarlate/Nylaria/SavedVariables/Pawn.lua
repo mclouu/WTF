@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0408,
+	["LastVersion"] = 2.041,
 	["LastPlayerFullName"] = "Nylaria-La Croisade écarlate",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {

@@ -1,5 +1,5 @@
 
 HCBxpos = nil
 HCBypos = nil
-HCBkeyable = false
+HCBkeyable = true
 HCBuseralpha = 0.25

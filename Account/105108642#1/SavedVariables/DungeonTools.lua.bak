@@ -1,17 +1,15 @@
 
 DungeonToolsDB = {
 	["profileKeys"] = {
-		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
-		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+		["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
+		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
 		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
+		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
+		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
 	},
 	["global"] = {
 		["anchorTo"] = "LEFT",
-		["anchorFrom"] = "LEFT",
-		["Imported"] = true,
-		["MDI"] = {
-		},
-		["maximized"] = false,
 		["colorPaletteInfo"] = {
 			["customPaletteValues"] = {
 				{
@@ -76,10 +74,17 @@ DungeonToolsDB = {
 				}, -- [12]
 			},
 		},
+		["anchorFrom"] = "LEFT",
+		["Imported"] = true,
+		["MDI"] = {
+		},
+		["currentDungeonIdx"] = 34,
+		["maximized"] = false,
 		["presets"] = {
 			[29] = {
 				{
-					["difficulty"] = 10,
+					["objects"] = {
+					},
 					["week"] = 4,
 					["value"] = {
 						["currentPull"] = 1,
@@ -99,8 +104,7 @@ DungeonToolsDB = {
 							},
 						},
 					},
-					["objects"] = {
-					},
+					["difficulty"] = 10,
 					["mdi"] = {
 						["freehold"] = 1,
 						["beguiling"] = 1,
@@ -108,8 +112,39 @@ DungeonToolsDB = {
 					},
 				}, -- [1]
 			},
+			[34] = {
+				{
+					["objects"] = {
+					},
+					["week"] = 6,
+					["value"] = {
+						["currentPull"] = 1,
+						["currentSublevel"] = 3,
+						["pulls"] = {
+							{
+								["color"] = "ff3eff",
+							}, -- [1]
+						},
+						["currentDungeonIdx"] = 34,
+						["teeming"] = false,
+						["selection"] = {
+							1, -- [1]
+						},
+						["riftOffsets"] = {
+							[6] = {
+							},
+						},
+					},
+					["difficulty"] = 10,
+					["mdi"] = {
+						["freeholdJoined"] = false,
+						["freehold"] = 1,
+						["beguiling"] = 1,
+					},
+				}, -- [1]
+			},
 		},
-		["version"] = 1113,
+		["version"] = 1114,
 		["xoffset"] = 98.00003814697266,
 		["nonFullscreenScale"] = 1,
 		["yoffset"] = 34.50002288818359,

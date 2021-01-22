@@ -13,14 +13,14 @@ Bartender4DB = {
 						["scale"] = 1.264999985694885,
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Jy - La Croisade écarlate"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
-						["scale"] = 1.264999985694885,
+						["y"] = 62,
 						["x"] = -515,
 						["point"] = "BOTTOM",
-						["y"] = 62,
+						["scale"] = 1.264999985694885,
 					},
 				},
 				["Nylaria - La Croisade écarlate"] = {
@@ -31,6 +31,26 @@ Bartender4DB = {
 						["x"] = -515,
 						["point"] = "BOTTOM",
 						["y"] = 62,
+					},
+				},
+				["Atec - La Croisade écarlate"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1.264999985694885,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["y"] = 62,
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
 					},
 				},
 				["Kotlin - Ysondre"] = {
@@ -134,7 +154,7 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Jy - La Croisade écarlate"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -155,8 +175,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -165,8 +185,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -196,8 +216,9 @@ Bartender4DB = {
 						}, -- [7]
 						{
 						}, -- [8]
-						[10] = {
-						},
+						nil, -- [9]
+						{
+						}, -- [10]
 					},
 				},
 				["Nylaria - La Croisade écarlate"] = {
@@ -264,6 +285,139 @@ Bartender4DB = {
 						}, -- [8]
 						[10] = {
 						},
+					},
+				},
+				["Atec - La Croisade écarlate"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 178.4999542236328,
+								["x"] = -231.4999542236328,
+								["point"] = "BOTTOM",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 178.4999542236328,
+								["x"] = -231.4999542236328,
+								["point"] = "BOTTOM",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
 					},
 				},
 				["Kotlin - Ysondre"] = {
@@ -344,6 +498,13 @@ Bartender4DB = {
 								["point"] = "BOTTOM",
 								["scale"] = 0.699999988079071,
 							},
+							["states"] = {
+								["stance"] = {
+									["DRUID"] = {
+										["prowl"] = 1,
+									},
+								},
+							},
 						}, -- [1]
 						{
 							["buttons"] = 7,
@@ -401,9 +562,9 @@ Bartender4DB = {
 							["buttons"] = 3,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -171.5000686645508,
-								["x"] = -338.5003662109375,
-								["point"] = "RIGHT",
+								["y"] = -159.5001068115234,
+								["x"] = 289.9997253417969,
+								["point"] = "CENTER",
 							},
 							["padding"] = 6,
 						}, -- [5]
@@ -419,11 +580,14 @@ Bartender4DB = {
 							["padding"] = 6,
 						}, -- [6]
 						{
+							["enabled"] = true,
+							["buttons"] = 4,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 178.4999542236328,
-								["x"] = -231.4999542236328,
+								["y"] = 57.39998834133166,
+								["x"] = 147.310044453654,
 								["point"] = "BOTTOM",
+								["scale"] = 0.699999988079071,
 							},
 						}, -- [7]
 						{
@@ -537,7 +701,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Jy - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -96.50003051757812,
@@ -546,6 +710,22 @@ Bartender4DB = {
 					},
 				},
 				["Nylaria - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -96.50003051757812,
+						["x"] = -63.49996948242188,
+						["point"] = "CENTER",
+					},
+				},
+				["Atec - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -96.50003051757812,
+						["x"] = -63.49996948242188,
+						["point"] = "CENTER",
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -96.50003051757812,
@@ -591,14 +771,14 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Jy - La Croisade écarlate"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
-						["scale"] = 1,
+						["y"] = 41.75,
 						["x"] = 37.5,
 						["point"] = "BOTTOM",
-						["y"] = 41.75,
+						["scale"] = 1,
 					},
 				},
 				["Nylaria - La Croisade écarlate"] = {
@@ -609,6 +789,26 @@ Bartender4DB = {
 						["x"] = 37.5,
 						["point"] = "BOTTOM",
 						["y"] = 41.75,
+					},
+				},
+				["Atec - La Croisade écarlate"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41.75,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
 					},
 				},
 				["Kotlin - Ysondre"] = {
@@ -654,7 +854,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Jy - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -663,6 +863,22 @@ Bartender4DB = {
 					},
 				},
 				["Nylaria - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Atec - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -708,7 +924,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Jy - La Croisade écarlate"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -718,6 +934,24 @@ Bartender4DB = {
 					},
 				},
 				["Nylaria - La Croisade écarlate"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Atec - La Croisade écarlate"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -765,7 +999,7 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Jy - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -15,
@@ -779,6 +1013,23 @@ Bartender4DB = {
 						["y"] = -15,
 						["x"] = -82.49998474121094,
 						["point"] = "CENTER",
+					},
+				},
+				["Atec - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -15,
+						["x"] = -82.49998474121094,
+						["point"] = "CENTER",
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
 					},
 				},
 				["Kotlin - Ysondre"] = {
@@ -819,7 +1070,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Jy - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 143,
@@ -832,6 +1083,22 @@ Bartender4DB = {
 					["position"] = {
 						["y"] = 143,
 						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Atec - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -120,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -872,7 +1139,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Jy - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 42.5,
@@ -881,6 +1148,22 @@ Bartender4DB = {
 					},
 				},
 				["Nylaria - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.5,
+						["x"] = 104.5000915527344,
+						["point"] = "CENTER",
+					},
+				},
+				["Atec - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.5,
+						["x"] = 104.5000915527344,
+						["point"] = "CENTER",
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 42.5,
@@ -916,9 +1199,11 @@ Bartender4DB = {
 		},
 	},
 	["profileKeys"] = {
+		["Jy - La Croisade écarlate"] = "Clou",
 		["Kotlin - La Croisade écarlate"] = "Clou",
 		["Atec - La Croisade écarlate"] = "Clou",
 		["Nylaria - La Croisade écarlate"] = "Clou",
+		["Chimay - La Croisade écarlate"] = "Clou",
 		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
 		["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
 	},
@@ -928,12 +1213,22 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Atec - La Croisade écarlate"] = {
+		["Jy - La Croisade écarlate"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
 		["Nylaria - La Croisade écarlate"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Atec - La Croisade écarlate"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Chimay - La Croisade écarlate"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",

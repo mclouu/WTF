@@ -33,9 +33,12 @@ XLootADB = {
 		},
 	},
 	["profileKeys"] = {
-		["Kotlin - La Croisade écarlate"] = "Default",
-		["Kotlin - Ysondre"] = "Default",
+		["Jy - La Croisade écarlate"] = "Default",
+		["Nylaria - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
+		["Kotlin - Ysondre"] = "Default",
+		["Chimay - La Croisade écarlate"] = "Default",
+		["Kotlin - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

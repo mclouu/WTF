@@ -1,17 +1,20 @@
 
 DungeonToolsDB = {
 	["profileKeys"] = {
-		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
-		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
+		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
 		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
+		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+		["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
+		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 	},
 	["global"] = {
 		["anchorTo"] = "LEFT",
+		["currentDungeonIdx"] = 34,
 		["anchorFrom"] = "LEFT",
 		["nonFullscreenScale"] = 1,
 		["MDI"] = {
 		},
-		["maximized"] = false,
 		["colorPaletteInfo"] = {
 			["customPaletteValues"] = {
 				{
@@ -76,10 +79,12 @@ DungeonToolsDB = {
 				}, -- [12]
 			},
 		},
+		["maximized"] = false,
 		["presets"] = {
 			[29] = {
 				{
-					["difficulty"] = 10,
+					["objects"] = {
+					},
 					["week"] = 4,
 					["value"] = {
 						["currentPull"] = 1,
@@ -104,12 +109,42 @@ DungeonToolsDB = {
 						["freeholdJoined"] = false,
 						["beguiling"] = 1,
 					},
+					["difficulty"] = 10,
+				}, -- [1]
+			},
+			[34] = {
+				{
 					["objects"] = {
 					},
+					["week"] = 6,
+					["value"] = {
+						["currentPull"] = 1,
+						["currentSublevel"] = 3,
+						["riftOffsets"] = {
+							[6] = {
+							},
+						},
+						["currentDungeonIdx"] = 34,
+						["teeming"] = false,
+						["selection"] = {
+							1, -- [1]
+						},
+						["pulls"] = {
+							{
+								["color"] = "ff3eff",
+							}, -- [1]
+						},
+					},
+					["mdi"] = {
+						["freeholdJoined"] = false,
+						["beguiling"] = 1,
+						["freehold"] = 1,
+					},
+					["difficulty"] = 10,
 				}, -- [1]
 			},
 		},
-		["version"] = 1113,
+		["version"] = 1114,
 		["xoffset"] = 98.00003814697266,
 		["Imported"] = true,
 		["yoffset"] = 34.50002288818359,

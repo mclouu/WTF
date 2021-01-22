@@ -16,11 +16,11 @@ Prat3CharDB = {
 			},
 			["ChatFrame9EditBox"] = {
 			},
-			["ChatFrame1EditBox"] = {
-			},
 			["ChatFrame2EditBox"] = {
 			},
 			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
 			},
 		},
 	},
@@ -138,23 +138,14 @@ Prat3HighCPUPerCharDB = {
 			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
 		},
 		["ChatFrame11"] = {
-			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 3,
-			["ReplaceElements"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
-			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
-			["PushBack"] = nil --[[ skipped inline function ]],
-			["RemoveIf"] = nil --[[ skipped inline function ]],
-			["Clear"] = nil --[[ skipped inline function ]],
-			["PushFront"] = nil --[[ skipped inline function ]],
-			["OnLoad"] = nil --[[ skipped inline function ]],
-			["IsEmpty"] = nil --[[ skipped inline function ]],
-			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:31:22]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:909:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: si nalak est sur mon serv jte groupe",
-					["serverTime"] = 1608507082,
+					["message"] = "|cff979797|Hpratcopy|h[00:32:52]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:915:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: entre ça, la recherche de mon arc leg, les pet",
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9355.244,
+					["serverTime"] = 1608507172,
 					["extraData"] = {
 						53, -- [1]
 						false, -- [2]
@@ -162,14 +153,14 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 9265.622,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:31:29]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:910:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: jai co l'mage",
-					["serverTime"] = 1608507089,
+					["message"] = "|cff979797|Hpratcopy|h[00:33:02]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:919:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: bain est encore loin d'etre sauvé",
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9365.732,
+					["serverTime"] = 1608507182,
 					["extraData"] = {
 						53, -- [1]
 						false, -- [2]
@@ -177,32 +168,1405 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 9272.901,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:31:50]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:911:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: t un gars sur",
-					["serverTime"] = 1608507110,
+					["message"] = "|cff979797|Hpratcopy|h[00:33:25]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:921:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: Bain a toujours été quelqu'un que tu avais du mal a sauver",
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9388.512,
+					["serverTime"] = 1608507205,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
 						1, -- [3]
-						3, -- [4]
+						11, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 9293.588,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:33:38]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:922:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: 1",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9401.877,
+					["serverTime"] = 1608507218,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:33:40]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:923:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: 11",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9403.094000000001,
+					["serverTime"] = 1608507220,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:33:57]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:924:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: mtn c'est le tour de thrall en vrai",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9420.474,
+					["serverTime"] = 1608507237,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:34:04]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:925:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: la meme",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9427.714,
+					["serverTime"] = 1608507244,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:34:09]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:926:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: jcrois je l'ai pas sauvé sur le demo mdr",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9432.733,
+					["serverTime"] = 1608507249,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:34:18]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:928:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: on est des batard",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9441.705,
+					["serverTime"] = 1608507258,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:35:34]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:938:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: proto drake pestiféré est stylé",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9517.412,
+					["serverTime"] = 1608507334,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:35:43]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:940:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: plus dispo xd",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9526.808,
+					["serverTime"] = 1608507343,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:35:57]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:941:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: mais clairement",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9540.417,
+					["serverTime"] = 1608507357,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:36:11]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:943:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: après jaime plus les proto c'est trop old school tavu",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9554.267,
+					["serverTime"] = 1608507371,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:36:16]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:944:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: oui",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9559.579,
+					["serverTime"] = 1608507376,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:37:20]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:963:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: du coup ya du monde de ton coté?",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9623.628,
+					["serverTime"] = 1608507440,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:37:31]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:966:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: jarrive la",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9634.391,
+					["serverTime"] = 1608507451,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:37:54]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:971:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: 15min c vraiment long a attendr",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9657.729,
+					["serverTime"] = 1608507474,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:38:12]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:972:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: ya personne mais il est pas la :(",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9675.309000000001,
+					["serverTime"] = 1608507492,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:38:19]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:973:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: invite",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9682.703,
+					["serverTime"] = 1608507499,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:38:37]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:976:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: nonnnnnnnnnnnn",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9700.119,
+					["serverTime"] = 1608507517,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:38:41]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:977:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: ah bah je suis phasé avec toi xdd",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9704.83,
+					["serverTime"] = 1608507521,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:38:46]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:979:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: wtf",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9709.244,
+					["serverTime"] = 1608507526,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:39:10]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:988:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: invite",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9733.905,
+					["serverTime"] = 1608507550,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:39:24]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:992:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: nice",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9746.977,
+					["serverTime"] = 1608507564,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:39:24]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:993:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: c wtf",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9746.977,
+					["serverTime"] = 1608507564,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:39:33]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:994:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: ah",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9756.714,
+					["serverTime"] = 1608507573,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:39:51]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:995:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: jh'ésite a go orgri et passer en jcj",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9774.184000000001,
+					["serverTime"] = 1608507591,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:39:55]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:996:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: jai cru que jetais sur ton serv a cause de lautre mongole",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9778.199,
+					["serverTime"] = 1608507595,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:40:04]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:997:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: tu veux un tp ?",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9787.245,
+					["serverTime"] = 1608507604,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:40:13]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:998:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: comment je re apres?",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9796.103000000001,
+					["serverTime"] = 1608507613,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:40:18]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:999:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: jte refais un tp capital panda",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9801.903,
+					["serverTime"] = 1608507618,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:40:41]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1003:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: trop stylé ton mage",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9823.911,
+					["serverTime"] = 1608507641,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:40:58]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1006:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: passe en jcj aussi xd",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9841.905,
+					["serverTime"] = 1608507658,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:41:02]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1007:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: jai bien fais de pas co le drood",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9845.326000000001,
+					["serverTime"] = 1608507662,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:41:03]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1008:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: on sera phasé sinon",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9845.941,
+					["serverTime"] = 1608507663,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:41:10]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1009:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: javoue",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9853.719000000001,
+					["serverTime"] = 1608507670,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:41:27]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1012:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: cest partie pour lolilol sur nalak",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9870.299,
+					["serverTime"] = 1608507687,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:41:49]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1014:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: en vrai ca va yavait juste un ally",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9892.051,
+					["serverTime"] = 1608507709,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:41:54]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1017:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: il est farmable chez toi",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9896.928,
+					["serverTime"] = 1608507714,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:41:54]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1018:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: javoue en vrai",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9897.496000000001,
+					["serverTime"] = 1608507714,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:42:03]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1019:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: si ya un ally tu le depop en 2sec",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9906.75,
+					["serverTime"] = 1608507723,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:42:10]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1020:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: a part si il est 60",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9912.974,
+					["serverTime"] = 1608507730,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:42:16]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1021:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: mais la le 50",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9919.612000000001,
+					["serverTime"] = 1608507736,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:42:19]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1022:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: cest croustibat",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 9922.108,
+					["serverTime"] = 1608507739,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:43:48]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1028:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: en vrai jveux de mal a personne",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10011.801,
+					["serverTime"] = 1608507828,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:43:53]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1029:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: juste avoir nalak comme pet",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10015.976,
+					["serverTime"] = 1608507833,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:44:06]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1030:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: si il faut clean un DH 50 bah",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10029.406,
+					["serverTime"] = 1608507846,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:44:08]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1031:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: voila koi",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10031.32,
+					["serverTime"] = 1608507848,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:44:21]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1032:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: YA NALAK",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10044.175,
+					["serverTime"] = 1608507861,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:44:29]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1033:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: tes solo ?",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10052.893,
+					["serverTime"] = 1608507869,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:44:44]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1034:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: dis moi quand je deco du coups pas besoin que je bouge plus loin",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10066.983,
+					["serverTime"] = 1608507884,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:44:58]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1035:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: tes ou?",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10081.891,
+					["serverTime"] = 1608507898,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:45:10]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1036:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: Garnison pandashan",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10093.078,
+					["serverTime"] = 1608507910,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:45:13]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1037:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: jarrive",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10096.597,
+					["serverTime"] = 1608507913,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:45:37]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1038:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: mec",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10120.554,
+					["serverTime"] = 1608507937,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:45:39]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1039:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: je l'ai",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10122.384,
+					["serverTime"] = 1608507939,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:45:44]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1040:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: arthur va rager de ouf",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10127.197,
+					["serverTime"] = 1608507944,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:47:16]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1041:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: au fait",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10219.869,
+					["serverTime"] = 1608508036,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:47:16]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1042:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: look moi ca",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10219.869,
+					["serverTime"] = 1608508036,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:47:26]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1043:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: Xuen pas capturable mais Yu'lon si",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10229.34,
+					["serverTime"] = 1608508046,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:47:30]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1044:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: propre",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10233.442,
+					["serverTime"] = 1608508050,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:47:45]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1047:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: tema mon Thor",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10248.85,
+					["serverTime"] = 1608508065,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:48:27]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1052:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: Thor aussi validé",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10290.2,
+					["serverTime"] = 1608508107,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:48:38]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1053:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: vraiment je le valide aussi",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10300.992,
+					["serverTime"] = 1608508118,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:48:42]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1054:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: du coup Yu lon",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10305.776,
+					["serverTime"] = 1608508122,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:48:44]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1055:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: humm",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10307.095,
+					["serverTime"] = 1608508124,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:48:45]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1057:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: a voir",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10308.712,
+					["serverTime"] = 1608508125,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:48:58]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1064:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: xddddddddddddd",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10321.454,
+					["serverTime"] = 1608508138,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:49:03]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1065:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: je tentends siffler trop stylé",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10326.569,
+					["serverTime"] = 1608508143,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:49:18]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1066:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: mec",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10341.046,
+					["serverTime"] = 1608508158,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:49:21]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1067:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: ta mage est trop classe",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10344.629,
+					["serverTime"] = 1608508161,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:49:32]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1070:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: oui",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10355.101,
+					["serverTime"] = 1608508172,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:49:53]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1074:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: tu valides ma transmo du coup^?",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10376.096,
+					["serverTime"] = 1608508193,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:50:26]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1078:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: cimer <3",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10409.092,
+					["serverTime"] = 1608508226,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:51:08]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1082:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: en vrai",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10451.36,
+					["serverTime"] = 1608508268,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:51:12]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1083:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: donne moi du pain stp",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10455.047,
+					["serverTime"] = 1608508272,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:51:13]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1084:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: table mage",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10456.847,
+					["serverTime"] = 1608508273,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:51:15]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1085:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: jvais bg",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10458.293,
+					["serverTime"] = 1608508275,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:51:21]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1086:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: avec Nalak",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10464.496,
+					["serverTime"] = 1608508281,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:51:31]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1091:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: ty beau gosse",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10474.522,
+					["serverTime"] = 1608508291,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:51:51]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1094:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: xdddddddddddd",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10494.713,
+					["serverTime"] = 1608508311,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:52:13]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1097:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: tu aggro un rogue 60 toi tes un niqué",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10516.901,
+					["serverTime"] = 1608508333,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:52:29]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1098:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: il avait froid je voulais le réchauffer",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10532.678,
+					["serverTime"] = 1608508349,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:52:30]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1099:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: ya pas plus suicidaire quand on est lvl 46",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10533.097,
+					["serverTime"] = 1608508350,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:52:43]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1100:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: ca va il va pas te farme je le vois la",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10546.737,
+					["serverTime"] = 1608508363,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:52:47]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1101:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: il fait ses bailles",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10550.54,
+					["serverTime"] = 1608508367,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:52:52]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1102:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: jai mal de rez",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10555.354,
+					["serverTime"] = 1608508372,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:53:01]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1103:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: xdddddddddddd",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10564.512,
+					["serverTime"] = 1608508381,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:53:04]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1104:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: en vrai go atec",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10567.333,
+					["serverTime"] = 1608508384,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:53:09]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1105:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: oui",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10572.695,
+					["serverTime"] = 1608508389,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:53:15]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1106:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: bye belle gosse",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10578.266,
+					["serverTime"] = 1608508395,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:53:24]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1107:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: jai Nalak <3",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10587.802,
+					["serverTime"] = 1608508404,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:53:25]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1108:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: ty",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10588.723,
+					["serverTime"] = 1608508405,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:54:00]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1109:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: je t'intiterai a festoyer et à boir de l'arcevin a surramar un jour",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10623.784,
+					["serverTime"] = 1608508440,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:54:25]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:1110:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: tu penses que l'arc a kiljeaden irait mieux sur ma hunt?",
+					["b"] = 0.9647059440612793,
+					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 10648.304,
+					["serverTime"] = 1608508465,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						1, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+				}, -- [95]
 			},
+			["headIndex"] = 95,
 			["maxElements"] = 128,
-			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
-			["TransformIf"] = nil --[[ skipped inline function ]],
-			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
-			["GetNumElements"] = nil --[[ skipped inline function ]],
-			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
 		},
 		["ChatFrame8"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
@@ -272,7 +1636,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 12,
+			["headIndex"] = 33,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -285,136 +1649,400 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:30:57]|h|r TargetCharms: 1.6.4 (7/18/2018) - Loaded",
-					["timestamp"] = 9240.575,
+					["message"] = "|cff979797|Hpratcopy|h[22:47:30]|h|r |cffffffff|cff5672ff>> Salut, mec ! Bienvenue suw Twoll ! /twoll pouw activer/désactiver !|r|r",
+					["timestamp"] = 2520.872,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:31:08]|h|r |cFF33FF99Capping|r is missing locale for frFR and needs your help! Please visit the project page on GitHub for more info.",
-					["timestamp"] = 9250.546,
-					["serverTime"] = 1608507068,
+					["message"] = "|cff979797|Hpratcopy|h[22:47:47]|h|r |cff33ff99Gladius|r: Bienvenue sur Gladius!",
+					["timestamp"] = 2578.223,
+					["serverTime"] = 1610660868,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:31:08]|h|r |T893778:15:15:0:0:64:64:4:60:4:60|tGouttelette d'Y'Shaarj: 4 essais",
-					["r"] = 1,
-					["serverTime"] = 1608507068,
-					["timestamp"] = 9251.64,
-					["g"] = 1,
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[22:47:47]|h|r |cff33ff99Gladius|r: First run has been detected, displaying test frame.",
+					["timestamp"] = 2578.223,
+					["serverTime"] = 1610660868,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:31:08]|h|r Mastodonte kor’kron: 3 essais",
-					["r"] = 1,
-					["serverTime"] = 1608507068,
-					["timestamp"] = 9251.64,
-					["g"] = 1,
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[22:47:47]|h|r |cff33ff99Gladius|r: Commandes slash valides sont:",
+					["timestamp"] = 2578.223,
+					["serverTime"] = 1610660868,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:31:08]|h|r |T624007:15:15:0:0:64:64:4:60:4:60|tKovok: 4 essais",
-					["r"] = 1,
-					["serverTime"] = 1608507068,
-					["timestamp"] = 9251.64,
-					["g"] = 1,
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[22:47:47]|h|r |cff33ff99Gladius|r: /gladius ui",
+					["timestamp"] = 2578.223,
+					["serverTime"] = 1610660868,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:31:08]|h|r |T897633:15:15:0:0:64:64:4:60:4:60|tBombinette Boîte-Noire: 4 essais",
-					["r"] = 1,
-					["serverTime"] = 1608507068,
-					["timestamp"] = 9251.64,
-					["g"] = 1,
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[22:47:47]|h|r |cff33ff99Gladius|r: /gladius test 2-5",
+					["timestamp"] = 2578.223,
+					["serverTime"] = 1610660868,
 				}, -- [6]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:31:22]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:909:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: si nalak est sur mon serv jte groupe",
-					["serverTime"] = 1608507082,
-					["r"] = 0,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 9265.622,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
+					["message"] = "|cff979797|Hpratcopy|h[22:47:47]|h|r |cff33ff99Gladius|r: /gladius hide",
+					["timestamp"] = 2578.223,
+					["serverTime"] = 1610660868,
 				}, -- [7]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:31:29]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:910:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: jai co l'mage",
-					["serverTime"] = 1608507089,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[22:47:47]|h|r |cff33ff99Gladius|r: /gladius reset",
+					["timestamp"] = 2578.223,
+					["serverTime"] = 1610660868,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:47:47]|h|r |cff33ff99Gladius|r: Si ce n'est pas votre première arène s'il vous plaît verrouillez ou déplacez le cadre pour éviter que cela se produise",
+					["timestamp"] = 2578.223,
+					["serverTime"] = 1610660868,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:48:02]|h|r Temps de jeu total : 2 |4jour:jours;, 5 |4heure:heures;, 58 |4minute:minutes;, 43 |4seconde:secondes;",
+					["serverTime"] = 1610660883,
+					["r"] = 1,
 					["extraData"] = {
-						53, -- [1]
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 2597.899,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:48:02]|h|r Temps joué à ce niveau : 0 |4jour:jours;, 3 |4heure:heures;, 58 |4minute:minutes;, 56 |4seconde:secondes;",
+					["serverTime"] = 1610660883,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 2597.899,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:48:37]|h|r |cffd8d8d8[|r|Hplayer:Röms:49|h|cffa5a5a5Röms|r|h|cffd8d8d8]|r vous a invité à rejoindre un groupe.",
+					["serverTime"] = 1610660918,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 9272.901,
+					["timestamp"] = 2631.941,
 					["g"] = 1,
-					["b"] = 0.9647059440612793,
-				}, -- [8]
+					["b"] = 0,
+				}, -- [12]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:31:50]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq10|k:16:911:BN_WHISPER:|Kq10|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cffa9d271|Kq10|k|r|h|cffd8d8d8]|r: t un gars sur",
-					["serverTime"] = 1608507110,
-					["r"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[22:48:38]|h|r Difficulté du donjon réglée sur Mythique.",
+					["serverTime"] = 1610660919,
+					["r"] = 1,
 					["extraData"] = {
-						52, -- [1]
+						1, -- [1]
 						false, -- [2]
 						1, -- [3]
-						3, -- [4]
+						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 9293.588,
+					["timestamp"] = 2634.545,
 					["g"] = 1,
-					["b"] = 0.9647059440612793,
-				}, -- [9]
+					["b"] = 0,
+				}, -- [13]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:31:54]|h|r |Hchannel:channel:1|h[1] |h Change de canal : |Hchannel:CHANNEL:1|h[1. Général - Val de l’Éternel printemps]|h",
-					["serverTime"] = 1608507114,
+					["message"] = "|cff979797|Hpratcopy|h[22:48:53]|h|r |Hchannel:channel:1|h[1] |h Change de canal : |Hchannel:CHANNEL:1|h[1. Général - Durotar]|h",
+					["serverTime"] = 1610660934,
 					["r"] = 1,
 					["extraData"] = {
 						67, -- [1]
 						false, -- [2]
-						4, -- [3]
-						5, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 9297.085000000001,
+					["timestamp"] = 2649.419,
 					["g"] = 0.7529412508010864,
 					["b"] = 0.7529412508010864,
-				}, -- [10]
+				}, -- [14]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:31:54]|h|r |Hchannel:channel:2|h[2] |h Quitte le canal : |Hchannel:CHANNEL:2|h[2. Commerce - Capitales]|h",
-					["serverTime"] = 1608507114,
+					["message"] = "|cff979797|Hpratcopy|h[22:48:53]|h|r |Hchannel:channel:2|h[2] |h Quitte le canal : |Hchannel:CHANNEL:2|h[2. Commerce - Capitales]|h",
+					["serverTime"] = 1610660934,
 					["r"] = 1,
 					["extraData"] = {
 						68, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 9297.085000000001,
+					["timestamp"] = 2649.419,
 					["g"] = 0.7529412508010864,
 					["b"] = 0.7529412508010864,
-				}, -- [11]
+				}, -- [15]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:31:54]|h|r |Hchannel:channel:3|h[3] |h Change de canal : |Hchannel:CHANNEL:3|h[3. DéfenseLocale - Val de l’Éternel printemps]|h",
-					["serverTime"] = 1608507114,
+					["message"] = "|cff979797|Hpratcopy|h[22:48:53]|h|r |Hchannel:channel:3|h[3] |h Change de canal : |Hchannel:CHANNEL:3|h[3. DéfenseLocale - Durotar]|h",
+					["serverTime"] = 1610660934,
 					["r"] = 1,
 					["extraData"] = {
 						69, -- [1]
 						false, -- [2]
-						10, -- [3]
-						11, -- [4]
+						9, -- [3]
+						10, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 9297.085000000001,
+					["timestamp"] = 2649.419,
 					["g"] = 0.7529412508010864,
 					["b"] = 0.7529412508010864,
-				}, -- [12]
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:07]|h|r |Hchannel:channel:1|h[1] |h Change de canal : |Hchannel:CHANNEL:1|h[1. Général - Orgrimmar]|h",
+					["serverTime"] = 1610660948,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2662.996,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:07]|h|r |Hchannel:channel:2|h[2] |h Change de canal : |Hchannel:CHANNEL:2|h[2. Commerce - Capitales]|h",
+					["serverTime"] = 1610660948,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2662.996,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:07]|h|r |Hchannel:channel:3|h[3] |h Change de canal : |Hchannel:CHANNEL:3|h[3. DéfenseLocale - Orgrimmar]|h",
+					["serverTime"] = 1610660948,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2662.996,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:07]|h|r Vous avez activé le mode Guerre.",
+					["serverTime"] = 1610660948,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2663.626,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:12]|h|r |Hchannel:channel:1|h[1] |h Change de canal : |Hchannel:CHANNEL:1|h[1. Général - Durotar]|h",
+					["serverTime"] = 1610660953,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2668.455,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:12]|h|r |Hchannel:channel:2|h[2] |h Quitte le canal : |Hchannel:CHANNEL:2|h[2. Commerce - Capitales]|h",
+					["serverTime"] = 1610660953,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						6, -- [3]
+						7, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2668.455,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:12]|h|r |Hchannel:channel:3|h[3] |h Change de canal : |Hchannel:CHANNEL:3|h[3. DéfenseLocale - Durotar]|h",
+					["serverTime"] = 1610660953,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2668.455,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:23]|h|r Début du duel : 3",
+					["serverTime"] = 1610660964,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2678.946,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:24]|h|r Début du duel : 2",
+					["serverTime"] = 1610660965,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2679.968,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:49:25]|h|r Début du duel : 1",
+					["serverTime"] = 1610660966,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 2680.973,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:04:21]|h|r Échec d'une action d'interface liée à un programme d'interface personnalisée",
+					["serverTime"] = 1610661862,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 3577.836,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:05:06]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq12|k:26:64:BN_INLINE_TOAST_ALERT:0|h[|Kq12|k]|h vient de se déconnecter.",
+					["serverTime"] = 1610661908,
+					["r"] = 0.5098039507865906,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3622.384,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:07:52]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq7|k:24:65:BN_INLINE_TOAST_ALERT:0|h[|Kq7|k]|h vient de se déconnecter.",
+					["serverTime"] = 1610662074,
+					["r"] = 0.5098039507865906,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						12, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3788.45,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:11:16]|h|r Début du duel : 3",
+					["serverTime"] = 1610662278,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3992.394,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:11:17]|h|r Début du duel : 2",
+					["serverTime"] = 1610662279,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3993.403,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:11:18]|h|r Début du duel : 1",
+					["serverTime"] = 1610662280,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 3994.413,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:14:54]|h|r |cff00fe97Röms|r a vaincu |cff00ff00Nylaria|r en duel",
+					["serverTime"] = 1610662495,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 4210.326,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [33]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],

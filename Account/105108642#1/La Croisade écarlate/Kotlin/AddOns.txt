@@ -43,7 +43,7 @@ Capping_Options: enabled
 Chat_Sound_Customizer: enabled
 Chronicles: enabled
 Details: enabled
-Details_DataStorage: disabled
+Details_DataStorage: enabled
 eAlignUpdated: disabled
 EasyQueue: enabled
 HandyNotes: enabled
@@ -115,3 +115,6 @@ BasicMinimap: enabled
 BasicMinimap_Options: enabled
 TargetCharms: enabled
 XLoot_Options: enabled
+AAP-Shadowlands: disabled
+AAP-Core: disabled
+AAP-EasternKingdoms: disabled

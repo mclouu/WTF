@@ -1,10 +1,17 @@
 
 Gladius2DB = {
 	["profileKeys"] = {
+		["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
 		["Kotlin - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
+		["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
+		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
 	},
 	["profiles"] = {
+		["Jy - La Croisade écarlate"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+		},
 		["Default"] = {
 			["castBarHeight"] = 15,
 			["tagsVersion"] = 4,
@@ -86,17 +93,17 @@ Gladius2DB = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nlocal maxHealth = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nreturn strformat(\"%.1f%%\", (health / maxHealth * 100))\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["health"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
-					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
+				["maxpower"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
+					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 				["maxhealth:short"] = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nif (health > 999) then\nreturn strformat(\"%.1fk\", (health / 1000))\nelse\nreturn health\nend\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["maxpower"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
-					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
+				["health"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
+					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 			},
 			["classIconShowSpec"] = true,
@@ -104,6 +111,26 @@ Gladius2DB = {
 			["auraVersion"] = 1,
 			["barWidth"] = 170,
 			["backgroundPadding"] = 1,
+		},
+		["Atec - La Croisade écarlate"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 529,
+			},
+			["y"] = {
+				["arena1"] = 594,
+			},
+		},
+		["Nylaria - La Croisade écarlate"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 497.0001220703125,
+			},
+			["x"] = {
+				["arena1"] = 1090.999877929688,
+			},
 		},
 		["DRUID"] = {
 			["tags"] = {
@@ -167,18 +194,28 @@ Gladius2DB = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nlocal maxHealth = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nreturn strformat(\"%.1f%%\", (health / maxHealth * 100))\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["maxpower"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
-					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
+				["health"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
+					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 				["maxhealth:short"] = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nif (health > 999) then\nreturn strformat(\"%.1fk\", (health / 1000))\nelse\nreturn health\nend\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["health"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
-					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
+				["maxpower"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
+					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
+			},
+		},
+		["Chimay - La Croisade écarlate"] = {
+			["y"] = {
+				["arena1"] = 450.0000305175781,
+			},
+			["tagsVersion"] = 4,
+			["auraVersion"] = 1,
+			["x"] = {
+				["arena1"] = 601.0000610351562,
 			},
 		},
 		["Kotlin - La Croisade écarlate"] = {
@@ -190,15 +227,15 @@ Gladius2DB = {
 					["action"] = "target",
 					["modifier"] = "ctrl-",
 				},
-				["Droite"] = {
-					["button"] = "2",
-					["macro"] = "/cast Enchevêtrement de masse\n/cast Rayon solaire",
-					["action"] = "target",
-					["modifier"] = "",
-				},
 				["Gauche"] = {
 					["button"] = "1",
 					["macro"] = "",
+					["action"] = "target",
+					["modifier"] = "",
+				},
+				["Droite"] = {
+					["button"] = "2",
+					["macro"] = "/cast Enchevêtrement de masse\n/cast Rayon solaire",
 					["action"] = "target",
 					["modifier"] = "",
 				},
@@ -265,44 +302,34 @@ Gladius2DB = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nlocal maxHealth = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nreturn strformat(\"%.1f%%\", (health / maxHealth * 100))\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["maxpower"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
-					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
+				["health"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
+					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 				["maxhealth:short"] = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nif (health > 999) then\nreturn strformat(\"%.1fk\", (health / 1000))\nelse\nreturn health\nend\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["health"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
-					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
+				["maxpower"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
+					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
-			},
-			["announcements"] = {
-				["trinket"] = true,
-			},
-			["y"] = {
-				["arena1"] = 527.9999102115617,
 			},
 			["x"] = {
 				["arena1"] = 1118.001188534516,
 			},
-			["frameScale"] = 0.8,
+			["y"] = {
+				["arena1"] = 527.9999102115617,
+			},
+			["classIconShowSpec"] = true,
+			["tagsVersion"] = 4,
 			["classIconCrop"] = true,
 			["backgroundPadding"] = 1,
-			["tagsVersion"] = 4,
-			["classIconShowSpec"] = true,
+			["frameScale"] = 0.8,
+			["announcements"] = {
+				["trinket"] = true,
+			},
 			["barWidth"] = 170,
-		},
-		["Atec - La Croisade écarlate"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 594,
-			},
-			["x"] = {
-				["arena1"] = 529,
-			},
 		},
 	},
 }

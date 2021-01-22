@@ -1,0 +1,2298 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame11"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 11,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:32:49]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:862:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: |cff00ff00Jy|r",
+					["serverTime"] = 1610904768,
+					["r"] = 0,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 22831.38,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:32:55]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:863:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: Roms",
+					["serverTime"] = 1610904774,
+					["r"] = 0,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						70, -- [3]
+						72, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 22837.312,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:33:02]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:865:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: comment allez-vous ?",
+					["serverTime"] = 1610904781,
+					["r"] = 0,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 22844.285,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:33:18]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:875:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: voljin est mort :'(",
+					["serverTime"] = 1610904797,
+					["r"] = 0,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						70, -- [3]
+						72, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 22860.194,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:35:08]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:901:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: xd",
+					["serverTime"] = 1610904907,
+					["r"] = 0,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 22970.426,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:37:24]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:955:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: need la mount de classe pour |cff00ff00Jy|r",
+					["serverTime"] = 1610905043,
+					["r"] = 0,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						70, -- [3]
+						72, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23106.224,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:38:19]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:956:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: |Hachievement:11136:Player-1127-09C7B83A:0:0:0:-1:1188:0:0:0|h[Campagne épique]|h",
+					["serverTime"] = 1610905098,
+					["r"] = 0,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						70, -- [3]
+						72, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23161.63,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:25]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:1028:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: jai juste ddemo chaman",
+					["serverTime"] = 1610905524,
+					["r"] = 0,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23587.857,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:26]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:1029:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: gg",
+					["serverTime"] = 1610905525,
+					["r"] = 0,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23588.848,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:41]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:1033:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: moine pretre demo druide tu as batard",
+					["serverTime"] = 1610905540,
+					["r"] = 0,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23603.022,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:17]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:1042:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: et bientot pal en vrai",
+					["serverTime"] = 1610905576,
+					["r"] = 0,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						70, -- [3]
+						72, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23639.214,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [11]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 90,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:43:37]|h|r Vous recevez la monnaie : |cff0070dd|Hcurrency:1792:0|h[Honneur]|h|r x 2.",
+					["serverTime"] = 1610905416,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23479.771,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:43:37]|h|r Vous avez reçu 2 points d’honneur.",
+					["serverTime"] = 1610905416,
+					["r"] = 0.8784314393997192,
+					["extraData"] = {
+						35, -- [1]
+						false, -- [2]
+						83, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23479.771,
+					["g"] = 0.7921569347381592,
+					["b"] = 0.03921568766236305,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:43:52]|h|r |cff71d5ff|Hdeath:6|h[Vous avez succombé.]|h",
+					["serverTime"] = 1610905431,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23494.197,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:43:52]|h|r L’orbe |cFF01DFD7cyan|r a été rendu !",
+					["serverTime"] = 1610905431,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23494.292,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:43:53]|h|r L’orbe |cFFFF8000orange|r a été rendu !",
+					["serverTime"] = 1610905432,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23495.288,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:44:13]|h|r Nikele-Ravencrest a pris l’orbe |cFF01DF01vert|r !",
+					["serverTime"] = 1610905452,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						78, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23515.271,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:44:17]|h|r |cffa5a5a5Awajio|r a succombé.",
+					["serverTime"] = 1610905456,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23518.99,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:44:24]|h|r Duchowomocna-Silvermoon a pris l’orbe |cFFFF8000orange|r !",
+					["serverTime"] = 1610905463,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						78, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23526.404,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:44:32]|h|r |cffa5a5a5Dïpplö|r a succombé.",
+					["serverTime"] = 1610905471,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23534.598,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:44:53]|h|r |cffa5a5a5Bigzy|r a succombé.",
+					["serverTime"] = 1610905492,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23555.617,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:06]|h|r |Hchannel:INSTANCE_CHAT|h[IL] |h|cffd8d8d8[|r|Hplayer:Batmwan-Dalaran:1021:INSTANCE_CHAT|h|cffd8bc3f27|r:|cff00fe97Batmwan|r-|cff00fc9cDal|r|h|cffd8d8d8]|r: au moins ca va pas durer des plombes comme ca",
+					["serverTime"] = 1610905505,
+					["r"] = 0.458823561668396,
+					["extraData"] = {
+						64, -- [1]
+						false, -- [2]
+						27, -- [3]
+						85, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23567.924,
+					["g"] = 0.7764706611633301,
+					["b"] = 1,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:17]|h|r L’orbe |cFF01DF01vert|r a été rendu !",
+					["serverTime"] = 1610905516,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23579.449,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:18]|h|r Vous recevez la monnaie : |cff0070dd|Hcurrency:1792:0|h[Honneur]|h|r x 13.",
+					["serverTime"] = 1610905517,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23580.277,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:18]|h|r Vous avez reçu 13 points d’honneur.",
+					["serverTime"] = 1610905517,
+					["r"] = 0.8784314393997192,
+					["extraData"] = {
+						35, -- [1]
+						false, -- [2]
+						83, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23580.277,
+					["g"] = 0.7921569347381592,
+					["b"] = 0.03921568766236305,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:21]|h|r |cffa5a5a5Awajio|r a succombé.",
+					["serverTime"] = 1610905520,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23583.088,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:24]|h|r |cffa5a5a5Linkömen|r a succombé.",
+					["serverTime"] = 1610905523,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23586.85,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:25]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:1028:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: jai juste ddemo chaman",
+					["serverTime"] = 1610905524,
+					["r"] = 0,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23587.857,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:26]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:1029:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: gg",
+					["serverTime"] = 1610905525,
+					["r"] = 0,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23588.848,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:29]|h|r L’orbe |cFFBF00FFviolet|r a été rendu !",
+					["serverTime"] = 1610905528,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23591.644,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:34]|h|r Kelmáráz-Ravencrest a pris l’orbe |cFF01DFD7cyan|r !",
+					["serverTime"] = 1610905533,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						78, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23596.272,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:36]|h|r |cff71d5ff|Hdeath:7|h[Vous avez succombé.]|h",
+					["serverTime"] = 1610905535,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23598.513,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:41]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:1033:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: moine pretre demo druide tu as batard",
+					["serverTime"] = 1610905540,
+					["r"] = 0,
+					["extraData"] = {
+						52, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23603.022,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:47]|h|r |cffa5a5a5Dïpplö|r a succombé.",
+					["serverTime"] = 1610905546,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23609.486,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:52]|h|r Pert-Ravencrest a pris l’orbe |cFFBF00FFviolet|r !",
+					["serverTime"] = 1610905551,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						78, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23614.245,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:45:52]|h|r L’orbe |cFF01DFD7cyan|r a été rendu !",
+					["serverTime"] = 1610905551,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23614.619,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:02]|h|r Mangla-DunModr a pris l’orbe |cFF01DF01vert|r !",
+					["serverTime"] = 1610905561,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						78, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23624.862,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:08]|h|r Batmwan-Dalaran a pris l’orbe |cFF01DFD7cyan|r !",
+					["serverTime"] = 1610905567,
+					["r"] = 1,
+					["extraData"] = {
+						39, -- [1]
+						false, -- [2]
+						80, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23630.824,
+					["g"] = 0,
+					["b"] = 0,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:11]|h|r L’orbe |cFFFF8000orange|r a été rendu !",
+					["serverTime"] = 1610905570,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23633.724,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:12]|h|r Vous recevez la monnaie : |cff0070dd|Hcurrency:1792:0|h[Honneur]|h|r x 1.",
+					["serverTime"] = 1610905571,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23634.538,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:12]|h|r Vous avez reçu 1 points d’honneur.",
+					["serverTime"] = 1610905571,
+					["r"] = 0.8784314393997192,
+					["extraData"] = {
+						35, -- [1]
+						false, -- [2]
+						83, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23634.538,
+					["g"] = 0.7921569347381592,
+					["b"] = 0.03921568766236305,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:17]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:1042:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: et bientot pal en vrai",
+					["serverTime"] = 1610905576,
+					["r"] = 0,
+					["extraData"] = {
+						53, -- [1]
+						false, -- [2]
+						70, -- [3]
+						72, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23639.214,
+					["g"] = 1,
+					["b"] = 0.9647059440612793,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:26]|h|r |cffa5a5a5Awajio|r a succombé.",
+					["serverTime"] = 1610905585,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23648.829,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:31]|h|r Vous recevez la monnaie : |cff0070dd|Hcurrency:1792:0|h[Honneur]|h|r x 2.",
+					["serverTime"] = 1610905590,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23653.743,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:31]|h|r Vous avez reçu 2 points d’honneur.",
+					["serverTime"] = 1610905590,
+					["r"] = 0.8784314393997192,
+					["extraData"] = {
+						35, -- [1]
+						false, -- [2]
+						83, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23653.76,
+					["g"] = 0.7921569347381592,
+					["b"] = 0.03921568766236305,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:37]|h|r |cffa5a5a5Dïpplö|r a succombé.",
+					["serverTime"] = 1610905596,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23659.184,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:38]|h|r L’orbe |cFF01DF01vert|r a été rendu !",
+					["serverTime"] = 1610905597,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23660.337,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:48]|h|r L’orbe |cFF01DFD7cyan|r a été rendu !",
+					["serverTime"] = 1610905607,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23670.191,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:58]|h|r Vous recevez la monnaie : |cff0070dd|Hcurrency:1792:0|h[Honneur]|h|r x 11.",
+					["serverTime"] = 1610905617,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23680.021,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:46:58]|h|r Vous avez reçu 11 points d’honneur.",
+					["serverTime"] = 1610905617,
+					["r"] = 0.8784314393997192,
+					["extraData"] = {
+						35, -- [1]
+						false, -- [2]
+						83, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23680.021,
+					["g"] = 0.7921569347381592,
+					["b"] = 0.03921568766236305,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:02]|h|r |cffa5a5a5Linkömen|r a succombé.",
+					["serverTime"] = 1610905621,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23684.727,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:03]|h|r Piixxoo-Dalaran a pris l’orbe |cFF01DFD7cyan|r !",
+					["serverTime"] = 1610905622,
+					["r"] = 1,
+					["extraData"] = {
+						39, -- [1]
+						false, -- [2]
+						80, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23685.639,
+					["g"] = 0,
+					["b"] = 0,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:09]|h|r |cff71d5ff|Hdeath:8|h[Vous avez succombé.]|h",
+					["serverTime"] = 1610905628,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23691.601,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:09]|h|r |cffd8d8d8[|r|Hplayer:Sarpasso-DunModr:1055:ACHIEVEMENT|h|cfffe7b09Sarpasso|r-|cff82c44cDun|r|h|cffd8d8d8]|r a accompli le haut fait |cffffff00|Hachievement:229:Player-1378-0A93DD0C:1:1:17:21:4294967295:4294967295:4294967295:4294967295|h[Le Faucheur]|h|r |cffffffff(|rCompleted 20/2/10|cffffffff)|r !",
+					["serverTime"] = 1610905628,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						42, -- [3]
+						86, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23691.761,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:13]|h|r L’orbe |cFFBF00FFviolet|r a été rendu !",
+					["serverTime"] = 1610905632,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23694.968,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:16]|h|r Dïpplö-Dalaran a pris l’orbe |cFF01DF01vert|r !",
+					["serverTime"] = 1610905635,
+					["r"] = 1,
+					["extraData"] = {
+						39, -- [1]
+						false, -- [2]
+						80, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23698.267,
+					["g"] = 0,
+					["b"] = 0,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:24]|h|r Duchowomocna-Silvermoon a pris l’orbe |cFFBF00FFviolet|r !",
+					["serverTime"] = 1610905643,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						78, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23706.816,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:25]|h|r L’orbe |cFF01DFD7cyan|r a été rendu !",
+					["serverTime"] = 1610905644,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23707.291,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:30]|h|r Elfoagras-DunModr a pris l’orbe |cFF01DFD7cyan|r !",
+					["serverTime"] = 1610905649,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						78, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23712.318,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:42]|h|r |cffa5a5a5Dïpplö|r a succombé.",
+					["serverTime"] = 1610905661,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23724.373,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:42]|h|r L’orbe |cFF01DF01vert|r a été rendu !",
+					["serverTime"] = 1610905661,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23724.542,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:46]|h|r Kelmáráz-Ravencrest a pris l’orbe |cFFFF8000orange|r !",
+					["serverTime"] = 1610905665,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						78, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23727.913,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:59]|h|r Linkömen-Templenoir a pris l’orbe |cFF01DF01vert|r !",
+					["serverTime"] = 1610905678,
+					["r"] = 1,
+					["extraData"] = {
+						39, -- [1]
+						false, -- [2]
+						80, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23740.999,
+					["g"] = 0,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:47:59]|h|r |cffa5a5a5Dïpplö|r-Dalaran a quitté la bataille",
+					["serverTime"] = 1610905678,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23741.724,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:48:01]|h|r |cffa5a5a5Dïpplö|r-Dalaran a quitté le groupe d’instance.",
+					["serverTime"] = 1610905680,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23742.932,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:48:14]|h|r L’orbe |cFF01DFD7cyan|r a été rendu !",
+					["serverTime"] = 1610905693,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23756.573,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:48:15]|h|r |cffa5a5a5Awajio|r a succombé.",
+					["serverTime"] = 1610905694,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23756.98,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:48:15]|h|r Vous recevez la monnaie : |cff0070dd|Hcurrency:1792:0|h[Honneur]|h|r x 2.",
+					["serverTime"] = 1610905694,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23757.38,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:48:15]|h|r Vous avez reçu 2 points d’honneur.",
+					["serverTime"] = 1610905694,
+					["r"] = 0.8784314393997192,
+					["extraData"] = {
+						35, -- [1]
+						false, -- [2]
+						83, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23757.38,
+					["g"] = 0.7921569347381592,
+					["b"] = 0.03921568766236305,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:48:24]|h|r Vous recevez la monnaie : |cff0070dd|Hcurrency:1792:0|h[Honneur]|h|r x 10.",
+					["serverTime"] = 1610905703,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23766.015,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:48:24]|h|r Vous avez reçu 10 points d’honneur.",
+					["serverTime"] = 1610905703,
+					["r"] = 0.8784314393997192,
+					["extraData"] = {
+						35, -- [1]
+						false, -- [2]
+						83, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23766.015,
+					["g"] = 0.7921569347381592,
+					["b"] = 0.03921568766236305,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:48:28]|h|r |cff71d5ff|Hdeath:9|h[Vous avez succombé.]|h",
+					["serverTime"] = 1610905707,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23770.248,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:48:29]|h|r |cffa5a5a5Bigzy|r a succombé.",
+					["serverTime"] = 1610905708,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23771.116,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:48:30]|h|r |cffa5a5a5Linkömen|r a succombé.",
+					["serverTime"] = 1610905709,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23772.581,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:48:30]|h|r L’orbe |cFF01DF01vert|r a été rendu !",
+					["serverTime"] = 1610905709,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23772.783,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:48:49]|h|r Calibrated-Silvermoon a pris l’orbe |cFF01DFD7cyan|r !",
+					["serverTime"] = 1610905728,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						78, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23791.336,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:48:55]|h|r Raritet-Kazzak a pris l’orbe |cFF01DF01vert|r !",
+					["serverTime"] = 1610905734,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						78, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23797.549,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:17]|h|r |cffa5a5a5Awajio|r a succombé.",
+					["serverTime"] = 1610905756,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23819.812,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:26]|h|r Vous recevez la monnaie : |cff0070dd|Hcurrency:1792:0|h[Honneur]|h|r x 3.",
+					["serverTime"] = 1610905765,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23828.245,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:26]|h|r Vous avez reçu 3 points d’honneur.",
+					["serverTime"] = 1610905765,
+					["r"] = 0.8784314393997192,
+					["extraData"] = {
+						35, -- [1]
+						false, -- [2]
+						83, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23828.245,
+					["g"] = 0.7921569347381592,
+					["b"] = 0.03921568766236305,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:32]|h|r Vous remerciez Linkömen-Templenoir.",
+					["serverTime"] = 1610905771,
+					["r"] = 1,
+					["extraData"] = {
+						12, -- [1]
+						false, -- [2]
+						36, -- [3]
+						67, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23834.672,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:33]|h|r L’Alliance gagne !",
+					["serverTime"] = 1610905772,
+					["r"] = 1,
+					["extraData"] = {
+						37, -- [1]
+						false, -- [2]
+						65, -- [3]
+						66, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23835.254,
+					["g"] = 0.4705882668495178,
+					["b"] = 0.03921568766236305,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:34]|h|r Vous avez reçu 95 points d’honneur.",
+					["serverTime"] = 1610905773,
+					["r"] = 0.8784314393997192,
+					["extraData"] = {
+						35, -- [1]
+						false, -- [2]
+						83, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23836.214,
+					["g"] = 0.7921569347381592,
+					["b"] = 0.03921568766236305,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:34]|h|r Vous recevez la monnaie : |cff0070dd|Hcurrency:1792:0|h[Honneur]|h|r x 10.",
+					["serverTime"] = 1610905773,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23836.29,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:37]|h|r |cffa5a5a5Linkömen|r-Templenoir a quitté le groupe d’instance.",
+					["serverTime"] = 1610905776,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23839.272,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:37]|h|r L’orbe |cFF01DF01vert|r a été rendu !",
+					["serverTime"] = 1610905776,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23839.893,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:39]|h|r |cffa5a5a5Batmwan|r-Dalaran a quitté le groupe d’instance.",
+					["serverTime"] = 1610905778,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23841.306,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:40]|h|r |cffa5a5a5Bajh|r-Hyjal a quitté le groupe d’instance.",
+					["serverTime"] = 1610905779,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23842.909,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:41]|h|r |cffa5a5a5Awajio|r-Archimonde a quitté le groupe d’instance.",
+					["serverTime"] = 1610905780,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23843.727,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:42]|h|r La bataille est terminée. Ce champ de bataille fermera dans 2 |4min:min;",
+					["serverTime"] = 1610905781,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 23844.363,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:43]|h|r |cffa5a5a5Bigzy|r-Archimonde a quitté le groupe d’instance.",
+					["serverTime"] = 1610905782,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23844.927,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:43]|h|r |cffa5a5a5Piixxoo|r-Dalaran a quitté le groupe d’instance.",
+					["serverTime"] = 1610905782,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23845.731,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:44]|h|r L’orbe |cFFFF8000orange|r a été rendu !",
+					["serverTime"] = 1610905783,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23845.945,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:44]|h|r |cffa5a5a5Vizionna|r-Hyjal a quitté le groupe d’instance.",
+					["serverTime"] = 1610905783,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23846.203,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:46]|h|r |cffa5a5a5Kiramaa|r-Hyjal a quitté le groupe d’instance.",
+					["serverTime"] = 1610905785,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23848.16,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:49:52]|h|r L’orbe |cFFBF00FFviolet|r a été rendu !",
+					["serverTime"] = 1610905791,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23854.049,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:50:20]|h|r Le groupe n'existe plus.",
+					["serverTime"] = 1610905819,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23882.633,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:50:20]|h|r Vous avez été renvoyé du groupe.",
+					["serverTime"] = 1610905819,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23882.633,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:50:22]|h|r |Hchannel:channel:1|h[1] |h Change de canal : |Hchannel:CHANNEL:1|h[1. Général - Dalaran]|h",
+					["serverTime"] = 1610905821,
+					["r"] = 1,
+					["extraData"] = {
+						67, -- [1]
+						false, -- [2]
+						21, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23883.955,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:50:22]|h|r |Hchannel:channel:2|h[2] |h Change de canal : |Hchannel:CHANNEL:2|h[2. Commerce - Capitales]|h",
+					["serverTime"] = 1610905821,
+					["r"] = 1,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						56, -- [3]
+						63, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23883.955,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:50:22]|h|r |Hchannel:channel:3|h[3] |h Change de canal : |Hchannel:CHANNEL:3|h[3. DéfenseLocale - Dalaran]|h",
+					["serverTime"] = 1610905821,
+					["r"] = 1,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23883.955,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:40:12]|h|r La bataille commence dans 1 minute !",
+					["serverTime"] = 1610905211,
+					["r"] = 1,
+					["extraData"] = {
+						37, -- [1]
+						false, -- [2]
+						65, -- [3]
+						66, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23274.554,
+					["g"] = 0.4705882668495178,
+					["b"] = 0.03921568766236305,
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:40:18]|h|r Kiramaa-Hyjal crée : |cffffffff|Hitem:5512::::::::20:264:::::::|h[Pierre de soins]|h|r.",
+					["serverTime"] = 1610905217,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						15, -- [3]
+						77, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23280.156,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:40:42]|h|r La bataille commence dans 30 secondes !",
+					["serverTime"] = 1610905241,
+					["r"] = 1,
+					["extraData"] = {
+						37, -- [1]
+						false, -- [2]
+						65, -- [3]
+						66, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23304.466,
+					["g"] = 0.4705882668495178,
+					["b"] = 0.03921568766236305,
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:41:12]|h|r La bataille a commencé !",
+					["serverTime"] = 1610905271,
+					["r"] = 1,
+					["extraData"] = {
+						37, -- [1]
+						false, -- [2]
+						65, -- [3]
+						66, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23334.504,
+					["g"] = 0.4705882668495178,
+					["b"] = 0.03921568766236305,
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:41:12]|h|r Le système de notification a été activé.",
+					["serverTime"] = 1610905271,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23334.64,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:41:28]|h|r Calibrated-Silvermoon a pris l’orbe |cFFFF8000orange|r !",
+					["serverTime"] = 1610905287,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						78, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23350.778,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:41:29]|h|r Bajh-Hyjal a pris l’orbe |cFF01DF01vert|r !",
+					["serverTime"] = 1610905288,
+					["r"] = 1,
+					["extraData"] = {
+						39, -- [1]
+						false, -- [2]
+						80, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23350.999,
+					["g"] = 0,
+					["b"] = 0,
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:41:30]|h|r Awajio-Archimonde a pris l’orbe |cFFBF00FFviolet|r !",
+					["serverTime"] = 1610905289,
+					["r"] = 1,
+					["extraData"] = {
+						39, -- [1]
+						false, -- [2]
+						80, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23352.473,
+					["g"] = 0,
+					["b"] = 0,
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:41:39]|h|r Nikele-Ravencrest a pris l’orbe |cFF01DFD7cyan|r !",
+					["serverTime"] = 1610905298,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						78, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23361.703,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:41:48]|h|r |cffa5a5a5Dïpplö|r a succombé.",
+					["serverTime"] = 1610905307,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23370.696,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:17]|h|r |cffffe566{VuhDo}|r Options not available in combat!",
+					["r"] = 1,
+					["serverTime"] = 1610905336,
+					["timestamp"] = 23399.08,
+					["g"] = 0.4,
+					["b"] = 0.4,
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:17]|h|r |cffa5a5a5Linkömen|r a succombé.",
+					["serverTime"] = 1610905336,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23399.403,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:30]|h|r |cffa5a5a5Bigzy|r a succombé.",
+					["serverTime"] = 1610905349,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23412.525,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:37]|h|r L’orbe |cFF01DFD7cyan|r a été rendu !",
+					["serverTime"] = 1610905356,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23419.027,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:37]|h|r |cffd8d8d8[|r|Hplayer:Jy-LaCroisadeécarlate:990:ACHIEVEMENT|h|cff8b8b8b20|r:|cff006fdcJy|r|h|cffd8d8d8]|r a accompli le haut fait |cffffff00|Hachievement:238:Player-1127-09C7B83A:1:1:17:21:4294967295:4294967295:4294967295:4294967295|h[Une victoire honorable]|h|r |cffffffff(|rCompleted 17/1/21|cffffffff)|r ! |cffffd200|Hshareachieve:238:1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["serverTime"] = 1610905356,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						42, -- [3]
+						51, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23419.027,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:37]|h|r |cffd8d8d8[|r|Hplayer:Piixxoo-Dalaran:991:ACHIEVEMENT|h|cffd8bc3f27|r:|cff006fdcPiixxoo|r-|cff00fc9cDal|r|h|cffd8d8d8]|r a accompli le haut fait |cffffff00|Hachievement:238:Player-1621-0A9B2DC2:1:1:17:21:4294967295:4294967295:4294967295:4294967295|h[Une victoire honorable]|h|r |cffffffff(|rCompleted 17/1/21|cffffffff)|r !",
+					["serverTime"] = 1610905356,
+					["r"] = 1,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						42, -- [3]
+						82, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23419.027,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:37]|h|r Vous recevez la monnaie : |cff0070dd|Hcurrency:1792:0|h[Honneur]|h|r x 2.",
+					["serverTime"] = 1610905356,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23419.901,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:38]|h|r Vous avez reçu 2 points d’honneur.",
+					["serverTime"] = 1610905357,
+					["r"] = 0.8784314393997192,
+					["extraData"] = {
+						35, -- [1]
+						false, -- [2]
+						83, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23419.917,
+					["g"] = 0.7921569347381592,
+					["b"] = 0.03921568766236305,
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:40]|h|r |cff71d5ff|Hdeath:5|h[Vous avez succombé.]|h",
+					["serverTime"] = 1610905359,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23422.375,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:44]|h|r |cffa5a5a5Awajio|r a succombé.",
+					["serverTime"] = 1610905363,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23426.504,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:44]|h|r L’orbe |cFFBF00FFviolet|r a été rendu !",
+					["serverTime"] = 1610905363,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23426.708,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [111]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:45]|h|r |cffffe566{VuhDo}|r La position des panneaux est maintenant |cffffe566vérouillé|r.",
+					["r"] = 1,
+					["serverTime"] = 1610905364,
+					["timestamp"] = 23427.852,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:45]|h|r |cffffe566{VuhDo}|r Successfully saved profile: \"Clou5\".",
+					["r"] = 1,
+					["serverTime"] = 1610905364,
+					["timestamp"] = 23427.852,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [113]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:46]|h|r |cffffe566{VuhDo}|r La position des panneaux est maintenant |cffffe566dévérouillé|r.",
+					["r"] = 1,
+					["serverTime"] = 1610905365,
+					["timestamp"] = 23428.159,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [114]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:46]|h|r |cffffe566{VuhDo}|r Successfully saved profile: \"Clou5\".",
+					["r"] = 1,
+					["serverTime"] = 1610905365,
+					["timestamp"] = 23428.159,
+					["g"] = 0.7,
+					["b"] = 0.2,
+				}, -- [115]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:54]|h|r L’orbe |cFF01DF01vert|r a été rendu !",
+					["serverTime"] = 1610905373,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23436.012,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [116]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:54]|h|r Vous recevez la monnaie : |cff0070dd|Hcurrency:1792:0|h[Honneur]|h|r x 2.",
+					["serverTime"] = 1610905373,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23436.745,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:54]|h|r Vous avez reçu 2 points d’honneur.",
+					["serverTime"] = 1610905373,
+					["r"] = 0.8784314393997192,
+					["extraData"] = {
+						35, -- [1]
+						false, -- [2]
+						83, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23436.76,
+					["g"] = 0.7921569347381592,
+					["b"] = 0.03921568766236305,
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:58]|h|r Vous recevez la monnaie : |cff0070dd|Hcurrency:1792:0|h[Honneur]|h|r x 10.",
+					["serverTime"] = 1610905377,
+					["r"] = 0,
+					["extraData"] = {
+						59, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23440.63,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:58]|h|r Vous avez reçu 10 points d’honneur.",
+					["serverTime"] = 1610905377,
+					["r"] = 0.8784314393997192,
+					["extraData"] = {
+						35, -- [1]
+						false, -- [2]
+						83, -- [3]
+						84, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23440.652,
+					["g"] = 0.7921569347381592,
+					["b"] = 0.03921568766236305,
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:42:59]|h|r Raritet-Kazzak a pris l’orbe |cFFBF00FFviolet|r !",
+					["serverTime"] = 1610905378,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						78, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23441.733,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:43:00]|h|r Batmwan-Dalaran a pris l’orbe |cFF01DFD7cyan|r !",
+					["serverTime"] = 1610905379,
+					["r"] = 1,
+					["extraData"] = {
+						39, -- [1]
+						false, -- [2]
+						80, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23442.729,
+					["g"] = 0,
+					["b"] = 0,
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:43:00]|h|r Kelmáráz-Ravencrest a pris l’orbe |cFF01DF01vert|r !",
+					["serverTime"] = 1610905379,
+					["r"] = 0,
+					["extraData"] = {
+						38, -- [1]
+						false, -- [2]
+						78, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23442.789,
+					["g"] = 0.6823529601097107,
+					["b"] = 0.9372549653053284,
+				}, -- [123]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:43:24]|h|r L’orbe |cFF01DFD7cyan|r a été rendu !",
+					["serverTime"] = 1610905403,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23466.85,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [124]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:43:27]|h|r |cffa5a5a5Dïpplö|r a succombé.",
+					["serverTime"] = 1610905406,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23469.253,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [125]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:43:30]|h|r Jy-LaCroisadeécarlate a pris l’orbe |cFF01DFD7cyan|r !",
+					["serverTime"] = 1610905409,
+					["r"] = 1,
+					["extraData"] = {
+						39, -- [1]
+						false, -- [2]
+						80, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23472.835,
+					["g"] = 0,
+					["b"] = 0,
+				}, -- [126]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:43:31]|h|r |cffa5a5a5Linkömen|r a succombé.",
+					["serverTime"] = 1610905410,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23473.551,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [127]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[18:43:37]|h|r L’orbe |cFF01DF01vert|r a été rendu !",
+					["serverTime"] = 1610905416,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						44, -- [3]
+						45, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 23478.978,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

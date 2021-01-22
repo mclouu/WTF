@@ -1,16 +1,25 @@
 
 SimulationCraftDB = {
 	["profileKeys"] = {
-		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
-		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
+		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
 		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
+		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+		["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
+		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 	},
 	["profiles"] = {
-		["Kotlin - Ysondre"] = {
+		["Jy - La Croisade écarlate"] = {
 		},
-		["Kotlin - La Croisade écarlate"] = {
+		["Nylaria - La Croisade écarlate"] = {
 		},
 		["Atec - La Croisade écarlate"] = {
+		},
+		["Kotlin - Ysondre"] = {
+		},
+		["Chimay - La Croisade écarlate"] = {
+		},
+		["Kotlin - La Croisade écarlate"] = {
 		},
 	},
 }

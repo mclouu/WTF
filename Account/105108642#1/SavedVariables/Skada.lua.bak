@@ -1,0 +1,35 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Kotlin - La Croisade écarlate"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["modeclicks"] = {
+				["DPS"] = 1,
+			},
+			["windows"] = {
+				{
+					["y"] = 55.99992370605469,
+					["mode"] = "DPS",
+					["point"] = "CENTER",
+					["x"] = 10.00006103515625,
+					["background"] = {
+						["height"] = 87.99994659423828,
+					},
+					["barwidth"] = 260.0000305175781,
+				}, -- [1]
+			},
+			["versions"] = {
+				["1.6.3"] = true,
+				["1.8.0"] = true,
+				["1.6.4"] = true,
+				["1.6.7"] = true,
+			},
+		},
+	},
+}

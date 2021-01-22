@@ -1,4 +1,16 @@
+VER 3 0100000000000004 "aa" "775460"
+#showtooltip 
+/use [talent:5/1]Élixir de soins
+/use [talent:5/2]Diffusion de la magie
+/use [talent:5/3]Atténuation du mal
+END
 VER 3 0100000000000001 "smart" "3578227"
 #showtooltip 
-/cast [@cursor] Breuvage poussière-d’os(Nécro-seigneurs)
+/use [@cursor]Breuvage poussière-d’os(Nécro-seigneurs)
+END
+VER 3 0100000000000003 "Transc" "627608"
+#showtooltip Transcendance
+/use 13
+/use Transcendance : Transfert 
+/use [mod:alt]Transcendance
 END

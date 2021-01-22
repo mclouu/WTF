@@ -1,0 +1,26 @@
+
+MasterPlanAG = {
+	["La Croisade écarlate"] = {
+		["Jy"] = {
+			["class"] = "SHAMAN",
+			["summary"] = {
+				["inProgress"] = {
+					[2] = 1610885585,
+				},
+			},
+			["faction"] = "Horde",
+		},
+		["Atec"] = {
+			["class"] = "MONK",
+			["faction"] = "Horde",
+		},
+		["Kotlin"] = {
+			["faction"] = "Horde",
+			["class"] = "DRUID",
+		},
+		["Chimay"] = {
+			["faction"] = "Alliance",
+			["class"] = "PALADIN",
+		},
+	},
+}

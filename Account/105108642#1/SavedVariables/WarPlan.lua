@@ -1,0 +1,2 @@
+
+WarPlanData = nil

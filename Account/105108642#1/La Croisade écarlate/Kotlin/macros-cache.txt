@@ -8,8 +8,14 @@ VER 3 010000000000000A "berserk" "236149"
 END
 VER 3 0100000000000008 "Berserker" "136060"
 #showtooltip Alignement céleste
+/use 14
 /cast Alignement céleste
 /cast Berserker(Raciale)
+END
+VER 3 010000000000000B "Conv" "3636847"
+#showtooltip Convoquer les esprits(Faë nocturnes)
+/use Ensemble de statuettes de prêtre et de druidesse
+/cast Convoquer les esprits(Faë nocturnes)
 END
 VER 3 0100000000000004 "cuire" "132722"
 /way Tornheim 47.9, 52.2
@@ -17,13 +23,13 @@ VER 3 0100000000000004 "cuire" "132722"
 /way Tornheim 46.8, 50.8
 /way Tornheim 47.3, 55.2
 END
-VER 3 0100000000000003 "MO" "236216"
-#showtooltip Éclat solaire
-/cast [@mouseover,exists,harm]Éclat solaire ;Éclat solaire
-END
 VER 3 0100000000000005 "MO" "136096"
 #showtooltip Éclat lunaire
 /cast [@mouseover,exists,harm]Éclat lunaire ;Éclat lunaire
+END
+VER 3 0100000000000003 "MO" "236216"
+#showtooltip Éclat solaire
+/cast [@mouseover,exists,harm]Éclat solaire ;Éclat solaire
 END
 VER 3 0100000000000007 "SC" "236163"
 #showtooltip Charge sauvage

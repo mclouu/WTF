@@ -3,22 +3,28 @@ BrokerPlayedTimeDB = {
 	["La Croisade écarlate"] = {
 		["Horde"] = {
 			["Nylaria"] = {
-				["timePlayed"] = 192918,
+				["timePlayed"] = 196086,
 				["class"] = "MAGE",
 				["level"] = 46,
-				["timeUpdated"] = 1608508474,
-			},
-			["Kotlin"] = {
-				["timePlayed"] = 3732967,
-				["class"] = "DRUID",
-				["timeUpdated"] = 1610616071,
-				["level"] = 60,
+				["timeUpdated"] = 1610779416,
 			},
 			["Atec"] = {
-				["timePlayed"] = 2206848,
+				["timePlayed"] = 2263090,
 				["class"] = "MONK",
-				["timeUpdated"] = 1610610031,
+				["timeUpdated"] = 1611275652,
 				["level"] = 60,
+			},
+			["Kotlin"] = {
+				["timePlayed"] = 3848451,
+				["class"] = "DRUID",
+				["timeUpdated"] = 1611275428,
+				["level"] = 60,
+			},
+			["Jy"] = {
+				["timePlayed"] = 17361,
+				["class"] = "SHAMAN",
+				["level"] = 20,
+				["timeUpdated"] = 1610912579,
 			},
 		},
 		["Alliance"] = {
@@ -27,6 +33,12 @@ BrokerPlayedTimeDB = {
 				["class"] = "WARLOCK",
 				["timeUpdated"] = 1608502502,
 				["level"] = 45,
+			},
+			["Chimay"] = {
+				["timePlayed"] = 881650,
+				["class"] = "PALADIN",
+				["timeUpdated"] = 1610911796,
+				["level"] = 50,
 			},
 		},
 	},

@@ -5,8 +5,11 @@ OmniBarDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Kotlin - La Croisade écarlate"] = "Default",
+		["Jy - La Croisade écarlate"] = "Default",
+		["Nylaria - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
+		["Chimay - La Croisade écarlate"] = "Default",
+		["Kotlin - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -36,10 +39,10 @@ OmniBarDB = {
 					["name"] = "OmniBar",
 					["position"] = {
 						["relativeTo"] = "UIParent",
-						["point"] = "BOTTOMLEFT",
-						["relativePoint"] = "BOTTOMLEFT",
-						["yOfs"] = 7.499288082122803,
-						["xOfs"] = 148.4999084472656,
+						["point"] = "LEFT",
+						["relativePoint"] = "LEFT",
+						["yOfs"] = -150.0010375976563,
+						["xOfs"] = 120.4999160766602,
 						["frameStrata"] = "MEDIUM",
 					},
 					["size"] = 41,

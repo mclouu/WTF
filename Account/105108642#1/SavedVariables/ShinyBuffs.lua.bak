@@ -1,0 +1,46 @@
+
+ShinyBuffsDB = {
+	["whoCast"] = true,
+	["sbar"] = "VuhDo - Plain",
+	["fstyle"] = "Outline",
+	["allWhiteText"] = true,
+	["border"] = "Details BarBorder 3",
+	["bprow"] = 4,
+	["bgColor"] = {
+		["b"] = 0.32,
+		["g"] = 0.32,
+		["r"] = 0.32,
+	},
+	["posX"] = -182.9999389648438,
+	["bg"] = "Solid",
+	["anchor1"] = "TOPRIGHT",
+	["debuffOverlayAlpha"] = 0.45,
+	["debuffs"] = {
+		["size"] = 40,
+		["cfsize"] = 14,
+		["dfsize"] = 12,
+	},
+	["debuffTypeBor"] = false,
+	["borderWidth"] = 16,
+	["borColor"] = {
+		["b"] = 0.5,
+		["g"] = 0.5,
+		["r"] = 0.5,
+	},
+	["classbg"] = true,
+	["font"] = "Friz Quadrata TT",
+	["classbar"] = true,
+	["sbarColor"] = {
+		["b"] = 0,
+		["g"] = 1,
+		["r"] = 0,
+	},
+	["anchor2"] = "TOPRIGHT",
+	["buffs"] = {
+		["size"] = 33,
+		["cfsize"] = 14,
+		["dfsize"] = 10,
+	},
+	["classbor"] = true,
+	["posY"] = -12.00000953674316,
+}
