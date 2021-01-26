@@ -74,7 +74,7 @@ Overachiever_Trade: enabled
 Pawn: enabled
 Plater: enabled
 PlayedTimeMinimapClock: enabled
-Postal: enabled
+Postal: disabled
 Prat-3.0: enabled
 Prat-3.0_Libraries: enabled
 PrettyReps: disabled
@@ -117,3 +117,6 @@ GSE_LDB: disabled
 GSE_GUI: disabled
 GSE: disabled
 Clique: disabled
+AAP-Core: disabled
+AAP-EasternKingdoms: disabled
+AAP-Shadowlands: disabled

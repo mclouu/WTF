@@ -44,7 +44,7 @@ Chat_Sound_Customizer: enabled
 Chronicles: enabled
 Details: enabled
 Details_DataStorage: enabled
-eAlignUpdated: disabled
+eAlignUpdated: enabled
 EasyQueue: enabled
 HandyNotes: enabled
 HandyNotes_BattleForAzerothTreasures: enabled
@@ -74,7 +74,7 @@ PlayedTimeMinimapClock: enabled
 Postal: enabled
 Prat-3.0: enabled
 Prat-3.0_Libraries: enabled
-PrettyReps: disabled
+PrettyReps: enabled
 RaiderIO: enabled
 RaiderIO_DB_EU_A_R: enabled
 RaiderIO_DB_EU_H_R: enabled

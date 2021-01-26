@@ -8,8 +8,8 @@ PlaterDBChr = {
 	["buffsBanned"] = {
 	},
 	["first_run3"] = {
-		["Player-1127-09C7B83A"] = true,
 		["Player-1127-09C7B1A7"] = true,
+		["Player-1127-09C7B83A"] = true,
 	},
 	["resources_on_target"] = false,
 	["debuffsBanned"] = {

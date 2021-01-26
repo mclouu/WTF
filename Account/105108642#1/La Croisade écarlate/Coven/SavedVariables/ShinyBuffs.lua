@@ -1,0 +1,4 @@
+
+ShinyBuffsPCDB = {
+	["charSpec"] = false,
+}

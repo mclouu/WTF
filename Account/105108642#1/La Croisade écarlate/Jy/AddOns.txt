@@ -25,3 +25,4 @@ Details_Vanguard: disabled
 Details_TinyThreat: disabled
 Details_Streamer: disabled
 Details_RaidCheck: disabled
+ShinyBuffs: disabled

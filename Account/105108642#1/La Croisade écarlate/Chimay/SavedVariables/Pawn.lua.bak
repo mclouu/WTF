@@ -1,8 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.041,
-	["LastPlayerFullName"] = "Chimay-La Croisade écarlate",
-	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
 			["ID"] = 170527,
@@ -57,10 +55,10 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:158160::::::::50:70::27:5:4803:6516:6515:1484:4785::::|h[Anneau de la crique du Contrebandier]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 161899,
-			["Level"] = 60,
+			["ID"] = 158160,
+			["Level"] = 70,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:161899::::::::50:70::8:5:4982:40:5129:1474:4786::::|h[Sceau du gladiateur menaçant]|h|r",
+			["Link"] = "|cff0070dd|Hitem:158160::::::::50:66::27:5:4803:6516:6515:1484:4785::::|h[Anneau de la crique du Contrebandier]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 161472,
@@ -80,10 +78,62 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159289::::::::50:70::23:3:4779:1473:4786::::|h[Cape trempée de Vide]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 120978,
-			["Level"] = 20,
-			["Link"] = "|cffe6cc80|Hitem:120978::::::::50:70::9:1:737:1:8:17:::|h[Porte-Cendres]|h|r",
+			["ID"] = 161683,
+			["Level"] = 60,
+			["AlsoFitsIn"] = 17,
+			["Link"] = "|cffa335ee|Hitem:161683:5965:::::::50:70::25:4:5110:5129:1474:4786::::|h[Martelet du gladiateur menaçant]|h|r",
 		}, -- [16]
+		{
+			["ID"] = 163895,
+			["Level"] = 60,
+			["Link"] = "|cffa335ee|Hitem:163895::::::::50:70::30:2:1474:4786::::|h[Bouclier de légionnaire de la 7e]|h|r",
+		}, -- [17]
+	},
+	["AutoSelectScales"] = true,
+	["LastPlayerFullName"] = "Chimay-La Croisade écarlate",
+	["Artifacts"] = {
+		[128823] = {
+			["Relics"] = {
+				{
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["Type"] = "Life",
+				}, -- [2]
+				{
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "Main-d’Argent",
+		},
+		[128866] = {
+			["Relics"] = {
+				{
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["Type"] = "Iron",
+				}, -- [2]
+				{
+					["Type"] = "Arcane",
+				}, -- [3]
+			},
+			["Name"] = "Garde-Vérité",
+		},
+		[120978] = {
+			["Relics"] = {
+				{
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["Type"] = "Fire",
+				}, -- [2]
+				{
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "Porte-Cendres",
+		},
 	},
 	["LastKeybindingsSet"] = 1,
 }

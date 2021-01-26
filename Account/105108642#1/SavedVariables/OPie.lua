@@ -1,6 +1,7 @@
 
 OneRing_Config = {
 	["CharProfiles"] = {
+		["La Croisade écarlate-Chimay-3"] = "Clou",
 		["La Croisade écarlate-Atec-3"] = "Clou",
 		["La Croisade écarlate-Kotlin"] = "Clou",
 		["La Croisade écarlate-Jy"] = "Clou",
@@ -9,8 +10,6 @@ OneRing_Config = {
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
-			["RingScale"] = 0.6000000238418579,
-			["RingAtMouse"] = true,
 			["Bindings"] = {
 				["SpecMenu"] = "CTRL-NUMPAD2",
 				["Jouet"] = "CTRL-NUMPAD5",
@@ -18,24 +17,30 @@ OneRing_Config = {
 				["Pet"] = "CTRL-NUMPAD3",
 				["Monture"] = "CTRL-NUMPAD1",
 			},
+			["RingAtMouse"] = true,
 			["RotationTokens"] = {
 				["OPCTAt"] = "OPCHSh",
 			},
+			["RingScale"] = 0.6000000238418579,
 		},
 		["Clou"] = {
 			["RingAtMouse"] = true,
-			["Bindings"] = {
-				["sp"] = "CTRL-NUMPAD4",
-				["Sp1"] = "CTRL-NUMPAD4",
-				["SpecMenu"] = "CTRL-NUMPAD2",
-				["Jouet"] = "CTRL-NUMPAD5",
-				["Sp"] = "CTRL-NUMPAD4",
-				["Pet"] = "CTRL-NUMPAD3",
-				["Monture"] = "CTRL-NUMPAD1",
-			},
 			["RingScale"] = 0.6000000238418579,
 			["RotationTokens"] = {
 				["OPCTAt"] = "OPCHSh",
+			},
+			["Bindings"] = {
+				["Sp1"] = "CTRL-NUMPAD4",
+				["SpecMenu"] = "CTRL-NUMPAD2",
+				["DruidShift"] = false,
+				["Pet"] = "CTRL-NUMPAD3",
+				["sp2"] = "CTRL-NUMPAD4",
+				["DruidUtility"] = false,
+				["OPieAutoQuest"] = false,
+				["Jouet"] = "CTRL-NUMPAD5",
+				["sp"] = "CTRL-NUMPAD4",
+				["Sp"] = "CTRL-NUMPAD4",
+				["Monture"] = "CTRL-NUMPAD1",
 			},
 		},
 	},
@@ -69,14 +74,14 @@ OneRing_Config = {
 					1, -- [2]
 					["sliceToken"] = "ABuelwYLsZh",
 				}, -- [4]
+				["limit"] = "Jy-LaCroisadeécarlate",
 				["save"] = true,
 				["name"] = "Spé",
-				["limit"] = "Jy-LaCroisadeécarlate",
 			},
 			["SpecMenu"] = {
 				{
-					["sliceToken"] = "OPCTAc",
 					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
+					["sliceToken"] = "OPCTAc",
 				}, -- [1]
 				{
 					"item", -- [1]
@@ -112,6 +117,11 @@ OneRing_Config = {
 					182773, -- [2]
 					["sliceToken"] = "ABueleNG3Be",
 				}, -- [8]
+				{
+					"item", -- [1]
+					63207, -- [2]
+					["sliceToken"] = "ABueltTvmVe",
+				}, -- [9]
 				["name"] = "Spécialisations et Voyage",
 				["save"] = true,
 				["hotkey"] = "CTRL-NUMPAD2",
@@ -213,30 +223,30 @@ OneRing_Config = {
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
 			},
-			["Jouet"] = {
-				["save"] = true,
-				["name"] = "Jouet",
-				["limit"] = "Atec-LaCroisadeécarlate",
-			},
-			["Sp"] = {
-				{
-					"specset", -- [1]
-					2, -- [2]
-					["sliceToken"] = "ABuekH4Z7arP",
-				}, -- [1]
+			["sp2"] = {
 				{
 					"specset", -- [1]
 					1, -- [2]
-					["sliceToken"] = "ABuekH4Z7arO",
-				}, -- [2]
+					["sliceToken"] = "ABuel1Hp0dp",
+				}, -- [1]
 				{
 					"specset", -- [1]
 					3, -- [2]
-					["sliceToken"] = "ABuekH4Z7arI",
+					["sliceToken"] = "ABuel1Hp0do",
+				}, -- [2]
+				{
+					"specset", -- [1]
+					2, -- [2]
+					["sliceToken"] = "ABuel1Hp0d2",
 				}, -- [3]
+				{
+					"extrabutton", -- [1]
+					1, -- [2]
+					["sliceToken"] = "ABuel1Hp0di",
+				}, -- [4]
 				["save"] = true,
-				["name"] = "Spé",
-				["limit"] = "Atec-LaCroisadeécarlate",
+				["name"] = "spé",
+				["limit"] = "Chimay-LaCroisadeécarlate",
 			},
 			["sp"] = {
 				{
@@ -259,9 +269,34 @@ OneRing_Config = {
 					4, -- [2]
 					["sliceToken"] = "ABuekKq6o=i",
 				}, -- [4]
-				["limit"] = "Kotlin-LaCroisadeécarlate",
 				["save"] = true,
 				["name"] = "spé",
+				["limit"] = "Kotlin-LaCroisadeécarlate",
+			},
+			["Jouet"] = {
+				["save"] = true,
+				["limit"] = "Atec-LaCroisadeécarlate",
+				["name"] = "Jouet",
+			},
+			["Sp"] = {
+				{
+					"specset", -- [1]
+					2, -- [2]
+					["sliceToken"] = "ABuekH4Z7arP",
+				}, -- [1]
+				{
+					"specset", -- [1]
+					1, -- [2]
+					["sliceToken"] = "ABuekH4Z7arO",
+				}, -- [2]
+				{
+					"specset", -- [1]
+					3, -- [2]
+					["sliceToken"] = "ABuekH4Z7arI",
+				}, -- [3]
+				["save"] = true,
+				["limit"] = "Atec-LaCroisadeécarlate",
+				["name"] = "Spé",
 			},
 			["Monture"] = {
 				{
@@ -326,94 +361,104 @@ OneRing_Config = {
 				}, -- [12]
 				{
 					"mount", -- [1]
+					280, -- [2]
+					["sliceToken"] = "ABuel1KeKO1",
+				}, -- [13]
+				{
+					"mount", -- [1]
 					1364, -- [2]
 					["sliceToken"] = "ABuelqcuk3e",
-				}, -- [13]
+				}, -- [14]
 				{
 					"mount", -- [1]
 					521, -- [2]
 					["sliceToken"] = "ABuekMNN8Xf",
-				}, -- [14]
+				}, -- [15]
 				{
 					"mount", -- [1]
 					1303, -- [2]
 					["sliceToken"] = "ABuekMNN8Xd",
-				}, -- [15]
+				}, -- [16]
 				{
 					"mount", -- [1]
 					1286, -- [2]
 					["sliceToken"] = "ABuekMNN8X3",
-				}, -- [16]
+				}, -- [17]
+				{
+					"mount", -- [1]
+					1047, -- [2]
+					["sliceToken"] = "ABuel1KeKOt",
+				}, -- [18]
 				{
 					"mount", -- [1]
 					1289, -- [2]
 					["sliceToken"] = "ABuekH4Z7arR",
-				}, -- [17]
+				}, -- [19]
 				{
 					"mount", -- [1]
 					365, -- [2]
 					["sliceToken"] = "ABuekH4Z7ar7",
-				}, -- [18]
+				}, -- [20]
 				{
 					"mount", -- [1]
 					506, -- [2]
 					["sliceToken"] = "ABuekH4Z7arE",
-				}, -- [19]
+				}, -- [21]
 				{
 					"mount", -- [1]
 					504, -- [2]
 					["sliceToken"] = "ABuekH4Z7arW",
-				}, -- [20]
+				}, -- [22]
 				{
 					"mount", -- [1]
 					1008, -- [2]
 					["sliceToken"] = "ABuekH4Z7arQ",
-				}, -- [21]
+				}, -- [23]
 				{
 					"mount", -- [1]
 					463, -- [2]
 					["sliceToken"] = "ABuekH4Z7arm",
-				}, -- [22]
+				}, -- [24]
 				{
 					"mount", -- [1]
 					419, -- [2]
 					["sliceToken"] = "ABuekMNN8Xs",
-				}, -- [23]
+				}, -- [25]
 				{
 					"mount", -- [1]
 					1007, -- [2]
 					["sliceToken"] = "ABuekMNN8Xa",
-				}, -- [24]
+				}, -- [26]
 				{
 					"mount", -- [1]
 					656, -- [2]
 					["sliceToken"] = "ABuekH4Z7arn",
-				}, -- [25]
+				}, -- [27]
 				{
 					"mount", -- [1]
 					456, -- [2]
 					["sliceToken"] = "ABuekH4Z7ar6",
-				}, -- [26]
+				}, -- [28]
 				{
 					"mount", -- [1]
 					1044, -- [2]
 					["sliceToken"] = "ABuekH4Z7arb",
-				}, -- [27]
+				}, -- [29]
 				{
 					"mount", -- [1]
 					1362, -- [2]
 					["sliceToken"] = "ABuekH4Z7arv",
-				}, -- [28]
+				}, -- [30]
 				{
 					"mount", -- [1]
 					284, -- [2]
 					["sliceToken"] = "ABuekH4Z7arc",
-				}, -- [29]
+				}, -- [31]
 				{
 					"mount", -- [1]
 					203, -- [2]
 					["sliceToken"] = "ABuekH4Z7awz",
-				}, -- [30]
+				}, -- [32]
 				["offset"] = 210,
 				["name"] = "Monture",
 				["save"] = true,

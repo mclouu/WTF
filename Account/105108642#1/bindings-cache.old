@@ -1,16 +1,21 @@
 bind BUTTON3 NONE
+bind UP NONE
 bind S CLICK BT4Button42:LeftButton
+bind DOWN CLICK BT4Button26:LeftButton
 bind Q STRAFELEFT
-bind LEFT NONE
+bind LEFT CLICK BT4Button28:LeftButton
 bind D STRAFERIGHT
 bind RIGHT NONE
 bind A CLICK BT4Button38:LeftButton
 bind E CLICK BT4Button39:LeftButton
+bind NUMPAD0 NONE
 bind NUMLOCK NONE
 bind BUTTON4 NONE
+bind INSERT NONE
+bind DELETE NONE
 bind NUMPADDIVIDE TOGGLEAUTORUN
 bind PAGEUP NONE
-bind PAGEDOWN NONE
+bind PAGEDOWN CLICK BT4Button27:LeftButton
 bind R CLICK BT4Button40:LeftButton
 bind 1 CLICK BT4Button25:LeftButton
 bind 2 CLICK BT4Button26:LeftButton
@@ -40,14 +45,13 @@ bind V CLICK BT4Button43:LeftButton
 bind C CLICK BT4Button37:LeftButton
 bind P TOGGLECHARACTER0
 bind NUMPADMINUS NONE
-bind END NONE
+bind END CLICK BT4Button25:LeftButton
 bind HOME NONE
 bind MOUSEWHEELUP CLICK BT4Button49:LeftButton
 bind MOUSEWHEELDOWN CLICK BT4Button51:LeftButton
 bind NUMPAD5 CLICK BT4Button17:LeftButton
 bind NUMPAD1 CLICK BT4Button13:LeftButton
 bind NUMPAD3 CLICK BT4Button15:LeftButton
-bind CTRL-MOUSEWHEELUP NONE
 bind SHIFT-MOUSEWHEELUP CAMERAZOOMIN
 bind SHIFT-MOUSEWHEELDOWN CAMERAZOOMOUT
 bind ² CLICK BT4Button64:LeftButton

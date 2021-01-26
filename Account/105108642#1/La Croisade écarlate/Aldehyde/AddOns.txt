@@ -91,7 +91,7 @@ VuhDo: disabled
 VuhDoOptions: disabled
 WeakAuras: enabled
 WeakAurasArchive: enabled
-WeakAurasCompanion: disabled
+WeakAurasCompanion: enabled
 WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
@@ -110,3 +110,4 @@ DBM-Party-Shadowlands: enabled
 DBM-DMF: enabled
 DBM-Shadowlands: enabled
 DBM-WorldEvents: enabled
+OPie_Classic: disabled

@@ -1,0 +1,6 @@
+VER 3 0100000000000003 "." "627607"
+#showtooltip
+/click [mod:alt] TotemFrameTotem1 RightButton
+/stopmacro [mod:alt]
+/cast Invocation d’une statue du Buffle noir
+END

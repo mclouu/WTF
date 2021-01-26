@@ -1,59 +1,184 @@
 
 DataStore_MailsDB = {
 	["profileKeys"] = {
-		["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
 		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
-		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
-		["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
+		["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
 		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
+		["Carlsberg - La Croisade écarlate"] = "Carlsberg - La Croisade écarlate",
+		["Aldehyde - La Croisade écarlate"] = "Aldehyde - La Croisade écarlate",
+		["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
+		["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.La Croisade écarlate.Kotlin"] = {
-				["lastUpdate"] = 1611275044,
+				["lastUpdate"] = 1611647009,
 				["Mails"] = {
 					{
-						["icon"] = 134327,
+						["lastCheck"] = 1611647009,
 						["sender"] = "Auction House",
 						["subject"] = "Vente gagnée : Jeton WoW",
 						["returned"] = true,
 						["money"] = 0,
 						["text"] = "Merci d’avoir acheté un Jeton WoW !\r\n\r\nPour convertir votre Jeton WoW, faites un clic droit sur l’objet dans votre inventaire.\r\n\r\nNous aimerions vous remercier pour votre soutien continu à World of Warcraft. Bonne chance dans vos prochaines aventures !",
-						["lastCheck"] = 1611275044,
-						["daysLeft"] = 18.89550971984863,
+						["icon"] = 134327,
+						["daysLeft"] = 14.59024333953857,
 					}, -- [1]
+					{
+						["returned"] = false,
+						["sender"] = "Hôtel des ventes",
+						["itemID"] = 118061,
+						["link"] = "|cffffffff|Hitem:118061::::::::60:102:::::::|h[Glyphe du soleil]|h|r",
+						["count"] = 1,
+						["lastCheck"] = 1611647009,
+						["icon"] = 254299,
+						["daysLeft"] = 28.24202537536621,
+					}, -- [2]
 				},
-				["lastVisitDate"] = "2021/01/22 01:24",
+				["lastVisitDate"] = "2021/01/26 08:43",
+			},
+			["Default.La Croisade écarlate.Aldehyde"] = {
+				["lastUpdate"] = 1611417908,
+				["lastVisitDate"] = "2021/01/23 17:05",
 			},
 			["Default.La Croisade écarlate.Jy"] = {
 				["lastUpdate"] = 1610780094,
 				["lastVisitDate"] = "2021/01/16 07:54",
 			},
 			["Default.La Croisade écarlate.Atec"] = {
-				["lastUpdate"] = 1611112899,
+				["lastUpdate"] = 1611462122,
 				["Mails"] = {
 					{
-						["returned"] = false,
-						["sender"] = "Le maître de poste",
-						["itemID"] = 180062,
-						["link"] = "|cff0070dd|Hitem:180062::::::::60:270::::1:28:1322:::|h[Tambour céleste]|h|r",
-						["lastCheck"] = 1611112899,
-						["count"] = 1,
-						["icon"] = 3528453,
-						["daysLeft"] = 25.99339103698731,
-					}, -- [1]
-					{
-						["lastCheck"] = 1611112899,
+						["lastCheck"] = 1611462122,
 						["sender"] = "Le maître de poste",
 						["subject"] = "Objet trouvé",
 						["returned"] = false,
 						["money"] = 0,
 						["text"] = "Nous avons trouvé un objet perdu en fouillant le Néant distordu, et nous avons constaté qu'il vous appartenait.\n\nVous le trouverez attaché au présent courrier.",
 						["icon"] = 134327,
-						["daysLeft"] = 25.99339103698731,
+						["daysLeft"] = 21.95151710510254,
+					}, -- [1]
+					{
+						["returned"] = false,
+						["sender"] = "Le maître de poste",
+						["itemID"] = 180062,
+						["link"] = "|cff0070dd|Hitem:180062::::::::60:270::::1:28:1322:::|h[Tambour céleste]|h|r",
+						["lastCheck"] = 1611462122,
+						["count"] = 1,
+						["icon"] = 3528453,
+						["daysLeft"] = 21.95151710510254,
 					}, -- [2]
+					{
+						["returned"] = false,
+						["sender"] = "Hôtel des ventes",
+						["itemID"] = 152576,
+						["link"] = "|cffffffff|Hitem:152576::::::::60:270:::::::|h[Lin battu par les marées]|h|r",
+						["lastCheck"] = 1611462122,
+						["count"] = 9,
+						["icon"] = 2067081,
+						["daysLeft"] = 29.50786972045898,
+					}, -- [3]
+					{
+						["returned"] = false,
+						["sender"] = "Hôtel des ventes",
+						["itemID"] = 172231,
+						["link"] = "|cff0070dd|Hitem:172231::::::::60:270:::::::|h[Éclat sacré]|h|r",
+						["lastCheck"] = 1611462122,
+						["count"] = 39,
+						["icon"] = 3528446,
+						["daysLeft"] = 29.50815963745117,
+					}, -- [4]
+					{
+						["returned"] = false,
+						["sender"] = "Hôtel des ventes",
+						["itemID"] = 152876,
+						["link"] = "|cff0070dd|Hitem:152876::::::::60:270:::::::|h[Éclat ombreux]|h|r",
+						["lastCheck"] = 1611462122,
+						["count"] = 1,
+						["icon"] = 2060146,
+						["daysLeft"] = 29.50821685791016,
+					}, -- [5]
+					{
+						["returned"] = false,
+						["sender"] = "Hôtel des ventes",
+						["itemID"] = 10940,
+						["link"] = "|cffffffff|Hitem:10940::::::::60:270:::::::|h[Poussière étrange]|h|r",
+						["lastCheck"] = 1611462122,
+						["count"] = 2,
+						["icon"] = 132858,
+						["daysLeft"] = 29.50833320617676,
+					}, -- [6]
+					{
+						["returned"] = false,
+						["sender"] = "Hôtel des ventes",
+						["itemID"] = 156930,
+						["link"] = "|cffffffff|Hitem:156930::::::::60:270:::::::|h[Poudre d’illusion riche]|h|r",
+						["lastCheck"] = 1611462122,
+						["count"] = 5,
+						["icon"] = 132856,
+						["daysLeft"] = 29.50833320617676,
+					}, -- [7]
+					{
+						["returned"] = false,
+						["sender"] = "Hôtel des ventes",
+						["itemID"] = 14344,
+						["link"] = "|cff0070dd|Hitem:14344::::::::60:270:::::::|h[Grand éclat brillant]|h|r",
+						["lastCheck"] = 1611462122,
+						["count"] = 3,
+						["icon"] = 132873,
+						["daysLeft"] = 29.50839042663574,
+					}, -- [8]
+					{
+						["returned"] = false,
+						["sender"] = "Hôtel des ventes",
+						["itemID"] = 16203,
+						["link"] = "|cff1eff00|Hitem:16203::::::::60:270:::::::|h[Essence éternelle supérieure]|h|r",
+						["lastCheck"] = 1611462122,
+						["count"] = 10,
+						["icon"] = 132864,
+						["daysLeft"] = 29.50839042663574,
+					}, -- [9]
+					{
+						["returned"] = false,
+						["sender"] = "Hôtel des ventes",
+						["itemID"] = 168589,
+						["link"] = "|cffffffff|Hitem:168589::::::::60:270:::::::|h[Courgineuse]|h|r",
+						["lastCheck"] = 1611462122,
+						["count"] = 16,
+						["icon"] = 3480675,
+						["daysLeft"] = 29.50862312316895,
+					}, -- [10]
+					{
+						["returned"] = false,
+						["sender"] = "Hôtel des ventes",
+						["itemID"] = 168586,
+						["link"] = "|cffffffff|Hitem:168586::::::::60:270:::::::|h[Belle-de-l’aube]|h|r",
+						["lastCheck"] = 1611462122,
+						["count"] = 27,
+						["icon"] = 3613630,
+						["daysLeft"] = 29.50862312316895,
+					}, -- [11]
+					{
+						["returned"] = false,
+						["sender"] = "Hôtel des ventes",
+						["itemID"] = 172052,
+						["link"] = "|cffffffff|Hitem:172052::::::::60:270:::::::|h[Viande éthérienne]|h|r",
+						["lastCheck"] = 1611462122,
+						["count"] = 12,
+						["icon"] = 3671885,
+						["daysLeft"] = 29.50873756408691,
+					}, -- [12]
 				},
-				["lastVisitDate"] = "2021/01/20 04:21",
+				["lastVisitDate"] = "2021/01/24 05:22",
+			},
+			["Default.La Croisade écarlate.Carlsberg"] = {
+				["lastUpdate"] = 1611462690,
+				["lastVisitDate"] = "2021/01/24 05:31",
+			},
+			["Default.La Croisade écarlate.Chimay"] = {
+				["lastUpdate"] = 1611460654,
+				["lastVisitDate"] = "2021/01/24 04:57",
 			},
 		},
 	},

@@ -74,7 +74,7 @@ PlayedTimeMinimapClock: enabled
 Postal: enabled
 Prat-3.0: enabled
 Prat-3.0_Libraries: enabled
-PrettyReps: disabled
+PrettyReps: enabled
 RaiderIO: enabled
 RaiderIO_DB_EU_A_R: enabled
 RaiderIO_DB_EU_H_R: enabled
@@ -87,8 +87,8 @@ ShadowedUnitFrames: enabled
 SoulbindsTalents: enabled
 TalentSetManager: enabled
 TomTom: enabled
-VuhDo: disabled
-VuhDoOptions: disabled
+VuhDo: enabled
+VuhDoOptions: enabled
 WeakAuras: enabled
 WeakAurasArchive: enabled
 WeakAurasCompanion: enabled

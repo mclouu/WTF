@@ -4,22 +4,28 @@ BWQDB = {
 		["Jy - La Croisade écarlate"] = {
 			["activeProfile"] = 0,
 		},
-		["Kotlin - La Croisade écarlate"] = {
+		["Nylaria - La Croisade écarlate"] = {
 			["activeProfile"] = 0,
 		},
 		["Atec - La Croisade écarlate"] = {
 			["activeProfile"] = 0,
 		},
-		["Nylaria - La Croisade écarlate"] = {
+		["Chimay - La Croisade écarlate"] = {
 			["activeProfile"] = 0,
 		},
-		["Chimay - La Croisade écarlate"] = {
+		["Coven - La Croisade écarlate"] = {
+			["activeProfile"] = 0,
+		},
+		["Carlsberg - La Croisade écarlate"] = {
+			["activeProfile"] = 0,
+		},
+		["Aldehyde - La Croisade écarlate"] = {
 			["activeProfile"] = 0,
 		},
 		["Kotlin - Ysondre"] = {
 			["activeProfile"] = 0,
 		},
-		["Coven - La Croisade écarlate"] = {
+		["Kotlin - La Croisade écarlate"] = {
 			["activeProfile"] = 0,
 		},
 	},
@@ -27,20 +33,20 @@ BWQDB = {
 		["versionCheck"] = "9.0.06.2",
 		["profiles"] = {
 			[0] = {
-				["name"] = "Défaut",
 				["colors"] = {
 				},
+				["name"] = "Défaut",
 				["list"] = {
-				},
-				["external"] = {
-					["TomTom"] = {
-					},
-				},
-				["pin"] = {
 				},
 				["general"] = {
 					["showDisliked"] = false,
 					["sortBy"] = 6,
+				},
+				["pin"] = {
+				},
+				["external"] = {
+					["TomTom"] = {
+					},
 				},
 				["filters"] = {
 					{
@@ -60,11 +66,13 @@ BWQDB = {
 	},
 	["profileKeys"] = {
 		["Jy - La Croisade écarlate"] = "Default",
-		["Kotlin - La Croisade écarlate"] = "Default",
-		["Atec - La Croisade écarlate"] = "Default",
 		["Nylaria - La Croisade écarlate"] = "Default",
+		["Atec - La Croisade écarlate"] = "Default",
 		["Chimay - La Croisade écarlate"] = "Default",
-		["Kotlin - Ysondre"] = "Default",
 		["Coven - La Croisade écarlate"] = "Default",
+		["Carlsberg - La Croisade écarlate"] = "Default",
+		["Aldehyde - La Croisade écarlate"] = "Default",
+		["Kotlin - Ysondre"] = "Default",
+		["Kotlin - La Croisade écarlate"] = "Default",
 	},
 }

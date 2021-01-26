@@ -6,20 +6,20 @@ SwitchSwitchConfig = {
 	["Version"] = "1.68",
 	["debug"] = false,
 	["autoUseItems"] = true,
-	["maxTimeSuggestionFrame"] = 15,
-	["SelectedTalentsProfile"] = "custom",
 	["SuggestionFramePoint"] = {
 		["frameX"] = 0,
 		["frameY"] = 0,
 		["point"] = "CENTER",
 		["relativePoint"] = "CENTER",
 	},
+	["SelectedTalentsProfile"] = "custom",
+	["maxTimeSuggestionFrame"] = 15,
 	["autoSuggest"] = {
+		["arena"] = "",
 		["party"] = {
 			["HM"] = "",
 			["MM"] = "",
 		},
-		["arena"] = "",
 		["raid"] = "",
 		["pvp"] = "",
 	},

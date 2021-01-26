@@ -1,5 +1,16 @@
 
 EncounterDetailsDB = {
+	["emotes"] = {
+		{
+			["boss"] = "Ner’zhul",
+		}, -- [1]
+		{
+			["boss"] = "Ner’zhul",
+		}, -- [2]
+		{
+			["boss"] = "Ner’zhul",
+		}, -- [3]
+	},
 	["encounter_spells"] = {
 		[153232] = {
 			["school"] = 32,
@@ -109,15 +120,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ner’zhul",
 		},
-		[153067] = {
+		[154353] = {
 			["school"] = 32,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Nhallish",
+			["source"] = "Présage de mort",
 		},
 		[152962] = {
 			["school"] = 32,
@@ -161,13 +169,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sadana Rougefurie",
 		},
-		[165579] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Ossegueule",
-		},
 		[164686] = {
 			["school"] = 32,
 			["token"] = {
@@ -183,19 +184,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Nhallish",
 		},
-		[153089] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Sadana Rougefurie",
-		},
 		[164974] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Sadana Rougefurie",
+		},
+		[153089] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Sadana Rougefurie",
 		},
@@ -208,8 +209,8 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ame possédée",
 		},
-		[153686] = {
-			["school"] = 1,
+		[165579] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
@@ -221,6 +222,13 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Sadana Rougefurie",
+		},
+		[153686] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ossegueule",
 		},
 		[152688] = {
 			["school"] = 32,
@@ -256,23 +264,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Daggerfall",
 		},
-		[154353] = {
+		[153067] = {
 			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Présage de mort",
+			["source"] = "Nhallish",
 		},
-	},
-	["emotes"] = {
-		{
-			["boss"] = "Ner’zhul",
-		}, -- [1]
-		{
-			["boss"] = "Ner’zhul",
-		}, -- [2]
-		{
-			["boss"] = "Ner’zhul",
-		}, -- [3]
 	},
 }

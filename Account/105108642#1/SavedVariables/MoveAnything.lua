@@ -8,24 +8,6 @@ MADB = {
 	["profiles"] = {
 		["default"] = {
 			["frames"] = {
-				["CompactRaidFrameManager"] = {
-					["orgPos"] = {
-						"TOPLEFT", -- [1]
-						"UIParent", -- [2]
-						"TOPLEFT", -- [3]
-						-181.9999847412109, -- [4]
-						-140, -- [5]
-					},
-					["name"] = "CompactRaidFrameManager",
-					["hidden"] = true,
-					["pos"] = {
-						"TOPLEFT", -- [1]
-						"UIParent", -- [2]
-						"TOPLEFT", -- [3]
-						-181.9999694824219, -- [4]
-						-140.0000610351563, -- [5]
-					},
-				},
 				["MiniMapMailFrame"] = {
 					["orgPos"] = {
 						"CENTER", -- [1]
@@ -43,15 +25,21 @@ MADB = {
 						88.45156860351562, -- [5]
 					},
 				},
-				["OrderHallCommandBar"] = {
-					["hidden"] = true,
-					["name"] = "OrderHallCommandBar",
-					["pos"] = {
-						"TOPLEFT", -- [1]
+				["PlayerPowerBarAltMover"] = {
+					["orgPos"] = {
+						"BOTTOM", -- [1]
 						"UIParent", -- [2]
-						"TOPLEFT", -- [3]
+						"BOTTOM", -- [3]
 						0, -- [4]
-						0, -- [5]
+						155, -- [5]
+					},
+					["name"] = "PlayerPowerBarAltMover",
+					["pos"] = {
+						"BOTTOM", -- [1]
+						"UIParent", -- [2]
+						"BOTTOM", -- [3]
+						-7.99993896484375, -- [4]
+						654.9999389648438, -- [5]
 					},
 				},
 				["ObjectiveTrackerFrameMover"] = {
@@ -71,12 +59,58 @@ MADB = {
 						186.0001220703125, -- [5]
 					},
 				},
+				["CompactRaidFrameManager"] = {
+					["orgPos"] = {
+						"TOPLEFT", -- [1]
+						"UIParent", -- [2]
+						"TOPLEFT", -- [3]
+						-181.9999847412109, -- [4]
+						-140, -- [5]
+					},
+					["name"] = "CompactRaidFrameManager",
+					["hidden"] = true,
+					["pos"] = {
+						"TOPLEFT", -- [1]
+						"UIParent", -- [2]
+						"TOPLEFT", -- [3]
+						-181.9999694824219, -- [4]
+						-140.0000610351563, -- [5]
+					},
+				},
+				["MiniMapTracking"] = {
+					["orgPos"] = {
+						"TOPLEFT", -- [1]
+						"MinimapBackdrop", -- [2]
+						"TOPLEFT", -- [3]
+						9, -- [4]
+						-45, -- [5]
+					},
+					["name"] = "MiniMapTracking",
+					["pos"] = {
+						"TOPLEFT", -- [1]
+						"MinimapBackdrop", -- [2]
+						"TOPLEFT", -- [3]
+						6.0001220703125, -- [4]
+						-15, -- [5]
+					},
+				},
+				["OrderHallCommandBar"] = {
+					["name"] = "OrderHallCommandBar",
+					["hidden"] = true,
+					["pos"] = {
+						"TOPLEFT", -- [1]
+						"UIParent", -- [2]
+						"TOPLEFT", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+				},
 			},
 		},
 	},
-	["closeGUIOnEscape"] = false,
+	["tooltips"] = true,
 	["playSound"] = false,
 	["noBags"] = false,
 	["collapsed"] = true,
-	["tooltips"] = true,
+	["closeGUIOnEscape"] = false,
 }

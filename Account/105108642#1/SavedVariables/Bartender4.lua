@@ -3,6 +3,16 @@ Bartender4DB = {
 	["namespaces"] = {
 		["StatusTrackingBar"] = {
 			["profiles"] = {
+				["Jy - La Croisade écarlate"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+				},
 				["Nylaria - La Croisade écarlate"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -13,7 +23,27 @@ Bartender4DB = {
 						["y"] = 62,
 					},
 				},
-				["Jy - La Croisade écarlate"] = {
+				["Atec - La Croisade écarlate"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1.264999985694885,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["y"] = 62,
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+				},
+				["Coven - La Croisade écarlate"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -33,18 +63,27 @@ Bartender4DB = {
 						["scale"] = 1.264999985694885,
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Carlsberg - La Croisade écarlate"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
-						["scale"] = 1.264999985694885,
+						["y"] = 62,
 						["x"] = -515,
 						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+				},
+				["Aldehyde - La Croisade écarlate"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
 						["y"] = 62,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
 					},
 				},
 				["Clou"] = {
-					["enabled"] = true,
 					["position"] = {
 						["y"] = 3.800075764404028,
 						["x"] = 297.2999565965256,
@@ -63,31 +102,144 @@ Bartender4DB = {
 						["scale"] = 1.264999985694885,
 					},
 				},
-				["Chimay - La Croisade écarlate"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 62,
-						["x"] = -515,
-						["point"] = "BOTTOM",
-						["scale"] = 1.264999985694885,
-					},
-				},
-				["Coven - La Croisade écarlate"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1.264999985694885,
-						["x"] = -515,
-						["point"] = "BOTTOM",
-						["y"] = 62,
-					},
-				},
 			},
 		},
 		["ActionBars"] = {
 			["profiles"] = {
+				["Jy - La Croisade écarlate"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 178.4999542236328,
+								["x"] = -231.4999542236328,
+								["point"] = "BOTTOM",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
 				["Nylaria - La Croisade écarlate"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 178.4999542236328,
+								["x"] = -231.4999542236328,
+								["point"] = "BOTTOM",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Atec - La Croisade écarlate"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -153,7 +305,7 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Jy - La Croisade écarlate"] = {
+				["Chimay - La Croisade écarlate"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -174,8 +326,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -184,8 +336,75 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Coven - La Croisade écarlate"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 178.4999542236328,
+								["x"] = -231.4999542236328,
+								["point"] = "BOTTOM",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -241,8 +460,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -251,8 +470,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -287,7 +506,7 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Carlsberg - La Croisade écarlate"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -349,8 +568,76 @@ Bartender4DB = {
 						}, -- [7]
 						{
 						}, -- [8]
-						[10] = {
-						},
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Aldehyde - La Croisade écarlate"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 178.4999542236328,
+								["x"] = -231.4999542236328,
+								["point"] = "BOTTOM",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
 					},
 				},
 				["Clou"] = {
@@ -368,6 +655,8 @@ Bartender4DB = {
 								["stance"] = {
 									["DRUID"] = {
 										["prowl"] = 1,
+										["cat"] = 1,
+										["bear"] = 1,
 									},
 								},
 							},
@@ -384,13 +673,12 @@ Bartender4DB = {
 							},
 							["states"] = {
 								["enabled"] = true,
-								["default"] = 2,
 								["actionbar"] = true,
 								["possess"] = true,
 								["stance"] = {
 									["DRUID"] = {
 										["moonkin"] = 8,
-										["cat"] = 7,
+										["cat"] = 2,
 										["bear"] = 9,
 									},
 								},
@@ -450,8 +738,8 @@ Bartender4DB = {
 							["buttons"] = 4,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 57.39998834133166,
-								["x"] = 147.310044453654,
+								["y"] = 181.8999999540192,
+								["x"] = 300.5220291491569,
 								["point"] = "BOTTOM",
 								["scale"] = 0.699999988079071,
 							},
@@ -503,8 +791,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -513,8 +801,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -547,139 +835,6 @@ Bartender4DB = {
 						nil, -- [9]
 						{
 						}, -- [10]
-					},
-				},
-				["Chimay - La Croisade écarlate"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 178.4999542236328,
-								["x"] = -231.4999542236328,
-								["point"] = "BOTTOM",
-							},
-						}, -- [2]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						nil, -- [9]
-						{
-						}, -- [10]
-					},
-				},
-				["Coven - La Croisade écarlate"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 178.4999542236328,
-								["x"] = -231.4999542236328,
-								["point"] = "BOTTOM",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
 					},
 				},
 			},
@@ -693,6 +848,14 @@ Bartender4DB = {
 		},
 		["ExtraActionBar"] = {
 			["profiles"] = {
+				["Jy - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -96.50003051757812,
+						["x"] = -63.49996948242188,
+						["point"] = "CENTER",
+					},
+				},
 				["Nylaria - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
@@ -701,7 +864,23 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Jy - La Croisade écarlate"] = {
+				["Atec - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -96.50003051757812,
+						["x"] = -63.49996948242188,
+						["point"] = "CENTER",
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -96.50003051757812,
+						["x"] = -63.49996948242188,
+						["point"] = "CENTER",
+					},
+				},
+				["Coven - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -96.50003051757812,
@@ -717,7 +896,15 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Carlsberg - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -96.50003051757812,
+						["x"] = -63.49996948242188,
+						["point"] = "CENTER",
+					},
+				},
+				["Aldehyde - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -96.50003051757812,
@@ -741,26 +928,20 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Chimay - La Croisade écarlate"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -96.50003051757812,
-						["x"] = -63.49996948242188,
-						["point"] = "CENTER",
-					},
-				},
-				["Coven - La Croisade écarlate"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -96.50003051757812,
-						["x"] = -63.49996948242188,
-						["point"] = "CENTER",
-					},
-				},
 			},
 		},
 		["MicroMenu"] = {
 			["profiles"] = {
+				["Jy - La Croisade écarlate"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41.75,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
 				["Nylaria - La Croisade écarlate"] = {
 					["padding"] = -2,
 					["version"] = 3,
@@ -771,7 +952,27 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Jy - La Croisade écarlate"] = {
+				["Atec - La Croisade écarlate"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41.75,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Coven - La Croisade écarlate"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -791,14 +992,24 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Carlsberg - La Croisade écarlate"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
-						["scale"] = 1,
+						["y"] = 41.75,
 						["x"] = 37.5,
 						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Aldehyde - La Croisade écarlate"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
 						["y"] = 41.75,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
 					},
 				},
 				["Clou"] = {
@@ -822,30 +1033,18 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Chimay - La Croisade écarlate"] = {
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 41.75,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Coven - La Croisade écarlate"] = {
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["y"] = 41.75,
-					},
-				},
 			},
 		},
 		["BagBar"] = {
 			["profiles"] = {
+				["Jy - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Nylaria - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
@@ -854,7 +1053,23 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Jy - La Croisade écarlate"] = {
+				["Atec - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Coven - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -870,7 +1085,15 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Carlsberg - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Aldehyde - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -895,35 +1118,10 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Chimay - La Croisade écarlate"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Coven - La Croisade écarlate"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
 			},
 		},
 		["BlizzardArt"] = {
 			["profiles"] = {
-				["Nylaria - La Croisade écarlate"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
 				["Jy - La Croisade écarlate"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -933,7 +1131,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Kotlin - La Croisade écarlate"] = {
+				["Nylaria - La Croisade écarlate"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -951,23 +1149,6 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Clou"] = {
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
-				},
-				["Kotlin - Ysondre"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
 				["Chimay - La Croisade écarlate"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -978,6 +1159,50 @@ Bartender4DB = {
 					},
 				},
 				["Coven - La Croisade écarlate"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Kotlin - La Croisade écarlate"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Carlsberg - La Croisade écarlate"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Aldehyde - La Croisade écarlate"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Clou"] = {
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
+				},
+				["Kotlin - Ysondre"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -990,6 +1215,14 @@ Bartender4DB = {
 		},
 		["StanceBar"] = {
 			["profiles"] = {
+				["Jy - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -15,
+						["x"] = -82.49998474121094,
+						["point"] = "CENTER",
+					},
+				},
 				["Nylaria - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
@@ -998,7 +1231,24 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Jy - La Croisade écarlate"] = {
+				["Atec - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -15,
+						["x"] = -82.49998474121094,
+						["point"] = "CENTER",
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Coven - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -15,
@@ -1015,7 +1265,15 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Carlsberg - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -15,
+						["x"] = -82.49998474121094,
+						["point"] = "CENTER",
+					},
+				},
+				["Aldehyde - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -15,
@@ -1041,27 +1299,18 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Chimay - La Croisade écarlate"] = {
+			},
+		},
+		["PetBar"] = {
+			["profiles"] = {
+				["Jy - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 143,
 						["x"] = -460,
 						["point"] = "BOTTOM",
-						["scale"] = 1,
 					},
 				},
-				["Coven - La Croisade écarlate"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -15,
-						["x"] = -82.49998474121094,
-						["point"] = "CENTER",
-					},
-				},
-			},
-		},
-		["PetBar"] = {
-			["profiles"] = {
 				["Nylaria - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
@@ -1070,7 +1319,23 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Jy - La Croisade écarlate"] = {
+				["Atec - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -120,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Coven - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 143,
@@ -1086,7 +1351,15 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Carlsberg - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Aldehyde - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 143,
@@ -1111,26 +1384,18 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Chimay - La Croisade écarlate"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 143,
-						["x"] = -120,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Coven - La Croisade écarlate"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 143,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
 			},
 		},
 		["Vehicle"] = {
 			["profiles"] = {
+				["Jy - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.5,
+						["x"] = 104.5000915527344,
+						["point"] = "CENTER",
+					},
+				},
 				["Nylaria - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
@@ -1139,7 +1404,23 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Jy - La Croisade écarlate"] = {
+				["Atec - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.5,
+						["x"] = 104.5000915527344,
+						["point"] = "CENTER",
+					},
+				},
+				["Chimay - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.5,
+						["x"] = 104.5000915527344,
+						["point"] = "CENTER",
+					},
+				},
+				["Coven - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 42.5,
@@ -1155,7 +1436,15 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Atec - La Croisade écarlate"] = {
+				["Carlsberg - La Croisade écarlate"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.5,
+						["x"] = 104.5000915527344,
+						["point"] = "CENTER",
+					},
+				},
+				["Aldehyde - La Croisade écarlate"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 42.5,
@@ -1179,61 +1468,32 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Chimay - La Croisade écarlate"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.5,
-						["x"] = 104.5000915527344,
-						["point"] = "CENTER",
-					},
-				},
-				["Coven - La Croisade écarlate"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.5,
-						["x"] = 104.5000915527344,
-						["point"] = "CENTER",
-					},
-				},
 			},
 		},
 	},
 	["profileKeys"] = {
 		["Jy - La Croisade écarlate"] = "Clou",
-		["Kotlin - La Croisade écarlate"] = "Clou",
-		["Atec - La Croisade écarlate"] = "Clou",
 		["Nylaria - La Croisade écarlate"] = "Clou",
-		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+		["Atec - La Croisade écarlate"] = "Clou",
 		["Chimay - La Croisade écarlate"] = "Clou",
 		["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
+		["Carlsberg - La Croisade écarlate"] = "Carlsberg - La Croisade écarlate",
+		["Aldehyde - La Croisade écarlate"] = "Aldehyde - La Croisade écarlate",
+		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+		["Kotlin - La Croisade écarlate"] = "Clou",
 	},
 	["profiles"] = {
-		["Nylaria - La Croisade écarlate"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
-		},
 		["Jy - La Croisade écarlate"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Kotlin - La Croisade écarlate"] = {
+		["Nylaria - La Croisade écarlate"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
 		["Atec - La Croisade écarlate"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
-		},
-		["Clou"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
-		},
-		["Kotlin - Ysondre"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
@@ -1244,6 +1504,31 @@ Bartender4DB = {
 			["outofrange"] = "hotkey",
 		},
 		["Coven - La Croisade écarlate"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Kotlin - La Croisade écarlate"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Carlsberg - La Croisade écarlate"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Aldehyde - La Croisade écarlate"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Clou"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Kotlin - Ysondre"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",

@@ -3,24 +3,24 @@ SwitchSwitchTalents = {
 	["Version"] = "1.68",
 }
 SwitchSwitchConfig = {
+	["Version"] = "1.68",
 	["debug"] = false,
-	["autoSuggest"] = {
-		["party"] = {
-			["HM"] = "",
-			["MM"] = "",
-		},
-		["arena"] = "",
-		["raid"] = "",
-		["pvp"] = "",
-	},
 	["autoUseItems"] = true,
-	["maxTimeSuggestionFrame"] = 15,
-	["SelectedTalentsProfile"] = "custom",
 	["SuggestionFramePoint"] = {
 		["frameX"] = 0,
 		["frameY"] = 0,
 		["point"] = "CENTER",
 		["relativePoint"] = "CENTER",
 	},
-	["Version"] = "1.68",
+	["SelectedTalentsProfile"] = "pve multi",
+	["maxTimeSuggestionFrame"] = 15,
+	["autoSuggest"] = {
+		["arena"] = "",
+		["party"] = {
+			["HM"] = "",
+			["MM"] = "",
+		},
+		["raid"] = "",
+		["pvp"] = "",
+	},
 }

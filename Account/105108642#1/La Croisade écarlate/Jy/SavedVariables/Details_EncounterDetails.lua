@@ -1,16 +1,5 @@
 
 EncounterDetailsDB = {
-	["emotes"] = {
-		{
-			["boss"] = "Ner’zhul",
-		}, -- [1]
-		{
-			["boss"] = "Ner’zhul",
-		}, -- [2]
-		{
-			["boss"] = "Ner’zhul",
-		}, -- [3]
-	},
 	["encounter_spells"] = {
 		[153232] = {
 			["school"] = 32,
@@ -120,12 +109,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ner’zhul",
 		},
-		[154353] = {
+		[153067] = {
 			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Présage de mort",
+			["source"] = "Nhallish",
 		},
 		[152962] = {
 			["school"] = 32,
@@ -200,6 +192,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sadana Rougefurie",
 		},
+		[165579] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ossegueule",
+		},
 		[152979] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
@@ -209,8 +208,8 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ame possédée",
 		},
-		[165579] = {
-			["school"] = 32,
+		[153686] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
@@ -222,13 +221,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Sadana Rougefurie",
-		},
-		[153686] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Ossegueule",
 		},
 		[152688] = {
 			["school"] = 32,
@@ -264,15 +256,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Daggerfall",
 		},
-		[153067] = {
+		[154353] = {
 			["school"] = 32,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Nhallish",
+			["source"] = "Présage de mort",
 		},
+	},
+	["emotes"] = {
+		{
+			["boss"] = "Ner’zhul",
+		}, -- [1]
+		{
+			["boss"] = "Ner’zhul",
+		}, -- [2]
+		{
+			["boss"] = "Ner’zhul",
+		}, -- [3]
 	},
 }

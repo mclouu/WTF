@@ -2,18 +2,20 @@
 BetterWardrobe_Options = {
 	["profileKeys"] = {
 		["Jy - La Croisade écarlate"] = "Default",
-		["Kotlin - La Croisade écarlate"] = "Default",
-		["Atec - La Croisade écarlate"] = "Default",
 		["Nylaria - La Croisade écarlate"] = "Default",
-		["Kotlin - Ysondre"] = "Default",
+		["Atec - La Croisade écarlate"] = "Default",
 		["Chimay - La Croisade écarlate"] = "Default",
 		["Coven - La Croisade écarlate"] = "Default",
+		["Carlsberg - La Croisade écarlate"] = "Default",
+		["Aldehyde - La Croisade écarlate"] = "Default",
+		["Kotlin - Ysondre"] = "Default",
+		["Kotlin - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["PartialLimit"] = 2,
-			["ShowSetTooltips"] = false,
 			["ShowExtraSetsTooltips"] = false,
+			["ShowSetTooltips"] = false,
 			["ShowDetailedListTooltips"] = false,
 			["ShowMissingDetailedListTooltips"] = false,
 		},
@@ -24,38 +26,31 @@ BetterWardrobe_Options = {
 BetterWardrobe_CharacterData = {
 	["profileKeys"] = {
 		["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
-		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
-		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
-		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 		["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
 		["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
+		["Carlsberg - La Croisade écarlate"] = "Carlsberg - La Croisade écarlate",
+		["Aldehyde - La Croisade écarlate"] = "Aldehyde - La Croisade écarlate",
+		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 	},
 }
 BetterWardrobe_SavedSetData = {
-	["profileKeys"] = {
-		["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
-		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
-		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
-		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
-		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
-		["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
-		["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
-	},
 	["global"] = {
 		["sets"] = {
 			["Jy - La Croisade écarlate"] = {
 				{
-					["name"] = "heal",
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 351061,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 100,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						25070, -- [1]
 						0, -- [2]
@@ -78,23 +73,23 @@ BetterWardrobe_SavedSetData = {
 						83203, -- [19]
 					},
 					["isClass"] = true,
-					["setID"] = 5000,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
+					["setID"] = 5000,
+					["uiOrder"] = 100,
+					["icon"] = 351061,
+					["name"] = "heal",
 				}, -- [1]
 				{
-					["name"] = "Elem",
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 650007,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 200,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						36775, -- [1]
 						0, -- [2]
@@ -117,17 +112,16 @@ BetterWardrobe_SavedSetData = {
 						83203, -- [19]
 					},
 					["isClass"] = true,
-					["setID"] = 5001,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["expansionID"] = 1,
+					["setID"] = 5001,
+					["uiOrder"] = 200,
+					["icon"] = 650007,
+					["name"] = "Elem",
 				}, -- [2]
 			},
 			["Kotlin - La Croisade écarlate"] = {
 				{
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -135,7 +129,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -157,16 +152,15 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						22002, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "horde",
 					["patchID"] = "",
 					["setID"] = 5002,
 					["uiOrder"] = 100,
 					["icon"] = 1360261,
-					["name"] = "horde",
+					["isClass"] = true,
 				}, -- [1]
 				{
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -174,7 +168,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						79651, -- [1]
 						0, -- [2]
@@ -196,16 +191,15 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "Equi",
 					["patchID"] = "",
 					["setID"] = 5005,
 					["uiOrder"] = 200,
 					["icon"] = 1339050,
-					["name"] = "Equi",
+					["isClass"] = true,
 				}, -- [2]
 				{
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -213,7 +207,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						112548, -- [1]
 						0, -- [2]
@@ -235,16 +230,15 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "sylvarden",
 					["patchID"] = "",
 					["setID"] = 5008,
 					["uiOrder"] = 300,
 					["icon"] = 3235304,
-					["name"] = "sylvarden",
+					["isClass"] = true,
 				}, -- [3]
 				{
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -252,7 +246,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						37797, -- [1]
 						0, -- [2]
@@ -274,16 +269,15 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "Bois",
 					["patchID"] = "",
 					["setID"] = 5010,
 					["uiOrder"] = 400,
 					["icon"] = 469629,
-					["name"] = "Bois",
+					["isClass"] = true,
 				}, -- [4]
 				{
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -291,7 +285,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						112380, -- [1]
 						0, -- [2]
@@ -308,21 +303,20 @@ BetterWardrobe_SavedSetData = {
 						0, -- [13]
 						0, -- [14]
 						113556, -- [15]
-						60025, -- [16]
-						107180, -- [17]
+						15196, -- [16]
+						99969, -- [17]
 						0, -- [18]
-						0, -- [19]
+						7548, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "Drust",
 					["patchID"] = "",
 					["setID"] = 5000,
 					["uiOrder"] = 500,
 					["icon"] = 461128,
-					["name"] = "Drust",
+					["isClass"] = true,
 				}, -- [5]
 				{
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -330,7 +324,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						112380, -- [1]
 						0, -- [2]
@@ -352,25 +347,65 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "Sauterelle",
 					["patchID"] = "",
 					["setID"] = 5001,
 					["uiOrder"] = 600,
 					["icon"] = 1007073,
-					["name"] = "Sauterelle",
-				}, -- [6]
-			},
-			["Atec - La Croisade écarlate"] = {
-				{
 					["isClass"] = true,
+				}, -- [6]
+				{
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1261049,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 100,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
+					["items"] = {
+					},
+					["sources"] = {
+						10690, -- [1]
+						0, -- [2]
+						77343, -- [3]
+						0, -- [4]
+						104602, -- [5]
+						89836, -- [6]
+						66535, -- [7]
+						104603, -- [8]
+						112552, -- [9]
+						59516, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						113556, -- [15]
+						0, -- [16]
+						28559, -- [17]
+						0, -- [18]
+						0, -- [19]
+					},
+					["name"] = "paysan",
+					["patchID"] = "",
+					["setID"] = 5003,
+					["uiOrder"] = 700,
+					["icon"] = 650007,
+					["isClass"] = true,
+				}, -- [7]
+			},
+			["Atec - La Croisade écarlate"] = {
+				{
 					["expansionID"] = 1,
+					["type"] = "Saved",
+					["description"] = "",
+					["label"] = "Saved Set",
+					["favorite"] = false,
+					["limitedTimeSet"] = false,
+					["collected"] = true,
+					["hiddenUtilCollected"] = false,
+					["items"] = {
+					},
 					["sources"] = {
 						46420, -- [1]
 						0, -- [2]
@@ -393,23 +428,23 @@ BetterWardrobe_SavedSetData = {
 						0, -- [19]
 					},
 					["name"] = "heal",
-					["setID"] = 5000,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["items"] = {
-					},
+					["setID"] = 5000,
+					["uiOrder"] = 100,
+					["icon"] = 1261049,
+					["isClass"] = true,
 				}, -- [1]
 				{
-					["isClass"] = true,
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 659158,
+					["favorite"] = false,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 200,
+					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						53245, -- [1]
 						0, -- [2]
@@ -432,25 +467,19 @@ BetterWardrobe_SavedSetData = {
 						0, -- [19]
 					},
 					["name"] = "tank",
-					["setID"] = 5001,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
-					["items"] = {
-					},
+					["setID"] = 5001,
+					["uiOrder"] = 200,
+					["icon"] = 659158,
+					["isClass"] = true,
 				}, -- [2]
 			},
 			["Nylaria - La Croisade écarlate"] = {
 				{
-					["isClass"] = true,
-					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1360261,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 100,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -472,24 +501,26 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "lvl 1",
-					["setID"] = 5000,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
+					["icon"] = 1360261,
+					["type"] = "Saved",
+					["set"] = "extra",
+					["setID"] = 5000,
+					["expansionID"] = 1,
+					["index"] = 1,
+					["isClass"] = true,
 					["items"] = {
 					},
+					["collected"] = true,
+					["uiOrder"] = 100,
+					["favorite"] = false,
+					["name"] = "lvl 1",
 				}, -- [1]
 				{
-					["isClass"] = true,
-					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1360261,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 200,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -511,24 +542,26 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						83203, -- [19]
 					},
-					["name"] = "+2",
-					["setID"] = 5001,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
+					["icon"] = 1360261,
+					["type"] = "Saved",
+					["set"] = "extra",
+					["setID"] = 5001,
+					["expansionID"] = 1,
+					["index"] = 2,
+					["isClass"] = true,
 					["items"] = {
 					},
+					["collected"] = true,
+					["uiOrder"] = 200,
+					["favorite"] = false,
+					["name"] = "+2",
 				}, -- [2]
 				{
-					["isClass"] = true,
-					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1360261,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 300,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -550,24 +583,26 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						20953, -- [19]
 					},
-					["name"] = "MDT",
-					["setID"] = 5002,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
+					["icon"] = 1360261,
+					["type"] = "Saved",
+					["set"] = "extra",
+					["setID"] = 5002,
+					["expansionID"] = 1,
+					["index"] = 3,
+					["isClass"] = true,
 					["items"] = {
 					},
+					["collected"] = true,
+					["uiOrder"] = 300,
+					["favorite"] = false,
+					["name"] = "MDT",
 				}, -- [3]
 				{
-					["isClass"] = true,
-					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1091552,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 400,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
 					["sources"] = {
 						81808, -- [1]
 						0, -- [2]
@@ -589,24 +624,26 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						83203, -- [19]
 					},
-					["name"] = "aa",
-					["setID"] = 5003,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
+					["icon"] = 1091552,
+					["type"] = "Saved",
+					["set"] = "extra",
+					["setID"] = 5003,
+					["expansionID"] = 1,
+					["index"] = 4,
+					["isClass"] = true,
 					["items"] = {
 					},
+					["collected"] = true,
+					["uiOrder"] = 400,
+					["favorite"] = false,
+					["name"] = "aa",
 				}, -- [4]
 				{
-					["isClass"] = true,
-					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 1091552,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 500,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
 					["sources"] = {
 						81808, -- [1]
 						0, -- [2]
@@ -628,24 +665,26 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						83203, -- [19]
 					},
-					["name"] = "feu",
-					["setID"] = 5004,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
+					["icon"] = 1091552,
+					["type"] = "Saved",
+					["set"] = "extra",
+					["setID"] = 5004,
+					["expansionID"] = 1,
+					["index"] = 5,
+					["isClass"] = true,
 					["items"] = {
 					},
+					["collected"] = true,
+					["uiOrder"] = 500,
+					["favorite"] = false,
+					["name"] = "feu",
 				}, -- [5]
 				{
-					["isClass"] = true,
-					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 132664,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 600,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -667,18 +706,26 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						83203, -- [19]
 					},
-					["name"] = "63",
-					["setID"] = 5005,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
+					["icon"] = 132664,
+					["type"] = "Saved",
+					["set"] = "extra",
+					["setID"] = 5005,
+					["expansionID"] = 1,
+					["index"] = 6,
+					["isClass"] = true,
 					["items"] = {
 					},
+					["collected"] = true,
+					["uiOrder"] = 600,
+					["favorite"] = false,
+					["name"] = "63",
 				}, -- [6]
 			},
 			["Chimay - La Croisade écarlate"] = {
 				{
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -686,8 +733,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						65967, -- [1]
 						0, -- [2]
@@ -709,15 +755,16 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "SW",
+					["isClass"] = true,
 					["patchID"] = "",
 					["setID"] = 5000,
 					["uiOrder"] = 100,
 					["icon"] = 133070,
-					["isClass"] = true,
+					["name"] = "SW",
 				}, -- [1]
 				{
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -725,8 +772,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						15570, -- [1]
 						0, -- [2]
@@ -748,15 +794,16 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						21998, -- [19]
 					},
-					["name"] = "<3",
+					["isClass"] = true,
 					["patchID"] = "",
 					["setID"] = 5002,
 					["uiOrder"] = 200,
 					["icon"] = 133192,
-					["isClass"] = true,
+					["name"] = "<3",
 				}, -- [2]
 				{
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -764,8 +811,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						15570, -- [1]
 						0, -- [2]
@@ -787,15 +833,16 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						83203, -- [19]
 					},
-					["name"] = "T2",
+					["isClass"] = true,
 					["patchID"] = "",
 					["setID"] = 5003,
 					["uiOrder"] = 300,
 					["icon"] = 133192,
-					["isClass"] = true,
+					["name"] = "T2",
 				}, -- [3]
 				{
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -803,8 +850,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						96832, -- [1]
 						0, -- [2]
@@ -826,25 +872,20 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "Clodo",
+					["isClass"] = true,
 					["patchID"] = "",
 					["setID"] = 5001,
 					["uiOrder"] = 400,
 					["icon"] = 1727712,
-					["isClass"] = true,
+					["name"] = "Clodo",
 				}, -- [4]
 			},
 			["Coven - La Croisade écarlate"] = {
 				{
-					["isClass"] = true,
-					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
-					["icon"] = 133076,
 					["limitedTimeSet"] = false,
-					["uiOrder"] = 100,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
 					["sources"] = {
 						33077, -- [1]
 						0, -- [2]
@@ -866,23 +907,41 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "T4",
-					["setID"] = 5000,
 					["patchID"] = "",
-					["collected"] = true,
-					["favorite"] = false,
+					["icon"] = 133076,
+					["type"] = "Saved",
+					["set"] = "extra",
+					["setID"] = 5000,
+					["expansionID"] = 1,
+					["index"] = 1,
+					["isClass"] = true,
 					["items"] = {
 					},
+					["collected"] = true,
+					["uiOrder"] = 100,
+					["favorite"] = false,
+					["name"] = "T4",
 				}, -- [1]
 			},
 		},
 	},
+	["profileKeys"] = {
+		["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
+		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
+		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
+		["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
+		["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
+		["Carlsberg - La Croisade écarlate"] = "Carlsberg - La Croisade écarlate",
+		["Aldehyde - La Croisade écarlate"] = "Aldehyde - La Croisade écarlate",
+		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+	},
 	["profiles"] = {
-		["Kotlin - La Croisade écarlate"] = {
+		["Chimay - La Croisade écarlate"] = {
 		},
 		["Jy - La Croisade écarlate"] = {
 		},
-		["Chimay - La Croisade écarlate"] = {
+		["Kotlin - La Croisade écarlate"] = {
 		},
 		["Atec - La Croisade écarlate"] = {
 		},
@@ -891,12 +950,14 @@ BetterWardrobe_SavedSetData = {
 BetterWardrobe_SubstituteItemData = {
 	["profileKeys"] = {
 		["Jy - La Croisade écarlate"] = "Default",
-		["Kotlin - La Croisade écarlate"] = "Default",
-		["Atec - La Croisade écarlate"] = "Default",
 		["Nylaria - La Croisade écarlate"] = "Default",
-		["Kotlin - Ysondre"] = "Default",
+		["Atec - La Croisade écarlate"] = "Default",
 		["Chimay - La Croisade écarlate"] = "Default",
 		["Coven - La Croisade écarlate"] = "Default",
+		["Carlsberg - La Croisade écarlate"] = "Default",
+		["Aldehyde - La Croisade écarlate"] = "Default",
+		["Kotlin - Ysondre"] = "Default",
+		["Kotlin - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -907,12 +968,14 @@ BetterWardrobe_ListData = {
 	["favoritesDB"] = {
 		["profileKeys"] = {
 			["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
-			["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
-			["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 			["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
-			["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+			["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 			["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
 			["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
+			["Carlsberg - La Croisade écarlate"] = "Carlsberg - La Croisade écarlate",
+			["Aldehyde - La Croisade écarlate"] = "Aldehyde - La Croisade écarlate",
+			["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+			["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 		},
 		["profiles"] = {
 			["Jy - La Croisade écarlate"] = {
@@ -939,40 +1002,47 @@ BetterWardrobe_ListData = {
 	["collectionListDB"] = {
 		["profileKeys"] = {
 			["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
-			["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
-			["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 			["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
-			["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+			["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 			["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
 			["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
+			["Carlsberg - La Croisade écarlate"] = "Carlsberg - La Croisade écarlate",
+			["Aldehyde - La Croisade écarlate"] = "Aldehyde - La Croisade écarlate",
+			["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+			["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 		},
 		["profiles"] = {
 			["Jy - La Croisade écarlate"] = {
 			},
-			["Kotlin - La Croisade écarlate"] = {
-			},
-			["Atec - La Croisade écarlate"] = {
-			},
 			["Nylaria - La Croisade écarlate"] = {
 			},
-			["Kotlin - Ysondre"] = {
+			["Atec - La Croisade écarlate"] = {
 			},
 			["Chimay - La Croisade écarlate"] = {
 			},
 			["Coven - La Croisade écarlate"] = {
 			},
+			["Carlsberg - La Croisade écarlate"] = {
+			},
+			["Aldehyde - La Croisade écarlate"] = {
+			},
+			["Kotlin - Ysondre"] = {
+			},
+			["Kotlin - La Croisade écarlate"] = {
+			},
 		},
 	},
-	["lastUpdte"] = 1,
 	["OutfitDB"] = {
 		["profileKeys"] = {
 			["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
-			["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
-			["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 			["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
-			["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+			["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 			["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
 			["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
+			["Carlsberg - La Croisade écarlate"] = "Carlsberg - La Croisade écarlate",
+			["Aldehyde - La Croisade écarlate"] = "Aldehyde - La Croisade écarlate",
+			["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+			["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 		},
 		["char"] = {
 			["Jy - La Croisade écarlate"] = {
@@ -1000,6 +1070,7 @@ BetterWardrobe_ListData = {
 			["Chimay - La Croisade écarlate"] = {
 				["lastTransmogOutfitIDSpec"] = {
 					[3] = "0",
+					[2] = "3",
 				},
 			},
 			["Coven - La Croisade écarlate"] = {
@@ -1009,15 +1080,18 @@ BetterWardrobe_ListData = {
 			},
 		},
 	},
+	["lastUpdte"] = 1,
 	["HiddenAppearanceDB"] = {
 		["profileKeys"] = {
 			["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
-			["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
-			["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 			["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
-			["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+			["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 			["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
 			["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
+			["Carlsberg - La Croisade écarlate"] = "Carlsberg - La Croisade écarlate",
+			["Aldehyde - La Croisade écarlate"] = "Aldehyde - La Croisade écarlate",
+			["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+			["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 		},
 		["profiles"] = {
 			["Jy - La Croisade écarlate"] = {

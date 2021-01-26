@@ -2,12 +2,14 @@
 TomTomDB = {
 	["profileKeys"] = {
 		["Jy - La Croisade écarlate"] = "Default",
-		["Kotlin - La Croisade écarlate"] = "Default",
-		["Atec - La Croisade écarlate"] = "Default",
 		["Nylaria - La Croisade écarlate"] = "Default",
+		["Atec - La Croisade écarlate"] = "Default",
 		["Chimay - La Croisade écarlate"] = "Default",
-		["Kotlin - Ysondre"] = "Default",
 		["Coven - La Croisade écarlate"] = "Default",
+		["Carlsberg - La Croisade écarlate"] = "Default",
+		["Aldehyde - La Croisade écarlate"] = "Default",
+		["Kotlin - Ysondre"] = "Default",
+		["Kotlin - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -37,15 +39,31 @@ TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
 		["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
-		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
-		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
+		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
 		["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
-		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
 		["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
+		["Carlsberg - La Croisade écarlate"] = "Carlsberg - La Croisade écarlate",
+		["Aldehyde - La Croisade écarlate"] = "Aldehyde - La Croisade écarlate",
+		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
+		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 	},
 	["profiles"] = {
 		["Jy - La Croisade écarlate"] = {
+		},
+		["Nylaria - La Croisade écarlate"] = {
+		},
+		["Atec - La Croisade écarlate"] = {
+		},
+		["Chimay - La Croisade écarlate"] = {
+		},
+		["Coven - La Croisade écarlate"] = {
+		},
+		["Carlsberg - La Croisade écarlate"] = {
+		},
+		["Aldehyde - La Croisade écarlate"] = {
+		},
+		["Kotlin - Ysondre"] = {
 		},
 		["Kotlin - La Croisade écarlate"] = {
 			[913] = {
@@ -63,18 +81,10 @@ TomTomWaypointsM = {
 					["from"] = "TomTom/wm",
 					["callbacks"] = {
 						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -94,49 +104,10 @@ TomTomWaypointsM = {
 					["from"] = "TomTom/wm",
 					["callbacks"] = {
 						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["913:338593896.53963:298421794.00481:TomTom point de passage"] = {
-					913, -- [1]
-					0.3385938965396259, -- [2]
-					0.2984217940048101, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "TomTom point de passage",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "TomTom point de passage",
-					["from"] = "TomTom/wm",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["minimap"] = true,
@@ -156,18 +127,33 @@ TomTomWaypointsM = {
 					["from"] = "TomTom/wm",
 					["callbacks"] = {
 						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["913:338593896.53963:298421794.00481:TomTom point de passage"] = {
+					913, -- [1]
+					0.3385938965396259, -- [2]
+					0.2984217940048101, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "TomTom point de passage",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "TomTom point de passage",
+					["from"] = "TomTom/wm",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -187,18 +173,10 @@ TomTomWaypointsM = {
 					["from"] = "TomTom/wm",
 					["callbacks"] = {
 						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -220,34 +198,64 @@ TomTomWaypointsM = {
 					["from"] = "TomTom/wm",
 					["callbacks"] = {
 						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
 					["world"] = true,
 				},
 			},
-		},
-		["Atec - La Croisade écarlate"] = {
-		},
-		["Nylaria - La Croisade écarlate"] = {
-		},
-		["Chimay - La Croisade écarlate"] = {
-		},
-		["Kotlin - Ysondre"] = {
-		},
-		["Coven - La Croisade écarlate"] = {
+			[337] = {
+				["337:628407456.10919:344332178.15632:TomTom point de passage"] = {
+					337, -- [1]
+					0.6284074561091941, -- [2]
+					0.3443321781563218, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "TomTom point de passage",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "TomTom point de passage",
+					["from"] = "TomTom/wm",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["337:571018604.6725:262553205.38135:TomTom point de passage"] = {
+					337, -- [1]
+					0.5710186046725, -- [2]
+					0.2625532053813499, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "TomTom point de passage",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "TomTom point de passage",
+					["from"] = "TomTom/wm",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
 		},
 	},
 }

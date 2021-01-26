@@ -1,26 +1,46 @@
 
 MasterPlanAG = {
+	["IgnoreRewards"] = {
+	},
 	["La Croisade écarlate"] = {
-		["Jy"] = {
+		["Carlsberg"] = {
+			["faction"] = "Alliance",
+			["class"] = "MONK",
+		},
+		["Kotlin"] = {
+			["faction"] = "Horde",
+			["lastCacheTime"] = 1611558800,
+			["curRes"] = 2145,
+			["class"] = "DRUID",
+		},
+		["Chimay"] = {
+			["class"] = "PALADIN",
+			["faction"] = "Alliance",
+		},
+		["Aldehyde"] = {
 			["class"] = "SHAMAN",
+			["faction"] = "Alliance",
+		},
+		["Atec"] = {
+			["lastCacheTime"] = 1611462157,
+			["class"] = "MONK",
+			["curRes"] = 1139,
+			["faction"] = "Horde",
+		},
+		["Jy"] = {
 			["summary"] = {
 				["inProgress"] = {
 					[2] = 1610885585,
 				},
 			},
 			["faction"] = "Horde",
+			["class"] = "SHAMAN",
+			["curRes"] = 651,
+			["lastCacheTime"] = 1611542987,
 		},
-		["Atec"] = {
-			["class"] = "MONK",
-			["faction"] = "Horde",
-		},
-		["Kotlin"] = {
-			["faction"] = "Horde",
-			["class"] = "DRUID",
-		},
-		["Chimay"] = {
+		["Coven"] = {
 			["faction"] = "Alliance",
-			["class"] = "PALADIN",
+			["class"] = "WARLOCK",
 		},
 	},
 }

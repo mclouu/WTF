@@ -1,8 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.041,
-	["LastPlayerFullName"] = "Atec-La Croisade écarlate",
-	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
 			["ID"] = 175866,
@@ -91,7 +89,8 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:181686::::::::60:270::74:4:6652:1472:5868:6616:1:28:2060:::|h[Tome forge-tripe]|h|r",
 		}, -- [17]
 	},
-	["LastKeybindingsSet"] = 1,
+	["AutoSelectScales"] = true,
+	["LastPlayerFullName"] = "Atec-La Croisade écarlate",
 	["Artifacts"] = {
 		[128940] = {
 			["Relics"] = {
@@ -145,6 +144,7 @@ PawnOptions = {
 			["Name"] = "Sheilun, bâton des brumes",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "MONK",

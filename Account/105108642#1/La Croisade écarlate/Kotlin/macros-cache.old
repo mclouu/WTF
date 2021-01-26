@@ -7,7 +7,7 @@ VER 3 010000000000000A "berserk" "236149"
 /cast Berserker(Raciale)
 END
 VER 3 0100000000000008 "Berserker" "136060"
-#showtooltip Alignement célestz
+#showtooltip Alignement céleste
 /use 14
 /cast Alignement céleste
 /cast Berserker(Raciale)
@@ -30,6 +30,9 @@ END
 VER 3 0100000000000005 "MO" "136096"
 #showtooltip Éclat lunaire
 /cast [@mouseover,exists,harm]Éclat lunaire ;Éclat lunaire
+END
+VER 3 010000000000000C "rat" "134357"
+/tar Rezlak 
 END
 VER 3 0100000000000007 "SC" "236163"
 #showtooltip Charge sauvage

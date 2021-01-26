@@ -2,7 +2,7 @@
 PawnOptions = {
 	["LastVersion"] = 2.041,
 	["LastPlayerFullName"] = "Kotlin-La Croisade écarlate",
-	["AutoSelectScales"] = true,
+	["AutoSelectScales"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 179768,
@@ -69,10 +69,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:179350::::::::60:102::35:5:7208:6652:1501:5874:6646::::|h[Appareil quantique insondable]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 178769,
-			["Level"] = 200,
+			["ID"] = 179350,
+			["Level"] = 216,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:178769::::::::60:102::16:5:7208:41:1501:5858:6646:1:28:1279:::|h[Limon miscible à l’infini]|h|r",
+			["Link"] = "|cffa335ee|Hitem:179350::::::::60:104::35:5:7208:6652:1501:5874:6646::::|h[Appareil quantique insondable]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 183034,

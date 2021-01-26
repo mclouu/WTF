@@ -1,11 +1,14 @@
 
 DataStore_TalentsDB = {
 	["profileKeys"] = {
+		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 		["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
 		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
 		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
+		["Carlsberg - La Croisade écarlate"] = "Carlsberg - La Croisade écarlate",
+		["Aldehyde - La Croisade écarlate"] = "Aldehyde - La Croisade écarlate",
 		["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
-		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
 	},
 	["global"] = {
 		["Characters"] = {
@@ -21,10 +24,10 @@ DataStore_TalentsDB = {
 					[264] = "1|183479|184|4|Équilibre",
 					[272] = "2|183487|184|4|Gardien",
 					[257] = "0|183467|184|4|",
-					[265] = "1|183480|171|3|Farouche",
+					[265] = "1|183480|184|4|Farouche",
 					[273] = "1|183488|184|4|Restauration",
 					[258] = "0|183468|184|4|",
-					[266] = "1|183481|184|4|Farouche",
+					[266] = "1|183481|200|5|Farouche",
 					[274] = "1|183489|184|4|Restauration",
 					[259] = "0|183469|171|3|",
 					[267] = "1|183482|171|3|Farouche",
@@ -34,18 +37,21 @@ DataStore_TalentsDB = {
 					[268] = "1|183483|184|4|Farouche",
 					[276] = "1|183491|158|2|Restauration",
 					[261] = "1|183476|171|3|Équilibre",
-					[269] = "1|183484|171|3|Gardien",
+					[269] = "1|183484|184|4|Gardien",
 				},
-				["Specializations"] = {
-					6525, -- [1]
-				},
-				["lastUpdate"] = 1611283517,
 				["Class"] = "DRUID",
+				["lastUpdate"] = 1611649314,
+				["Specializations"] = {
+					5501, -- [1]
+					nil, -- [2]
+					6905, -- [3]
+					6782, -- [4]
+				},
 				["Soulbinds"] = {
 					[824] = "0|0|0|-1|Nécessite Renom 34",
 					[826] = "1|0|0|-1|",
 					[828] = "1|0|0|-1|",
-					[830] = "3|265|3|1|",
+					[830] = "3|265|4|1|",
 					[832] = "3|271|4|2|",
 					[1211] = "1|0|0|2|",
 					[836] = "3|267|3|1|",
@@ -58,52 +64,65 @@ DataStore_TalentsDB = {
 					[866] = "1|0|0|-1|",
 					[1216] = "3|0|0|-1|",
 					[870] = "3|256|3|2|",
-					[1010] = "3|257|4|0|",
+					[1010] = "3|259|3|0|",
 					[827] = "3|0|0|-1|",
 					[829] = "1|0|0|2|",
 					[831] = "1|0|0|0|",
 					[833] = "0|0|0|-1|Nécessite Renom 29",
 					[835] = "1|257|4|0|",
 					[837] = "3|0|0|-1|",
-					[994] = "3|264|4|1|",
+					[1213] = "0|0|0|2|Nécessite Renom 28",
 					[849] = "1|0|0|2|",
 					[851] = "1|0|0|0|",
-					[1209] = "3|267|3|1|",
+					[1215] = "3|254|4|2|",
 					[1212] = "0|0|0|1|Nécessite Renom 28",
-					[834] = "0|0|0|-1|Nécessite Renom 29",
+					[863] = "3|0|0|-1|",
 					[859] = "0|0|0|-1|Nécessite Renom 30",
 					[1202] = "1|0|0|-1|",
-					[863] = "3|0|0|-1|",
+					[1206] = "0|0|0|-1|Nécessite Renom 31",
 					[1210] = "3|257|4|0|",
 					[1214] = "0|0|0|0|Nécessite Renom 28",
-					[995] = "3|256|3|2|",
-					[1205] = "0|0|0|-1|Nécessite Renom 31",
-					[1207] = "0|0|0|-1|Nécessite Renom 31",
-					[1208] = "1|0|0|-1|",
-					[1204] = "3|0|0|-1|",
+					[995] = "3|271|4|2|",
 					[1203] = "3|0|0|-1|",
-					[1206] = "0|0|0|-1|Nécessite Renom 31",
+					[1204] = "3|0|0|-1|",
+					[1208] = "1|0|0|-1|",
+					[1207] = "0|0|0|-1|Nécessite Renom 31",
+					[1205] = "0|0|0|-1|Nécessite Renom 31",
+					[834] = "0|0|0|-1|Nécessite Renom 29",
 					[1009] = "1|255|3|2|",
-					[1215] = "3|254|4|2|",
-					[1213] = "0|0|0|2|Nécessite Renom 28",
+					[1209] = "3|267|3|1|",
+					[994] = "3|263|2|1|",
 				},
 				["activeSoulbindID"] = 1,
 			},
-			["Default.La Croisade écarlate.Jy"] = {
-				["Class"] = "SHAMAN",
-				["lastUpdate"] = 1610912393,
+			["Default.La Croisade écarlate.Coven"] = {
+				["Class"] = "WARLOCK",
+				["lastUpdate"] = 1611463056,
 				["Specializations"] = {
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
+					[3] = 0,
 				},
 			},
-			["Default.La Croisade écarlate.Chimay"] = {
-				["Class"] = "PALADIN",
-				["lastUpdate"] = 1610911028,
+			["Default.La Croisade écarlate.Carlsberg"] = {
+				["Class"] = "MONK",
+				["lastUpdate"] = 1611462637,
 				["Specializations"] = {
-					[3] = 10922,
+					10921, -- [1]
+				},
+			},
+			["Default.La Croisade écarlate.Aldehyde"] = {
+				["Class"] = "SHAMAN",
+				["lastUpdate"] = 1611462726,
+				["Specializations"] = {
 					[2] = 0,
+				},
+			},
+			["Default.La Croisade écarlate.Jy"] = {
+				["Class"] = "SHAMAN",
+				["lastUpdate"] = 1611650023,
+				["Specializations"] = {
+					9, -- [1]
+					1, -- [2]
+					1, -- [3]
 				},
 			},
 			["Default.La Croisade écarlate.Nylaria"] = {
@@ -120,16 +139,16 @@ DataStore_TalentsDB = {
 					[15] = "2|181373|145|1|",
 					[60] = "1|181770|145|1|",
 					[41] = "0|181624|171|3|",
-					[24] = "1|181465|171|3|Marche-vent",
 					[25] = "2|181466|145|1|",
+					[24] = "1|181465|171|3|Marche-vent",
 				},
+				["Class"] = "MONK",
+				["lastUpdate"] = 1611627042,
 				["Specializations"] = {
 					6809, -- [1]
 					5593, -- [2]
 					11695, -- [3]
 				},
-				["lastUpdate"] = 1611275557,
-				["Class"] = "MONK",
 				["Soulbinds"] = {
 					[1128] = "3|25|1|2|",
 					[1132] = "1|0|0|2|",
@@ -172,24 +191,64 @@ DataStore_TalentsDB = {
 					[1155] = "1|0|0|-1|",
 					[1163] = "1|0|0|-1|",
 					[1167] = "3|15|1|2|",
-					[1266] = "0|0|0|-1|Terminer la campagne des Nécro-seigneurs",
-					[1124] = "3|0|0|-1|",
 					[1263] = "0|0|0|2|Terminer la campagne des Nécro-seigneurs",
+					[1124] = "3|0|0|-1|",
+					[1266] = "0|0|0|-1|Terminer la campagne des Nécro-seigneurs",
 				},
 				["activeSoulbindID"] = 5,
+			},
+			["Default.La Croisade écarlate.Chimay"] = {
+				["Class"] = "PALADIN",
+				["lastUpdate"] = 1611462503,
+				["Specializations"] = {
+					[3] = 10922,
+					[2] = 14778,
+				},
 			},
 		},
 	},
 }
 DataStore_TalentsRefDB = {
 	["profileKeys"] = {
+		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 		["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
 		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
 		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
+		["Carlsberg - La Croisade écarlate"] = "Carlsberg - La Croisade écarlate",
+		["Aldehyde - La Croisade écarlate"] = "Aldehyde - La Croisade écarlate",
 		["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
-		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
 	},
 	["global"] = {
+		["WARLOCK"] = {
+			["Locale"] = "frFR",
+			["Specializations"] = {
+				[3] = {
+					["id"] = 267,
+					["talents"] = {
+						22038, -- [1]
+						22090, -- [2]
+						22040, -- [3]
+						23148, -- [4]
+						21695, -- [5]
+						23157, -- [6]
+						19280, -- [7]
+						19285, -- [8]
+						19286, -- [9]
+						22480, -- [10]
+						22043, -- [11]
+						23143, -- [12]
+						22047, -- [13]
+						19291, -- [14]
+						23465, -- [15]
+						23155, -- [16]
+						23156, -- [17]
+						19295, -- [18]
+					},
+				},
+			},
+			["Version"] = 37176,
+		},
 		["SHAMAN"] = {
 			["Locale"] = "frFR",
 			["Specializations"] = {
@@ -199,6 +258,9 @@ DataStore_TalentsRefDB = {
 						22356, -- [1]
 						22357, -- [2]
 						22358, -- [3]
+						23108, -- [4]
+						23460, -- [5]
+						23190, -- [6]
 					},
 				}, -- [1]
 				{
@@ -207,6 +269,18 @@ DataStore_TalentsRefDB = {
 						22354, -- [1]
 						22355, -- [2]
 						22353, -- [3]
+						22636, -- [4]
+						23462, -- [5]
+						23109, -- [6]
+						23165, -- [7]
+						19260, -- [8]
+						23166, -- [9]
+						23089, -- [10]
+						23090, -- [11]
+						22171, -- [12]
+						22144, -- [13]
+						22149, -- [14]
+						21966, -- [15]
 					},
 				}, -- [2]
 				{
@@ -278,6 +352,61 @@ DataStore_TalentsRefDB = {
 						21655, -- [21]
 					},
 				}, -- [1]
+				{
+					["id"] = 103,
+				}, -- [2]
+				{
+					["id"] = 104,
+					["talents"] = {
+						22419, -- [1]
+						22418, -- [2]
+						22420, -- [3]
+						19283, -- [4]
+						18570, -- [5]
+						18571, -- [6]
+						22163, -- [7]
+						22156, -- [8]
+						22159, -- [9]
+						21778, -- [10]
+						18576, -- [11]
+						18577, -- [12]
+						21709, -- [13]
+						21707, -- [14]
+						22388, -- [15]
+						22423, -- [16]
+						21713, -- [17]
+						22390, -- [18]
+						22426, -- [19]
+						22427, -- [20]
+						22425, -- [21]
+					},
+				}, -- [3]
+				{
+					["id"] = 105,
+					["talents"] = {
+						18569, -- [1]
+						18574, -- [2]
+						18572, -- [3]
+						19283, -- [4]
+						18570, -- [5]
+						18571, -- [6]
+						22366, -- [7]
+						22367, -- [8]
+						22160, -- [9]
+						21778, -- [10]
+						18576, -- [11]
+						18577, -- [12]
+						21710, -- [13]
+						21705, -- [14]
+						22421, -- [15]
+						21716, -- [16]
+						18585, -- [17]
+						22422, -- [18]
+						22403, -- [19]
+						21651, -- [20]
+						22404, -- [21]
+					},
+				}, -- [4]
 			},
 			["Version"] = 37176,
 		},

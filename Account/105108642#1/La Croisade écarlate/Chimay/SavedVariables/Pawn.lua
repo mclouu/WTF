@@ -1,6 +1,8 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.041,
+	["LastPlayerFullName"] = "Chimay-La Croisade écarlate",
+	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
 			["ID"] = 170527,
@@ -89,7 +91,7 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:163895::::::::50:70::30:2:1474:4786::::|h[Bouclier de légionnaire de la 7e]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = true,
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128823] = {
 			["Relics"] = {
@@ -134,8 +136,6 @@ PawnOptions = {
 			["Name"] = "Porte-Cendres",
 		},
 	},
-	["LastPlayerFullName"] = "Chimay-La Croisade écarlate",
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PALADIN",
