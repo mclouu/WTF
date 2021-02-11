@@ -1,0 +1,3 @@
+RUF: enabled
+ShadowedUF_Options: disabled
+ShadowedUnitFrames: disabled

@@ -1,16 +1,19 @@
+VER 3 0000000000000045 "aa" "136171"
+/focus [nodead]
+/targetlasttarget [nodead]
+END
 VER 3 000000000000004D "aa" "538569"
 /way 32 73
 /way 47 52
 /way 24 40
 /way 15 63
 END
-VER 3 0000000000000045 "aa" "136171"
-/focus [nodead]
-/targetlasttarget [nodead]
+VER 3 0000000000000050 "aaa" "132722"
+/run local count = 0 for i = 0, 10000, 1 do if _G["NamePlate"..i] ~= nil and _G["NamePlate"..i]:IsVisible() then count = count + 1 end end print(count)
 END
 VER 3 000000000000004B "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use Pierre de foyer de fief
+/use Cristal de dissipation
 END
 VER 3 0000000000000039 "clearFocus" "INV_MISC_QUESTIONMARK"
 / cast [talent: 3/2] repentance; [talent: 3/3] Lumière aveuglante

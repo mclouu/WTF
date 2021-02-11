@@ -1,26 +1,8 @@
 
-SwitchSwitchTalents = {
-	["Version"] = "1.68",
-}
 SwitchSwitchConfig = {
-	["autoSuggest"] = {
-		["party"] = {
-			["HM"] = "",
-			["MM"] = "",
-		},
-		["arena"] = "",
-		["raid"] = "",
-		["pvp"] = "",
+}
+SwitchSwitchDBPC = {
+	["profileKeys"] = {
+		["Atec - La Croisade écarlate"] = "Default",
 	},
-	["Version"] = "1.68",
-	["autoUseItems"] = true,
-	["maxTimeSuggestionFrame"] = 15,
-	["SelectedTalentsProfile"] = "custom",
-	["SuggestionFramePoint"] = {
-		["frameX"] = 0,
-		["frameY"] = 0,
-		["point"] = "CENTER",
-		["relativePoint"] = "CENTER",
-	},
-	["debug"] = false,
 }

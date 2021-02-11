@@ -1,34 +1,37 @@
 
 MasterPlanAG = {
+	["IgnoreRewards"] = {
+	},
 	["La Croisade écarlate"] = {
-		["Carlsberg"] = {
-			["class"] = "MONK",
-			["faction"] = "Alliance",
-		},
 		["Kotlin"] = {
-			["class"] = "DRUID",
-			["lastCacheTime"] = 1611558800,
-			["curRes"] = 2145,
 			["faction"] = "Horde",
-		},
-		["Chimay"] = {
-			["faction"] = "Alliance",
-			["class"] = "PALADIN",
-		},
-		["Coven"] = {
-			["class"] = "WARLOCK",
-			["faction"] = "Alliance",
+			["lastCacheTime"] = 1612721691,
+			["curRes"] = 2645,
+			["class"] = "DRUID",
 		},
 		["Jy"] = {
 			["summary"] = {
 				["inProgress"] = {
-					[2] = 1610885585,
+					[3] = 1612102836,
+					[87] = 1612102855,
 				},
 			},
 			["faction"] = "Horde",
 			["class"] = "SHAMAN",
-			["curRes"] = 651,
-			["lastCacheTime"] = 1611542987,
+			["curRes"] = 2488,
+			["lastCacheTime"] = 1612125767,
+		},
+		["Hundreth"] = {
+			["class"] = "DEATHKNIGHT",
+			["faction"] = "Alliance",
+		},
+		["Jhfjhef"] = {
+			["class"] = "WARRIOR",
+			["faction"] = "Alliance",
+		},
+		["Aldehyde"] = {
+			["class"] = "SHAMAN",
+			["faction"] = "Alliance",
 		},
 		["Atec"] = {
 			["class"] = "MONK",
@@ -36,11 +39,33 @@ MasterPlanAG = {
 			["curRes"] = 1139,
 			["faction"] = "Horde",
 		},
-		["Aldehyde"] = {
+		["Coven"] = {
 			["faction"] = "Alliance",
-			["class"] = "SHAMAN",
+			["class"] = "WARLOCK",
+		},
+		["Chimay"] = {
+			["faction"] = "Alliance",
+			["class"] = "PALADIN",
+		},
+		["Carlsberg"] = {
+			["class"] = "MONK",
+			["faction"] = "Alliance",
+		},
+		["Srpdgh"] = {
+			["faction"] = "Alliance",
+			["class"] = "DRUID",
 		},
 	},
-	["IgnoreRewards"] = {
+	["Kael'thas"] = {
+		["Îsilia"] = {
+			["faction"] = "Horde",
+			["class"] = "HUNTER",
+		},
+	},
+	["Ysondre"] = {
+		["Kotlin"] = {
+			["faction"] = "Horde",
+			["class"] = "PRIEST",
+		},
 	},
 }

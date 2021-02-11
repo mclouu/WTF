@@ -3,19 +3,8 @@ M6DB = {
 	["icRangeColor"] = "ffffff",
 	["groups"] = {
 	},
-	["icManaColor"] = "8080ff",
-	["actions"] = {
-	},
 	["profiles"] = {
 		["La Croisade écarlate"] = {
-			["Carlsberg"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-			},
 			["Kotlin"] = {
 				{
 					["slots"] = {
@@ -37,7 +26,63 @@ M6DB = {
 					},
 				}, -- [4]
 			},
-			["Chimay"] = {
+			["Jy"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				[3] = {
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				},
+			},
+			["Hundreth"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [2]
+			},
+			["Jhfjhef"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				[5] = {
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				},
+			},
+			["Aldehyde"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [2]
+			},
+			["Atec"] = {
 				{
 					["slots"] = {
 					},
@@ -71,21 +116,7 @@ M6DB = {
 					},
 				},
 			},
-			["Jy"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				[3] = {
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				},
-			},
-			["Atec"] = {
+			["Chimay"] = {
 				{
 					["slots"] = {
 					},
@@ -105,7 +136,31 @@ M6DB = {
 					},
 				}, -- [3]
 			},
-			["Aldehyde"] = {
+			["Carlsberg"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+			},
+			["Srpdgh"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				[5] = {
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				},
+			},
+		},
+		["Kael'thas"] = {
+			["Îsilia"] = {
 				{
 					["slots"] = {
 					},
@@ -120,5 +175,18 @@ M6DB = {
 				}, -- [2]
 			},
 		},
+		["Ysondre"] = {
+			["Kotlin"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+			},
+		},
 	},
+	["actions"] = {
+	},
+	["icManaColor"] = "8080ff",
 }

@@ -1,8 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.041,
-	["LastPlayerFullName"] = "Chimay-La Croisade écarlate",
-	["AutoSelectScales"] = true,
+	["LastVersion"] = 2.0411,
 	["ItemLevels"] = {
 		{
 			["ID"] = 170527,
@@ -11,13 +9,13 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 105,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::50:70::11:4:4932:4933:6316:1519::::|h[Cœur d’Azeroth]|h|r",
+			["Level"] = 106,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::51:66::11:4:4932:4933:6316:1520::::|h[Cœur d’Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 173835,
-			["Level"] = 78,
-			["Link"] = "|cff0070dd|Hitem:173835::::::::50:70::14:3:1472:4785:6259::::|h[Espauliers du léviathan malveillant]|h|r",
+			["Level"] = 83,
+			["Link"] = "|cff0070dd|Hitem:173835::::::::51:66::14:4:1472:4785:6259:4775::::|h[Espauliers du léviathan malveillant]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
@@ -91,7 +89,8 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:163895::::::::50:70::30:2:1474:4786::::|h[Bouclier de légionnaire de la 7e]|h|r",
 		}, -- [17]
 	},
-	["LastKeybindingsSet"] = 1,
+	["AutoSelectScales"] = true,
+	["LastPlayerFullName"] = "Chimay-La Croisade écarlate",
 	["Artifacts"] = {
 		[128823] = {
 			["Relics"] = {
@@ -136,6 +135,7 @@ PawnOptions = {
 			["Name"] = "Porte-Cendres",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PALADIN",

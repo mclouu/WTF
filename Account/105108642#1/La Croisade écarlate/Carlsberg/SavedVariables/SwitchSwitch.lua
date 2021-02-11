@@ -1,26 +1,13 @@
 
-SwitchSwitchTalents = {
-	["Version"] = "1.68",
-}
 SwitchSwitchConfig = {
-	["debug"] = false,
-	["autoSuggest"] = {
-		["arena"] = "",
-		["party"] = {
-			["HM"] = "",
-			["MM"] = "",
+}
+SwitchSwitchDBPC = {
+	["profileKeys"] = {
+		["Carlsberg - La Croisade écarlate"] = "Default",
+	},
+	["char"] = {
+		["Carlsberg - La Croisade écarlate"] = {
+			["Version"] = 20,
 		},
-		["raid"] = "",
-		["pvp"] = "",
 	},
-	["autoUseItems"] = true,
-	["SuggestionFramePoint"] = {
-		["frameX"] = 0,
-		["frameY"] = 0,
-		["point"] = "CENTER",
-		["relativePoint"] = "CENTER",
-	},
-	["SelectedTalentsProfile"] = "custom",
-	["maxTimeSuggestionFrame"] = 15,
-	["Version"] = "1.68",
 }

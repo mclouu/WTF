@@ -82,8 +82,8 @@ Rarity: enabled
 Rarity_Options: enabled
 SexyMap: disabled
 sfClassIconPortraits: disabled
-ShadowedUF_Options: enabled
-ShadowedUnitFrames: enabled
+ShadowedUF_Options: disabled
+ShadowedUnitFrames: disabled
 SoulbindsTalents: enabled
 TalentSetManager: enabled
 TomTom: enabled
@@ -116,3 +116,4 @@ AAP-Core: disabled
 AAP-EasternKingdoms: disabled
 AAP-Shadowlands: disabled
 Gladius: disabled
+RUF: enabled

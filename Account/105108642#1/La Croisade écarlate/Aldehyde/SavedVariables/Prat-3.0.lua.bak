@@ -16,11 +16,11 @@ Prat3CharDB = {
 			},
 			["ChatFrame9EditBox"] = {
 			},
-			["ChatFrame1EditBox"] = {
-			},
 			["ChatFrame2EditBox"] = {
 			},
 			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
 			},
 		},
 	},
@@ -205,7 +205,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 49,
+			["headIndex"] = 10,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -218,333 +218,86 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:17]|h|r |cff33ff99DataStore_Garrisons|r: Jy a 500 ressources non collectées",
-					["timestamp"] = 11073.828,
+					["message"] = "|cff979797|Hpratcopy|h[03:35:05]|h|r |cff33ff99DataStore_Garrisons|r: Kotlin a 500 ressources non collectées",
+					["timestamp"] = 2206.822,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:20]|h|r |cff33ff99Gladius|r: Bienvenue sur Gladius!",
-					["timestamp"] = 11073.828,
-					["serverTime"] = 1611417439,
+					["message"] = "|cff979797|Hpratcopy|h[03:35:05]|h|r |cff33ff99DataStore_Garrisons|r: Atec a 500 ressources non collectées",
+					["timestamp"] = 2206.822,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:20]|h|r |cff33ff99Gladius|r: First run has been detected, displaying test frame.",
-					["timestamp"] = 11073.828,
-					["serverTime"] = 1611417439,
+					["message"] = "|cff979797|Hpratcopy|h[03:35:10]|h|r Welcome to |cfff58cbaS|r|cff009cffUI|r use |CFFFE8A0E/SUI|r for Options.",
+					["timestamp"] = 2206.822,
+					["serverTime"] = 1611974109,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:20]|h|r |cff33ff99Gladius|r: Commandes slash valides sont:",
-					["timestamp"] = 11073.828,
-					["serverTime"] = 1611417439,
+					["message"] = "|cff979797|Hpratcopy|h[03:35:55]|h|r Temps de jeu total : 24 |4jour:jours;, 17 |4heure:heures;, 5 |4minute:minutes;, 11 |4seconde:secondes;",
+					["serverTime"] = 1611974154,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 2259.481,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:20]|h|r |cff33ff99Gladius|r: /gladius ui",
-					["timestamp"] = 11073.828,
-					["serverTime"] = 1611417439,
+					["message"] = "|cff979797|Hpratcopy|h[03:35:55]|h|r Temps joué à ce niveau : 0 |4jour:jours;, 12 |4heure:heures;, 46 |4minute:minutes;, 35 |4seconde:secondes;",
+					["serverTime"] = 1611974154,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 2259.481,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:20]|h|r |cff33ff99Gladius|r: /gladius test 2-5",
-					["timestamp"] = 11073.828,
-					["serverTime"] = 1611417439,
+					["message"] = "|cff979797|Hpratcopy|h[03:35:55]|h|r Temps de jeu total : 24 |4jour:jours;, 17 |4heure:heures;, 5 |4minute:minutes;, 11 |4seconde:secondes;",
+					["serverTime"] = 1611974154,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 2259.481,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [6]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:20]|h|r |cff33ff99Gladius|r: /gladius hide",
-					["timestamp"] = 11073.828,
-					["serverTime"] = 1611417439,
+					["message"] = "|cff979797|Hpratcopy|h[03:35:55]|h|r Temps joué à ce niveau : 0 |4jour:jours;, 12 |4heure:heures;, 46 |4minute:minutes;, 35 |4seconde:secondes;",
+					["serverTime"] = 1611974154,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 2259.481,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [7]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:20]|h|r |cff33ff99Gladius|r: /gladius reset",
-					["timestamp"] = 11073.828,
-					["serverTime"] = 1611417439,
+					["message"] = "|cff979797|Hpratcopy|h[03:35:55]|h|r Connexion à un serveur audio impossible pour l’instant. Veuillez réessayer plus tard.(Erreur : 16)",
+					["serverTime"] = 1611974154,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 2259.481,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [8]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:20]|h|r |cff33ff99Gladius|r: Si ce n'est pas votre première arène s'il vous plaît verrouillez ou déplacez le cadre pour éviter que cela se produise",
-					["timestamp"] = 11073.828,
-					["serverTime"] = 1611417439,
+					["message"] = "|cff979797|Hpratcopy|h[03:35:56]|h|r AAP Loaded",
+					["timestamp"] = 2259.481,
+					["serverTime"] = 1611974155,
 				}, -- [9]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:47]|h|r Temps de jeu total : 24 |4jour:jours;, 16 |4heure:heures;, 55 |4minute:minutes;, 16 |4seconde:secondes;",
-					["serverTime"] = 1611417466,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [10]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:47]|h|r Temps joué à ce niveau : 0 |4jour:jours;, 12 |4heure:heures;, 36 |4minute:minutes;, 40 |4seconde:secondes;",
-					["serverTime"] = 1611417466,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [11]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:47]|h|r Temps de jeu total : 24 |4jour:jours;, 16 |4heure:heures;, 55 |4minute:minutes;, 16 |4seconde:secondes;",
-					["serverTime"] = 1611417466,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [12]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:47]|h|r Temps joué à ce niveau : 0 |4jour:jours;, 12 |4heure:heures;, 36 |4minute:minutes;, 40 |4seconde:secondes;",
-					["serverTime"] = 1611417466,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [13]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r Gouttelette d’Y’Shaarj: 8 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [14]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T134468:15:15:0:0:64:64:4:60:4:60|tCendres d'Al'ar: 4 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [15]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r Rênes de drake azur: 6 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [16]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r Goutte tremblante sombre: 6 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [17]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T345787:15:15:0:0:64:64:4:60:4:60|tRênes d'Invincible: 4 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [18]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T656166:15:15:0:0:64:64:4:60:4:60|tRênes de serpent-nuage astral: 4 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [19]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r Expérience 12-B: 9 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [20]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r Kovok: 8 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [21]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T236234:15:15:0:0:64:64:4:60:4:60|tRênes de drake flamboyant: 4 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [22]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T132264:15:15:0:0:64:64:4:60:4:60|tRênes de destrier de la mort: 5 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [23]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T838689:15:15:0:0:64:64:4:60:4:60|tRênes de serpent-nuage de cobalt fulminant: 8 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [24]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T800879:15:15:0:0:64:64:4:60:4:60|tCouvée de Ji Kun: 10 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [25]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T461145:15:15:0:0:64:64:4:60:4:60|tRênes de drake du vent du Sud: 3 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [26]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T461145:15:15:0:0:64:64:4:60:4:60|tRênes de drake du vent du Sud: 5 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [27]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T526578:15:15:0:0:64:64:4:60:4:60|tSerres-de-Flammes d'Alysrazor: 6 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [28]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T526578:15:15:0:0:64:64:4:60:4:60|tSerres-de-Flammes d'Alysrazor: 9 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [29]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r Rênes de serpent-nuage céleste onyx: 4 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [30]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r Bombinette Boîte-Noire: 8 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [31]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r Faucon des flêches-solaire: 1 essai",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [32]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T134337:15:15:0:0:64:64:4:60:4:60|tŒuf fumant de Millagazor: 7 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [33]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T134337:15:15:0:0:64:64:4:60:4:60|tŒuf fumant de Millagazor: 10 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [34]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T236237:15:15:0:0:64:64:4:60:4:60|tRênes de grand mammouth de guerre noir: 4 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [35]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T236237:15:15:0:0:64:64:4:60:4:60|tRênes de grand mammouth de guerre noir: 5 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [36]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T133861:15:15:0:0:64:64:4:60:4:60|tTête de Mimiron: 4 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [37]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T133861:15:15:0:0:64:64:4:60:4:60|tTête de Mimiron: 6 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [38]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r Suivante de la Lieuse-de-vie: 1 essai",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [39]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r |T840540:15:15:0:0:64:64:4:60:4:60|tNavrecorne pygmée: 10 essais",
-					["r"] = 1,
-					["serverTime"] = 1611417472,
-					["timestamp"] = 11108.622,
-					["g"] = 1,
-					["b"] = 1,
-				}, -- [40]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:53]|h|r Connexion à un serveur audio impossible pour l’instant. Veuillez réessayer plus tard.(Erreur : 16)",
-					["serverTime"] = 1611417472,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 11114.559,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [41]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:54]|h|r AAP Loaded",
-					["timestamp"] = 11114.559,
-					["serverTime"] = 1611417473,
-				}, -- [42]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:57:55]|h|r |Hchannel:channel:4|h[4] |h Change de canal : |Hchannel:CHANNEL:4|h[4. rp]|h",
-					["serverTime"] = 1611417474,
+					["message"] = "|cff979797|Hpratcopy|h[03:35:56]|h|r |Hchannel:channel:4|h[4] |h Change de canal : |Hchannel:CHANNEL:4|h[4. rp]|h",
+					["serverTime"] = 1611974155,
 					["r"] = 1,
 					["extraData"] = {
 						70, -- [1]
@@ -553,100 +306,10 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 11115.895,
+					["timestamp"] = 2260.294,
 					["g"] = 0.7529412508010864,
 					["b"] = 0.7529412508010864,
-				}, -- [43]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:59:49]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Saip-CultedelaRivenoire:114:CHANNEL:2|h|cff006fdcSaip|r-|cfff0fe98Cul|r|h|cffd8d8d8]|r: |cffffd000|Htrade:Player-1127-09764DDA:25229:755|h[Joaillerie]|h|r dispo ,gratuit contre compos",
-					["serverTime"] = 1611417588,
-					["r"] = 1,
-					["extraData"] = {
-						68, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 11230.601,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [44]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:01:36]|h|r Vous êtes maintenant absent : ABS",
-					["serverTime"] = 1611417695,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 11337.095,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [45]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:02:09]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq17|k:24:116:BN_INLINE_TOAST_ALERT:0|h[|Kq17|k] (|TInterface\\ChatFrame\\UI-ChatIcon-Battlenet:14:14:0:0|tParkerLewis)|h vient de se connecter.",
-					["serverTime"] = 1611417728,
-					["r"] = 0.5098039507865906,
-					["extraData"] = {
-						54, -- [1]
-						false, -- [2]
-						9, -- [3]
-						10, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 11370.361,
-					["g"] = 0.7725490927696228,
-					["b"] = 1,
-				}, -- [46]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:02:54]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Saip-CultedelaRivenoire:117:CHANNEL:2|h|cff006fdcSaip|r-|cfff0fe98Cul|r|h|cffd8d8d8]|r: Vend |cffa335ee|Hitem:76154::::::::60:264::22::1:28:1110:::|h[Cuirasse du désespoir]|h|r",
-					["serverTime"] = 1611417773,
-					["r"] = 1,
-					["extraData"] = {
-						68, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 11414.979,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [47]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:04:22]|h|r Vous n'êtes plus absent.",
-					["serverTime"] = 1611417861,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						7, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 11502.966,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [48]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[17:04:40]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Flapatano-KirinTor:119:CHANNEL:2|h|cfffefefeFlapatano|r-|cffabf2f3Kir|r|h|cffd8d8d8]|r: La guilde \"Le Désordre mondial\" réouvre ses portes. Nous somme un groupe motivés principalement par le contenu PVE: Raids, M+, Torghast.Nous recherchons des joueurs pour monter un raid NM un soir par semaine. /w moi pour plus d'infos :)",
-					["serverTime"] = 1611417879,
-					["r"] = 1,
-					["extraData"] = {
-						68, -- [1]
-						false, -- [2]
-						4, -- [3]
-						11, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 11521.074,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [49]
+				}, -- [10]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],

@@ -1,0 +1,12 @@
+VER 3 0100000000000003 "." "627607"
+#showtooltip
+/click [mod:alt] TotemFrameTotem1 RightButton
+/stopmacro [mod:alt]
+/cast Invocation d’une statue du Buffle noir
+END
+VER 3 0100000000000009 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:Groupe:
+END
+VER 3 0100000000000008 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Carls:p:ayer-1127-0975C9DA:1:
+END

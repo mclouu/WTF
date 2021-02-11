@@ -1,20 +1,19 @@
 
 Details_StreamerDB = {
 	["characters"] = {
-		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Jhfjhef - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 		["Jy - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
-		["Kotlin - Ysondre"] = "Kotlin - La Croisade écarlate",
+		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 		["Atec - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Îsilia - Kael'thas"] = "Kotlin - La Croisade écarlate",
+		["Kotlin - Ysondre"] = "Kotlin - La Croisade écarlate",
+		["Srpdgh - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
 	},
 	["profiles"] = {
 		["Kotlin - La Croisade écarlate"] = {
-			["font_color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["use_square_mode"] = false,
 			["is_first_run"] = false,
+			["grow_direction"] = "right",
 			["arrow_color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -30,14 +29,22 @@ Details_StreamerDB = {
 				["radius"] = 160,
 				["hide"] = false,
 			},
+			["author"] = "Details! Team",
 			["arrow_anchor_x"] = 0,
+			["main_frame_locked"] = false,
 			["row_texture"] = "Details Serenity",
 			["font_size"] = 10,
-			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
 			["use_spark"] = true,
+			["square_amount"] = 5,
 			["enabled"] = true,
 			["arrow_size"] = 10,
-			["arrow_anchor_y"] = 0,
+			["row_color"] = {
+				0.1019607843137255, -- [1]
+				0.1019607843137255, -- [2]
+				0.1019607843137255, -- [3]
+				0.4000000357627869, -- [4]
+			},
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -45,17 +52,8 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2000000476837158, -- [4]
 			},
-			["author"] = "Details! Team",
+			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["row_color"] = {
-				0.1019607843137255, -- [1]
-				0.1019607843137255, -- [2]
-				0.1019607843137255, -- [3]
-				0.4000000357627869, -- [4]
-			},
-			["y"] = -107,
-			["x"] = -211.4999847412109,
-			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -67,8 +65,17 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
-			["point"] = "TOP",
-			["main_frame_strata"] = "LOW",
+			["y"] = 1.499954223632813,
+			["x"] = 92.00003814697266,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
+			["point"] = "LEFT",
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["row_height"] = 20,
 			["scale"] = 1,
 		},

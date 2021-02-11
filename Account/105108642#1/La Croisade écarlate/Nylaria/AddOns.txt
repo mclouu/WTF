@@ -112,3 +112,4 @@ DBM-Shadowlands: enabled
 DBM-WorldEvents: enabled
 OPie_Classic: disabled
 BasicMinimap_Options: enabled
+RUF: enabled

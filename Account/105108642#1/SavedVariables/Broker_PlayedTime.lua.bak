@@ -1,5 +1,6 @@
 
 BrokerPlayedTimeDB = {
+	["onlyCurrentRealm"] = false,
 	["La Croisade écarlate"] = {
 		["Horde"] = {
 			["Nylaria"] = {
@@ -9,30 +10,54 @@ BrokerPlayedTimeDB = {
 				["level"] = 46,
 			},
 			["Kotlin"] = {
-				["timePlayed"] = 3960892,
+				["timePlayed"] = 4156543,
 				["class"] = "DRUID",
 				["level"] = 60,
-				["timeUpdated"] = 1611649955,
+				["timeUpdated"] = 1612725016,
 			},
 			["Atec"] = {
-				["timePlayed"] = 2265830,
+				["timePlayed"] = 2273500,
 				["class"] = "MONK",
 				["level"] = 60,
-				["timeUpdated"] = 1611627525,
+				["timeUpdated"] = 1612241414,
 			},
 			["Jy"] = {
-				["timePlayed"] = 34199,
+				["timePlayed"] = 115112,
 				["class"] = "SHAMAN",
-				["timeUpdated"] = 1611618466,
-				["level"] = 26,
+				["timeUpdated"] = 1612210143,
+				["level"] = 46,
 			},
 		},
 		["Alliance"] = {
+			["Jhfjhef"] = {
+				["timePlayed"] = 259,
+				["class"] = "WARRIOR",
+				["level"] = 1,
+				["timeUpdated"] = 1611860615,
+			},
+			["Carlsberg"] = {
+				["timePlayed"] = 298938,
+				["class"] = "MONK",
+				["timeUpdated"] = 1612776265,
+				["level"] = 50,
+			},
+			["Chimay"] = {
+				["timePlayed"] = 903060,
+				["class"] = "PALADIN",
+				["level"] = 50,
+				["timeUpdated"] = 1612775808,
+			},
+			["Hundreth"] = {
+				["timePlayed"] = 48981,
+				["class"] = "DEATHKNIGHT",
+				["level"] = 42,
+				["timeUpdated"] = 1611973392,
+			},
 			["Aldehyde"] = {
-				["timePlayed"] = 2135064,
+				["timePlayed"] = 2135974,
 				["class"] = "SHAMAN",
 				["level"] = 43,
-				["timeUpdated"] = 1611462822,
+				["timeUpdated"] = 1611975041,
 			},
 			["Coven"] = {
 				["timePlayed"] = 4866346,
@@ -40,31 +65,34 @@ BrokerPlayedTimeDB = {
 				["level"] = 45,
 				["timeUpdated"] = 1611463065,
 			},
-			["Carlsberg"] = {
-				["timePlayed"] = 298550,
-				["class"] = "MONK",
-				["timeUpdated"] = 1611462694,
-				["level"] = 50,
-			},
-			["Chimay"] = {
-				["timePlayed"] = 897949,
-				["class"] = "PALADIN",
-				["level"] = 50,
-				["timeUpdated"] = 1611462508,
+			["Srpdgh"] = {
+				["timePlayed"] = 391,
+				["class"] = "DRUID",
+				["timeUpdated"] = 1611861127,
+				["level"] = 1,
 			},
 		},
 	},
 	["levels"] = false,
 	["factionIcons"] = false,
 	["performedLevelSquish"] = true,
-	["onlyCurrentRealm"] = false,
+	["Kael'thas"] = {
+		["Horde"] = {
+			["Îsilia"] = {
+				["timePlayed"] = 4849120,
+				["class"] = "HUNTER",
+				["level"] = 33,
+				["timeUpdated"] = 1612776558,
+			},
+		},
+	},
 	["classIcons"] = false,
 	["Ysondre"] = {
 		["Horde"] = {
 			["Kotlin"] = {
-				["timePlayed"] = 1258719,
+				["timePlayed"] = 1258815,
 				["class"] = "PRIEST",
-				["timeUpdated"] = 1609382160,
+				["timeUpdated"] = 1612776408,
 				["level"] = 45,
 			},
 		},

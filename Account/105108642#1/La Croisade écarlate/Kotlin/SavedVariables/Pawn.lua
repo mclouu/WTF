@@ -1,8 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.041,
-	["LastPlayerFullName"] = "Kotlin-La Croisade écarlate",
-	["AutoSelectScales"] = false,
+	["LastVersion"] = 2.0411,
 	["ItemLevels"] = {
 		{
 			["ID"] = 179768,
@@ -26,9 +24,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:179765:6230:::::::60:102::14:3:7201:1514:6646:1:28:807:::|h[Tunique cœur-de-chêne]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 179771,
-			["Level"] = 197,
-			["Link"] = "|cffa335ee|Hitem:179771::::::::60:102::11:3:7201:1514:6646:1:28:1707:::|h[Ceinture cœur-de-chêne]|h|r",
+			["ID"] = 183005,
+			["Level"] = 213,
+			["Link"] = "|cffa335ee|Hitem:183005::::::::60:104::5:5:7188:6652:7193:1485:6646:1:28:2060:::|h[Harnais du pugiliste insouciant]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 172318,
@@ -36,14 +34,14 @@ PawnOptions = {
 			["Link"] = "|cffff8000|Hitem:172318::::::::60:102::63:5:7107:6648:6649:6718:1522::::|h[Équilibre en toute chose]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 179766,
-			["Level"] = 197,
-			["Link"] = "|cffa335ee|Hitem:179766::::::::60:102::11:3:7201:1514:6646:1:28:1707:::|h[Housseaux cœur-de-chêne]|h|r",
+			["ID"] = 184140,
+			["Level"] = 207,
+			["Link"] = "|cffa335ee|Hitem:184140::::::::60:104::81:3:6652:1492:6646:1:28:2060:::|h[Souliers à crampons d’os]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 179772,
-			["Level"] = 197,
-			["Link"] = "|cffa335ee|Hitem:179772:6219:::::::60:102::11:3:7201:1514:6646:1:28:1707:::|h[Brassards cœur-de-chêne]|h|r",
+			["ID"] = 178934,
+			["Level"] = 213,
+			["Link"] = "|cffa335ee|Hitem:178934::::::::60:104::35:6:7206:6652:7194:1501:5871:6646::::|h[Liens serrés à pointes venimeuses]|h|r",
 		}, -- [9]
 		{
 			["ID"] = 178757,
@@ -75,15 +73,14 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:179350::::::::60:104::35:5:7208:6652:1501:5874:6646::::|h[Appareil quantique insondable]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 183034,
-			["Level"] = 200,
-			["Link"] = "|cffa335ee|Hitem:183034::::::::60:102::3:4:7189:6652:1472:6646::::|h[Capuchon d’aile de chauve-souris]|h|r",
+			["ID"] = 178755,
+			["Level"] = 216,
+			["Link"] = "|cffa335ee|Hitem:178755::::::::60:102::35:5:7207:6652:1501:5874:6646::::|h[Cape de margrave chancreuse]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 179557,
-			["Level"] = 187,
-			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:179557::::::::60:102::4:4:7186:6652:1485:6646:1:28:807:::|h[Sceptre en chêne du baron]|h|r",
+			["ID"] = 180097,
+			["Level"] = 210,
+			["Link"] = "|cffa335ee|Hitem:180097::::::::60:104::35:5:7204:6652:1501:5868:6646::::|h[Bâton de combat d’éthique discordante]|h|r",
 		}, -- [16]
 		{
 			["ID"] = 179569,
@@ -91,7 +88,27 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:179569::::::::60:102::14:3:7131:1472:6646:1:28:807:::|h[Lyre du gladiateur impénitent]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = false,
+	["LastPlayerFullName"] = "Kotlin-La Croisade écarlate",
 	["LastKeybindingsSet"] = 1,
+	["Artifacts"] = {
+		[128821] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 16,
+					["Type"] = "Fire",
+				}, -- [1]
+				{
+					["ItemLevel"] = 16,
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["Type"] = "Life",
+				}, -- [3]
+			},
+			["Name"] = "Griffes d’Ursoc",
+		},
+	},
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DRUID",

@@ -1,26 +1,13 @@
 
-SwitchSwitchTalents = {
-	["Version"] = "1.68",
-}
 SwitchSwitchConfig = {
-	["debug"] = false,
-	["autoSuggest"] = {
-		["party"] = {
-			["HM"] = "",
-			["MM"] = "",
+}
+SwitchSwitchDBPC = {
+	["profileKeys"] = {
+		["Jy - La Croisade écarlate"] = "Default",
+	},
+	["char"] = {
+		["Jy - La Croisade écarlate"] = {
+			["Version"] = 20,
 		},
-		["arena"] = "",
-		["raid"] = "",
-		["pvp"] = "",
 	},
-	["autoUseItems"] = true,
-	["maxTimeSuggestionFrame"] = 15,
-	["SelectedTalentsProfile"] = "custom",
-	["SuggestionFramePoint"] = {
-		["frameX"] = 0,
-		["frameY"] = 0,
-		["point"] = "CENTER",
-		["relativePoint"] = "CENTER",
-	},
-	["Version"] = "1.68",
 }

@@ -1,7 +1,6 @@
 bind BUTTON3 NONE
 bind UP NONE
 bind S CLICK BT4Button42:LeftButton
-bind DOWN CLICK BT4Button26:LeftButton
 bind Q STRAFELEFT
 bind LEFT CLICK BT4Button28:LeftButton
 bind D STRAFERIGHT
@@ -45,6 +44,7 @@ bind V CLICK BT4Button43:LeftButton
 bind C CLICK BT4Button37:LeftButton
 bind P TOGGLECHARACTER0
 bind NUMPADMINUS NONE
+bind CTRL-M MDTTOGGLE
 bind END CLICK BT4Button25:LeftButton
 bind HOME NONE
 bind MOUSEWHEELUP CLICK BT4Button49:LeftButton

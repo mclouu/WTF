@@ -4,3 +4,9 @@ VER 3 0100000000000003 "." "627607"
 /stopmacro [mod:alt]
 /cast Invocation d’une statue du Buffle noir
 END
+VER 3 010000000000000B "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:Groupe:
+END
+VER 3 010000000000000A "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Carls:p:ayer-1127-0975C9DA:1:
+END

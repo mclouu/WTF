@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.041,
+	["LastVersion"] = 2.0411,
 	["LastPlayerFullName"] = "Carlsberg-La Croisade écarlate",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {

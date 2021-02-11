@@ -1,15 +1,19 @@
 
 BasicMinimapSV = {
 	["profileKeys"] = {
+		["Jhfjhef - La Croisade écarlate"] = "Default",
 		["Jy - La Croisade écarlate"] = "Clou",
 		["Nylaria - La Croisade écarlate"] = "Clou",
 		["Atec - La Croisade écarlate"] = "Clou",
+		["Hundreth - La Croisade écarlate"] = "Default",
 		["Chimay - La Croisade écarlate"] = "Clou",
 		["Coven - La Croisade écarlate"] = "Default",
-		["Carlsberg - La Croisade écarlate"] = "Default",
-		["Aldehyde - La Croisade écarlate"] = "Default",
-		["Kotlin - Ysondre"] = "Default",
+		["Carlsberg - La Croisade écarlate"] = "Clou",
 		["Kotlin - La Croisade écarlate"] = "Clou",
+		["Îsilia - Kael'thas"] = "Clou",
+		["Aldehyde - La Croisade écarlate"] = "Clou",
+		["Kotlin - Ysondre"] = "Default",
+		["Srpdgh - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -28,47 +32,47 @@ BasicMinimapSV = {
 			["hideAddons"] = false,
 			["zoneTextConfig"] = {
 				["colorArena"] = {
-					0, -- [1]
-					0.4392147064208984, -- [2]
-					0.8666647672653198, -- [3]
+					0.9999977946281433, -- [1]
+					0.4862734377384186, -- [2]
+					0.03921560198068619, -- [3]
 				},
 				["colorFriendly"] = {
-					0, -- [1]
-					0.4392147064208984, -- [2]
-					0.8666647672653198, -- [3]
+					0.9999977946281433, -- [1]
+					0.4862734377384186, -- [2]
+					0.03921560198068619, -- [3]
 				},
-				["colorSanctuary"] = {
-					0, -- [1]
-					0.4392147064208984, -- [2]
-					0.8666647672653198, -- [3]
+				["colorNormal"] = {
+					0.9999977946281433, -- [1]
+					0.4862734377384186, -- [2]
+					0.03921560198068619, -- [3]
 				},
 				["colorHostile"] = {
-					0, -- [1]
-					0.4392147064208984, -- [2]
-					0.8666647672653198, -- [3]
+					0.9999977946281433, -- [1]
+					0.4862734377384186, -- [2]
+					0.03921560198068619, -- [3]
 				},
 				["classcolor"] = true,
 				["colorContested"] = {
-					0, -- [1]
-					0.4392147064208984, -- [2]
-					0.8666647672653198, -- [3]
+					0.9999977946281433, -- [1]
+					0.4862734377384186, -- [2]
+					0.03921560198068619, -- [3]
 				},
-				["colorNormal"] = {
-					0, -- [1]
-					0.4392147064208984, -- [2]
-					0.8666647672653198, -- [3]
+				["colorSanctuary"] = {
+					0.9999977946281433, -- [1]
+					0.4862734377384186, -- [2]
+					0.03921560198068619, -- [3]
 				},
 			},
 			["lock"] = true,
-			["classcolor"] = true,
+			["trackingBtn"] = "Button4",
 			["coordPrecision"] = "%.1f, %.1f",
 			["size"] = 155,
 			["radius"] = 7,
-			["trackingBtn"] = "Button4",
+			["classcolor"] = true,
 			["colorBorder"] = {
-				nil, -- [1]
-				0.4392147064208984, -- [2]
-				0.8666647672653198, -- [3]
+				0.9999977946281433, -- [1]
+				0.4862734377384186, -- [2]
+				0.03921560198068619, -- [3]
 			},
 			["position"] = {
 				"TOPRIGHT", -- [1]

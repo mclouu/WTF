@@ -4,6 +4,12 @@ END
 VER 3 0100000000000005 "dd" "237385"
 /cast Emblème du gladiateur menaçant
 END
+VER 3 010000000000000B "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:soi-même:
+END
+VER 3 010000000000000A "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Chima:p:ayer-1127-0974CDF7:1:
+END
 VER 3 0100000000000003 "on medz" "135968"
 #showtooltip Bénédiction de liberté
 /cast [@player] Bénédiction de liberté

@@ -1,15 +1,20 @@
 
 OneRing_Config = {
 	["CharProfiles"] = {
-		["La Croisade écarlate-Chimay-3"] = "Clou",
-		["La Croisade écarlate-Atec-3"] = "Clou",
-		["La Croisade écarlate-Kotlin"] = "Clou",
 		["La Croisade écarlate-Jy"] = "Clou",
+		["La Croisade écarlate-Chimay-3"] = "Clou",
+		["La Croisade écarlate-Kotlin"] = "Clou",
+		["La Croisade écarlate-Atec-3"] = "Clou",
 	},
 	["_GameVersion"] = "9.0.2",
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
+			},
+			["RingAtMouse"] = true,
+			["RingScale"] = 0.6000000238418579,
 			["Bindings"] = {
 				["SpecMenu"] = "CTRL-NUMPAD2",
 				["Jouet"] = "CTRL-NUMPAD5",
@@ -17,18 +22,9 @@ OneRing_Config = {
 				["Pet"] = "CTRL-NUMPAD3",
 				["Monture"] = "CTRL-NUMPAD1",
 			},
-			["RingAtMouse"] = true,
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
-			},
-			["RingScale"] = 0.6000000238418579,
 		},
 		["Clou"] = {
 			["RingAtMouse"] = true,
-			["RingScale"] = 0.6000000238418579,
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
-			},
 			["Bindings"] = {
 				["Sp1"] = "CTRL-NUMPAD4",
 				["SpecMenu"] = "CTRL-NUMPAD2",
@@ -41,6 +37,10 @@ OneRing_Config = {
 				["sp"] = "CTRL-NUMPAD4",
 				["Sp"] = "CTRL-NUMPAD4",
 				["Monture"] = "CTRL-NUMPAD1",
+			},
+			["RingScale"] = 0.6000000238418579,
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
 			},
 		},
 	},
@@ -74,14 +74,14 @@ OneRing_Config = {
 					1, -- [2]
 					["sliceToken"] = "ABuelwYLsZh",
 				}, -- [4]
-				["limit"] = "Jy-LaCroisadeécarlate",
 				["save"] = true,
+				["limit"] = "Jy-LaCroisadeécarlate",
 				["name"] = "Spé",
 			},
 			["SpecMenu"] = {
 				{
-					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
 					["sliceToken"] = "OPCTAc",
+					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
 				}, -- [1]
 				{
 					"item", -- [1]
@@ -269,8 +269,8 @@ OneRing_Config = {
 					4, -- [2]
 					["sliceToken"] = "ABuekKq6o=i",
 				}, -- [4]
-				["save"] = true,
 				["name"] = "spé",
+				["save"] = true,
 				["limit"] = "Kotlin-LaCroisadeécarlate",
 			},
 			["Jouet"] = {

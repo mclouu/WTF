@@ -26,22 +26,15 @@ RematchSettings = {
 	},
 	["QueueSortOrder"] = 1,
 	["XPos"] = 398,
+	["JournalPanel"] = 2,
+	["PetCardYPos"] = 560,
 	["FavoriteFilters"] = {
 	},
-	["PetCardYPos"] = 400.9999694824219,
-	["LevelingQueue"] = {
-		"BattlePet-0-000008500093", -- [1]
-		"BattlePet-0-000008DF1491", -- [2]
-		"BattlePet-0-00000850008D", -- [3]
-		"BattlePet-0-00000DA669C1", -- [4]
-		"BattlePet-0-000009F4785E", -- [5]
-		"BattlePet-0-00000DA76813", -- [6]
-	},
 	["Sort"] = {
-		["Order"] = 1,
+		["Order"] = 2,
 		["FavoritesFirst"] = true,
 	},
-	["JournalPanel"] = 2,
+	["AllowHiddenPetsDefaulted"] = true,
 	["BackupCount"] = 0,
 	["TeamGroups"] = {
 		{
@@ -49,7 +42,7 @@ RematchSettings = {
 			"Interface\\Icons\\PetJournalPortrait", -- [2]
 		}, -- [1]
 	},
-	["CustomScaleValue"] = 100,
+	["SelectedTab"] = 1,
 	["Filters"] = {
 		["Other"] = {
 		},
@@ -57,13 +50,13 @@ RematchSettings = {
 		},
 		["Script"] = {
 		},
-		["Types"] = {
+		["Moveset"] = {
 		},
-		["Favorite"] = {
+		["Tough"] = {
 		},
-		["Collected"] = {
+		["Level"] = {
 		},
-		["Sources"] = {
+		["Strong"] = {
 		},
 		["Similar"] = {
 		},
@@ -71,27 +64,20 @@ RematchSettings = {
 		},
 		["Rarity"] = {
 		},
-		["Strong"] = {
+		["Sources"] = {
 		},
-		["Level"] = {
+		["Collected"] = {
 		},
-		["Tough"] = {
+		["Favorite"] = {
 		},
-		["Moveset"] = {
+		["Types"] = {
 		},
 	},
 	["ExpandedOptHeaders"] = {
 	},
-	["YPos"] = 81.99996948242188,
-	["PetCardXPos"] = 1014.999938964844,
-	["QueueSanctuary"] = {
-		["BattlePet-0-000008DF1491"] = "QQQ01T3",
-		["BattlePet-0-00000DA669C1"] = "QQQ0198",
-		["BattlePet-0-000008500093"] = "QQQ01BB",
-		["BattlePet-0-000009F4785E"] = "QQQ014P",
-		["BattlePet-0-00000850008D"] = "QQQ014S",
-		["BattlePet-0-00000DA76813"] = "QQQ0A0",
-	},
+	["UseTypeBar"] = true,
+	["PetCardXPos"] = 400.9999694824219,
+	["JournalUsed"] = true,
 	["ExpandedTargetHeaders"] = {
 	},
 	["PreferredMode"] = 1,
@@ -127,14 +113,14 @@ RematchSettings = {
 			19, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-000009F4785E"] = {
+		["BattlePet-0-00000DA76813"] = {
 			1, -- [1]
 			true, -- [2]
-			1177, -- [3]
-			2, -- [4]
-			243, -- [5]
-			21, -- [6]
-			18, -- [7]
+			320, -- [3]
+			1, -- [4]
+			161, -- [5]
+			11, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000850008D"] = {
@@ -147,24 +133,38 @@ RematchSettings = {
 			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000DA76813"] = {
+		["BattlePet-0-000009F4785E"] = {
 			1, -- [1]
 			true, -- [2]
-			320, -- [3]
-			1, -- [4]
-			161, -- [5]
-			11, -- [6]
-			10, -- [7]
+			1177, -- [3]
+			2, -- [4]
+			243, -- [5]
+			21, -- [6]
+			18, -- [7]
 			4, -- [8]
 		},
 	},
 	["SpecialSlots"] = {
 	},
 	["CornerPos"] = "BOTTOMLEFT",
-	["JournalUsed"] = true,
-	["AllowHiddenPetsDefaulted"] = true,
-	["UseTypeBar"] = true,
-	["SelectedTab"] = 1,
+	["QueueSanctuary"] = {
+		["BattlePet-0-000008DF1491"] = "QQQ01T3",
+		["BattlePet-0-00000DA669C1"] = "QQQ0198",
+		["BattlePet-0-000008500093"] = "QQQ01BB",
+		["BattlePet-0-00000DA76813"] = "QQQ0A0",
+		["BattlePet-0-00000850008D"] = "QQQ014S",
+		["BattlePet-0-000009F4785E"] = "QQQ014P",
+	},
+	["LevelingQueue"] = {
+		"BattlePet-0-000008500093", -- [1]
+		"BattlePet-0-000008DF1491", -- [2]
+		"BattlePet-0-00000850008D", -- [3]
+		"BattlePet-0-00000DA669C1", -- [4]
+		"BattlePet-0-000009F4785E", -- [5]
+		"BattlePet-0-00000DA76813", -- [6]
+	},
+	["YPos"] = 81.99996948242188,
+	["CustomScaleValue"] = 100,
 	["PetNotes"] = {
 		[57] = "Triple Jeune dragonnet azur, parce qu’ils peuvent faire les 7 maîtres de la Pandarie, ainsi que les 4 Esprits pandaren sans problème ni réflexion",
 	},

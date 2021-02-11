@@ -14,13 +14,13 @@ Prat3CharDB = {
 			},
 			["ChatFrame6EditBox"] = {
 			},
-			["ChatFrame3EditBox"] = {
-			},
-			["ChatFrame1EditBox"] = {
+			["ChatFrame9EditBox"] = {
 			},
 			["ChatFrame2EditBox"] = {
 			},
-			["ChatFrame9EditBox"] = {
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
 			},
 		},
 	},
@@ -205,7 +205,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 32,
+			["headIndex"] = 24,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -218,219 +218,197 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:52:56]|h|r Spécialisation du butin actuelle : Tisse-brume",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417175,
+					["message"] = "|cff979797|Hpratcopy|h[10:17:54]|h|r Spécialisation du butin actuelle : Tisse-brume",
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
+					["b"] = 0,
+					["serverTime"] = 1612775874,
+					["timestamp"] = 45663.063,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:53:22]|h|r Temps de jeu total : 3 |4jour:jours;, 10 |4heure:heures;, 50 |4minute:minutes;, 2 |4seconde:secondes;",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417201,
+					["message"] = "|cff979797|Hpratcopy|h[10:18:05]|h|r Temps de jeu total : 3 |4jour:jours;, 10 |4heure:heures;, 56 |4minute:minutes;, 6 |4seconde:secondes;",
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
+					["b"] = 0,
+					["serverTime"] = 1612775885,
+					["timestamp"] = 45663.063,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:53:22]|h|r Temps joué à ce niveau : 3 |4jour:jours;, 10 |4heure:heures;, 50 |4minute:minutes;, 2 |4seconde:secondes;",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417201,
+					["message"] = "|cff979797|Hpratcopy|h[10:18:05]|h|r Temps joué à ce niveau : 3 |4jour:jours;, 10 |4heure:heures;, 56 |4minute:minutes;, 6 |4seconde:secondes;",
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
+					["b"] = 0,
+					["serverTime"] = 1612775885,
+					["timestamp"] = 45663.063,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:53:22]|h|r Temps de jeu total : 3 |4jour:jours;, 10 |4heure:heures;, 50 |4minute:minutes;, 2 |4seconde:secondes;",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417201,
+					["message"] = "|cff979797|Hpratcopy|h[10:18:05]|h|r Temps de jeu total : 3 |4jour:jours;, 10 |4heure:heures;, 56 |4minute:minutes;, 6 |4seconde:secondes;",
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
+					["b"] = 0,
+					["serverTime"] = 1612775885,
+					["timestamp"] = 45663.063,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:53:22]|h|r Temps joué à ce niveau : 3 |4jour:jours;, 10 |4heure:heures;, 50 |4minute:minutes;, 2 |4seconde:secondes;",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417201,
+					["message"] = "|cff979797|Hpratcopy|h[10:18:05]|h|r Temps joué à ce niveau : 3 |4jour:jours;, 10 |4heure:heures;, 56 |4minute:minutes;, 6 |4seconde:secondes;",
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
+					["b"] = 0,
+					["serverTime"] = 1612775885,
+					["timestamp"] = 45663.063,
+					["g"] = 1,
+					["r"] = 1,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:53:27]|h|r Connexion à un serveur audio impossible pour l’instant. Veuillez réessayer plus tard.(Erreur : 16)",
+					["message"] = "|cff979797|Hpratcopy|h[10:18:33]|h|r Spécialisation du butin actuelle : Tisse-brume",
 					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417206,
+					["timestamp"] = 45663.063,
+					["serverTime"] = 1612775913,
 					["extraData"] = {
 						1, -- [1]
 						["n"] = 1,
 					},
 				}, -- [6]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:53:29]|h|r Capitaine Fareeya dit : Je ne pensais pas vous revoir si tôt, grand exarque. Je présume que votre audience avec le roi s’est bien passée ?",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:18:40]|h|r Temps de jeu total : 3 |4jour:jours;, 10 |4heure:heures;, 56 |4minute:minutes;, 32 |4seconde:secondes;",
+					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417208,
+					["timestamp"] = 45663.063,
+					["serverTime"] = 1612775920,
 					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
+						1, -- [1]
+						["n"] = 1,
 					},
 				}, -- [7]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:53:30]|h|r Grand exarque Turalyon dit : En effet. Il est impatient de voir l’armée de la Lumière combattre aux côtés de l’Alliance. Rassemblez nos troupes, capitaine, que tous entendent ma proclamation.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:18:40]|h|r Temps joué à ce niveau : 3 |4jour:jours;, 10 |4heure:heures;, 56 |4minute:minutes;, 32 |4seconde:secondes;",
+					["b"] = 0,
 					["r"] = 1,
 					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417209,
+					["timestamp"] = 45663.063,
+					["serverTime"] = 1612775920,
 					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
+						1, -- [1]
+						["n"] = 1,
 					},
 				}, -- [8]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:53:41]|h|r Capitaine Fareeya dit : Vous savez à quel point j’aime vos discours, mais cela peut-il attendre encore un peu ? Ces initiés sont sur le point de passer les épreuves.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417220,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "0 |4jour:jours;, 0 |4heure:heures;, 0 |4minute:minutes;, 27 |4seconde:secondes;",
+					["timestamp"] = 45663.063,
 				}, -- [9]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:53:52]|h|r Grand exarque Turalyon dit : Ah, vous tombez à pic, héraut ! Vous allez constater de visu ce qu’un soldat doit accomplir pour devenir un Sancteforge. Continuez, Fareeya.",
-					["b"] = 0.6235294342041016,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417231,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "========== Fin de l'historique ==========",
+					["timestamp"] = 45663.063,
 				}, -- [10]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:54:38]|h|r Les Sancteforge : terminée.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417277,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "|cff979797|Hpratcopy|h[10:19:05]|h|r |cFF029CFC[SwitchSwitch]|r |cFFFF0000(DEBUG)|r Addon Initializing",
+					["timestamp"] = 45663.063,
 				}, -- [11]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:54:38]|h|r Expérience gagnée : 977.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417277,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "|cff979797|Hpratcopy|h[10:19:06]|h|r Switching Lang to frFR",
+					["r"] = 0.7,
+					["timestamp"] = 45663.063,
+					["g"] = 0.7,
+					["b"] = 1,
 				}, -- [12]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:54:38]|h|r Reçu 23 Or, 40 Argent.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417277,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "|cff979797|Hpratcopy|h[10:19:07]|h|r |cff33ff99DataStore_Garrisons|r: Atec a 500 ressources non collectées",
+					["timestamp"] = 45663.063,
 				}, -- [13]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:54:38]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
-					["b"] = 1,
-					["r"] = 0.501960813999176,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417277,
-					["extraData"] = {
-						36, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "|cff979797|Hpratcopy|h[10:19:07]|h|r |cff33ff99DataStore_Garrisons|r: Jy a 500 ressources non collectées",
+					["timestamp"] = 45663.063,
 				}, -- [14]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:54:38]|h|r Quête acceptée : Forge des Éons",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417277,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "|cff979797|Hpratcopy|h[10:19:10]|h|r Welcome to |cfff58cbaS|r|cff009cffUI|r use |CFFFE8A0E/SUI|r for Options.",
+					["timestamp"] = 45663.063,
+					["serverTime"] = 1612775950,
 				}, -- [15]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[16:54:40]|h|r Capitaine Fareeya dit : Camarades, les épreuves que vous avez endurées prouvent que la Lumière resplendit dans vos cœurs.",
-					["b"] = 0.6235294342041016,
+					["message"] = "|cff979797|Hpratcopy|h[10:19:11]|h|r Spécialisation du butin actuelle : Tisse-brume",
+					["serverTime"] = 1612775951,
 					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 45663.063,
 					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417279,
+					["b"] = 0,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:19:18]|h|r Temps de jeu total : 3 |4jour:jours;, 10 |4heure:heures;, 57 |4minute:minutes;, 11 |4seconde:secondes;",
+					["serverTime"] = 1612775958,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 45684.358,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:19:18]|h|r Temps joué à ce niveau : 3 |4jour:jours;, 10 |4heure:heures;, 57 |4minute:minutes;, 11 |4seconde:secondes;",
+					["serverTime"] = 1612775958,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 45684.358,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:19:20]|h|r Switching Lang to frFR",
+					["r"] = 0.7,
+					["serverTime"] = 1612775960,
+					["timestamp"] = 45686.372,
+					["g"] = 0.7,
+					["b"] = 1,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:19:22]|h|r   HealBot 9.0.2.8 chargé.",
+					["r"] = 0.7,
+					["serverTime"] = 1612775962,
+					["timestamp"] = 45688.447,
+					["g"] = 0.7,
+					["b"] = 1,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:19:22]|h|r [HealBot] /hb h -- Afficher l'aide",
+					["r"] = 0.7,
+					["serverTime"] = 1612775962,
+					["timestamp"] = 45688.447,
+					["g"] = 0.7,
+					["b"] = 1,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[10:23:44]|h|r Roussette Matos dit : Quel sens du détail ! Il me faut cette œuvre !",
+					["serverTime"] = 1612776224,
+					["r"] = 1,
 					["extraData"] = {
 						13, -- [1]
 						false, -- [2]
@@ -438,186 +416,40 @@ Prat3HighCPUPerCharDB = {
 						2, -- [4]
 						["n"] = 4,
 					},
-				}, -- [16]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[16:54:52]|h|r Vous ne remplissez pas les conditions pour cette quête.",
-					["b"] = 0,
-					["r"] = 1,
+					["timestamp"] = 45949.806,
 					["g"] = 1,
-					["timestamp"] = 32680.444,
-					["serverTime"] = 1611417291,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [17]
-				{
-					["message"] = "0 |4jour:jours;, 12 |4heure:heures;, 33 |4minute:minutes;, 55 |4seconde:secondes;",
-					["timestamp"] = 32680.444,
-				}, -- [18]
-				{
-					["message"] = "========== Fin de l'historique ==========",
-					["timestamp"] = 32680.444,
-				}, -- [19]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[05:28:46]|h|r |cff33ff99DataStore_Garrisons|r: Jy a 500 ressources non collectées",
-					["timestamp"] = 32680.444,
-				}, -- [20]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[05:28:49]|h|r Spécialisation du butin actuelle : Tisse-brume",
-					["serverTime"] = 1611462529,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 32680.444,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [21]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[05:28:57]|h|r Temps de jeu total : 3 |4jour:jours;, 10 |4heure:heures;, 53 |4minute:minutes;, 13 |4seconde:secondes;",
-					["serverTime"] = 1611462537,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 32691.974,
-					["g"] = 1,
-					["b"] = 0,
+					["b"] = 0.6235294342041016,
 				}, -- [22]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[05:28:57]|h|r Temps joué à ce niveau : 3 |4jour:jours;, 10 |4heure:heures;, 53 |4minute:minutes;, 13 |4seconde:secondes;",
-					["serverTime"] = 1611462537,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 32691.974,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [23]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[05:28:57]|h|r Temps de jeu total : 3 |4jour:jours;, 10 |4heure:heures;, 53 |4minute:minutes;, 13 |4seconde:secondes;",
-					["serverTime"] = 1611462537,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 32691.974,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [24]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[05:28:57]|h|r Temps joué à ce niveau : 3 |4jour:jours;, 10 |4heure:heures;, 53 |4minute:minutes;, 13 |4seconde:secondes;",
-					["serverTime"] = 1611462537,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 32691.974,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [25]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[05:28:59]|h|r AAP Loaded",
-					["timestamp"] = 32693.964,
-					["serverTime"] = 1611462539,
-				}, -- [26]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[05:30:37]|h|r Spécialisation du butin actuelle : Tisse-brume",
-					["serverTime"] = 1611462637,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 32791.429,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [27]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[05:30:38]|h|r |Hchannel:channel:1|h[1] |h Change de canal : |Hchannel:CHANNEL:1|h[1. Général - Dalaran]|h",
-					["serverTime"] = 1611462638,
-					["r"] = 1,
-					["extraData"] = {
-						67, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 32793.015,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [28]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[05:30:38]|h|r |Hchannel:channel:3|h[3] |h Change de canal : |Hchannel:CHANNEL:3|h[3. DéfenseLocale - Dalaran]|h",
-					["serverTime"] = 1611462638,
-					["r"] = 1,
-					["extraData"] = {
-						69, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 32793.015,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [29]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[05:31:34]|h|r |Hchannel:channel:1|h[1] |h Quitte le canal : |Hchannel:CHANNEL:1|h[1. Général - Dalaran]|h",
-					["serverTime"] = 1611462694,
-					["r"] = 1,
-					["extraData"] = {
-						67, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 32848.973,
-					["g"] = 0.7529412508010864,
-					["b"] = 0.7529412508010864,
-				}, -- [30]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[05:31:34]|h|r |Hchannel:channel:2|h[2] |h Quitte le canal : |Hchannel:CHANNEL:2|h[2. Commerce - Capitales]|h",
-					["serverTime"] = 1611462694,
+					["message"] = "|cff979797|Hpratcopy|h[10:23:53]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Majadam-LesSentinelles:257:CHANNEL:2|h|cffc31d39Majadam|r-|cffbbc5b4Les|r|h|cffd8d8d8]|r: vend |cffa335ee|Hitem:52253::::::::60:252:::::::|h[Boîte à musique de Sylvanas]|h|r|cffa335ee|Hitem:137686::::::::60:252:::::::|h[Harnais lige-acier]|h|r|cff0070dd|Hitem:1973::::::::60:252:::::::|h[Orbe de tromperie]|h|r",
+					["serverTime"] = 1612776233,
 					["r"] = 1,
 					["extraData"] = {
 						68, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						3, -- [3]
+						4, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 32848.973,
+					["timestamp"] = 45958.583,
 					["g"] = 0.7529412508010864,
 					["b"] = 0.7529412508010864,
-				}, -- [31]
+				}, -- [23]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[05:31:34]|h|r |Hchannel:channel:3|h[3] |h Quitte le canal : |Hchannel:CHANNEL:3|h[3. DéfenseLocale - Dalaran]|h",
-					["serverTime"] = 1611462694,
+					["message"] = "|cff979797|Hpratcopy|h[10:24:24]|h|r |Hchannel:channel:1|h[1] |h Quitte le canal : |Hchannel:CHANNEL:1|h[1. Général - Dalaran]|h",
+					["serverTime"] = 1612776264,
 					["r"] = 1,
 					["extraData"] = {
-						69, -- [1]
+						67, -- [1]
 						false, -- [2]
-						4, -- [3]
-						5, -- [4]
+						6, -- [3]
+						7, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 32848.973,
+					["timestamp"] = 45990.43300000001,
 					["g"] = 0.7529412508010864,
 					["b"] = 0.7529412508010864,
-				}, -- [32]
+				}, -- [24]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],

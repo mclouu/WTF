@@ -95,8 +95,8 @@ MADB = {
 					},
 				},
 				["OrderHallCommandBar"] = {
-					["name"] = "OrderHallCommandBar",
 					["hidden"] = true,
+					["name"] = "OrderHallCommandBar",
 					["pos"] = {
 						"TOPLEFT", -- [1]
 						"UIParent", -- [2]
@@ -108,9 +108,9 @@ MADB = {
 			},
 		},
 	},
-	["tooltips"] = true,
+	["closeGUIOnEscape"] = false,
 	["playSound"] = false,
 	["noBags"] = false,
 	["collapsed"] = true,
-	["closeGUIOnEscape"] = false,
+	["tooltips"] = true,
 }

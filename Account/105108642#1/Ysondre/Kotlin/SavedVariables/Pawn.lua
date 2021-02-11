@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0409,
+	["LastVersion"] = 2.0411,
 	["LastPlayerFullName"] = "Kotlin-Ysondre",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {

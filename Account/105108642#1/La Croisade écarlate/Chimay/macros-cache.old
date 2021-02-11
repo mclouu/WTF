@@ -4,13 +4,13 @@ END
 VER 3 0100000000000005 "dd" "237385"
 /cast Emblème du gladiateur menaçant
 END
+VER 3 0100000000000009 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:soi-même:
+END
+VER 3 0100000000000008 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Chima:p:ayer-1127-0974CDF7:1:
+END
 VER 3 0100000000000003 "on medz" "135968"
 #showtooltip Bénédiction de liberté
 /cast [@player] Bénédiction de liberté
-END
-VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
-END
-VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
-N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Chi[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END

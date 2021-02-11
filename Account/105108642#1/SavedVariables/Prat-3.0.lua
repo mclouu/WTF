@@ -5,30 +5,30 @@ Prat3DB = {
 			["profiles"] = {
 				["Default"] = {
 					["colors"] = {
-						["loa"] = {
+						["général"] = {
 							["b"] = 0.7529412508010864,
 							["g"] = 0.7529412508010864,
 							["r"] = 1,
 						},
 						["community:115294922:1"] = {
-							["r"] = 1,
-							["g"] = 0.7529412508010864,
 							["b"] = 0.7529412508010864,
+							["g"] = 0.7529412508010864,
+							["r"] = 1,
 						},
 						["défenselocale"] = {
-							["r"] = 1,
-							["g"] = 0.7529412508010864,
 							["b"] = 0.7529412508010864,
+							["g"] = 0.7529412508010864,
+							["r"] = 1,
 						},
-						["général"] = {
+						["loa"] = {
 							["r"] = 1,
 							["g"] = 0.7529412508010864,
 							["b"] = 0.7529412508010864,
 						},
 						["community:153678892:1"] = {
-							["r"] = 1,
-							["g"] = 0.7529412508010864,
 							["b"] = 0.7529412508010864,
+							["g"] = 0.7529412508010864,
+							["r"] = 1,
 						},
 					},
 				},
@@ -59,12 +59,12 @@ Prat3DB = {
 		["Prat_Frames"] = {
 			["profiles"] = {
 				["Default"] = {
-					["initialized"] = true,
+					["minchatwidthdefault"] = 296,
 					["framealpha"] = 0,
 					["maxchatheightdefault"] = 399.9999694824219,
 					["maxchatheight"] = 555,
 					["maxchatwidthdefault"] = 608,
-					["minchatwidthdefault"] = 296,
+					["initialized"] = true,
 					["minchatheightdefault"] = 120.0000076293945,
 				},
 			},
@@ -81,7 +81,7 @@ Prat3DB = {
 		},
 		["Prat_Paragraph"] = {
 		},
-		["Prat_KeyBindings"] = {
+		["Prat_Achievements"] = {
 		},
 		["Prat_Alias"] = {
 		},
@@ -110,21 +110,25 @@ Prat3DB = {
 		},
 		["Prat_Buttons"] = {
 		},
-		["Prat_Achievements"] = {
+		["Prat_KeyBindings"] = {
 		},
 		["Prat_HoverTips"] = {
 		},
 	},
 	["profileKeys"] = {
+		["Jhfjhef - La Croisade écarlate"] = "Default",
 		["Jy - La Croisade écarlate"] = "Default",
 		["Nylaria - La Croisade écarlate"] = "Default",
 		["Atec - La Croisade écarlate"] = "Default",
+		["Hundreth - La Croisade écarlate"] = "Default",
 		["Chimay - La Croisade écarlate"] = "Default",
 		["Coven - La Croisade écarlate"] = "Default",
 		["Carlsberg - La Croisade écarlate"] = "Default",
+		["Kotlin - La Croisade écarlate"] = "Default",
+		["Îsilia - Kael'thas"] = "Default",
 		["Aldehyde - La Croisade écarlate"] = "Default",
 		["Kotlin - Ysondre"] = "Default",
-		["Kotlin - La Croisade écarlate"] = "Default",
+		["Srpdgh - La Croisade écarlate"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

@@ -14,9 +14,9 @@ VER 3 0100000000000007 "b" "620831"
 /stopcasting
 /cast [@cursor,nomod] Invocation d’une statue du Serpent de jade
 END
-VER 3 0100000000000001 "smart" "3578227"
+VER 3 0100000000000001 "smart" "3586270"
 #showtooltip 
-/use [@cursor]Breuvage poussière-d’os(Nécro-seigneurs)
+/use [@cursor] Porte des ombres(Venthyrs)
 END
 VER 3 0100000000000003 "Transc" "627608"
 #showtooltip Transcendance

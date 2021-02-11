@@ -1,0 +1,118 @@
+VER 3 0100000000000015 " " "Ability_Creature_Disease_04"
+/script PetAttack();
+/script CastPetAction(5);
+/lancer Marque du chasseur
+END
+VER 3 0100000000000014 " " "Ability_GolemStormBolt"
+/script PetFollow(); (optionnel, à priori en passant en passif, votre pet cessera d'attaquer)
+/script PetPassiveMode();
+/lancer Flèche de dispersion 
+END
+VER 3 010000000000000F "a" "Spell_Misc_EmotionAngry"
+#showtooltip Détournement
+/target [Omegaa]
+/cast Détournement
+/targetlasttarget 
+END
+VER 3 010000000000000E "a" "Ability_BullRush"
+#show Détournement
+/target [target=pet]
+/cast Détournement
+/targetlasttarget
+END
+VER 3 010000000000001E "appel dumaitre" "ABILITY_HUNTER_MASTERSCALL"
+#showtooltip Appel du maître
+#show Appel du maître
+/cast [target=mouseover,exists][target=player] Appel du maître
+END
+VER 3 0100000000000018 "arcturis" "Ability_Druid_Maul"
+/cleartarget
+/target Arcturis
+/target Samba
+/target Haine vengeresse
+/target Syreian la Sculpteuse d'os
+/stopmacro [noexists]
+/script PlaySound("RaidWarning")
+/run RaidNotice_AddMessage(RaidBossEmoteFrame,"IL EST LA !", ChatTypeInfo["RAID_WARNING"]) 
+END
+VER 3 010000000000001F "buf" "Ability_Hunter_Longevity"
+#showtooltip Tir rapide
+/console Sound_EnableSFX 0
+/use Courroux bestial
+/use Tir rapide
+/use Marque de suprématie
+-use Sous-bock de Coren en chrome
+/use Appel du fauve
+/console Sound_EnableSFX 1
+/script UIErrorsFrame:Clear(); 
+END
+VER 3 0100000000000010 "couldonwn" "Ability_Creature_Cursed_05"
+/castsequence Tir rapide, Ordre de tuer, Fragment d'incisive, Courroux bestial
+END
+VER 3 010000000000000C "couldown" "Ability_Creature_Cursed_04"
+/castsequence Tir rapide, Ordre de tuer, Sous-bock de coren en chrome, Fragment d'incisive
+END
+VER 3 0100000000000022 "fdsf" "Ability_Creature_Cursed_02"
+//rugir
+END
+VER 3 0100000000000013 "flood" "Ability_Creature_Disease_05"
+/acclame
+/aidemoi
+/arrive
+/tchou
+/tchou
+/pleurer
+/hello
+/non
+/oui
+/pdm
+/aboyer
+/acclame
+/adieu
+/violon
+/victoire 
+/victoire 
+/aurevoir 
+/clap 
+/charge 
+/mdr
+/mdr
+/pleurer
+/pleurer
+/bouffe 
+/béer 
+/pdm
+/non
+/oui
+/bye
+END
+VER 3 0100000000000021 "gfse" "Ability_Ambush"
+/target Dssk
+END
+VER 3 0100000000000017 "gondria" "Ability_Druid_PredatoryInstincts"
+/cleartarget
+/target Gondria
+/target Tisseuse de terreur
+/target Griegen
+/target Sentinelle de Zul'Drak
+/stopmacro [noexists]
+/script PlaySound("RaidWarning")
+/run RaidNotice_AddMessage(RaidBossEmoteFrame,"IL EST LA !", ChatTypeInfo["RAID_WARNING"]) 
+END
+VER 3 010000000000001D "lancer pet" "ABILITY_HUNTER_SEPARATIONANXIETY"
+/petattack
+/petfollow [target=pettarget,exists] 
+END
+VER 3 010000000000000D "O.S" "Spell_Holy_RighteousnessAura"
+/castsequence Tir mortel(Rang 3), Promptitude, Tir mortel(Rang 3)
+END
+VER 3 0100000000000020 "Ordre de tuer" "Ability_Hunter_KillCommand"
+/stopcasting 
+/lance Ordre de tuer
+END
+VER 3 0100000000000011 "petPVP" "Ability_Creature_Disease_04"
+/castsequence Tir rapide,Détecteur d'équipementz
+END
+VER 3 0100000000000023 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1HM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

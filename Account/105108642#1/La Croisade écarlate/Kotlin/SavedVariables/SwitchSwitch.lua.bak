@@ -1,26 +1,13 @@
 
-SwitchSwitchTalents = {
-	["Version"] = "1.68",
-}
 SwitchSwitchConfig = {
-	["debug"] = false,
-	["autoSuggest"] = {
-		["party"] = {
-			["HM"] = "",
-			["MM"] = "",
+}
+SwitchSwitchDBPC = {
+	["profileKeys"] = {
+		["Kotlin - La Croisade écarlate"] = "Default",
+	},
+	["char"] = {
+		["Kotlin - La Croisade écarlate"] = {
+			["Version"] = 20,
 		},
-		["arena"] = "",
-		["raid"] = "",
-		["pvp"] = "",
 	},
-	["autoUseItems"] = true,
-	["maxTimeSuggestionFrame"] = 15,
-	["SelectedTalentsProfile"] = "pve multi",
-	["SuggestionFramePoint"] = {
-		["frameX"] = 0,
-		["frameY"] = 0,
-		["point"] = "CENTER",
-		["relativePoint"] = "CENTER",
-	},
-	["Version"] = "1.68",
 }

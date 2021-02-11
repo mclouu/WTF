@@ -1,97 +1,136 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.041,
+	["LastVersion"] = 2.0411,
 	["LastPlayerFullName"] = "Jy-La Croisade écarlate",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 122246,
-			["Level"] = 31,
-			["Link"] = "|cff00ccff|Hitem:122246::::::::26:262:::1:582::::|h[Heaume du berserker déchaîné terni]|h|r",
+			["ID"] = 112522,
+			["Level"] = 50,
+			["Link"] = "|cff0070dd|Hitem:112522::::::::43:262::11:1:6691:2:28:1767:9:43:::|h[Heaume de fin tireur sha'tari]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 122664,
-			["Level"] = 31,
-			["Link"] = "|cff00ccff|Hitem:122664::::::::26:262:::::::|h[Sautoir de l'horizon éternel]|h|r",
+			["ID"] = 113031,
+			["Level"] = 48,
+			["Link"] = "|cff1eff00|Hitem:113031::::::::43:262::11:1:3631:2:28:1767:9:43:::|h[Chaîne d'âme érédar]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 122374,
-			["Level"] = 31,
-			["Link"] = "|cff00ccff|Hitem:122374::::::::26:262:::1:582::::|h[Mantelet de belluaire recherché]|h|r",
+			["ID"] = 140616,
+			["Level"] = 53,
+			["Link"] = "|cffa335ee|Hitem:140616::::::::46:262::11:2:4813:4816:2:28:1705:9:46:::|h[Mantelet d'annihilateur]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
 			["ID"] = 122379,
-			["Level"] = 31,
-			["Link"] = "|cff00ccff|Hitem:122379::::::::26:262:::1:582::::|h[Cuirasse de dispensateur de mort de champion]|h|r",
+			["Level"] = 50,
+			["Link"] = "|cff00ccff|Hitem:122379::::::::44:262:::1:582::::|h[Cuirasse de dispensateur de mort de champion]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 107302,
-			["Level"] = 22,
-			["Link"] = "|cff1eff00|Hitem:107302::::::::19:264::11:1:3631:2:28:1765:9:18:::|h[Ceinture loup-de-givre en mailles annelées]|h|r",
+			["ID"] = 139704,
+			["Level"] = 54,
+			["Link"] = "|cffa335ee|Hitem:139704::::::::45:262::14:2:3385:3384:1:28:339:::|h[Ceinture de long-voyant]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 122252,
-			["Level"] = 31,
-			["Link"] = "|cff00ccff|Hitem:122252::::::::26:262:::::::|h[Jambières de destruction ternies]|h|r",
+			["Level"] = 45,
+			["Link"] = "|cff00ccff|Hitem:122252::::::::40:262:::::::|h[Jambières de destruction ternies]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 106314,
-			["Level"] = 23,
-			["Link"] = "|cff9d9d9d|Hitem:106314::::::::24:262:::1:6656:2:28:1765:9:23:::|h[Bottes en tissu informe]|h|r",
+			["ID"] = 112514,
+			["Level"] = 48,
+			["Link"] = "|cff1eff00|Hitem:112514::::::::43:262::11:1:3631:2:28:1767:9:43:::|h[Solerets de fin tireur sha'tari]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 106177,
-			["Level"] = 26,
-			["Link"] = "|cff1eff00|Hitem:106177::::::::22:262::11:1:3631:2:28:1765:9:22:::|h[Garde-poignets loup-de-givre en mailles annelées]|h|r",
+			["ID"] = 139705,
+			["Level"] = 50,
+			["Link"] = "|cff0070dd|Hitem:139705::::::::46:262::11:2:3385:3381:1:28:343:::|h[Bandelettes de long-voyant]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 109863,
-			["Level"] = 24,
-			["Link"] = "|cff0070dd|Hitem:109863::::::::19:264::1:2:6710:6652:2:28:1848:9:19:::|h[Gantelets d'aubécaille]|h|r",
+			["ID"] = 118033,
+			["Level"] = 38,
+			["Link"] = "|cff1eff00|Hitem:118033::::::::34:262::11:1:3631:2:28:1766:9:34:::|h[Gants de muletier du Bois sauvage]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 117983,
-			["Level"] = 30,
+			["ID"] = 119064,
+			["Level"] = 40,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff1eff00|Hitem:117983::::::::25:262::11:1:3631:2:28:1765:9:25:::|h[Chevalière du chef de la fosse]|h|r",
+			["Link"] = "|cff1eff00|Hitem:119064::::::::36:262::11:1:3631:2:28:1766:9:36:::|h[Bague de fureur de vapeur]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 108972,
-			["Level"] = 29,
+			["ID"] = 119064,
+			["Level"] = 40,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff1eff00|Hitem:108972::::::::25:262::11:1:3631:2:28:1765:9:24:::|h[Anneau du gangr'œil aveugle]|h|r",
+			["Link"] = "|cff1eff00|Hitem:119064::::::::36:262::11:1:3631:2:9:36:28:1766:::|h[Bague de fureur de vapeur]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 122361,
-			["Level"] = 31,
+			["Level"] = 48,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff00ccff|Hitem:122361::::::::26:262:::1:582::::|h[Main de justice rapide]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122361::::::::42:262:::1:582::::|h[Main de justice rapide]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 122361,
-			["Level"] = 30,
+			["ID"] = 116077,
+			["Level"] = 48,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff00ccff|Hitem:122361::::::::25:262:::1:582::::|h[Main de justice rapide]|h|r",
+			["Link"] = "|cff0070dd|Hitem:116077::::::::42:262:::1:6691:2:28:1767:9:42:::|h[Cerveau palpitant de No'losh]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 113148,
-			["Level"] = 31,
-			["Link"] = "|cff0070dd|Hitem:113148::::::::25:262::11:1:6691:2:28:1765:9:25:::|h[Drapé de l'engeance souillée]|h|r",
+			["ID"] = 122262,
+			["Level"] = 50,
+			["Link"] = "|cff00ccff|Hitem:122262::::::::44:262:::1:583::::|h[Cape ancienne de la lune sanguine]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 122367,
-			["Level"] = 31,
+			["ID"] = 112579,
+			["Level"] = 50,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cff00ccff|Hitem:122367::::::::26:262:::::::|h[Le Marteau de grâce béni]|h|r",
+			["Link"] = "|cff0070dd|Hitem:112579::::::::43:262::11:1:6691:2:28:1767:9:43:::|h[Mâchoire de potamodonte]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 122392,
-			["Level"] = 31,
-			["Link"] = "|cff00ccff|Hitem:122392::::::::26:262:::::::|h[Bouclier de l'observateur défraîchi]|h|r",
+			["ID"] = 117571,
+			["Level"] = 50,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cff0070dd|Hitem:117571::::::::43:262:::1:6691:2:28:66:9:43:::|h[Brise-crâne gordunni]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,
+	["Artifacts"] = {
+		[128911] = {
+			["Relics"] = {
+				{
+					["Type"] = "Life",
+				}, -- [1]
+				{
+					["Type"] = "Frost",
+				}, -- [2]
+			},
+			["Name"] = "Sharas’dal, sceptre des marées",
+		},
+		[128819] = {
+			["Relics"] = {
+				{
+					["Type"] = "Fire",
+				}, -- [1]
+				{
+					["Type"] = "Iron",
+				}, -- [2]
+			},
+			["Name"] = "Marteau-du-Destin",
+		},
+		[128935] = {
+			["Relics"] = {
+				{
+					["Type"] = "Wind",
+				}, -- [1]
+				{
+					["Type"] = "Frost",
+				}, -- [2]
+				{
+					["Type"] = "Wind",
+				}, -- [3]
+			},
+			["Name"] = "Poing de Ra Den",
+		},
+	},
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "SHAMAN",

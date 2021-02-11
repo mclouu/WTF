@@ -110,3 +110,4 @@ DBM-Party-Shadowlands: enabled
 DBM-DMF: enabled
 DBM-Shadowlands: enabled
 DBM-WorldEvents: enabled
+RUF: enabled

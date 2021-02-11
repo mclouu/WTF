@@ -1,11 +1,11 @@
 
 TRP3_Register = {
-	["profiles"] = {
+	["blockList"] = {
 	},
 	["companion"] = {
 	},
 	["character"] = {
 	},
-	["blockList"] = {
+	["profiles"] = {
 	},
 }

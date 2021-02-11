@@ -1,18 +1,22 @@
 
 DungeonToolsDB = {
 	["profileKeys"] = {
+		["Jhfjhef - La Croisade écarlate"] = "Jhfjhef - La Croisade écarlate",
 		["Jy - La Croisade écarlate"] = "Jy - La Croisade écarlate",
 		["Nylaria - La Croisade écarlate"] = "Nylaria - La Croisade écarlate",
 		["Atec - La Croisade écarlate"] = "Atec - La Croisade écarlate",
+		["Hundreth - La Croisade écarlate"] = "Hundreth - La Croisade écarlate",
 		["Chimay - La Croisade écarlate"] = "Chimay - La Croisade écarlate",
 		["Coven - La Croisade écarlate"] = "Coven - La Croisade écarlate",
 		["Carlsberg - La Croisade écarlate"] = "Carlsberg - La Croisade écarlate",
+		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Îsilia - Kael'thas"] = "Îsilia - Kael'thas",
 		["Aldehyde - La Croisade écarlate"] = "Aldehyde - La Croisade écarlate",
 		["Kotlin - Ysondre"] = "Kotlin - Ysondre",
-		["Kotlin - La Croisade écarlate"] = "Kotlin - La Croisade écarlate",
+		["Srpdgh - La Croisade écarlate"] = "Srpdgh - La Croisade écarlate",
 	},
 	["global"] = {
-		["anchorTo"] = "LEFT",
+		["anchorTo"] = "BOTTOMLEFT",
 		["colorPaletteInfo"] = {
 			["customPaletteValues"] = {
 				{
@@ -77,19 +81,51 @@ DungeonToolsDB = {
 				}, -- [12]
 			},
 		},
-		["anchorFrom"] = "LEFT",
-		["nonFullscreenScale"] = 1,
+		["anchorFrom"] = "BOTTOMLEFT",
+		["Imported"] = true,
 		["MDI"] = {
 			["enabled"] = false,
 		},
-		["currentDifficulty"] = 8,
+		["currentDungeonIdx"] = 36,
 		["maximized"] = false,
 		["presets"] = {
-			[29] = {
+			nil, -- [1]
+			nil, -- [2]
+			nil, -- [3]
+			nil, -- [4]
+			nil, -- [5]
+			nil, -- [6]
+			nil, -- [7]
+			nil, -- [8]
+			nil, -- [9]
+			nil, -- [10]
+			nil, -- [11]
+			nil, -- [12]
+			nil, -- [13]
+			nil, -- [14]
+			nil, -- [15]
+			nil, -- [16]
+			nil, -- [17]
+			nil, -- [18]
+			nil, -- [19]
+			nil, -- [20]
+			nil, -- [21]
+			nil, -- [22]
+			nil, -- [23]
+			nil, -- [24]
+			nil, -- [25]
+			nil, -- [26]
+			nil, -- [27]
+			nil, -- [28]
+			{
 				{
-					["objects"] = {
-					},
+					["mdiEnabled"] = false,
 					["week"] = 4,
+					["mdi"] = {
+						["freehold"] = 1,
+						["beguiling"] = 1,
+						["freeholdJoined"] = false,
+					},
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
@@ -108,15 +144,12 @@ DungeonToolsDB = {
 							},
 						},
 					},
-					["difficulty"] = 10,
-					["mdi"] = {
-						["freehold"] = 1,
-						["beguiling"] = 1,
-						["freeholdJoined"] = false,
+					["objects"] = {
 					},
+					["difficulty"] = 10,
 				}, -- [1]
-			},
-			[30] = {
+			}, -- [29]
+			{
 				{
 					["objects"] = {
 					},
@@ -146,8 +179,42 @@ DungeonToolsDB = {
 					},
 					["difficulty"] = 10,
 				}, -- [1]
-			},
-			[34] = {
+			}, -- [30]
+			nil, -- [31]
+			{
+				{
+					["mdiEnabled"] = false,
+					["week"] = 1,
+					["mdi"] = {
+						["freeholdJoined"] = false,
+						["freehold"] = 1,
+						["beguiling"] = 1,
+					},
+					["value"] = {
+						["currentPull"] = 1,
+						["currentSublevel"] = 1,
+						["pulls"] = {
+							{
+								["color"] = "ff3eff",
+							}, -- [1]
+						},
+						["currentDungeonIdx"] = 32,
+						["teeming"] = false,
+						["selection"] = {
+							1, -- [1]
+						},
+						["riftOffsets"] = {
+							{
+							}, -- [1]
+						},
+					},
+					["objects"] = {
+					},
+					["difficulty"] = 10,
+				}, -- [1]
+			}, -- [32]
+			nil, -- [33]
+			{
 				{
 					["difficulty"] = 10,
 					["week"] = 6,
@@ -177,16 +244,44 @@ DungeonToolsDB = {
 						["beguiling"] = 1,
 					},
 				}, -- [1]
-			},
-			[36] = {
+			}, -- [34]
+			{
+				{
+					["mdiEnabled"] = false,
+					["week"] = 1,
+					["mdi"] = {
+						["freeholdJoined"] = false,
+						["freehold"] = 1,
+						["beguiling"] = 1,
+					},
+					["value"] = {
+						["currentPull"] = 1,
+						["currentSublevel"] = 1,
+						["pulls"] = {
+							{
+								["color"] = "ff3eff",
+							}, -- [1]
+						},
+						["currentDungeonIdx"] = 35,
+						["teeming"] = false,
+						["selection"] = {
+							1, -- [1]
+						},
+						["riftOffsets"] = {
+							{
+							}, -- [1]
+						},
+					},
+					["objects"] = {
+					},
+					["difficulty"] = 10,
+				}, -- [1]
+			}, -- [35]
+			{
 				{
 					["mdiEnabled"] = true,
 					["week"] = 7,
-					["mdi"] = {
-						["freeholdJoined"] = false,
-						["beguiling"] = 1,
-						["freehold"] = 1,
-					},
+					["difficulty"] = 10,
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
@@ -219,331 +314,19 @@ DungeonToolsDB = {
 							}, -- [1]
 						},
 					},
-					["difficulty"] = 10,
 					["objects"] = {
+					},
+					["mdi"] = {
+						["freeholdJoined"] = false,
+						["beguiling"] = 1,
+						["freehold"] = 1,
 					},
 				}, -- [1]
-				{
-					["mdiEnabled"] = true,
-					["week"] = 1,
-					["difficulty"] = 8,
-					["value"] = {
-						["currentPull"] = 6,
-						["currentSublevel"] = 2,
-						["riftOffsets"] = {
-							{
-							}, -- [1]
-						},
-						["currentDungeonIdx"] = 36,
-						["teeming"] = false,
-						["selection"] = {
-							6, -- [1]
-						},
-						["pulls"] = {
-							{
-								{
-									1, -- [1]
-								}, -- [1]
-								{
-									1, -- [1]
-									2, -- [2]
-								}, -- [2]
-								{
-									1, -- [1]
-								}, -- [3]
-								["color"] = "ff3eff",
-							}, -- [1]
-							{
-								[6] = {
-									1, -- [1]
-								},
-								[7] = {
-									1, -- [1]
-								},
-								["color"] = "3eff9e",
-								[4] = {
-									1, -- [1]
-								},
-								[5] = {
-									1, -- [1]
-								},
-							}, -- [2]
-							{
-								["color"] = "ff3e3e",
-								[15] = {
-									2, -- [1]
-									1, -- [2]
-									3, -- [3]
-									7, -- [4]
-									4, -- [5]
-									5, -- [6]
-									6, -- [7]
-									8, -- [8]
-									9, -- [9]
-									10, -- [10]
-									11, -- [11]
-									12, -- [12]
-								},
-							}, -- [3]
-							{
-								["color"] = "3e9eff",
-								[16] = {
-									1, -- [1]
-								},
-							}, -- [4]
-							{
-								[17] = {
-									1, -- [1]
-									2, -- [2]
-								},
-								[15] = {
-								},
-								[18] = {
-								},
-								["color"] = "fffb3e",
-								[16] = {
-								},
-							}, -- [5]
-							{
-								[17] = {
-									7, -- [1]
-									6, -- [2]
-									8, -- [3]
-									9, -- [4]
-								},
-								[18] = {
-								},
-								["color"] = "3eff3e",
-								[19] = {
-									1, -- [1]
-								},
-								[16] = {
-								},
-							}, -- [6]
-							{
-								["color"] = "ff3e9e",
-								[18] = {
-									3, -- [1]
-								},
-								[20] = {
-									1, -- [1]
-								},
-								[17] = {
-									12, -- [1]
-								},
-							}, -- [7]
-							{
-								[24] = {
-									1, -- [1]
-								},
-								[22] = {
-									1, -- [1]
-								},
-								[23] = {
-									1, -- [1]
-									2, -- [2]
-									4, -- [3]
-									3, -- [4]
-								},
-								["color"] = "3effff",
-							}, -- [8]
-							{
-								["color"] = "ff9b3e",
-								[25] = {
-									1, -- [1]
-								},
-								[23] = {
-									7, -- [1]
-									8, -- [2]
-									5, -- [3]
-									6, -- [4]
-								},
-								[22] = {
-									2, -- [1]
-								},
-							}, -- [9]
-							{
-								["color"] = "3e3eff",
-								[25] = {
-									2, -- [1]
-								},
-								[22] = {
-									3, -- [1]
-									4, -- [2]
-								},
-							}, -- [10]
-							{
-								["color"] = "a1ff3e",
-								[26] = {
-									1, -- [1]
-								},
-							}, -- [11]
-							{
-								[24] = {
-									2, -- [1]
-								},
-								[25] = {
-									3, -- [1]
-								},
-								[22] = {
-									5, -- [1]
-								},
-								[23] = {
-									10, -- [1]
-									9, -- [2]
-								},
-								["color"] = "ff3eff",
-							}, -- [12]
-							{
-								["color"] = "3eff9e",
-								[26] = {
-									3, -- [1]
-								},
-							}, -- [13]
-							{
-								["color"] = "ff3e3e",
-								[22] = {
-									6, -- [1]
-								},
-								[23] = {
-									13, -- [1]
-									15, -- [2]
-									14, -- [3]
-									12, -- [4]
-									11, -- [5]
-								},
-							}, -- [14]
-							{
-								["color"] = "3e9eff",
-								[25] = {
-									4, -- [1]
-								},
-								[24] = {
-									3, -- [1]
-								},
-							}, -- [15]
-							{
-								["color"] = "fffb3e",
-								[27] = {
-									1, -- [1]
-								},
-							}, -- [16]
-							{
-								[8] = {
-									1, -- [1]
-								},
-								[9] = {
-									1, -- [1]
-									2, -- [2]
-								},
-								["color"] = "3eff3e",
-							}, -- [17]
-							{
-								["color"] = "ff3e9e",
-								[10] = {
-									1, -- [1]
-								},
-							}, -- [18]
-							{
-								["color"] = "3effff",
-								[30] = {
-									1, -- [1]
-								},
-							}, -- [19]
-							{
-								[8] = {
-									2, -- [1]
-									3, -- [2]
-								},
-								[9] = {
-									4, -- [1]
-									3, -- [2]
-								},
-								[12] = {
-									1, -- [1]
-								},
-								["color"] = "ff9b3e",
-							}, -- [20]
-							{
-								["color"] = "3e3eff",
-								[13] = {
-									1, -- [1]
-								},
-							}, -- [21]
-							{
-								[20] = {
-								},
-								[17] = {
-								},
-								[15] = {
-								},
-								[18] = {
-								},
-								["color"] = "a1ff3e",
-								[14] = {
-									1, -- [1]
-								},
-								[16] = {
-								},
-							}, -- [22]
-							{
-								["color"] = "ff3eff",
-								[28] = {
-									1, -- [1]
-								},
-								[26] = {
-								},
-								[17] = {
-								},
-							}, -- [23]
-						},
-					},
-					["colorPaletteInfo"] = {
-						["autoColoring"] = true,
-						["colorPaletteIdx"] = 4,
-					},
-					["text"] = "Default 2",
-					["mdi"] = {
-						["freehold"] = 1,
-						["beguiling"] = 1,
-						["freeholdJoined"] = false,
-					},
-					["objects"] = {
-						{
-							["d"] = {
-								564.4455255628611, -- [1]
-								-201.3238276107822, -- [2]
-								3, -- [3]
-								true, -- [4]
-								"Orb in right.", -- [5]
-							},
-							["n"] = true,
-						}, -- [1]
-						{
-							["d"] = {
-								442.3314257746613, -- [1]
-								-345.265355137282, -- [2]
-								3, -- [3]
-								true, -- [4]
-								"Right.", -- [5]
-							},
-							["n"] = true,
-						}, -- [2]
-					},
-				}, -- [2]
-				{
-					["value"] = 0,
-					["text"] = "<New Preset>",
-				}, -- [3]
-			},
+			}, -- [36]
 		},
-		["currentDungeonIdx"] = 36,
 		["version"] = 1114,
-		["xoffset"] = 98.00003814697266,
-		["Imported"] = true,
-		["currentPreset"] = {
-			[36] = 2,
-		},
-		["yoffset"] = 34.50002288818359,
+		["xoffset"] = -201.9999237060547,
+		["nonFullscreenScale"] = 1,
+		["yoffset"] = -47.99994659423828,
 	},
 }

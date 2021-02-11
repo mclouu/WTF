@@ -1,8 +1,18 @@
+VER 3 0100000000000008 "a" "839107"
+#showtooltip
+/stopcasting
+/cast [@cursor,nomod] Anneau de paix
+END
 VER 3 0100000000000004 "aa" "775460"
 #showtooltip 
 /use [talent:5/1]Élixir de soins
 /use [talent:5/2]Diffusion de la magie
 /use [talent:5/3]Atténuation du mal
+END
+VER 3 0100000000000007 "b" "620831"
+#showtooltip
+/stopcasting
+/cast [@cursor,nomod] Invocation d’une statue du Serpent de jade
 END
 VER 3 0100000000000001 "smart" "3578227"
 #showtooltip 

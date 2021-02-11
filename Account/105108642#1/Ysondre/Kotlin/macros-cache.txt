@@ -1,22 +1,28 @@
 VER 3 0100000000000006 "disci" "135744"
 /run SetSpecialization(1)
 END
+VER 3 0100000000000014 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:Groupe:
+END
+VER 3 0100000000000013 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Kotli:p:ayer-1335-061E2B7A:1:
+END
 VER 3 0100000000000009 "Me" "642580"
 #showtooltip
 /cast [@player] Plume angélique
 /stopspelltarget
 END
-VER 3 010000000000000A "MO" "236216"
-#showtooltip Mot de l’ombre : Douleur
-/cast [@mouseover,exists,harm]Mot de l’ombre : Douleur;Mot de l’ombre : Douleur
+VER 3 010000000000000C "MO" "135978"
+#showtooltip Toucher vampirique
+/cast [@mouseover,exists,harm]Toucher vampirique;Toucher vampirique
 END
 VER 3 010000000000000B "MO" "136207"
 #showtooltip Mot de l’ombre : Douleur
 /cast [@mouseover,exists,harm]Mot de l’ombre : Douleur;Mot de l’ombre : Douleur
 END
-VER 3 010000000000000C "MO" "135978"
-#showtooltip Toucher vampirique
-/cast [@mouseover,exists,harm]Toucher vampirique;Toucher vampirique
+VER 3 010000000000000A "MO" "236216"
+#showtooltip Mot de l’ombre : Douleur
+/cast [@mouseover,exists,harm]Mot de l’ombre : Douleur;Mot de l’ombre : Douleur
 END
 VER 3 0100000000000005 "ombre" "135741"
 /run SetSpecialization(3)

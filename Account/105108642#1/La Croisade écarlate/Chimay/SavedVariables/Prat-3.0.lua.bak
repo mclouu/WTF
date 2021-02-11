@@ -14,13 +14,13 @@ Prat3CharDB = {
 			},
 			["ChatFrame6EditBox"] = {
 			},
-			["ChatFrame9EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
+			["ChatFrame1EditBox"] = {
 			},
 			["ChatFrame3EditBox"] = {
 			},
-			["ChatFrame1EditBox"] = {
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
 			},
 		},
 	},
@@ -98,8 +98,11 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "|cff979797|Hpratcopy|h[19:12:18]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:1195:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: tu t'es trompé de perso?",
-					["serverTime"] = 1610907137,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 25200.619,
+					["serverTime"] = 1610907137,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -107,14 +110,14 @@ Prat3HighCPUPerCharDB = {
 						38, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 25200.619,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [1]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[19:13:22]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:1196:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: mec jai joué contre des rogues bah level la",
-					["serverTime"] = 1610907201,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 25264.56,
+					["serverTime"] = 1610907201,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -122,14 +125,14 @@ Prat3HighCPUPerCharDB = {
 						38, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 25264.56,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [2]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[19:13:25]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:1197:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: en bg",
-					["serverTime"] = 1610907204,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 25267.275,
+					["serverTime"] = 1610907204,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -137,14 +140,14 @@ Prat3HighCPUPerCharDB = {
 						38, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 25267.275,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [3]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[19:13:39]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq33|k:16:1200:BN_WHISPER:|Kq33|k:Lam#2142|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff00fe97|Kq33|k|r|h|cffd8d8d8]|r: les pauvres ils font moins les malins sans leur leg complement peter",
-					["serverTime"] = 1610907218,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 25281.368,
+					["serverTime"] = 1610907218,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -152,9 +155,6 @@ Prat3HighCPUPerCharDB = {
 						38, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 25281.368,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [4]
 			},
 			["headIndex"] = 4,
@@ -208,8 +208,11 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:55:34]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1158:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: tu veux plus me parler ?",
-					["serverTime"] = 1610906133,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24195.994,
+					["serverTime"] = 1610906133,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -217,14 +220,14 @@ Prat3HighCPUPerCharDB = {
 						19, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24195.994,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [1]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:55:55]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1160:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: pourquoi ? xd",
-					["serverTime"] = 1610906154,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24217.03,
+					["serverTime"] = 1610906154,
 					["extraData"] = {
 						53, -- [1]
 						false, -- [2]
@@ -232,14 +235,14 @@ Prat3HighCPUPerCharDB = {
 						22, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24217.03,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [2]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:56:07]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1161:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: t'es jamais sur discord :/",
-					["serverTime"] = 1610906166,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24229.161,
+					["serverTime"] = 1610906166,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -247,14 +250,14 @@ Prat3HighCPUPerCharDB = {
 						19, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24229.161,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [3]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:58:11]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1165:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: Ah c'est contre personne xd",
-					["serverTime"] = 1610906290,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24353.56,
+					["serverTime"] = 1610906290,
 					["extraData"] = {
 						53, -- [1]
 						false, -- [2]
@@ -262,14 +265,14 @@ Prat3HighCPUPerCharDB = {
 						22, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24353.56,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [4]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:59:05]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1167:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: Je me doute bien je te charrie un peu xD",
-					["serverTime"] = 1610906344,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24407.195,
+					["serverTime"] = 1610906344,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -277,14 +280,14 @@ Prat3HighCPUPerCharDB = {
 						19, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24407.195,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [5]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[18:59:10]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1171:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: tu fais quoi de beau ?",
-					["serverTime"] = 1610906349,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24412.712,
+					["serverTime"] = 1610906349,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -292,14 +295,14 @@ Prat3HighCPUPerCharDB = {
 						19, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24412.712,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [6]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[19:00:26]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1179:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: Pas grand chose, je monte un chaman et là je vais faire un vieux truc avec le pal",
-					["serverTime"] = 1610906425,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24488.295,
+					["serverTime"] = 1610906425,
 					["extraData"] = {
 						53, -- [1]
 						false, -- [2]
@@ -307,14 +310,14 @@ Prat3HighCPUPerCharDB = {
 						22, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24488.295,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [7]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[19:00:32]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1180:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: rien de productif en vrai",
-					["serverTime"] = 1610906431,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24494.769,
+					["serverTime"] = 1610906431,
 					["extraData"] = {
 						53, -- [1]
 						false, -- [2]
@@ -322,14 +325,14 @@ Prat3HighCPUPerCharDB = {
 						22, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24494.769,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [8]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[19:01:03]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1181:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: Un brave",
-					["serverTime"] = 1610906462,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24525.555,
+					["serverTime"] = 1610906462,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -337,14 +340,14 @@ Prat3HighCPUPerCharDB = {
 						19, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24525.555,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [9]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[19:01:23]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1184:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: Moi j'essaye de faire de mon rogue un bon rogue mdr",
-					["serverTime"] = 1610906482,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24545.191,
+					["serverTime"] = 1610906482,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -352,14 +355,14 @@ Prat3HighCPUPerCharDB = {
 						19, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24545.191,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [10]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[19:01:42]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1186:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: Et je trouve que tu y arrives bien",
-					["serverTime"] = 1610906501,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24564.648,
+					["serverTime"] = 1610906501,
 					["extraData"] = {
 						53, -- [1]
 						false, -- [2]
@@ -367,14 +370,14 @@ Prat3HighCPUPerCharDB = {
 						22, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24564.648,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [11]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[19:02:15]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1187:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: c'est fort aimable maitre des trads",
-					["serverTime"] = 1610906534,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24597.01,
+					["serverTime"] = 1610906534,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -382,14 +385,14 @@ Prat3HighCPUPerCharDB = {
 						19, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24597.01,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [12]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[19:02:46]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1188:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: J'hésite également a reroll un pal vind ou heal",
-					["serverTime"] = 1610906565,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24628.581,
+					["serverTime"] = 1610906565,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -397,14 +400,14 @@ Prat3HighCPUPerCharDB = {
 						19, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24628.581,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [13]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[19:03:07]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1189:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: vas y je vais passer discord dans 3min",
-					["serverTime"] = 1610906586,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24649.1,
+					["serverTime"] = 1610906586,
 					["extraData"] = {
 						53, -- [1]
 						false, -- [2]
@@ -412,14 +415,14 @@ Prat3HighCPUPerCharDB = {
 						22, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24649.1,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [14]
 				{
 					["message"] = "|cff979797|Hpratcopy|h[19:03:32]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq29|k:24:1194:BN_WHISPER:|Kq29|k:ParkerLewis#2363|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq29|k|r|h|cffd8d8d8]|r: avec plaisir",
-					["serverTime"] = 1610906611,
+					["b"] = 0.9647059440612793,
 					["r"] = 0,
+					["g"] = 1,
+					["timestamp"] = 24674.517,
+					["serverTime"] = 1610906611,
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
@@ -427,9 +430,6 @@ Prat3HighCPUPerCharDB = {
 						19, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 24674.517,
-					["g"] = 1,
-					["b"] = 0.9647059440612793,
 				}, -- [15]
 			},
 			["headIndex"] = 15,
@@ -502,7 +502,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 19,
+			["headIndex"] = 21,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -515,1773 +515,1884 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[04:31:40]|h|r Spécialisation du butin actuelle : Vindicte",
-					["serverTime"] = 1611459100,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [1]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:31:45]|h|r Temps de jeu total : 10 |4jour:jours;, 8 |4heure:heures;, 55 |4minute:minutes;, 9 |4seconde:secondes;",
-					["serverTime"] = 1611459105,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 29259.968,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [2]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:31:45]|h|r Temps joué à ce niveau : 9 |4jour:jours;, 6 |4heure:heures;, 5 |4minute:minutes;, 36 |4seconde:secondes;",
-					["serverTime"] = 1611459105,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 29259.968,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [3]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:32:00]|h|r |cffffe566{VuhDo}|r Profile successfully loaded: Clou5",
-					["r"] = 1,
-					["serverTime"] = 1611459120,
-					["timestamp"] = 29275.431,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [4]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:32:05]|h|r |cffffe566{VuhDo}|r Les panneaux de soins sont maintenant |cffffe566shown|r.",
-					["r"] = 1,
-					["serverTime"] = 1611459125,
-					["timestamp"] = 29280.5,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [5]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:32:06]|h|r |cffffe566{VuhDo}|r Les panneaux de soins sont maintenant |cffffe566hidden|r.",
-					["r"] = 1,
-					["serverTime"] = 1611459126,
-					["timestamp"] = 29281.719,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [6]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:32:10]|h|r |cffffe566{VuhDo}|r Successfully saved profile: \"Clou5\".",
-					["r"] = 1,
-					["serverTime"] = 1611459130,
-					["timestamp"] = 29285.228,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [7]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:32:31]|h|r |cffffe566{VuhDo}|r Profile successfully loaded: Clou40",
-					["r"] = 1,
-					["serverTime"] = 1611459151,
-					["timestamp"] = 29306.869,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [8]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:32:38]|h|r |cffffe566{VuhDo}|r Profile successfully loaded: Clou5",
-					["r"] = 1,
-					["serverTime"] = 1611459158,
-					["timestamp"] = 29312.98,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [9]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:33:09]|h|r |cffffe566{VuhDo}|r Les panneaux de soins sont maintenant |cffffe566shown|r.",
-					["r"] = 1,
-					["serverTime"] = 1611459189,
-					["timestamp"] = 29344.458,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [10]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:33:09]|h|r |cffffe566{VuhDo}|r Successfully saved profile: \"Clou5\".",
-					["r"] = 1,
-					["serverTime"] = 1611459189,
-					["timestamp"] = 29344.458,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [11]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:33:12]|h|r |cffffe566{VuhDo}|r Successfully saved profile: \"Clou5\".",
-					["r"] = 1,
-					["serverTime"] = 1611459192,
-					["timestamp"] = 29346.921,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [12]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:33:25]|h|r |cffffe566{VuhDo}|r Successfully saved profile: \"Clou5\".",
-					["r"] = 1,
-					["serverTime"] = 1611459205,
-					["timestamp"] = 29360.494,
-					["g"] = 0.7,
-					["b"] = 0.2,
-				}, -- [13]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:51:17]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Dsylphidein-LesSentinelles:2:CHANNEL:2|h|cfff38bb9Dsylphidein|r-|cffbbc5b4Les|r|h|cffd8d8d8]|r: |cffffffff|Hitem:5507::::::::60:66:::1:6839::::|h[Longue-vue ornée]|h|r à l'HdV. Un incontournable. A ne pas manquer ! ^^",
-					["serverTime"] = 1611460277,
-					["r"] = 0.9098039865493774,
-					["extraData"] = {
-						68, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 30432.136,
-					["g"] = 0.6196078658103943,
-					["b"] = 0.4745098352432251,
-				}, -- [14]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:56:07]|h|r Vous avez gagné les enchères pour P’tit Bling-Bling.",
-					["serverTime"] = 1611460567,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 30722.756,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [15]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:57:33]|h|r |cff33ff99Postal|r: En cours 1: Vente gagnée : P’tit Bling-Bling (Phantomiste-LesSentinelles)",
-					["timestamp"] = 30808.507,
-					["serverTime"] = 1611460653,
-				}, -- [16]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:57:33]|h|r Vous recevez l'objet : |cff0070dd|Hitem:82800::::::::50:66:::::::|h[Cage de mascotte]|h|r.",
-					["serverTime"] = 1611460653,
-					["r"] = 0,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						6, -- [3]
-						7, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 30808.834,
-					["g"] = 0.6666666865348816,
-					["b"] = 0,
-				}, -- [17]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:57:36]|h|r |cff0070dd|Hbattlepet:1320:2:3:204:21:26:BattlePet-0-00000DA669C1:49289|h[P’tit Bling-Bling]|h|r a été ajouté à votre codex des mascottes !",
-					["serverTime"] = 1611460656,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						4, -- [3]
-						5, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 30811.213,
-					["g"] = 1,
-					["b"] = 0,
-				}, -- [18]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:57:50]|h|r Thomas Miller dit : Pain frais, tout juste sorti du four !",
-					["serverTime"] = 1611460670,
-					["r"] = 1,
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						8, -- [3]
-						9, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 30825.494,
-					["g"] = 1,
-					["b"] = 0.6235294342041016,
-				}, -- [19]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:35:37]|h|r Alleria Coursevent dit : Résistez aux murmures, Umbric ! Le « cadeau » qu’il vous promet ne fera que vous asservir.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611455737,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [20]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:35:46]|h|r Magistère Umbric dit : Rrrrurgaaghh ! La puissance… m’appelle… elle me change…",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611455746,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [21]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:35:46]|h|r Transmogrifieur garde-néant dit : Les titans noirs exigent votre mort.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611455746,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [22]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:35:56]|h|r Vide rampant meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611455756,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [23]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:35:57]|h|r Alleria Coursevent dit : Venez, Chimay. Nous devons arrêter la transformation, sans quoi nous les perdrons tous !",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611455757,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [24]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:35:58]|h|r Transmogrifieur garde-néant meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611455758,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [25]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:36:08]|h|r Prince du néant Durzaan dit : Aussi brisé soit-il, ce lieu résonne des murmures des puissants qui ont perdu la vie… et de la haine de celui qui a fracturé ce monde.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611455768,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [26]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:36:17]|h|r Vide rampant meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611455777,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [27]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:36:17]|h|r Transmogrifieur garde-néant meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611455777,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [28]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:36:22]|h|r Alleria Coursevent dit : Un sombre pouvoir s’élève de ces pierres couleur de cendre. Pas étonnant que les Éthériens aient été attirés ici.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611455782,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [29]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:36:49]|h|r Adepte garde-néant meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611455809,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [30]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:36:49]|h|r Vide rampant meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611455809,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [31]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:36:49]|h|r Adepte garde-néant meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611455809,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [32]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:36:50]|h|r Vide rampant meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611455810,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [33]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:36:50]|h|r Phase-lame garde-néant meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611455810,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [34]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:37:00]|h|r Phase-lame garde-néant meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611455820,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [35]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:37:10]|h|r Transmogrifieur garde-néant meurt, vous gagnez 510 points d'expérience. (+255 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611455830,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [36]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:39:53]|h|r Vide rampant meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611455993,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [37]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:02]|h|r Vide rampant meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456062,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [38]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:38]|h|r Alleria Coursevent dit : Cette tempête du Vide est un conduit… un portail qui doit être fermé.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456098,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [39]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:45]|h|r Prince du néant Durzaan dit : Pourquoi résister ? Vous êtes promise à un si grand destin.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456105,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [40]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:47]|h|r Sombre manifestation meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456107,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [41]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:50]|h|r Sombre manifestation meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456110,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [42]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:53]|h|r Sombre manifestation meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456113,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [43]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:53]|h|r Sombre manifestation meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456113,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [44]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:53]|h|r Sombre manifestation meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456113,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [45]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:53]|h|r Sombre manifestation meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456113,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [46]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:53]|h|r Sombre manifestation meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456113,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [47]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:54]|h|r Sombre manifestation meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456114,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [48]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:54]|h|r Sombre manifestation meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456114,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [49]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:54]|h|r Sombre manifestation meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456114,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [50]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:54]|h|r Sombre manifestation meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456114,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [51]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:56]|h|r Sombre manifestation meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456116,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [52]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:41:56]|h|r Prince du néant Durzaan dit : Votre résistance est déplorable. La patience des maîtres est immense… mais pas infinie.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456116,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [53]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:42:10]|h|r Traqueur du Vide curieux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456130,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [54]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:42:15]|h|r Nhr'ghesh meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456135,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [55]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:42:16]|h|r Prince du néant Durzaan dit : Un contretemps mineur. Ce qui a commencé ne peut être arrêté, et vous le savez.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456136,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [56]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:42:25]|h|r Alleria Coursevent dit : Là-bas ! Durzaan se sert des forges pour gagner en puissance. Nous devons arracher le groupe d’Umbric à son emprise.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456145,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [57]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:43:19]|h|r Prince du néant Durzaan dit : Le Vide vous transformera… fera de vous ce que vous êtes vraiment.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456199,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [58]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:43:29]|h|r Alleria Coursevent dit : Non. Vous n’avez aucun droit sur ces personnes. Elles ne sont pas perdues.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456209,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [59]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:43:36]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456216,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [60]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:43:45]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456225,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [61]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:43:46]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456226,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [62]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:43:49]|h|r Prince du néant Durzaan dit : Ne voyez-vous pas ce que nous offrons ? La majesté du chaos… La gloire d’une faim insatiable !",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456229,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [63]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:00]|h|r Prince du néant Durzaan dit : Pourquoi lutter contre votre destin, Coursevent ! Rejoignez-moi et régnez à mes côtés !",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456240,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [64]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:01]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456241,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [65]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:09]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456249,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [66]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:11]|h|r Alleria Coursevent dit : Je vois clair à travers vos mensonges, Durzaan. Il en ira de même pour les autres.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456251,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [67]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:12]|h|r Seigneur du Vide coruscant meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456252,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [68]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:12]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456252,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [69]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:18]|h|r Prince du néant Durzaan dit : Qu’il en soit ainsi. Votre mort est regrettable… mais nécessaire.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456258,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [70]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:19]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456259,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [71]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:30]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456270,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [72]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:45]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456285,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [73]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:48]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456288,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [74]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:48]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456288,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [75]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:49]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456289,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [76]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:51]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456291,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [77]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:56]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456296,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [78]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:44:56]|h|r Traqueur du Vide curieux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456296,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [79]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:45:05]|h|r Wyrm du Vide ténébreux meurt, vous gagnez 600 points d'expérience. (+300 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456305,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [80]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:45:09]|h|r Prince du néant Durzaan dit : J’offre la liberté, la puissance… J’offre de briser vos chaînes mortelles.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456309,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [81]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:45:18]|h|r Alleria Coursevent dit : Notre destin nous appartient, Durzaan ! Vous n’avez aucun droit sur notre avenir !",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456318,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [82]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:45:29]|h|r Prince du néant Durzaan dit : La transformation… incomplète… doit… être achevée…",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456329,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [83]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:45:36]|h|r Prince du néant Durzaan meurt, vous gagnez 586 points d'expérience. (+293 exp. bonus Reposé)",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456336,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [84]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:45:36]|h|r Échec d'une action d'interface liée à un programme d'interface personnalisée",
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["b"] = 0,
-					["serverTime"] = 1611456336,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [85]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:45:36]|h|r Prince du néant Durzaan crie : Nooooooon…",
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						15, -- [3]
-						16, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.250980406999588,
-					["serverTime"] = 1611456336,
-					["timestamp"] = 29236.374,
-					["g"] = 0.250980406999588,
-					["r"] = 1,
-				}, -- [86]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:45:38]|h|r Alleria Coursevent dit : C’est vous que je vais achever !",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456338,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [87]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:45:39]|h|r Inconnu dit : Alleria… Chimay… Nous sommes libres, mais nous ne sommes plus les mêmes. Et les voix…",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456339,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [88]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:45:49]|h|r Alleria Coursevent dit : Durzaan a tenté de vous arracher à votre mortalité. De vous rendre comme lui… esclave de sa faim.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456349,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [89]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:45:59]|h|r Alleria Coursevent dit : Mais vous êtes toujours maître de votre destin, Umbric. Je peux vous apprendre à faire taire les murmures. À plier les ténèbres à votre volonté, et non l’inverse.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456359,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [90]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:46:12]|h|r Magistère Umbric dit : Mon arrogance a bien failli causer notre perte. J’ai joué avec des pouvoirs qui me dépassaient. Alleria, si vous acceptez de nous entraîner, nous rallierons votre cause.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456372,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [91]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:46:28]|h|r Alleria Coursevent dit : Je ressens les pouvoirs dont vous disposez. Ils sont… considérables. Vous seriez des alliés de poids pour l’Alliance.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456388,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [92]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:46:39]|h|r Magistère Umbric dit : Il y a longtemps que Lune-d’Argent nous a tourné le dos. Nous avons changé… et devons suivre une nouvelle voie. À partir d’aujourd’hui, l’Alliance peut compter sur notre loyauté.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456399,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [93]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:46:55]|h|r Alleria Coursevent dit : En retour, je jure de vous aider à surmonter les épreuves qui vous attendent. Nous devons informer le haut roi Wrynn. Je reviendrai ensuite me charger de votre entraînement.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456415,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [94]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:47:08]|h|r Magistère Umbric dit : Nous adapter à notre nouvelle forme demandera un certain temps. Nous attendrons votre retour avec impatience, dame Coursevent. Quant à vous, Chimay… merci infiniment.",
-					["extraData"] = {
-						13, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.6235294342041016,
-					["serverTime"] = 1611456428,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [95]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:47:29]|h|r Vous avez été renvoyé du groupe.",
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0,
-					["serverTime"] = 1611456449,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [96]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:47:29]|h|r Spécialisation du butin actuelle : Vindicte",
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-					["b"] = 0,
-					["serverTime"] = 1611456449,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [97]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:47:30]|h|r |Hchannel:channel:1|h[1] |h Change de canal : |Hchannel:CHANNEL:1|h[1. Général - Hurlevent]|h",
-					["extraData"] = {
-						67, -- [1]
-						false, -- [2]
-						9, -- [3]
-						10, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.9098039865493774,
-					["serverTime"] = 1611456450,
-					["timestamp"] = 29236.374,
-					["g"] = 0.9019608497619629,
-					["r"] = 0.7647059559822083,
-				}, -- [98]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:47:30]|h|r |Hchannel:channel:3|h[3] |h Change de canal : |Hchannel:CHANNEL:3|h[3. DéfenseLocale - Hurlevent]|h",
-					["extraData"] = {
-						69, -- [1]
-						false, -- [2]
-						12, -- [3]
-						13, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.4745098352432251,
-					["serverTime"] = 1611456450,
-					["timestamp"] = 29236.374,
-					["g"] = 0.8941177129745483,
-					["r"] = 0.9098039865493774,
-				}, -- [99]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:48:13]|h|r Faille de Telogrus : terminée.",
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0,
-					["serverTime"] = 1611456493,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [100]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:48:13]|h|r Expérience gagnée : 850.",
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0,
-					["serverTime"] = 1611456493,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [101]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:48:13]|h|r Reçu 23 Or, 40 Argent.",
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0,
-					["serverTime"] = 1611456493,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
-				}, -- [102]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:48:13]|h|r Vous gagnez 850 points d'expérience.",
-					["extraData"] = {
-						34, -- [1]
-						false, -- [2]
-						5, -- [3]
-						6, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 1,
-					["serverTime"] = 1611456493,
-					["timestamp"] = 29236.374,
-					["g"] = 0.4352941513061523,
-					["r"] = 0.4352941513061523,
-				}, -- [103]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:48:13]|h|r Vous recevez l'objet : |cffa335ee|Hitem:156486::::::::50:66::11::1:28:700:::|h[Trotteur du Vide astral]|h|r. |cffffd200|Hshareitem:156486::::::::50:66::11::1:28:700::::1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						17, -- [3]
-						18, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0,
-					["serverTime"] = 1611456493,
-					["timestamp"] = 29236.374,
-					["g"] = 0.6666666865348816,
-					["r"] = 0,
-				}, -- [104]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[03:48:13]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["message"] = "|cff979797|Hpratcopy|h[14:06:45]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["serverTime"] = 1612789605,
+					["r"] = 0.501960813999176,
 					["extraData"] = {
 						36, -- [1]
 						false, -- [2]
-						7, -- [3]
-						8, -- [4]
+						30, -- [3]
+						31, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 1,
-					["serverTime"] = 1611456493,
-					["timestamp"] = 29236.374,
+					["timestamp"] = 12162.344,
 					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:06:47]|h|r Vous gagnez 977 points d'expérience.",
+					["serverTime"] = 1612789607,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12164.409,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:06:47]|h|r Réputation auprès de la faction Sillage des tempêtes augmentée de 75 |4point:points;.",
+					["serverTime"] = 1612789607,
 					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12164.409,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:06:47]|h|r Un serpent à trois têtes : terminée.",
+					["serverTime"] = 1612789607,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12164.491,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:06:47]|h|r Expérience gagnée : 977.",
+					["serverTime"] = 1612789607,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12164.491,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:06:47]|h|r Reçu 23 Or, 40 Argent.",
+					["serverTime"] = 1612789607,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12164.491,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:06:47]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["serverTime"] = 1612789607,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12164.515,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:06:49]|h|r Quête acceptée : Menace des profondeurs",
+					["serverTime"] = 1612789609,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12166.527,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:06:59]|h|r Reine Azshara dit : Quelle ténacité ! Vous pouvez vous féliciter d’avoir tenu jusqu’à offenser ma fierté.",
+					["serverTime"] = 1612789619,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12175.943,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:07:28]|h|r Capture d’écran sauvegardée |cffffd200|Hsharess:1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["r"] = 1,
+					["serverTime"] = 1612789648,
+					["timestamp"] = 12205.773,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:08:51]|h|r Fierté d'Azshara meurt, vous gagnez 344 points d'expérience. (+172 exp. bonus Reposé)",
+					["serverTime"] = 1612789731,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12288.454,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:09:46]|h|r Menace des profondeurs : terminée.",
+					["serverTime"] = 1612789786,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12343.407,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:09:46]|h|r Expérience gagnée : 1207.",
+					["serverTime"] = 1612789786,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12343.407,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:09:46]|h|r Reçu 46 Or, 80 Argent.",
+					["serverTime"] = 1612789786,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12343.407,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:09:46]|h|r Vous gagnez 1207 points d'expérience.",
+					["serverTime"] = 1612789786,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12343.427,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:09:46]|h|r Réputation auprès de la faction Sillage des tempêtes augmentée de 150 |4point:points;.",
+					["serverTime"] = 1612789786,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12343.427,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:09:46]|h|r |cff7eff00|cff7eff00Achievement Progress:|r |cffffff00|Hachievement:12496:Player-1127-0974CDF7:0:0:0:-1:191:0:0:0|h[Chante, ô rage]|h|r (Des profondeurs ils émergent)|r ",
+					["r"] = 0.741,
+					["serverTime"] = 1612789786,
+					["timestamp"] = 12343.427,
+					["g"] = 1,
+					["b"] = 0.467,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:09:46]|h|r Vous recevez l'objet : |cff1eff00|Hitem:155217::::::::51:66::11:1:4793:2:9:50:28:188:::|h[Pique du bataillon Portvaillant]|h|r.",
+					["serverTime"] = 1612789786,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12343.427,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:09:46]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["serverTime"] = 1612789786,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12343.427,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:09:48]|h|r Quête acceptée : Retour à Brennadam",
+					["serverTime"] = 1612789788,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12345.789,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:19:20]|h|r Vous êtes maintenant absent : ABS",
+					["serverTime"] = 1612790360,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12917.679,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:32:17]|h|r Taelia dit : Les Nagas deviennent de plus en plus agressifs. Je m’inquiète de ce que cela peut vouloir dire pour nous.",
+					["serverTime"] = 1612787537,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10094.361,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:32:20]|h|r Combattant des profondeurs zeth'jir meurt, vous gagnez 208 points d'expérience. (+104 exp. bonus Reposé)",
+					["serverTime"] = 1612787540,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10097.463,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:32:21]|h|r Combattant des profondeurs zeth'jir meurt, vous gagnez 208 points d'expérience. (+104 exp. bonus Reposé)",
+					["serverTime"] = 1612787541,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10098.398,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:32:22]|h|r Anguille abyssale meurt, vous gagnez 276 points d'expérience. (+138 exp. bonus Reposé)",
+					["serverTime"] = 1612787542,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10098.948,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:32:32]|h|r Briseur zeth'jir meurt, vous gagnez 690 points d'expérience. (+345 exp. bonus Reposé)",
+					["serverTime"] = 1612787552,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10109.346,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:32:39]|h|r Embusquée zeth'jir meurt, vous gagnez 690 points d'expérience. (+345 exp. bonus Reposé)",
+					["serverTime"] = 1612787559,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10116.768,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:32:41]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:155603::::::::50:66:::::::|h[Écailles de poisson friables]|h|r x4.",
+					["serverTime"] = 1612787561,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10118.354,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:32:41]|h|r Vous recevez le butin : |cffffffff|Hitem:152631::::::::50:66:::::::|h[Chair saumâtre]|h|r x6.",
+					["serverTime"] = 1612787561,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10118.354,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:32:41]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:158745::::::::50:66:::::::|h[Écaille lumineuse]|h|r.",
+					["serverTime"] = 1612787561,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10118.354,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:32:42]|h|r Vous ramassez 1 Or, 36 Argent, 84 Cuivre.",
+					["serverTime"] = 1612787562,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10119.359,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:33:09]|h|r Enchanteresse zeth'jir meurt, vous gagnez 690 points d'expérience. (+345 exp. bonus Reposé)",
+					["serverTime"] = 1612787589,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10146.837,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:33:10]|h|r Enchanteresse zeth'jir dit : Ma vie… pour… Azshara !",
+					["serverTime"] = 1612787590,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10147.003,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:33:15]|h|r Imploratrice des mers zeth'jir meurt, vous gagnez 690 points d'expérience. (+345 exp. bonus Reposé)",
+					["serverTime"] = 1612787595,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10152.752,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:33:16]|h|r Imploratrice des mers zeth'jir meurt, vous gagnez 690 points d'expérience. (+345 exp. bonus Reposé)",
+					["serverTime"] = 1612787596,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10153.207,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:33:19]|h|r Vous ramassez 2 Or, 65 Argent, 71 Cuivre.",
+					["serverTime"] = 1612787599,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10156.264,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:33:37]|h|r Imploratrice des mers zeth'jir meurt, vous gagnez 690 points d'expérience. (+345 exp. bonus Reposé)",
+					["serverTime"] = 1612787617,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10174.282,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:33:39]|h|r Imploratrice des mers zeth'jir meurt, vous gagnez 690 points d'expérience. (+345 exp. bonus Reposé)",
+					["serverTime"] = 1612787619,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10176.642,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:33:41]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:154771::::::::50:66:::1:6656:2:28:188:9:50:::|h[Bottes en peau craquelée]|h|r.",
+					["serverTime"] = 1612787621,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10178.358,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:33:42]|h|r Vous ramassez 1 Or, 71 Argent, 54 Cuivre.",
+					["serverTime"] = 1612787622,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10179.202,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:43:55]|h|r Vous êtes maintenant absent : ABS",
+					["serverTime"] = 1612788235,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10792.012,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:46:22]|h|r Vous n'êtes plus absent.",
+					["serverTime"] = 1612788382,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 10939.884,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:48:20]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Kq33|k:34:536:BN_INLINE_TOAST_ALERT:0|h[|Kq33|k] (|TInterface\\ChatFrame\\UI-ChatIcon-Battlenet:14:14:0:0|tHachirama)|h vient de se connecter.",
+					["serverTime"] = 1612788500,
+					["r"] = 0.5098039507865906,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						42, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11057.192,
+					["g"] = 0.7725490927696228,
+					["b"] = 1,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:53:43]|h|r Imploratrice des mers zeth'jir meurt, vous gagnez 690 points d'expérience. (+345 exp. bonus Reposé)",
+					["serverTime"] = 1612788823,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11380.622,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:53:53]|h|r Imploratrice des mers zeth'jir meurt, vous gagnez 690 points d'expérience. (+345 exp. bonus Reposé)",
+					["serverTime"] = 1612788833,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11390.045,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:53:55]|h|r Vous ramassez 1 Or, 98 Argent, 47 Cuivre.",
+					["serverTime"] = 1612788835,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11392.675,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:54:23]|h|r Imploratrice des mers zeth'jir meurt, vous gagnez 690 points d'expérience. (+345 exp. bonus Reposé)",
+					["serverTime"] = 1612788863,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11420.394,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:54:23]|h|r Imploratrice des mers zeth'jir dit : Ma vie… pour… Azshara !",
+					["serverTime"] = 1612788863,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11420.536,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:54:25]|h|r Vous recevez le butin : |cffffffff|Hitem:158200::::::::50:66:::::::|h[Perche de canalisation zeth’jir]|h|r.",
+					["serverTime"] = 1612788865,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11422.201,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:54:26]|h|r Vous ramassez 92 Argent, 87 Cuivre.",
+					["serverTime"] = 1612788866,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11423.048,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:54:38]|h|r Imploratrice des mers zeth'jir dit : Expirez, pieds-secs !",
+					["serverTime"] = 1612788878,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11435.15,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:54:38]|h|r Enchanteresse zeth'jir dit : Sombrez dans les abysses !",
+					["serverTime"] = 1612788878,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11435.15,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:54:42]|h|r Enchanteresse zeth'jir meurt, vous gagnez 690 points d'expérience. (+345 exp. bonus Reposé)",
+					["serverTime"] = 1612788882,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11439.597,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:54:55]|h|r Seigneur-marées zeth'jir dit : Expirez, pieds-secs !",
+					["serverTime"] = 1612788895,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11452.192,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:54:56]|h|r Javelot brèche-banc dit : Pour la reine Azshara !",
+					["serverTime"] = 1612788896,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11453.395,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:11]|h|r Imploratrice des mers zeth'jir meurt, vous gagnez 632 points d'expérience. (+316 exp. bonus Reposé)",
+					["serverTime"] = 1612788911,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11468.179,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:12]|h|r Briseur zeth'jir meurt, vous gagnez 554 points d'expérience. (+277 exp. bonus Reposé)",
+					["serverTime"] = 1612788912,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11469.117,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:13]|h|r Seigneur-marées zeth'jir meurt, vous gagnez 1788 points d'expérience. (+894 exp. bonus Reposé)",
+					["serverTime"] = 1612788913,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11469.916,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:13]|h|r Seigneur-marées zeth'jir dit : Ma vie… pour… Azshara !",
+					["serverTime"] = 1612788913,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11470.05,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:45]|h|r Vous gagnez 977 points d'expérience.",
+					["serverTime"] = 1612788945,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11501.935,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:45]|h|r Munitions de fortune : terminée.",
+					["serverTime"] = 1612788945,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11501.935,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:45]|h|r Expérience gagnée : 977.",
+					["serverTime"] = 1612788945,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11501.935,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:45]|h|r Reçu 23 Or, 40 Argent.",
+					["serverTime"] = 1612788945,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11501.935,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:45]|h|r Réputation auprès de la faction Sillage des tempêtes augmentée de 75 |4point:points;.",
+					["serverTime"] = 1612788945,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11502.185,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:45]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["serverTime"] = 1612788945,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11502.185,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:45]|h|r Félicitations, vous avez atteint le |cffFF4E00|Hlevelup:51:LEVEL_UP_TYPE_CHARACTER|h[niveau 51]|h|r !",
+					["serverTime"] = 1612788945,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 11502.185,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:45]|h|r Nouveau donjon déverrouillé : |cff66bbff|Hjournal:0:1182:1|h[Sillage nécrotique]|h|r",
+					["serverTime"] = 1612788945,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 11502.185,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:49]|h|r Une solution explosive : terminée.",
+					["serverTime"] = 1612788949,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11506.233,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:49]|h|r Expérience gagnée : 977.",
+					["serverTime"] = 1612788949,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11506.233,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:49]|h|r Reçu 23 Or, 40 Argent.",
+					["serverTime"] = 1612788949,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11506.233,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:49]|h|r Vous gagnez 977 points d'expérience.",
+					["serverTime"] = 1612788949,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11506.233,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:49]|h|r Réputation auprès de la faction Sillage des tempêtes augmentée de 75 |4point:points;.",
+					["serverTime"] = 1612788949,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11506.233,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:49]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["serverTime"] = 1612788949,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11506.356,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:50]|h|r |cffffff00Added missing appearances of: |cffff7fff|Htransmogset-extra:2833|h[Kul Tiras Quest Plate (Dread Corsair Recolor)]|h|r",
+					["timestamp"] = 11507.057,
+					["serverTime"] = 1612788950,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:50]|h|r Vous gagnez 977 points d'expérience.",
+					["serverTime"] = 1612788950,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11507.384,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:50]|h|r Réputation auprès de la faction Sillage des tempêtes augmentée de 75 |4point:points;.",
+					["serverTime"] = 1612788950,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11507.384,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:50]|h|r Vous recevez l'objet : |cff1eff00|Hitem:160369::::::::51:66::11:1:4793:2:9:50:28:188:::|h[Garde-jambes de corsaire de l’effroi]|h|r.",
+					["serverTime"] = 1612788950,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11507.384,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:50]|h|r Percer le bouclier : terminée.",
+					["serverTime"] = 1612788950,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11507.384,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:50]|h|r Expérience gagnée : 977.",
+					["serverTime"] = 1612788950,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11507.384,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:50]|h|r Reçu 23 Or, 40 Argent.",
+					["serverTime"] = 1612788950,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11507.384,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:50]|h|r Réputation auprès de la faction Guilde augmentée de 125 |4point:points;.",
+					["serverTime"] = 1612788950,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11507.384,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:51]|h|r |cffffff00Added missing appearances of: |cffff7fff|Htransmogset-extra:2835|h[Zandalar Quest Plate (Exiled Veteran Recolor)]|h|r",
+					["timestamp"] = 11507.992,
+					["serverTime"] = 1612788951,
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:56]|h|r Vous recevez l'objet : |cffffffff|Hitem:158332::::::::51:66::11::1:28:188:::|h[Perche de canalisation zeth’jir]|h|r.",
+					["serverTime"] = 1612788956,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11513.697,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:57]|h|r Quête acceptée : Un serpent à trois têtes",
+					["serverTime"] = 1612788957,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11514.094,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:55:57]|h|r Quête acceptée : Du ménage dans le delta",
+					["serverTime"] = 1612788957,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11514.473,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:58:15]|h|r Garde du bataillon dit : Eh ! Halte-là !",
+					["serverTime"] = 1612789095,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11652.081,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:58:15]|h|r Garde du bataillon dit : Eh ! Halte-là !",
+					["serverTime"] = 1612789095,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11652.081,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:58:15]|h|r Garde du bataillon dit : Vermine d’eau douce !",
+					["serverTime"] = 1612789095,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11652.081,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:58:20]|h|r Garde du bataillon dit : Pour Kul Tiras !",
+					["serverTime"] = 1612789100,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11656.946,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:58:20]|h|r Garde du bataillon dit : Je vais vous étriper de part en part !",
+					["serverTime"] = 1612789100,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						18, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11656.946,
+					["g"] = 1,
+					["b"] = 0.6235294342041016,
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:59:06]|h|r Lieuse Ser'less meurt, vous gagnez 208 points d'expérience. (+104 exp. bonus Reposé)",
+					["serverTime"] = 1612789146,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11703.411,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:59:09]|h|r Vous ramassez 1 Or, 7 Argent, 32 Cuivre.",
+					["serverTime"] = 1612789149,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11706.077,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:59:15]|h|r Combattant des profondeurs zeth'jir meurt, vous gagnez 20 points d'expérience. (+10 exp. bonus Reposé)",
+					["serverTime"] = 1612789155,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11712.184,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:59:20]|h|r Combattant des profondeurs zeth'jir meurt, vous gagnez 20 points d'expérience. (+10 exp. bonus Reposé)",
+					["serverTime"] = 1612789160,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11716.97,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:59:26]|h|r Sorceleuse zeth'jir meurt, vous gagnez 68 points d'expérience. (+34 exp. bonus Reposé)",
+					["serverTime"] = 1612789166,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11723.717,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:59:54]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:155603::::::::51:66:::::::|h[Écailles de poisson friables]|h|r.",
+					["serverTime"] = 1612789194,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11751.577,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:59:54]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:158745::::::::51:66:::::::|h[Écaille lumineuse]|h|r.",
+					["serverTime"] = 1612789194,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11751.577,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:59:55]|h|r Vous ramassez 55 Argent, 27 Cuivre.",
+					["serverTime"] = 1612789195,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11752.588,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:00:37]|h|r Dame Rash'iss meurt, vous gagnez 208 points d'expérience. (+104 exp. bonus Reposé)",
+					["serverTime"] = 1612789237,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11794.514,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:00:55]|h|r Vous ramassez 1 Or, 24 Argent, 81 Cuivre.",
+					["serverTime"] = 1612789255,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11812.754,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:01:31]|h|r Lieuse Nalashj meurt, vous gagnez 208 points d'expérience. (+104 exp. bonus Reposé)",
+					["serverTime"] = 1612789291,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11848.684,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:01:33]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:154804::::::::51:66::::1:28:188:::|h[Cimeterre à lame ébréchée]|h|r.",
+					["serverTime"] = 1612789293,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11850.853,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:01:34]|h|r Vous ramassez 1 Or, 39 Argent, 30 Cuivre.",
+					["serverTime"] = 1612789294,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11851.703,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:01:54]|h|r Imploratrice des mers zeth'jir meurt, vous gagnez 68 points d'expérience. (+34 exp. bonus Reposé)",
+					["serverTime"] = 1612789314,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11871.066,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:02:04]|h|r Imploratrice des mers zeth'jir meurt, vous gagnez 68 points d'expérience. (+34 exp. bonus Reposé)",
+					["serverTime"] = 1612789324,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11881.604,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
 				}, -- [105]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[03:48:13]|h|r |cffd8d8d8[|r|Hplayer:Chimay-LaCroisadeécarlate:123:GUILD|h|cffd8bc3f50|r:|cfff38bb9Chimay|r|h|cffd8d8d8]|r a accompli le haut fait |cffffff00|Hachievement:12242:Player-1127-0974CDF7:1:1:24:21:4294967295:4294967295:4294967295:4294967295|h[Races alliées : Elfes du Vide]|h|r |cffffffff(|rCompleted 24/1/21|cffffffff)|r !",
+					["message"] = "|cff979797|Hpratcopy|h[14:02:04]|h|r Imploratrice des mers zeth'jir dit : Ma reine… J’ai… échoué…",
+					["serverTime"] = 1612789324,
+					["r"] = 1,
 					["extraData"] = {
-						65, -- [1]
+						13, -- [1]
 						false, -- [2]
-						19, -- [3]
-						20, -- [4]
+						18, -- [3]
+						19, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.250980406999588,
-					["serverTime"] = 1611456493,
-					["timestamp"] = 29236.374,
+					["timestamp"] = 11881.721,
 					["g"] = 1,
-					["r"] = 0.250980406999588,
+					["b"] = 0.6235294342041016,
 				}, -- [106]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[03:48:13]|h|r |cffd8d8d8[|r|Hplayer:Chimay-LaCroisadeécarlate:124:ACHIEVEMENT|h|cffd8bc3f50|r:|cfff38bb9Chimay|r|h|cffd8d8d8]|r a accompli le haut fait |cffffff00|Hachievement:12242:Player-1127-0974CDF7:1:1:24:21:4294967295:4294967295:4294967295:4294967295|h[Races alliées : Elfes du Vide]|h|r |cffffffff(|rCompleted 24/1/21|cffffffff)|r ! |cffffd200|Hshareachieve:12242:1|h|TInterface\\ChatFrame\\UI-ChatIcon-Share:18:18|t|h|r",
+					["message"] = "|cff979797|Hpratcopy|h[14:02:06]|h|r Sorceleuse zeth'jir dit : Sombrez dans les abysses !",
+					["serverTime"] = 1612789326,
+					["r"] = 1,
 					["extraData"] = {
-						47, -- [1]
+						13, -- [1]
 						false, -- [2]
-						21, -- [3]
-						22, -- [4]
+						18, -- [3]
+						19, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1611456493,
-					["timestamp"] = 29236.374,
+					["timestamp"] = 11883.063,
 					["g"] = 1,
-					["r"] = 1,
+					["b"] = 0.6235294342041016,
 				}, -- [107]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[03:48:17]|h|r Vous avez ajouté la monture Trotteur du Vide astral à votre collection.",
+					["message"] = "|cff979797|Hpratcopy|h[14:02:06]|h|r Vous recevez le butin : |cffffffff|Hitem:152576::::::::51:66:::::::|h[Lin battu par les marées]|h|r x3.",
+					["serverTime"] = 1612789326,
+					["r"] = 0,
 					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 11883.081,
+					["g"] = 0.6666666865348816,
 					["b"] = 0,
-					["serverTime"] = 1611456497,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
 				}, -- [108]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[03:50:15]|h|r |cff0070dd|Hbattlepet:1153:1:3:152:13:10:BattlePet-0-00000DA666A5:46905|h[Garde dragonnet Griffemort]|h|r a été ajouté à votre codex des mascottes !",
+					["message"] = "|cff979797|Hpratcopy|h[14:02:07]|h|r Vous ramassez 2 Or, 9 Argent, 23 Cuivre.",
+					["serverTime"] = 1612789327,
+					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						29, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						34, -- [3]
+						35, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1611456615,
-					["timestamp"] = 29236.374,
+					["timestamp"] = 11884.097,
 					["g"] = 1,
-					["r"] = 1,
+					["b"] = 0,
 				}, -- [109]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[03:50:16]|h|r |cff0070dd|Hbattlepet:1152:1:3:162:11:10:BattlePet-0-00000DA666A7:46925|h[Chrominius]|h|r a été ajouté à votre codex des mascottes !",
+					["message"] = "|cff979797|Hpratcopy|h[14:02:15]|h|r Combattant des profondeurs zeth'jir meurt, vous gagnez 20 points d'expérience. (+10 exp. bonus Reposé)",
+					["serverTime"] = 1612789335,
+					["r"] = 0.4352941513061523,
 					["extraData"] = {
-						1, -- [1]
+						34, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1611456616,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
+					["timestamp"] = 11892.541,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
 				}, -- [110]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[03:50:18]|h|r |cff0070dd|Hbattlepet:1150:1:3:158:10:12:BattlePet-0-00000DA666A8:46902|h[Noyau de cinérite]|h|r a été ajouté à votre codex des mascottes !",
+					["message"] = "|cff979797|Hpratcopy|h[14:02:20]|h|r Combattant des profondeurs zeth'jir meurt, vous gagnez 20 points d'expérience. (+10 exp. bonus Reposé)",
+					["serverTime"] = 1612789340,
+					["r"] = 0.4352941513061523,
 					["extraData"] = {
-						1, -- [1]
+						34, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1611456618,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
+					["timestamp"] = 11896.956,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
 				}, -- [111]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[04:01:32]|h|r Vous êtes maintenant absent : ABS",
+					["message"] = "|cff979797|Hpratcopy|h[14:02:21]|h|r Combattant des profondeurs zeth'jir meurt, vous gagnez 20 points d'expérience. (+10 exp. bonus Reposé)",
+					["serverTime"] = 1612789341,
+					["r"] = 0.4352941513061523,
 					["extraData"] = {
-						1, -- [1]
+						34, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1611457292,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
+					["timestamp"] = 11897.987,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
 				}, -- [112]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[04:17:20]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Démaux-LesSentinelles:130:CHANNEL:2|h|cffa22fc8Démaux|r-|cffbbc5b4Les|r|h|cffd8d8d8]|r: Yoo, vous conseillez quelle congré pour un dh dps ??",
+					["message"] = "|cff979797|Hpratcopy|h[14:02:21]|h|r Combattant des profondeurs zeth'jir meurt, vous gagnez 20 points d'expérience. (+10 exp. bonus Reposé)",
+					["serverTime"] = 1612789341,
+					["r"] = 0.4352941513061523,
 					["extraData"] = {
-						68, -- [1]
+						34, -- [1]
 						false, -- [2]
-						23, -- [3]
-						24, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.4745098352432251,
-					["serverTime"] = 1611458240,
-					["timestamp"] = 29236.374,
-					["g"] = 0.6196078658103943,
-					["r"] = 0.9098039865493774,
+					["timestamp"] = 11898.644,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
 				}, -- [113]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[04:17:37]|h|r Vous n'êtes plus absent.",
+					["message"] = "|cff979797|Hpratcopy|h[14:02:25]|h|r Combattant des profondeurs zeth'jir meurt, vous gagnez 20 points d'expérience. (+10 exp. bonus Reposé)",
+					["serverTime"] = 1612789345,
+					["r"] = 0.4352941513061523,
 					["extraData"] = {
-						1, -- [1]
+						34, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0,
-					["serverTime"] = 1611458257,
-					["timestamp"] = 29236.374,
-					["g"] = 1,
-					["r"] = 1,
+					["timestamp"] = 11902.782,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
 				}, -- [114]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[04:18:34]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Khãleesi-LesClairvoyants:132:CHANNEL:2|h|cff8687edKhãleesi|r-|cffb9f649Les|r|h|cffd8d8d8]|r: J'ai chosie venthyrs avec mon dh",
+					["message"] = "|cff979797|Hpratcopy|h[14:02:26]|h|r Combattant des profondeurs zeth'jir meurt, vous gagnez 20 points d'expérience. (+10 exp. bonus Reposé)",
+					["serverTime"] = 1612789346,
+					["r"] = 0.4352941513061523,
 					["extraData"] = {
-						68, -- [1]
+						34, -- [1]
 						false, -- [2]
-						23, -- [3]
-						26, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.4745098352432251,
-					["serverTime"] = 1611458314,
-					["timestamp"] = 29236.374,
-					["g"] = 0.6196078658103943,
-					["r"] = 0.9098039865493774,
+					["timestamp"] = 11903.094,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
 				}, -- [115]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[04:18:48]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Roxxstar-KirinTor:133:CHANNEL:2|h|cffa22fc8Roxxstar|r-|cffabf2f3Kir|r|h|cffd8d8d8]|r: idem",
+					["message"] = "|cff979797|Hpratcopy|h[14:02:26]|h|r Sorceleuse zeth'jir meurt, vous gagnez 68 points d'expérience. (+34 exp. bonus Reposé)",
+					["serverTime"] = 1612789346,
+					["r"] = 0.4352941513061523,
 					["extraData"] = {
-						68, -- [1]
+						34, -- [1]
 						false, -- [2]
-						23, -- [3]
-						28, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.4745098352432251,
-					["serverTime"] = 1611458328,
-					["timestamp"] = 29236.374,
-					["g"] = 0.6196078658103943,
-					["r"] = 0.9098039865493774,
+					["timestamp"] = 11903.094,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
 				}, -- [116]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[04:19:02]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Cathys-KirinTor:134:CHANNEL:2|h|cfff38bb9Cathys|r-|cffabf2f3Kir|r|h|cffd8d8d8]|r: VIVE LES VENTHYR !!!!",
+					["message"] = "|cff979797|Hpratcopy|h[14:02:29]|h|r Combattant des profondeurs zeth'jir meurt, vous gagnez 20 points d'expérience. (+10 exp. bonus Reposé)",
+					["serverTime"] = 1612789349,
+					["r"] = 0.4352941513061523,
 					["extraData"] = {
-						68, -- [1]
+						34, -- [1]
 						false, -- [2]
-						23, -- [3]
-						30, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
-					["b"] = 0.4745098352432251,
-					["serverTime"] = 1611458342,
-					["timestamp"] = 29236.374,
-					["g"] = 0.6196078658103943,
-					["r"] = 0.9098039865493774,
+					["timestamp"] = 11905.934,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
 				}, -- [117]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[04:19:23]|h|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Mythis-KirinTor:135:CHANNEL:2|h|cfffefefeMythis|r-|cffabf2f3Kir|r|h|cffd8d8d8]|r: Venthyr, sinon Kyrian est pas mal en M+",
+					["message"] = "|cff979797|Hpratcopy|h[14:02:30]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:155603::::::::51:66:::::::|h[Écailles de poisson friables]|h|r x5.",
+					["serverTime"] = 1612789350,
+					["r"] = 0,
 					["extraData"] = {
-						68, -- [1]
-						false, -- [2]
-						23, -- [3]
-						32, -- [4]
-						["n"] = 4,
-					},
-					["b"] = 0.4745098352432251,
-					["serverTime"] = 1611458363,
-					["timestamp"] = 29236.374,
-					["g"] = 0.6196078658103943,
-					["r"] = 0.9098039865493774,
-				}, -- [118]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:29:13]|h|r Spécialisation du butin actuelle : Vindicte",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 29236.374,
-					["serverTime"] = 1611458950,
-					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
-					},
-				}, -- [119]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[04:29:20]|h|r |cffd8d8d8[|r|Hplayer:Swånn-ConseildesOmbres:1|h|cffd84e4e60|r:|cffc31d39Swånn|r-|cfff8727eCon|r|h|cffd8d8d8]|r vient de se connecter.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 29236.374,
-					["serverTime"] = 1611458957,
-					["extraData"] = {
-						1, -- [1]
+						28, -- [1]
 						false, -- [2]
 						1, -- [3]
 						2, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 11907.502,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:02:30]|h|r Vous recevez le butin : |cff9d9d9d|Hitem:158745::::::::51:66:::::::|h[Écaille lumineuse]|h|r x2.",
+					["serverTime"] = 1612789350,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11907.587,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[14:02:31]|h|r Vous ramassez 35 Argent, 16 Cuivre.",
+					["serverTime"] = 1612789351,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						34, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 11908.59,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [120]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[04:29:21]|h|r Temps de jeu total : 10 |4jour:jours;, 8 |4heure:heures;, 52 |4minute:minutes;, 53 |4seconde:secondes;",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 29236.374,
-					["serverTime"] = 1611458958,
+					["message"] = "|cff979797|Hpratcopy|h[14:05:13]|h|r Combattant des profondeurs zeth'jir meurt, vous gagnez 20 points d'expérience. (+10 exp. bonus Reposé)",
+					["serverTime"] = 1612789513,
+					["r"] = 0.4352941513061523,
 					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
 					},
+					["timestamp"] = 12070.764,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
 				}, -- [121]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[04:29:21]|h|r Temps joué à ce niveau : 9 |4jour:jours;, 6 |4heure:heures;, 3 |4minute:minutes;, 20 |4seconde:secondes;",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 29236.374,
-					["serverTime"] = 1611458958,
+					["message"] = "|cff979797|Hpratcopy|h[14:05:14]|h|r Combattant des profondeurs zeth'jir meurt, vous gagnez 20 points d'expérience. (+10 exp. bonus Reposé)",
+					["serverTime"] = 1612789514,
+					["r"] = 0.4352941513061523,
 					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
 					},
+					["timestamp"] = 12071.311,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
 				}, -- [122]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[04:29:23]|h|r Temps de jeu total : 10 |4jour:jours;, 8 |4heure:heures;, 52 |4minute:minutes;, 53 |4seconde:secondes;",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 29236.374,
-					["serverTime"] = 1611458960,
+					["message"] = "|cff979797|Hpratcopy|h[14:05:16]|h|r Combattant des profondeurs zeth'jir meurt, vous gagnez 20 points d'expérience. (+10 exp. bonus Reposé)",
+					["serverTime"] = 1612789516,
+					["r"] = 0.4352941513061523,
 					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
 					},
+					["timestamp"] = 12073.552,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
 				}, -- [123]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[04:29:23]|h|r Temps joué à ce niveau : 9 |4jour:jours;, 6 |4heure:heures;, 3 |4minute:minutes;, 20 |4seconde:secondes;",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[14:06:45]|h|r Du ménage dans le delta : terminée.",
+					["serverTime"] = 1612789605,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 29236.374,
-					["serverTime"] = 1611458960,
 					["extraData"] = {
 						1, -- [1]
-						["n"] = 1,
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
 					},
+					["timestamp"] = 12162.344,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [124]
 				{
-					["message"] = "0 |4jour:jours;, 0 |4heure:heures;, 2 |4minute:minutes;, 17 |4seconde:secondes;",
-					["timestamp"] = 29236.374,
+					["message"] = "|cff979797|Hpratcopy|h[14:06:45]|h|r Expérience gagnée : 977.",
+					["serverTime"] = 1612789605,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12162.344,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [125]
 				{
-					["message"] = "========== Fin de l'historique ==========",
-					["timestamp"] = 29236.374,
+					["message"] = "|cff979797|Hpratcopy|h[14:06:45]|h|r Reçu 23 Or, 40 Argent.",
+					["serverTime"] = 1612789605,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12162.344,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [126]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[04:31:33]|h|r |cffffe566{VuhDo}|r VuhDo |cffffe566['vu:du:]|r v3.119 (use /vd). Currently maintained by Ivaria@US-Hyjal in honor of Marshy and our newborn daughter Kiana.",
-					["r"] = 1,
-					["timestamp"] = 29236.374,
-					["g"] = 0.7,
-					["b"] = 0.2,
+					["message"] = "|cff979797|Hpratcopy|h[14:06:45]|h|r Vous gagnez 977 points d'expérience.",
+					["serverTime"] = 1612789605,
+					["r"] = 0.4352941513061523,
+					["extraData"] = {
+						34, -- [1]
+						false, -- [2]
+						28, -- [3]
+						29, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12162.344,
+					["g"] = 0.4352941513061523,
+					["b"] = 1,
 				}, -- [127]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[04:31:37]|h|r |cff33ff99DataStore_Garrisons|r: Jy a 500 ressources non collectées",
-					["timestamp"] = 29236.374,
+					["message"] = "|cff979797|Hpratcopy|h[14:06:45]|h|r Réputation auprès de la faction Sillage des tempêtes augmentée de 75 |4point:points;.",
+					["serverTime"] = 1612789605,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						30, -- [3]
+						31, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 12162.344,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [128]
 			},
 			["maxElements"] = 128,

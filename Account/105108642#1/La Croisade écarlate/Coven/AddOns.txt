@@ -74,7 +74,7 @@ PlayedTimeMinimapClock: disabled
 Postal: enabled
 Prat-3.0: disabled
 Prat-3.0_Libraries: disabled
-PrettyReps: disabled
+PrettyReps: enabled
 RaiderIO: disabled
 RaiderIO_DB_EU_A_R: disabled
 RaiderIO_DB_EU_H_R: disabled
@@ -163,3 +163,4 @@ XLoot_Group: disabled
 XLoot_Master: disabled
 XLoot_Monitor: disabled
 XLoot_Options: disabled
+RUF: enabled
